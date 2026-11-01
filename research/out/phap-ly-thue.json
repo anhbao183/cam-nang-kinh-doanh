@@ -1,0 +1,1291 @@
+[
+  {
+    "id": "chon-hinh-thuc-phap-ly",
+    "kind": "rule",
+    "section": "0",
+    "title": "Chọn hình thức: không đăng ký, hộ kinh doanh hay doanh nghiệp",
+    "summary": "Bán rong, thời vụ, dịch vụ thu nhập thấp được miễn đăng ký, nhưng chỉ khi thu nhập dưới mức 'thu nhập thấp' do tỉnh quy định và không làm ngành có điều kiện. Có chỗ bán cố định thì đăng ký hộ kinh doanh ở cấp xã: đơn giản, nhưng chủ hộ chịu trách nhiệm bằng toàn bộ tài sản. Từ 2026 doanh nghiệp doanh thu đến 1 tỷ/năm cũng được miễn thuế TNDN, nên lý do 'lên công ty là tốn thuế hơn' yếu đi nhiều.",
+    "tags": {
+      "risk": "mid",
+      "evidence": "A",
+      "applies": [
+        "all"
+      ]
+    },
+    "who": {
+      "text": "Ba lựa chọn. (1) Không phải đăng ký: hộ gia đình sản xuất nông, lâm, ngư nghiệp, làm muối; người bán hàng rong, quà vặt, buôn chuyến, kinh doanh lưu động, kinh doanh thời vụ, làm dịch vụ có thu nhập thấp (khoản 3 Điều 82 NĐ 168/2025/NĐ-CP). Hai điều kiện: thu nhập đáp ứng mức 'thu nhập thấp' do UBND tỉnh quy định, và không kinh doanh ngành nghề đầu tư kinh doanh có điều kiện. Bộ Tài chính trả lời ngày 19/6/2026: điều kiện thu nhập thấp áp cho cả nhóm này, không chỉ riêng 'làm dịch vụ'. Người thuộc diện miễn vẫn có quyền đăng ký nếu muốn. (2) Hộ kinh doanh: một cá nhân hoặc các thành viên hộ gia đình là công dân Việt Nam có năng lực hành vi dân sự đầy đủ; mỗi người chỉ được đăng ký một hộ kinh doanh trên toàn quốc. (3) Doanh nghiệp: đăng ký tại cơ quan đăng ký kinh doanh cấp tỉnh.",
+      "refs": [
+        1,
+        2,
+        3,
+        6
+      ]
+    },
+    "rule": {
+      "text": "Nơi đăng ký hộ kinh doanh (sau khi bỏ cấp huyện): phòng chuyên môn thuộc UBND cấp xã được tỉnh giao nhiệm vụ; xã không lập phòng chuyên môn thì UBND cấp xã trực tiếp giải quyết (khoản 2 Điều 20 NĐ 168/2025, sửa bởi Điều 5 NĐ 296/2026/NĐ-CP từ 23/7/2026). Hộ kinh doanh chịu trách nhiệm bằng toàn bộ tài sản của mình (khoản 1 Điều 82). Được có nhiều địa điểm kinh doanh trên cả nước; phải thông báo cơ quan thuế và cơ quan quản lý thị trường nơi đặt địa điểm (khoản 2 Điều 87); mọi cửa hàng dùng chung mã số thuế của hộ và ghi mã địa điểm trên hóa đơn (NĐ 141/2026). Tên hộ không được chứa 'công ty', 'tổng công ty', 'tập đoàn', 'doanh nghiệp' (khoản 3 Điều 86). Các Điều 82, 83, 86, 87 NĐ 168/2025 không đặt giới hạn số lao động. Doanh nghiệp: hồ sơ nộp trên Hệ thống thông tin quốc gia về đăng ký doanh nghiệp bằng tài khoản định danh điện tử; cơ quan đăng ký kinh doanh cấp tỉnh xử lý (Điều 39 NĐ 168/2025 sửa bởi NĐ 296/2026). Về thuế, hai hình thức đã gần nhau: hộ doanh thu năm từ 1 tỷ trở xuống không nộp GTGT, TNCN; doanh nghiệp tổng doanh thu năm từ 1 tỷ trở xuống được miễn thuế TNDN (khoản 15 Điều 4 NĐ 320/2025, bổ sung bởi NĐ 141/2026; không áp cho công ty con, công ty liên kết với doanh nghiệp không đủ điều kiện). Năm 2026 và 2027, cá nhân kinh doanh và doanh nghiệp doanh thu năm không quá 10 tỷ được giảm 30% số thuế thu nhập phải nộp (NQ 43/2026/QH16, NĐ 398/2026/NĐ-CP).",
+      "refs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        21
+      ]
+    },
+    "cost": {
+      "text": "Lệ phí đăng ký hộ kinh doanh do HĐND tỉnh quy định. Hà Nội (NQ 78/2026/NQ-HĐND, áp dụng từ 25/7/2026): cấp mới, đăng ký thay đổi, cấp lại giấy chứng nhận hộ kinh doanh đều 100.000 đồng/lần khi nộp trực tiếp; nộp qua dịch vụ công trực tuyến thì 0 đồng (khoản 3 Điều 3 NQ 78 dẫn Mục IV Phụ lục I NQ 77/2025/NQ-HĐND); không thu khi chỉnh địa chỉ do Nhà nước đổi địa giới, tên đường, số nhà. TP.HCM (danh mục thủ tục kèm QĐ 5083/QĐ-UBND ngày 12/8/2026): đăng ký thành lập hộ nộp trực tiếp 100.000 đồng ở cả ba khu vực cũ (TP.HCM, Bình Dương, Bà Rịa – Vũng Tàu); đăng ký thay đổi 100.000 đồng (TP.HCM cũ), 50.000 đồng (Bình Dương cũ), 20.000 đồng (Bà Rịa – Vũng Tàu cũ); nộp trực tuyến 0 đồng. Tỉnh khác: tra nghị quyết HĐND tỉnh. Doanh nghiệp: lệ phí đăng ký 50.000 đồng/lần (TT 47/2019/TT-BTC), từ 1/7/2025 đến hết 31/12/2026 chỉ thu 50% (TT 64/2025/TT-BTC), tức 25.000 đồng; đăng ký qua mạng được miễn lệ phí; phí công bố nội dung đăng ký doanh nghiệp 100.000 đồng/lần. Từ 1/1/2026 không còn lệ phí môn bài cho cả hộ và doanh nghiệp, không phải nộp tờ khai lệ phí môn bài (khoản 7 Điều 10 NQ 198/2025/QH15; CV 645/CT-CS). Chi phí kế toán, báo cáo tài chính của doanh nghiệp so với hộ: chưa có số liệu đáng tin.",
+      "refs": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        9
+      ]
+    },
+    "penalty": {
+      "text": "Kinh doanh thuộc diện phải đăng ký mà không đăng ký thành lập hộ kinh doanh: phạt 5–10 triệu đồng và buộc đăng ký (điểm c khoản 1, điểm a khoản 3 Điều 62 NĐ 122/2021/NĐ-CP). Mức của Điều 62 là mức cho cá nhân (khoản 2 Điều 4). Cùng khung 5–10 triệu: một người đứng tên nhiều hơn một hộ; không đăng ký thay đổi nội dung trong 10 ngày. Kê khai không trung thực hồ sơ đăng ký hộ: 10–20 triệu (khoản 2 Điều 62). Thời hiệu 1 năm; đây là hành vi đang thực hiện nên thời hiệu tính từ lúc bị phát hiện (Điều 5). NĐ 288/2026/NĐ-CP (21/7/2026) sửa NĐ 122 nhưng không sửa Điều 62. Bộ Tài chính đang soạn nghị định mới thay NĐ 122 (dự thảo lấy ý kiến 6/2026), chưa ban hành đến 1/11/2026. Rủi ro lớn hơn nằm ở thuế: cơ quan thuế đối chiếu dữ liệu sàn TMĐT, ngân hàng, đơn vị vận chuyển, trung gian thanh toán để nhận diện người kinh doanh (xem mục thuế hộ kinh doanh 2026).",
+      "refs": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        10
+      ]
+    },
+    "effective": "NĐ 168/2025/NĐ-CP ban hành 30/6/2025, áp dụng từ 1/7/2025 cùng chính quyền hai cấp; sửa đổi bởi NĐ 296/2026/NĐ-CP (hiệu lực 23/7/2026). Miễn TNDN cho doanh nghiệp doanh thu đến 1 tỷ: NĐ 141/2026/NĐ-CP, áp dụng từ 1/1/2026. Giảm 30% thuế thu nhập: NĐ 398/2026/NĐ-CP hiệu lực 29/10/2026, áp dụng kỳ tính thuế 2026, 2027. Lệ phí đăng ký hộ ở Hà Nội: NQ 78/2026/NQ-HĐND từ 25/7/2026. TT 64/2025/TT-BTC giảm 50% lệ phí đăng ký doanh nghiệp từ 1/7/2025 đến hết 31/12/2026. Xử phạt đăng ký kinh doanh: NĐ 122/2021/NĐ-CP, sửa bởi NĐ 288/2026/NĐ-CP (hiệu lực 21/7/2026).",
+    "notes": "Nhiều bài viết còn dẫn Điều 79 NĐ 01/2021/NĐ-CP hoặc quy định 'hộ chỉ được một địa điểm' từ NĐ 78/2015 — đã lỗi thời. Cấp xã chỉ đăng ký hộ kinh doanh; doanh nghiệp vẫn ở cấp tỉnh. So sánh trách nhiệm hữu hạn của công ty (Luật Doanh nghiệp 2020) chưa được trích nguồn trong mục này, cần bổ sung. Điều 62 NĐ 122/2021 vẫn ghi 'cơ quan đăng ký kinh doanh cấp huyện' vì văn bản chưa được cập nhật theo chính quyền hai cấp. NĐ 398/2026 chưa có trên Công báo và Cổng văn bản Chính phủ đến 1/11/2026; luật nền giảm 30% là NQ 43/2026/QH16 (đã đọc toàn văn).",
+    "sources": [
+      {
+        "id": 1,
+        "org": "Bộ Tài chính",
+        "year": 2026,
+        "title": "Hỏi đáp chính sách tài chính: trường hợp không phải đăng ký hộ kinh doanh theo khoản 3 Điều 82 NĐ 168/2025/NĐ-CP (trả lời 19/6/2026)",
+        "quote": "những người bán hàng rong, quà vặt, buôn chuyến, kinh doanh lưu động, kinh doanh thời vụ, làm dịch vụ có thu nhập thấp không phải đăng ký hộ kinh doanh",
+        "url": "https://portal.mof.gov.vn/hoidapcstc/home/cthoidap/162205",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 2,
+        "org": "Chính phủ",
+        "year": 2025,
+        "title": "NĐ 168/2025/NĐ-CP về đăng ký doanh nghiệp, Điều 82 (bản đăng trên hethongphapluat.com)",
+        "quote": "chịu trách nhiệm bằng toàn bộ tài sản của mình đối với hoạt động kinh doanh của hộ",
+        "url": "https://hethongphapluat.com/nghi-dinh-168-2025-nd-cp-ve-dang-ky-doanh-nghiep/dieu-82",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 3,
+        "org": "Chính phủ",
+        "year": 2025,
+        "title": "NĐ 168/2025/NĐ-CP, Điều 83 Nghĩa vụ đăng ký hộ kinh doanh",
+        "quote": "chỉ được đăng ký một hộ kinh doanh trong phạm vi toàn quốc",
+        "url": "https://hethongphapluat.com/nghi-dinh-168-2025-nd-cp-ve-dang-ky-doanh-nghiep/dieu-83",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 4,
+        "org": "Chính phủ",
+        "year": 2025,
+        "title": "NĐ 168/2025/NĐ-CP, Điều 87 Trụ sở và địa điểm kinh doanh của hộ kinh doanh",
+        "quote": "Một hộ kinh doanh có thể có nhiều địa điểm kinh doanh trong phạm vi cả nước.",
+        "url": "https://hethongphapluat.com/nghi-dinh-168-2025-nd-cp-ve-dang-ky-doanh-nghiep/dieu-87",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 5,
+        "org": "Chính phủ",
+        "year": 2025,
+        "title": "NĐ 168/2025/NĐ-CP, Điều 86 Đặt tên hộ kinh doanh",
+        "quote": "Không được sử dụng các cụm từ “công ty”, “tổng công ty”, “tập đoàn”, “doanh nghiệp” để đặt tên hộ kinh doanh.",
+        "url": "https://hethongphapluat.com/nghi-dinh-168-2025-nd-cp-ve-dang-ky-doanh-nghiep/dieu-86",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 6,
+        "org": "Sở Tư pháp TP Cần Thơ (Cổng PBGDPL)",
+        "year": 2026,
+        "title": "Quy định về cơ quan đăng ký kinh doanh ở cấp xã từ ngày 23/7/2026 (trích Điều 5, Điều 9 NĐ 296/2026/NĐ-CP)",
+        "quote": "Trường hợp đơn vị hành chính cấp xã không thành lập phòng chuyên môn thì cơ quan đăng ký kinh doanh giải quyết thủ tục đăng ký hộ kinh doanh là Ủy ban nhân dân cấp xã",
+        "url": "https://pbgdpl.cantho.gov.vn/quy-dinh-ve-co-quan-dang-ky-kinh-doanh-o-cap-xa-tu-ngay-2372026",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 7,
+        "org": "Sở Tư pháp TP Cần Thơ (Cổng PBGDPL)",
+        "year": 2026,
+        "title": "Một số quy định của NĐ 141/2026/NĐ-CP ngày 29/4/2026 (trích nguyên văn khoản 5 Điều 8 NĐ 68/2026 sửa đổi và khoản 15 Điều 4 NĐ 320/2025 bổ sung)",
+        "quote": "Thu nhập của doanh nghiệp, tổ chức được thành lập theo quy định của pháp luật Việt Nam có tổng doanh thu năm từ 01 tỷ đồng trở xuống",
+        "url": "https://pbgdpl.cantho.gov.vn/mot-so-quy-dinh-cua-nghi-dinh-so-1412026nd-cp-ngay-2942026-cua-chinh-phu",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 8,
+        "org": "Thời báo Tài chính Việt Nam (Bộ Tài chính)",
+        "year": 2026,
+        "title": "Hướng dẫn giảm 30% thuế thu nhập đối với cá nhân, doanh nghiệp có doanh thu không quá 10 tỷ đồng (NĐ 398/2026/NĐ-CP)",
+        "quote": "Nghị định này có hiệu lực thi hành kể từ ngày 29/10/2026 và áp dụng cho kỳ tính thuế năm 2026, năm 2027",
+        "url": "https://thoibaotaichinhvietnam.vn/huong-dan-giam-30-thue-thu-nhap-doi-voi-ca-nhan-doanh-nghiep-co-doanh-thu-khong-qua-10-ty-dong-206205.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 9,
+        "org": "Cổng TTĐT Chính phủ (xaydungchinhsach.chinhphu.vn)",
+        "year": 2026,
+        "title": "Từ tháng 1/2026: Người nộp thuế không phải nộp lệ phí môn bài (trích khoản 7 Điều 10 NQ 198/2025/QH15, CV 645/CT-CS)",
+        "quote": "7. Chấm dứt việc thu, nộp lệ phí môn bài từ ngày 01 tháng 01 năm 2026.",
+        "url": "https://xaydungchinhsach.chinhphu.vn/tu-thang-1-2026-nguoi-nop-thue-khong-phai-nop-le-phi-mon-bai-119260126110926562.htm",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 10,
+        "org": "VnBusiness",
+        "year": 2026,
+        "title": "Quy định mới từ năm 2026 và lời cảnh báo cho các YouTuber (phát biểu Trưởng Thuế cơ sở 8 Hà Nội)",
+        "quote": "tăng cường kết nối, phối hợp, đối chiếu dữ liệu từ các sàn thương mại điện tử, ngân hàng, đơn vị vận chuyển",
+        "url": "https://vnbusiness.vn/quy-dinh-moi-tu-nam-2026-va-loi-canh-bao-cho-cac-youtuber.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 11,
+        "org": "HĐND TP Hà Nội (bản đăng trên LuatVietnam)",
+        "year": 2026,
+        "title": "Nghị quyết 78/2026/NQ-HĐND ngày 15/7/2026 quy định lệ phí đăng ký kinh doanh trên địa bàn TP Hà Nội (Điều 2, Điều 3, Biểu mức thu)",
+        "quote": "Hộ kinh doanh Đồng/1 lần cấp 100.000",
+        "url": "https://luatvietnam.vn/thue/nghi-quyet-78-2026-nq-hdnd-ha-noi-quy-dinh-le-phi-dang-ky-kinh-doanh-441308-d2.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 12,
+        "org": "HĐND TP Hà Nội (bản đăng trên LuatVietnam)",
+        "year": 2025,
+        "title": "Nghị quyết 77/2025/NQ-HĐND về mức chi khuyến khích dịch vụ công trực tuyến (Mục IV Phụ lục I)",
+        "quote": "khi thực hiện dịch vụ công trực tuyến, mức thu phí, lệ phí được ấn định bằng không (0 đồng) (không bao gồm phí thẩm định hồ sơ)",
+        "url": "https://luatvietnam.vn/thong-tin/nghi-quyet-77-2025-nq-hdnd-ha-noi-quy-dinh-chi-muc-chi-khuyen-khich-dich-vu-cong-truc-tuyen-420233-d2.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 13,
+        "org": "UBND TP Hồ Chí Minh (bản đăng trên LuatVietnam)",
+        "year": 2026,
+        "title": "Quyết định 5083/QĐ-UBND ngày 12/8/2026 công bố danh mục thủ tục hành chính sửa đổi lĩnh vực hộ kinh doanh (mục phí, lệ phí)",
+        "quote": "Khu vực Thành phố Hồ Chí Minh cũ: 100.000 đồng/lần/đăng ký.",
+        "url": "https://luatvietnam.vn/doanh-nghiep/quyet-dinh-5083-qd-ubnd-tp-hcm-2026-cong-bo-danh-muc-thu-tuc-hanh-chinh-sua-doi-bo-sung-443946-d2.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 14,
+        "org": "UBND tỉnh Đắk Lắk",
+        "year": 2026,
+        "title": "Phụ lục danh mục thủ tục đăng ký doanh nghiệp kèm quyết định của Chủ tịch UBND tỉnh (8/2026, tệp 2473_QĐ_UBND): lệ phí theo TT 47/2019/TT-BTC và TT 64/2025/TT-BTC",
+        "quote": "Lệ phí đăng ký doanh nghiệp: 50.000 đồng /lần theo quy định tại Thông tư số 47/2019/TT-BTC (Thông tư số 64/2025/TT-BTC quy định từ ngày 01/7/2025 đến hết ngày 31/12/2026 áp dụng lệ phí bằng 50%",
+        "url": "https://vpubnd.daklak.gov.vn/CMS/Content/VanBan/2026/8.2026/2473_Q%C4%90_UBND%20PL.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 15,
+        "org": "UBND tỉnh Đắk Lắk",
+        "year": 2026,
+        "title": "Phụ lục danh mục thủ tục đăng ký doanh nghiệp (8/2026): miễn lệ phí khi đăng ký qua mạng, phí công bố 100.000 đồng",
+        "quote": "Miễn lệ phí đối với trường hợp đăng ký qua mạng điện tử (Thông tư số 47/2019/TT-BTC).",
+        "url": "https://vpubnd.daklak.gov.vn/CMS/Content/VanBan/2026/8.2026/2473_Q%C4%90_UBND%20PL.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 16,
+        "org": "Chính phủ (bản đăng trên Cổng văn bản VCCI)",
+        "year": 2021,
+        "title": "NĐ 122/2021/NĐ-CP xử phạt vi phạm hành chính trong lĩnh vực kế hoạch và đầu tư, khoản 1 Điều 62",
+        "quote": "Điều 62. Vi phạm về đăng ký hộ kinh doanh 1. Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với một trong các hành vi sau",
+        "url": "https://vanban.vcci.com.vn/nghi-dinh-1222021nd-cp-quy-dinh-ve-xu-phat-vi-pham-hanh-chinh-trong-linh-vuc-ke-hoach-va-dau-tu",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 17,
+        "org": "Chính phủ (bản đăng trên Cổng văn bản VCCI)",
+        "year": 2021,
+        "title": "NĐ 122/2021/NĐ-CP, điểm c khoản 1 Điều 62",
+        "quote": "c) Không đăng ký thành lập hộ kinh doanh trong những trường hợp phải đăng ký theo quy định;",
+        "url": "https://vanban.vcci.com.vn/nghi-dinh-1222021nd-cp-quy-dinh-ve-xu-phat-vi-pham-hanh-chinh-trong-linh-vuc-ke-hoach-va-dau-tu",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 18,
+        "org": "Chính phủ (bản đăng trên Cổng văn bản VCCI)",
+        "year": 2021,
+        "title": "NĐ 122/2021/NĐ-CP, khoản 2 Điều 4 (mức phạt cá nhân) và Điều 5 (thời hiệu)",
+        "quote": "Điều 62 và Điều 63 Nghị định này là mức phạt áp dụng đối với cá nhân",
+        "url": "https://vanban.vcci.com.vn/nghi-dinh-1222021nd-cp-quy-dinh-ve-xu-phat-vi-pham-hanh-chinh-trong-linh-vuc-ke-hoach-va-dau-tu",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 19,
+        "org": "Chính phủ (Công báo số 456)",
+        "year": 2026,
+        "title": "NĐ 288/2026/NĐ-CP ngày 21/7/2026 sửa đổi NĐ 122/2021/NĐ-CP (sửa Điều 43, 44, 46, 48, 52, 65; bãi bỏ Điều 49 và một phần Điều 50)",
+        "quote": "Bãi bỏ Điều 49 và điểm a, điểm b khoản 1 và điểm a, điểm b khoản 2 Điều 50.",
+        "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/7/31/470148-1785470160_v1_1785493111_signed.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 20,
+        "org": "Tạp chí Luật sư Việt Nam (LSVN)",
+        "year": 2026,
+        "title": "Hộ kinh doanh kê khai sai địa điểm có thể bị phạt tới 10 triệu đồng (dự thảo nghị định thay NĐ 122/2021, 23/6/2026)",
+        "quote": "dự thảo Nghị định mới sẽ thay thế Nghị định số 122/2021/NĐ-CP ngày 28/12/2021 của Chính phủ",
+        "url": "https://lsvn.vn/ho-kinh-doanh-ke-khai-sai-dia-diem-co-the-bi-phat-toi-10-trieu-dong-a174690.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 21,
+        "org": "Quốc hội (toàn văn đăng trên cổng Trung tâm Phục vụ hành chính công tỉnh Nghệ An)",
+        "year": 2026,
+        "title": "Toàn văn Nghị quyết 43/2026/QH16 về giảm thuế TNCN, TNDN (khoản 1 Điều 1; Điều 2), đăng lại từ Chinhphu.vn",
+        "quote": "đối với thu nhập từ kinh doanh của cá nhân cư trú có mức doanh thu hằng năm của năm 2026, năm 2027 không quá 10 tỷ đồng",
+        "url": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-nghi-quyet-so-43-2026-qh16-ve-giam-thue-thu-nhap-ca-nhan-thue-thu-nhap-doanh-nghiep-2796.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      }
+    ]
+  },
+  {
+    "id": "thue-ho-kinh-doanh-2026",
+    "kind": "rule",
+    "section": "0",
+    "title": "Thuế hộ, cá nhân kinh doanh từ 2026: hết khoán; từ 1 tỷ/năm trở xuống không nộp nhưng vẫn phải khai",
+    "summary": "Từ 1/1/2026 không còn thuế khoán và lệ phí môn bài. Doanh thu năm từ 1 tỷ trở xuống: không nộp GTGT, TNCN, nhưng vẫn phải thông báo doanh thu và mọi tài khoản nhận tiền. Trên 1 tỷ: GTGT tính trên toàn bộ doanh thu; TNCN chọn 0,5–5% trên phần vượt 1 tỷ hoặc 15% trên lợi nhuận, trên 3 tỷ bắt buộc tính trên lợi nhuận. Năm 2026–2027 TNCN được giảm 30% nếu doanh thu không quá 10 tỷ.",
+    "tags": {
+      "risk": "high",
+      "evidence": "A",
+      "applies": [
+        "all"
+      ]
+    },
+    "who": {
+      "text": "Mọi hộ kinh doanh, cá nhân kinh doanh: cửa hàng, bán online, cho thuê tài sản, sáng tạo nội dung. Ngưỡng: doanh thu năm từ hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ từ 1 tỷ đồng trở xuống thì không chịu GTGT, không nộp TNCN (NĐ 68/2026/NĐ-CP sửa bởi NĐ 141/2026/NĐ-CP, áp dụng từ 1/1/2026; Luật 09/2026/QH16 giao Chính phủ quy định mức này). Doanh thu để so ngưỡng là tổng mọi kênh, mọi địa điểm, kể cả phần đã được sàn hoặc tổ chức khác khấu trừ, nộp thay. Hộ có nhiều ngành, nhiều địa điểm được tự phân bổ mức trừ giữa các hoạt động, nhưng tổng không vượt ngưỡng.",
+      "refs": [
+        2,
+        3,
+        4,
+        7,
+        14
+      ]
+    },
+    "rule": {
+      "text": "Thuế GTGT (khoản 2 Điều 12 Luật Thuế GTGT 48/2024/QH15): tỷ lệ % nhân toàn bộ doanh thu, không trừ ngưỡng: phân phối, cung cấp hàng hóa 1%; dịch vụ, xây dựng không bao thầu nguyên vật liệu 5%; sản xuất, vận tải, dịch vụ gắn với hàng hóa, xây dựng có bao thầu nguyên vật liệu 3%; hoạt động khác 2%. Thuế TNCN (Điều 7 Luật Thuế TNCN 109/2025/QH15, sửa bởi Luật 09/2026/QH16): doanh thu trên ngưỡng đến 3 tỷ được chọn (a) thuế suất nhân phần doanh thu vượt ngưỡng: phân phối hàng hóa 0,5%; dịch vụ, xây dựng không bao thầu 2%; cho thuê tài sản, đại lý bảo hiểm, xổ số, bán hàng đa cấp 5%; sản xuất, vận tải, dịch vụ gắn với hàng hóa, xây dựng có bao thầu 1,5%; nội dung số giải trí, trò chơi, phim, ảnh, nhạc, quảng cáo số 5%; hoạt động khác 1%; hoặc (b) (doanh thu − chi phí) × 15%. Trên 3 tỷ đến 50 tỷ bắt buộc (b) với 17%; trên 50 tỷ: 20%. Đã chọn (b) phải giữ 2 năm liên tục; đang dùng (a) mà doanh thu thực tế năm vượt 3 tỷ thì năm sau phải chuyển sang (b). Cho thuê bất động sản (trừ lưu trú): 5% trên phần doanh thu vượt ngưỡng. Chi phí được trừ phải có hóa đơn, chứng từ; khoản thanh toán từ 5 triệu trở lên phải không dùng tiền mặt. Giảm 30% số TNCN phải nộp năm 2026, 2027 nếu doanh thu năm không quá 10 tỷ, không phân biệt phương pháp; nếu doanh thu thực tế vượt 10 tỷ thì nộp bù phần đã giảm cùng hồ sơ khai của kỳ vượt; nộp đúng hạn kỳ đó thì không tính chậm nộp (NQ 43/2026/QH16, NĐ 398/2026). Kỳ khai: từ 1 tỷ trở xuống thông báo doanh thu thực tế chậm nhất 31/1 năm sau (mới ra kinh doanh trong 6 tháng đầu năm thì thông báo thêm lần chậm nhất 31/7). Trên ngưỡng, nộp TNCN theo (a): khai GTGT, TNCN theo quý, hạn ngày cuối của tháng đầu quý sau, tính từ quý doanh thu vượt ngưỡng. Theo (b): GTGT khai tháng nếu doanh thu năm trên 50 tỷ, khai quý nếu từ 50 tỷ trở xuống; tạm nộp TNCN theo kỳ; quyết toán TNCN chậm nhất 31/3 năm sau. Mọi trường hợp: thông báo điện tử cho cơ quan thuế tất cả số tài khoản ngân hàng, ví điện tử dùng cho kinh doanh. Sổ sách (TT 152/2025/TT-BTC, từ 1/1/2026, thay TT 88/2021): dưới ngưỡng chỉ cần sổ doanh thu S1a-HKD; nộp theo tỷ lệ doanh thu dùng sổ S2a-HKD; nộp TNCN theo lợi nhuận dùng 4 sổ S2b, S2c, S2d, S2e; lưu chứng từ tối thiểu 5 năm.",
+      "refs": [
+        1,
+        2,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        16,
+        18
+      ]
+    },
+    "cost": {
+      "text": "Không còn lệ phí môn bài từ năm 2026. Dưới ngưỡng: một sổ doanh thu, thông báo doanh thu 1–2 lần/năm, thông báo tài khoản một lần. Trên ngưỡng: khai quý; nếu chọn theo lợi nhuận phải gom hóa đơn đầu vào, ghi 4 sổ, chuyển khoản mọi khoản chi từ 5 triệu. Người ghi sổ không cần bằng cấp kế toán, có thể là người thân. Chi phí tuân thủ thực tế: một chuyên gia F&B ước hộ doanh thu dưới 100 triệu/tháng tốn khoảng 5,5–6,5 triệu đồng/năm cho phần mềm, chữ ký số và kế toán thuê ngoài, tương đương 1–2,5% doanh thu (Thời báo Kinh tế Sài Gòn, 9/2025; ý kiến chuyên gia, mức C). Báo giá riêng dịch vụ kế toán cho hộ: chưa có số liệu đáng tin. Ví dụ tính (ước tính của tác giả): tạp hóa doanh thu 1,5 tỷ/năm, toàn bộ là phân phối hàng hóa, chọn phương pháp (a): GTGT = 1,5 tỷ × 1% = 15 triệu; TNCN = (1,5 − 1) tỷ × 0,5% = 2,5 triệu, giảm 30% còn 1,75 triệu; tổng khoảng 16,75 triệu, tức khoảng 1,1% doanh thu.",
+      "refs": [
+        11,
+        10,
+        8,
+        17
+      ]
+    },
+    "penalty": {
+      "text": "NĐ 125/2020/NĐ-CP, sửa bởi NĐ 102/2021/NĐ-CP và NĐ 310/2025/NĐ-CP (hiệu lực 16/1/2026): khai sai dẫn đến thiếu thuế phạt 20% số thuế thiếu; trốn thuế phạt 1–3 lần số thuế trốn; nộp hồ sơ khai thuế trễ trên 90 ngày (đã nộp đủ thuế, tiền chậm nộp trước khi bị kiểm tra) phạt 15–25 triệu, không quá số thuế phát sinh. Các mức phạt tiền này là mức cho tổ chức; cá nhân chịu 1/2. Thời hiệu xử phạt trốn thuế, khai sai dẫn đến thiếu thuế: 5 năm. Hộ chuyển từ khoán sang kê khai từ 2026: cơ quan thuế không dùng doanh thu khai năm 2026 để xác định lại nghĩa vụ các năm khoán trước, không phạt phần đã nộp khoán, trừ khi phát hiện che giấu doanh thu. Hộ đã khai, nộp quý I/2026 theo ngưỡng cũ 500 triệu mà cả năm không vượt 1 tỷ thì được bù trừ hoặc hoàn. NĐ 291/2026/NĐ-CP (21/7/2026) sửa tiếp NĐ 125/2020 nhưng chỉ bổ sung Điều 19a về cung cấp thông tin phục vụ trao đổi thông tin thuế quốc tế; các mức phạt trên không đổi.",
+      "refs": [
+        12,
+        13,
+        1,
+        15,
+        19
+      ]
+    },
+    "effective": "Bỏ thuế khoán và lệ phí môn bài: từ 1/1/2026 (NQ 198/2025/QH15). Luật Thuế TNCN 109/2025/QH15 hiệu lực 1/7/2026, riêng thu nhập kinh doanh áp dụng từ kỳ tính thuế 2026; Luật 09/2026/QH16 (24/4/2026) bỏ ngưỡng 500 triệu cứng trong luật, giao Chính phủ quy định. NĐ 68/2026/NĐ-CP (5/3/2026, hiệu lực ngay) và TT 18/2026/TT-BTC; NĐ 141/2026/NĐ-CP (29/4/2026) nâng ngưỡng 500 triệu lên 1 tỷ, áp dụng từ 1/1/2026. TT 40/2021/TT-BTC chỉ còn cho kỳ trước 2026. Giảm 30%: NQ 43/2026/QH16 (hiệu lực 24/8/2026, áp dụng kỳ tính thuế 2026, 2027); NĐ 398/2026/NĐ-CP hướng dẫn, hiệu lực 29/10/2026 theo Bộ Tài chính (chưa đăng Công báo đến 1/11/2026). NĐ 291/2026/NĐ-CP (21/7/2026) bổ sung Điều 19a NĐ 125/2020.",
+    "notes": "Ngưỡng đã đổi bốn lần trong hai năm: 100 triệu (đến 2025), 200 triệu (Luật GTGT 48/2024), 500 triệu (Luật 149/2025, Luật 109/2025, NĐ 68/2026 bản gốc), 1 tỷ (Luật 09/2026 + NĐ 141/2026). Nhiều trang vẫn ghi 500 triệu — đã lỗi thời. Giảm 30% là giảm số thuế TNCN phải nộp, không giảm GTGT, không phải giảm 30 điểm % thuế suất. Văn bản gốc NĐ 68/2026 trên cổng Chính phủ là bản scan; các trích dẫn lấy từ bài của cổng Chính phủ, cổng tỉnh và LuậtViệtNam. Vòng 2: đã đọc toàn văn NQ 43/2026/QH16. NĐ 398/2026 chưa có trên Công báo (mới đến NĐ 393) và Cổng văn bản Chính phủ (mới đến NĐ 397) ngày 1/11/2026; cách giảm ở khâu khấu trừ và nộp bù khi vượt 10 tỷ vẫn lấy qua Thời báo Tài chính (mức C).",
+    "sources": [
+      {
+        "id": 1,
+        "org": "Cổng TTĐT Chính phủ (xaydungchinhsach.chinhphu.vn)",
+        "year": 2026,
+        "title": "Nội dung mới của NĐ 68/2026/NĐ-CP và TT 18/2026/TT-BTC người nộp thuế cần lưu ý",
+        "quote": "cơ quan thuế không sử dụng doanh thu khai thuế năm 2026 để xác định lại nghĩa vụ thuế các năm trước",
+        "url": "https://xaydungchinhsach.chinhphu.vn/noi-dung-moi-cua-nghi-dinh-68-2026-nd-cp-va-thong-tu-18-2026-tt-btc-nguoi-nop-thue-can-luu-y-119260312140920747.htm",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 2,
+        "org": "LuatVietnam",
+        "year": 2026,
+        "title": "Chính thức: bỏ ngưỡng doanh thu miễn thuế 500 triệu đồng/năm của hộ kinh doanh (trích Luật 09/2026/QH16 sửa khoản 1 Điều 7 Luật Thuế TNCN)",
+        "quote": "Cá nhân cư trú có hoạt động sản xuất, kinh doanh có doanh thu năm dưới mức quy định của Chính phủ không phải nộp thuế thu nhập cá nhân.",
+        "url": "https://luatvietnam.vn/thue-phi-le-phi/bo-nguong-doanh-thu-mien-thue-500-trieu-dong-nam-cua-ho-kinh-doanh-trong-luat-565-108491-article.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 3,
+        "org": "Sở Tư pháp TP Cần Thơ (Cổng PBGDPL)",
+        "year": 2026,
+        "title": "Một số quy định của NĐ 141/2026/NĐ-CP ngày 29/4/2026",
+        "quote": "Nghị định này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2026.",
+        "url": "https://pbgdpl.cantho.gov.vn/mot-so-quy-dinh-cua-nghi-dinh-so-1412026nd-cp-ngay-2942026-cua-chinh-phu",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 4,
+        "org": "Thời báo Tài chính Việt Nam (Bộ Tài chính)",
+        "year": 2026,
+        "title": "Nâng ngưỡng doanh thu không phải nộp thuế lên 1 tỷ đồng",
+        "quote": "sửa đổi cụm từ “500 triệu đồng” thành “01 tỷ đồng” tại Điều 3, Điều 4",
+        "url": "https://thoibaotaichinhvietnam.vn/nang-nguong-doanh-thu-khong-phai-nop-thue-len-1-ty-dong-dieu-ho-kinh-doanh-mong-cho-da-thanh-hien-thuc-196524.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 5,
+        "org": "VnEconomy",
+        "year": 2026,
+        "title": "Hộ kinh doanh không được trừ ngưỡng 500 triệu khi nộp thuế giá trị gia tăng (trích khoản 2 Điều 12 Luật Thuế GTGT 48/2024/QH15)",
+        "quote": "b1) Phân phối, cung cấp hàng hóa: 1%; b2) Dịch vụ, xây dựng không bao thầu nguyên vật liệu: 5%;",
+        "url": "https://vneconomy.vn/ho-kinh-doanh-khong-duoc-tru-nguong-500-trieu-khi-nop-thue-gia-tri-gia-tang.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 6,
+        "org": "Cổng TTĐT Chính phủ (xaydungchinhsach.chinhphu.vn)",
+        "year": 2026,
+        "title": "Phương pháp tính thuế đối với cá nhân kinh doanh, hộ kinh doanh (trích khoản 3 Điều 7 Luật Thuế TNCN 109/2025/QH15 và khoản 5 Điều 4 NĐ 68/2026)",
+        "quote": "a) Doanh thu tính thuế được xác định bằng phần doanh thu vượt trên mức quy định tại khoản 1 Điều này;",
+        "url": "https://xaydungchinhsach.chinhphu.vn/phuong-phap-tinh-thue-voi-ca-nhan-kinh-doanh-ho-kinh-doanh-119260309100708724.htm",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 7,
+        "org": "Cổng TTĐT Chính phủ (xaydungchinhsach.chinhphu.vn)",
+        "year": 2026,
+        "title": "Nội dung chính của Luật Thuế thu nhập cá nhân số 109/2025/QH15",
+        "quote": "Hộ, cá nhân kinh doanh có doanh thu năm trên 3 tỷ đồng đến 50 tỷ đồng: áp dụng thuế suất 17% trên thu nhập.",
+        "url": "https://xaydungchinhsach.chinhphu.vn/noi-dung-chinh-cua-luat-thue-thu-nhap-ca-nhan-so-109-2025-qh15-119260123144204743.htm",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 8,
+        "org": "LuatVietnam",
+        "year": 2026,
+        "title": "8 nội dung đáng chú ý của NĐ 68/2026/NĐ-CP về thuế hộ kinh doanh (trích Điều 6, Điều 9)",
+        "quote": "có đủ hóa đơn, chứng từ và chứng từ thanh toán không dùng tiền mặt đối với các khoản thanh toán từng lần có giá trị từ 05 triệu đồng trở lên",
+        "url": "https://luatvietnam.vn/thue-phi-le-phi/6-noi-dung-dang-chu-y-cua-nghi-dinh-68-2026-nd-cp-ve-thue-ho-kinh-doanh-565-107530-article.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 9,
+        "org": "Thời báo Tài chính Việt Nam (Bộ Tài chính)",
+        "year": 2026,
+        "title": "Hướng dẫn giảm 30% thuế thu nhập đối với cá nhân, doanh nghiệp có doanh thu không quá 10 tỷ đồng (NĐ 398/2026/NĐ-CP)",
+        "quote": "không phân biệt phương pháp tính thuế thu nhập cá nhân",
+        "url": "https://thoibaotaichinhvietnam.vn/huong-dan-giam-30-thue-thu-nhap-doi-voi-ca-nhan-doanh-nghiep-co-doanh-thu-khong-qua-10-ty-dong-206205.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 10,
+        "org": "Tạp chí Kinh tế Tài chính – Thuế Hải quan (Bộ Tài chính)",
+        "year": 2026,
+        "title": "Hộ kinh doanh không chịu thuế chỉ cần một sổ theo dõi doanh thu (TT 152/2025/TT-BTC)",
+        "quote": "chỉ cần một sổ doanh thu bán hàng hóa, dịch vụ (mẫu số S1a-HKD) để ghi chép",
+        "url": "https://thuehaiquan.tapchikinhtetaichinh.vn/ho-kinh-doanh-khong-chiu-thue-chi-can-mot-so-theo-doi-doanh-thu-138151.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 11,
+        "org": "Cổng TTĐT Chính phủ (xaydungchinhsach.chinhphu.vn)",
+        "year": 2026,
+        "title": "Từ tháng 1/2026: Người nộp thuế không phải nộp lệ phí môn bài",
+        "quote": "người nộp thuế không phải nộp lệ phí môn bài đối với năm 2026 và các năm tiếp theo",
+        "url": "https://xaydungchinhsach.chinhphu.vn/tu-thang-1-2026-nguoi-nop-thue-khong-phai-nop-le-phi-mon-bai-119260126110926562.htm",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 12,
+        "org": "Chính phủ (Công báo số 1687+1688)",
+        "year": 2025,
+        "title": "NĐ 310/2025/NĐ-CP sửa đổi, bổ sung NĐ 125/2020/NĐ-CP xử phạt vi phạm hành chính về thuế, hóa đơn",
+        "quote": "Phạt từ 01 đến 03 lần số tiền thuế trốn đối với hành vi trốn thuế.",
+        "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/12/46755/60183-1-20251687-1688310-2025-nd-cp.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 13,
+        "org": "Tạp chí Luật sư Việt Nam (LSVN)",
+        "year": 2026,
+        "title": "Lập hóa đơn sai thời điểm có thể bị xử phạt tới 70 triệu đồng",
+        "quote": "mức phạt tiền đối với cá nhân bằng 1/2 lần mức phạt tiền đối với tổ chức.",
+        "url": "https://lsvn.vn/lap-hoa-don-sai-thoi-diem-co-the-bi-xu-phat-toi-70-trieu-dong-a169258.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 14,
+        "org": "Cổng TTĐT tỉnh Hà Tĩnh",
+        "year": 2026,
+        "title": "Nhiều điểm mới đáng chú ý trong chính sách thuế đối với hộ và cá nhân kinh doanh (NĐ 68/2026, trước khi sửa ngưỡng)",
+        "quote": "tổng mức khấu trừ không vượt quá 500 triệu đồng trong năm",
+        "url": "https://hatinh.gov.vn/vi/bai-viet/nhieu-diem-moi-dang-chu-y-trong-chinh-sach-thue-doi-voi-ho-va-ca-nhan-kinh-doanh",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 15,
+        "org": "Tạp chí Kinh tế Tài chính – Thuế Hải quan (Bộ Tài chính)",
+        "year": 2026,
+        "title": "Đã kê khai, nộp thuế có được áp dụng chính sách nâng ngưỡng miễn thuế 1 tỷ đồng?",
+        "quote": "Trường hợp đến cuối năm xác định doanh thu thực tế không vượt ngưỡng, số thuế đã nộp sẽ được hoàn trả.",
+        "url": "https://thuehaiquan.tapchikinhtetaichinh.vn/da-ke-khai-nop-thue-co-duoc-ap-dung-chinh-sach-nang-nguong-mien-thue-1-ty-dong-155251.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 16,
+        "org": "Cổng TTĐT Chính phủ (xaydungchinhsach.chinhphu.vn)",
+        "year": 2026,
+        "title": "Nội dung mới của NĐ 68/2026/NĐ-CP và TT 18/2026/TT-BTC (thông báo tài khoản ngân hàng)",
+        "quote": "thông báo cho cơ quan thuế theo phương thức điện tử tất cả các số tài khoản mở tại tổ chức cung ứng dịch vụ thanh toán",
+        "url": "https://xaydungchinhsach.chinhphu.vn/noi-dung-moi-cua-nghi-dinh-68-2026-nd-cp-va-thong-tu-18-2026-tt-btc-nguoi-nop-thue-can-luu-y-119260312140920747.htm",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 17,
+        "org": "Thời báo Kinh tế Sài Gòn",
+        "year": 2025,
+        "title": "Áp lực chi phí khiến hộ kinh doanh chần chừ với hóa đơn điện tử (ý kiến ông Đỗ Duy Thanh, FnB Director)",
+        "quote": "chi phí đầu tư cho phần mềm, chữ ký số và kế toán ngoài vào khoảng 5,5-6,5 triệu đồng/năm, tương đương 1-2,5% doanh thu",
+        "url": "https://thesaigontimes.vn/ap-luc-chi-phi-khien-ho-kinh-doanh-chan-chu-voi-hoa-don-dien-tu/",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 18,
+        "org": "Quốc hội (toàn văn đăng trên cổng Trung tâm Phục vụ hành chính công tỉnh Nghệ An)",
+        "year": 2026,
+        "title": "Toàn văn Nghị quyết 43/2026/QH16 về giảm thuế TNCN, TNDN (khoản 1 Điều 1; Điều 2), đăng lại từ Chinhphu.vn",
+        "quote": "đối với thu nhập từ kinh doanh của cá nhân cư trú có mức doanh thu hằng năm của năm 2026, năm 2027 không quá 10 tỷ đồng",
+        "url": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-nghi-quyet-so-43-2026-qh16-ve-giam-thue-thu-nhap-ca-nhan-thue-thu-nhap-doanh-nghiep-2796.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 19,
+        "org": "Chính phủ (Công báo số 455)",
+        "year": 2026,
+        "title": "NĐ 291/2026/NĐ-CP ngày 21/7/2026 sửa đổi NĐ 125/2020/NĐ-CP (Điều 1 đến Điều 4)",
+        "quote": "Bổ sung Mục 3 và Điều 19a vào sau Mục 2 Chương II",
+        "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/7/31/470143-1785465425_v1_1785492753_signed.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      }
+    ]
+  },
+  {
+    "id": "hoa-don-dien-tu-may-tinh-tien",
+    "kind": "rule",
+    "section": "0",
+    "title": "Hóa đơn điện tử: bắt buộc khi doanh thu trên 1 tỷ/năm; máy tính tiền không còn là lựa chọn bắt buộc duy nhất",
+    "summary": "Từ 1/7/2026, NĐ 254/2026 thay NĐ 123/2020 và NĐ 70/2025. Hộ, cá nhân kinh doanh doanh thu năm trên 1 tỷ phải dùng hóa đơn điện tử có mã hoặc hóa đơn khởi tạo từ máy tính tiền, đăng ký trong 30 ngày sau kỳ vượt ngưỡng; bán trên sàn cũng vậy. Người bán lẻ trực tiếp cho người tiêu dùng đã dùng hóa đơn có mã thì không bắt buộc chuyển sang máy tính tiền. Không lập hóa đơn bị phạt theo số hóa đơn, tối đa 80 triệu với tổ chức, hộ chịu một nửa.",
+    "tags": {
+      "risk": "high",
+      "evidence": "A",
+      "applies": [
+        "all"
+      ]
+    },
+    "who": {
+      "text": "Bắt buộc: hộ, cá nhân kinh doanh có doanh thu năm trên 1 tỷ đồng, hoặc bán tài sản phải đăng ký quyền sở hữu, quyền sử dụng (điểm d khoản 1 Điều 6 NĐ 254/2026/NĐ-CP). Áp cả cho người bán trên sàn TMĐT: việc sàn khấu trừ thuế không thay nghĩa vụ lập hóa đơn. Hóa đơn khởi tạo từ máy tính tiền áp cho người bán trực tiếp đến người tiêu dùng: trung tâm thương mại, siêu thị, bán lẻ (trừ ô tô, mô tô, xe máy), ăn uống, nhà hàng, khách sạn, vận tải hành khách, nghệ thuật, vui chơi giải trí, chiếu phim... (theo MISA trích Điều 6). Từ 1 tỷ trở xuống: tự nguyện đăng ký. NĐ 254 có điều riêng liệt kê trường hợp hộ, cá nhân không phải lập hóa đơn: cho thuê bất động sản; cung cấp sản phẩm, dịch vụ nội dung số cho tổ chức, cá nhân nước ngoài; đại lý xổ số, bảo hiểm, bán hàng đa cấp đã được doanh nghiệp khấu trừ thuế; hoạt động thuộc diện lập bảng kê thu mua.",
+      "refs": [
+        2,
+        4,
+        5,
+        8
+      ]
+    },
+    "rule": {
+      "text": "Hộ mới ra kinh doanh hoặc năm trước chưa trên 1 tỷ mà trong năm vượt 1 tỷ: đăng ký hóa đơn trong 30 ngày kể từ ngày cuối của kỳ tính thuế có doanh thu lũy kế trên 1 tỷ (khoản 5 Điều 8 NĐ 68/2026, sửa bởi NĐ 141/2026). Hai hình thức: hóa đơn điện tử có mã của cơ quan thuế, hoặc hóa đơn khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế. Người bán trực tiếp cho người tiêu dùng đã đăng ký hóa đơn có mã hoặc không mã thì không bắt buộc đăng ký thêm hóa đơn từ máy tính tiền (điểm c khoản 1 Điều 6 NĐ 254). Nhiều cửa hàng: dùng chung mã số thuế, ghi mã địa điểm kinh doanh trên hóa đơn. Bán trên sàn: chỉ phải lập hóa đơn khi giao dịch được xác nhận hoàn thành; đơn chưa giao thành công, bị hủy, hoàn trả thì chưa lập; được ủy nhiệm sàn lập hóa đơn thay nếu có hợp đồng ủy nhiệm (TT 91/2026/TT-BTC). Người mua cá nhân không cung cấp thông tin: hóa đơn được ghi 'bán cho người tiêu dùng'. Từ 5/2026 hệ thống thuế cho cả cá nhân kinh doanh chưa đăng ký hộ được đăng ký và dùng hóa đơn điện tử.",
+      "refs": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    "cost": {
+      "text": "'Máy tính tiền' theo NĐ 254 là hệ thống tính tiền gồm một thiết bị điện tử đồng bộ hoặc nhiều thiết bị kết hợp bằng giải pháp CNTT; theo MISA (nguồn có lợi ích thương mại), không nhất thiết dùng phần mềm bán hàng, phần mềm phát hành hóa đơn có chức năng tính tiền là đủ. Báo giá phần mềm hóa đơn (nguồn có lợi ích thương mại, mức C, xem ngày 1/11/2026): xCyber Bill gói 300 hóa đơn 480.000 đồng, gói 200 hóa đơn 380.000 đồng, cộng phí khởi tạo 500.000 đồng một lần; Sapo Invoice gói 10.000 hóa đơn từ máy tính tiền 852.000 đồng (giá khuyến mãi, niêm yết 2.080.000 đồng), không giới hạn thời gian dùng. MISA công bố miễn phí gói 300 hóa đơn và 6 tháng phần mềm kế toán, chữ ký số, bán hàng cho hộ; gói bán hàng và kế toán 1 năm 1,45 triệu đồng (VietnamFinance, 6/2025). Tổng chi phí phần mềm, chữ ký số và kế toán thuê ngoài của hộ doanh thu dưới 100 triệu/tháng khoảng 5,5–6,5 triệu đồng/năm theo một chuyên gia F&B (Thời báo Kinh tế Sài Gòn, 9/2025). Giá chữ ký số mua riêng và thiết bị máy tính tiền: chưa có số liệu đáng tin.",
+      "refs": [
+        4,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "penalty": {
+      "text": "Khoản 3 Điều 24 NĐ 125/2020/NĐ-CP, sửa bởi NĐ 310/2025/NĐ-CP (hiệu lực 16/1/2026), mức cho tổ chức, hành vi không lập hóa đơn khi bán hàng, cung cấp dịch vụ: 1 hóa đơn phạt 1–2 triệu; 2 đến dưới 10 hóa đơn 2–10 triệu; 10 đến dưới 20: 10–30 triệu; 20 đến dưới 50: 30–50 triệu; từ 50 hóa đơn: 60–80 triệu; kèm buộc lập hóa đơn. Lập hóa đơn sai thời điểm từ 100 hóa đơn: 50–70 triệu. Nhiều hành vi không lập hóa đơn trong một vụ chỉ bị phạt một hành vi theo khung tương ứng số hóa đơn. Hộ, cá nhân: 1/2 các mức trên. NĐ 291/2026/NĐ-CP (21/7/2026) sửa NĐ 125/2020 nhưng chỉ bổ sung Điều 19a về cung cấp thông tin phục vụ trao đổi thông tin thuế quốc tế; không đổi các mức phạt hóa đơn trên.",
+      "refs": [
+        6,
+        7,
+        13
+      ]
+    },
+    "effective": "NĐ 254/2026/NĐ-CP (30/6/2026) và TT 91/2026/TT-BTC hiệu lực 1/7/2026, thay NĐ 123/2020/NĐ-CP (đã sửa bởi NĐ 70/2025/NĐ-CP) và TT 32/2025/TT-BTC. Ngưỡng 1 tỷ: khoản 5 Điều 8 NĐ 68/2026 sửa bởi NĐ 141/2026 (từ 1/1/2026). NĐ 68 bản gốc ghi 'từ 01 tỷ trở lên', NĐ 141 sửa thành 'trên 01 tỷ'.",
+    "notes": "Dự thảo nghị định hóa đơn (2025) từng đề xuất người bán trên sàn có chức năng thanh toán không phải lập hóa đơn khi sàn đã nộp thuế thay; bản chính thức không giữ đề xuất này — Cục Thuế (8/2026) khẳng định khấu trừ và lập hóa đơn là hai nghĩa vụ tách biệt. Bài viết, phần mềm còn dẫn NĐ 70/2025/NĐ-CP là căn cứ máy tính tiền là lỗi thời từ 1/7/2026. Danh sách ngành máy tính tiền lấy qua MISA, chưa đối chiếu nguyên văn Điều 6 NĐ 254. Báo giá phần mềm hóa đơn đổi theo đợt khuyến mãi; chỉ dùng làm mức tham khảo.",
+    "sources": [
+      {
+        "id": 1,
+        "org": "EY Việt Nam",
+        "year": 2026,
+        "title": "Bản tin Thuế tháng 7/2026: NĐ 254/2026/NĐ-CP về hóa đơn điện tử và chứng từ điện tử",
+        "quote": "thay thế Nghị định số 123/2020/NĐ-CP (đã được sửa đổi, bổ sung bởi Nghị định số 70/2025/NĐ-CP)",
+        "url": "https://www.ey.com/vi_vn/technical/tax/tax-and-law-updates/nghi-dinh-254-2026-nd-cp-ve-hoa-don-dien-tu-va-chung-tu-dien-tu",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 2,
+        "org": "LuatVietnam (trích CV 4831/CT-CS ngày 15/7/2026 của Cục Thuế)",
+        "year": 2026,
+        "title": "Công văn 4831/CT-CS: Giới thiệu điểm mới tại NĐ 254/2026/NĐ-CP về hóa đơn điện tử",
+        "quote": "có doanh thu năm trên 01 tỷ đồng hoặc hộ kinh doanh, cá nhân kinh doanh bán tài sản phải đăng ký quyền sở hữu, quyền sử dụng thì phải áp dụng hóa đơn điện tử",
+        "url": "https://luatvietnam.vn/tin-van-ban-moi/cong-van-4831-ct-cs-gioi-thieu-diem-moi-tai-nghi-dinh-254-2026-nd-cp-ve-hoa-don-dien-tu-186-110473-article.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 3,
+        "org": "Sở Tư pháp TP Cần Thơ (Cổng PBGDPL)",
+        "year": 2026,
+        "title": "Một số quy định của NĐ 141/2026/NĐ-CP (khoản 5 Điều 8 NĐ 68/2026 sửa đổi)",
+        "quote": "đăng ký sử dụng hóa đơn điện tử trong thời gian 30 ngày kể từ ngày cuối cùng của kỳ tính thuế có doanh thu lũy kế trên 01 tỷ đồng",
+        "url": "https://pbgdpl.cantho.gov.vn/mot-so-quy-dinh-cua-nghi-dinh-so-1412026nd-cp-ngay-2942026-cua-chinh-phu",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 4,
+        "org": "MISA AMIS (nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "Một số câu hỏi về hóa đơn máy tính tiền NĐ 254/2026/NĐ-CP",
+        "quote": "Máy tính tiền là hệ thống tính tiền bao gồm một thiết bị điện tử đồng bộ hoặc một hệ thống gồm nhiều thiết bị điện tử được kết hợp với nhau bằng giải pháp công nghệ thông tin",
+        "url": "https://helpact.misa.vn/?p=87015",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 5,
+        "org": "Tạp chí Kinh tế Tài chính – Thuế Hải quan (Bộ Tài chính)",
+        "year": 2026,
+        "title": "Vì sao sàn đã khấu trừ thuế nhưng người bán vẫn phải lập hóa đơn?",
+        "quote": "việc sàn thương mại điện tử khấu trừ, kê khai và nộp thuế thay với việc người bán lập hóa đơn điện tử là hai quy định hoàn toàn tách biệt",
+        "url": "https://thuehaiquan.tapchikinhtetaichinh.vn/vi-sao-san-da-khau-tru-thue-nhung-nguoi-ban-van-phai-lap-hoa-don-163556.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 6,
+        "org": "Chính phủ (Công báo số 1687+1688)",
+        "year": 2025,
+        "title": "NĐ 310/2025/NĐ-CP sửa đổi khoản 3 Điều 24 NĐ 125/2020/NĐ-CP",
+        "quote": "Phạt tiền từ 60.000.000 đồng đến 80.000.000 đồng trong trường hợp không lập hóa đơn khi bán hàng hóa, cung cấp dịch vụ theo quy định từ 50 số hóa đơn trở lên.",
+        "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/12/46755/60183-1-20251687-1688310-2025-nd-cp.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 7,
+        "org": "Tạp chí Luật sư Việt Nam (LSVN)",
+        "year": 2026,
+        "title": "Lập hóa đơn sai thời điểm có thể bị xử phạt tới 70 triệu đồng",
+        "quote": "mức phạt tiền đối với cá nhân bằng 1/2 lần mức phạt tiền đối với tổ chức.",
+        "url": "https://lsvn.vn/lap-hoa-don-sai-thoi-diem-co-the-bi-xu-phat-toi-70-trieu-dong-a169258.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 8,
+        "org": "EY Việt Nam",
+        "year": 2026,
+        "title": "Bản tin Thuế tháng 7/2026: các trường hợp không phải lập hóa đơn theo NĐ 254/2026",
+        "quote": "Cung cấp sản phẩm, dịch vụ nội dung số cho tổ chức, cá nhân nước ngoài",
+        "url": "https://www.ey.com/vi_vn/technical/tax/tax-and-law-updates/nghi-dinh-254-2026-nd-cp-ve-hoa-don-dien-tu-va-chung-tu-dien-tu",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 9,
+        "org": "xCyber (nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "Bảng giá phần mềm hóa đơn điện tử xCyber Bill",
+        "quote": "Phí khởi tạo 500,000đ Miễn phí truyền nhận TCT Gói 300 hóa đơn 480,000đ",
+        "url": "https://xcyber.vn/xcyberbill-phan-mem-hoa-don-dien-tu/bang-gia",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 10,
+        "org": "Sapo (nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "Bảng giá phần mềm hóa đơn điện tử Sapo Invoice (gói hóa đơn từ máy tính tiền)",
+        "quote": "SI MTT 10000 2.080.000 đ /gói Chỉ còn 852.000 đ /gói 10.000 hóa đơn từ máy tính tiền Không giới hạn thời gian sử dụng",
+        "url": "https://www.sapo.vn/bang-gia-sapo-invoice.html",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 11,
+        "org": "VietnamFinance (dẫn chính sách của MISA)",
+        "year": 2025,
+        "title": "Hộ kinh doanh xuất hoá đơn điện tử chỉ tốn phí 100.000 đồng/tháng",
+        "quote": "MISA đưa ra chính sách hỗ trợ miễn phí cho các hộ kinh doanh gói 300 hóa đơn, miễn phí 6 tháng sử dụng phần mềm kế toán, chữ ký số, bán hàng.",
+        "url": "https://vietnamfinance.vn/ho-kinh-doanh-xuat-hoa-don-dien-tu-chi-ton-phi-100000-dong--thang-d128408.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 12,
+        "org": "Thời báo Kinh tế Sài Gòn",
+        "year": 2025,
+        "title": "Áp lực chi phí khiến hộ kinh doanh chần chừ với hóa đơn điện tử (ý kiến ông Đỗ Duy Thanh, FnB Director)",
+        "quote": "chi phí đầu tư cho phần mềm, chữ ký số và kế toán ngoài vào khoảng 5,5-6,5 triệu đồng/năm, tương đương 1-2,5% doanh thu",
+        "url": "https://thesaigontimes.vn/ap-luc-chi-phi-khien-ho-kinh-doanh-chan-chu-voi-hoa-don-dien-tu/",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 13,
+        "org": "Chính phủ (Công báo số 455)",
+        "year": 2026,
+        "title": "NĐ 291/2026/NĐ-CP ngày 21/7/2026 sửa đổi NĐ 125/2020/NĐ-CP (Điều 1 đến Điều 4)",
+        "quote": "Bổ sung Mục 3 và Điều 19a vào sau Mục 2 Chương II",
+        "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/7/31/470143-1785465425_v1_1785492753_signed.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      }
+    ]
+  },
+  {
+    "id": "san-tmdt-khau-tru-thue",
+    "kind": "rule",
+    "section": "0",
+    "title": "Bán trên sàn có thanh toán (Shopee, TikTok Shop...): sàn khấu trừ thuế từng đơn, người bán vẫn còn việc",
+    "summary": "Sàn TMĐT, nền tảng số trong và ngoài nước có chức năng đặt hàng và thanh toán phải khấu trừ GTGT và TNCN ngay khi đơn thành công: hàng hóa 1% + 0,5%, dịch vụ 5% + 2%, vận tải và dịch vụ gắn hàng hóa 3% + 1,5%. Khấu trừ tính trên mỗi giao dịch, không chờ bạn vượt ngưỡng 1 tỷ; nếu cả năm không vượt ngưỡng, cơ quan thuế hướng dẫn bù trừ hoặc hoàn. Bán qua Facebook, Zalo, website không có thanh toán thì phải tự khai.",
+    "tags": {
+      "risk": "mid",
+      "evidence": "A",
+      "applies": [
+        "online"
+      ]
+    },
+    "who": {
+      "text": "Hộ, cá nhân kinh doanh (cư trú và không cư trú) bán hàng, cung cấp dịch vụ trên nền tảng TMĐT, nền tảng số trong hoặc ngoài nước có chức năng đặt hàng trực tuyến và chức năng thanh toán (khoản 1 Điều 11 NĐ 68/2026, dẫn chiếu NĐ 117/2025/NĐ-CP). Cục Thuế nêu ví dụ người bán trên Shopee và TikTok Shop đã được sàn khấu trừ, nộp thay. Mạng xã hội, website chỉ thuộc diện khấu trừ khi có cả chức năng đặt hàng và thanh toán; nếu khách đặt qua tin nhắn và chuyển khoản trực tiếp thì người bán tự khai theo Điều 8–10 NĐ 68 (khoản 2 Điều 11).",
+      "refs": [
+        3,
+        4
+      ]
+    },
+    "rule": {
+      "text": "Thời điểm: sàn khấu trừ ngay khi xác nhận giao dịch thành công và chấp nhận thanh toán. Doanh thu tính là số tiền người bán được hưởng mà sàn thu hộ. Tỷ lệ GTGT: hàng hóa 1%, dịch vụ 5%, vận tải và dịch vụ gắn với hàng hóa 3%. Tỷ lệ TNCN cá nhân cư trú: 0,5% / 2% / 1,5%; cá nhân không cư trú: 1% / 5% / 2%. Sàn không xác định được loại giao dịch thì áp tỷ lệ cao nhất. Đơn hủy, trả hàng: sàn bù trừ số đã khấu trừ. Kỳ tính thuế 2026, 2027: người bán doanh thu không quá 10 tỷ được giảm 30% số TNCN phải khấu trừ ngay ở khâu sàn (NĐ 398/2026). Người bán còn phải: (1) cung cấp đúng mã số thuế hoặc số định danh cá nhân cho sàn; (2) tự khai thuế tiêu thụ đặc biệt, bảo vệ môi trường, tài nguyên nếu có; (3) cộng doanh thu sàn với doanh thu cửa hàng, website, mạng xã hội để xác định ngưỡng 1 tỷ, 3 tỷ — ngưỡng tính cả phần đã được khấu trừ; trên 3 tỷ, hoặc trên ngưỡng mà chọn nộp TNCN theo lợi nhuận, thì tổng hợp doanh thu để quyết toán TNCN năm, số TNCN sàn đã khấu trừ được trừ đi; (4) doanh thu năm trên 1 tỷ phải tự lập hóa đơn điện tử cho từng giao dịch hoàn thành, hoặc ủy nhiệm sàn lập. Phần GTGT, TNCN đã được sàn khấu trừ thì không phải khai lại.",
+      "refs": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        14
+      ]
+    },
+    "cost": {
+      "text": "Không phải tự khai GTGT, TNCN cho doanh thu trên sàn đã khấu trừ. Tác động dòng tiền (ước tính của tác giả): đơn hàng hóa 1 triệu đồng bị giữ 15.000 đồng (1% + 0,5%); trong 2026–2027 nếu doanh thu năm không quá 10 tỷ thì TNCN còn 0,35%, tổng 13.500 đồng. Người bán dưới ngưỡng vẫn bị khấu trừ từng đơn. Nếu doanh thu thực tế cả năm từ 1 tỷ trở xuống, số GTGT, TNCN sàn đã khấu trừ được bù trừ, hoàn trả hoặc hoàn trả kiêm bù trừ như tiền thuế nộp thừa (khoản 1 Điều 12 NĐ 68/2026; NĐ 141/2026 sửa '500 triệu' thành '1 tỷ' tại khoản 1, 2 Điều 12). Người chỉ bán trên sàn đã được khấu trừ thì nộp hồ sơ hoàn tại cơ quan thuế quản lý nơi chủ hộ cư trú (khoản 5 Điều 12). Hồ sơ, trình tự theo TT 18/2026/TT-BTC (sửa bởi TT 50/2026/TT-BTC): lập tờ khai đề nghị hoàn theo mẫu tùy phương pháp tính thuế; cơ quan thuế ra quyết định hoàn hoặc hoàn kiêm bù trừ, rồi gửi lệnh hoàn trả sang Kho bạc. Tên mẫu và thời hạn giải quyết: chưa đọc văn bản gốc TT 18, TT 50.",
+      "refs": [
+        1,
+        2,
+        5,
+        6,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    "penalty": {
+      "text": "Khai sai thông tin cho sàn, không tự khai phần doanh thu ngoài sàn: xử phạt theo NĐ 125/2020/NĐ-CP sửa bởi NĐ 310/2025/NĐ-CP (khai thiếu: 20% số thuế thiếu; trốn thuế: 1–3 lần số thuế trốn). Cục Thuế đã truy thu 56 tỷ đồng của 872 cá nhân, hộ kinh doanh có hoạt động TMĐT trong 8 tháng đầu năm 2025.",
+      "refs": [
+        9,
+        7
+      ]
+    },
+    "effective": "NĐ 117/2025/NĐ-CP (9/6/2025) hiệu lực 1/7/2025; tiếp tục được dẫn chiếu tại Điều 11 NĐ 68/2026/NĐ-CP (5/3/2026). Giảm 30% TNCN khấu trừ: NĐ 398/2026/NĐ-CP từ 29/10/2026. Trong các nguồn đã đọc chưa thấy văn bản thay thế NĐ 117 đến 11/2026.",
+    "notes": "Vòng 2 đã đọc nguyên văn Điều 11, 12 NĐ 68/2026 trên bản Công báo số 152 (có lớp chữ) và Điều 1 NĐ 141/2026 (Công báo số 272): cơ chế hoàn cho phần sàn khấu trừ có trong văn bản, không chỉ trong hướng dẫn. Chưa thấy văn bản liệt kê đích danh sàn nào thuộc diện; Shopee, TikTok Shop lấy từ ví dụ của Cục Thuế. Hoa hồng tiếp thị liên kết (affiliate) do sàn trả không thuộc phạm vi mục này, chưa nghiên cứu.",
+    "sources": [
+      {
+        "id": 1,
+        "org": "Báo Điện tử Chính phủ",
+        "year": 2025,
+        "title": "Quy định quản lý thuế đối với hộ, cá nhân kinh doanh trên nền tảng thương mại điện tử (NĐ 117/2025/NĐ-CP)",
+        "quote": "Tỷ lệ % tính thuế giá trị gia tăng thực hiện theo quy định của Luật Thuế giá trị gia tăng như sau: Hàng hóa: 1%; dịch vụ: 5%; vận tải, dịch vụ có gắn với hàng hóa: 3%.",
+        "url": "https://baochinhphu.vn/quy-dinh-quan-ly-thue-doi-voi-ho-ca-nhan-kinh-doanh-tren-nen-tang-thuong-mai-dien-tu-102250611153921023.htm",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 2,
+        "org": "Báo Điện tử Chính phủ",
+        "year": 2025,
+        "title": "Quy định quản lý thuế đối với hộ, cá nhân kinh doanh trên nền tảng TMĐT (tỷ lệ TNCN)",
+        "quote": "Đối với cá nhân cư trú: Hàng hóa: 0,5%; dịch vụ: 2%; vận tải, dịch vụ có gắn với hàng hóa: 1,5%.",
+        "url": "https://baochinhphu.vn/quy-dinh-quan-ly-thue-doi-voi-ho-ca-nhan-kinh-doanh-tren-nen-tang-thuong-mai-dien-tu-102250611153921023.htm",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 3,
+        "org": "Cổng TTĐT tỉnh Hà Tĩnh",
+        "year": 2026,
+        "title": "Hướng dẫn khai thuế, khấu trừ thuế với hoạt động kinh doanh trên nền tảng TMĐT (trích nguyên văn Điều 11 NĐ 68/2026/NĐ-CP)",
+        "quote": "có chức năng đặt hàng trực tuyến và chức năng thanh toán có trách nhiệm thực hiện khấu trừ, khai thay và nộp thay số thuế đã khấu trừ đối với mỗi giao dịch",
+        "url": "https://hatinh.gov.vn/vi/bai-viet/huong-dan-khai-thue-khau-tru-thue-voi-hoat-dong-kinh-doanh-tren-nen-tang-thuong-mai-dien-tu",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 4,
+        "org": "Tạp chí Kinh tế Tài chính – Thuế Hải quan (Bộ Tài chính)",
+        "year": 2026,
+        "title": "Vì sao sàn đã khấu trừ thuế nhưng người bán vẫn phải lập hóa đơn?",
+        "quote": "Đối với các đơn hàng chưa giao thành công hoặc bị hủy, đơn hoàn trả thì người bán chưa phải xuất hóa đơn.",
+        "url": "https://thuehaiquan.tapchikinhtetaichinh.vn/vi-sao-san-da-khau-tru-thue-nhung-nguoi-ban-van-phai-lap-hoa-don-163556.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 5,
+        "org": "Thời báo Tài chính Việt Nam (Bộ Tài chính)",
+        "year": 2026,
+        "title": "Hướng dẫn giảm 30% thuế thu nhập (NĐ 398/2026/NĐ-CP)",
+        "quote": "tổ chức, cá nhân thực hiện giảm 30% số thuế thu nhập cá nhân phải khấu trừ, khai thay, nộp thay theo tháng, quý hoặc theo lần phát sinh",
+        "url": "https://thoibaotaichinhvietnam.vn/huong-dan-giam-30-thue-thu-nhap-doi-voi-ca-nhan-doanh-nghiep-co-doanh-thu-khong-qua-10-ty-dong-206205.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 6,
+        "org": "Tạp chí Kinh tế Tài chính – Thuế Hải quan (Bộ Tài chính)",
+        "year": 2026,
+        "title": "Đã kê khai, nộp thuế có được áp dụng chính sách nâng ngưỡng miễn thuế 1 tỷ đồng?",
+        "quote": "Trường hợp cuối năm, tổng doanh thu cả năm chưa đến 1 tỷ đồng thì thực hiện hoàn trả số thuế đã nộp theo Thông tư số 18/2026/TT-BTC",
+        "url": "https://thuehaiquan.tapchikinhtetaichinh.vn/da-ke-khai-nop-thue-co-duoc-ap-dung-chinh-sach-nang-nguong-mien-thue-1-ty-dong-155251.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 7,
+        "org": "VnBusiness (số liệu Cục Thuế)",
+        "year": 2025,
+        "title": "Siết quản lý, thu thuế từ thương mại điện tử tăng 63%",
+        "quote": "truy thu đối với 872 cá nhân, hộ kinh doanh, số tiền 56 tỷ đồng",
+        "url": "https://vnbusiness.vn/siet-quan-ly-thu-thue-tu-thuong-mai-dien-tu-tang-63.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 8,
+        "org": "Cổng TTĐT Chính phủ (xaydungchinhsach.chinhphu.vn)",
+        "year": 2026,
+        "title": "Nội dung mới của NĐ 68/2026/NĐ-CP và TT 18/2026/TT-BTC",
+        "quote": "bao gồm cả doanh thu đã được tổ chức, cá nhân khấu trừ, khai thay, nộp thay",
+        "url": "https://xaydungchinhsach.chinhphu.vn/noi-dung-moi-cua-nghi-dinh-68-2026-nd-cp-va-thong-tu-18-2026-tt-btc-nguoi-nop-thue-can-luu-y-119260312140920747.htm",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 9,
+        "org": "Chính phủ (Công báo số 1687+1688)",
+        "year": 2025,
+        "title": "NĐ 310/2025/NĐ-CP sửa đổi NĐ 125/2020/NĐ-CP",
+        "quote": "Phạt từ 01 đến 03 lần số tiền thuế trốn đối với hành vi trốn thuế.",
+        "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/12/46755/60183-1-20251687-1688310-2025-nd-cp.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 10,
+        "org": "Chính phủ (Công báo số 152)",
+        "year": 2026,
+        "title": "NĐ 68/2026/NĐ-CP, khoản 1 Điều 12 Xử lý tiền thuế, tiền chậm nộp, tiền phạt nộp thừa (bản gốc, trước khi NĐ 141/2026 sửa ngưỡng)",
+        "quote": "có doanh thu thực tế phát sinh của năm từ 500 triệu đồng trở xuống thì thực hiện thủ tục bù trừ, hoàn trả, hoàn trả kiêm bù trừ thu ngân sách",
+        "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/3/18/469047-1773796836_v1_1773803477_signed.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 11,
+        "org": "Chính phủ (Công báo số 152)",
+        "year": 2026,
+        "title": "NĐ 68/2026/NĐ-CP, khoản 5 Điều 12 (nơi nộp hồ sơ hoàn thuế)",
+        "quote": "cơ quan tiếp nhận và giải quyết hồ sơ hoàn thuế là cơ quan thuế quản lý nơi chủ hộ kinh doanh, cá nhân kinh doanh cư trú.",
+        "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/3/18/469047-1773796836_v1_1773803477_signed.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 12,
+        "org": "Chính phủ (Công báo số 272)",
+        "year": 2026,
+        "title": "NĐ 141/2026/NĐ-CP, khoản 1 Điều 1 (sửa '500 triệu đồng' thành '01 tỷ đồng' tại nhiều điều của NĐ 68/2026, gồm khoản 1, 2 Điều 12)",
+        "quote": "Điều 12, khoản 4 Điều 17, khoản 3 Điều 18 Nghị định số 68/2026/NĐ-CP.",
+        "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/14/469455-1778231931_v1_1778720623_signed.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 13,
+        "org": "Sở Tư pháp TP Cần Thơ (Cổng PBGDPL)",
+        "year": 2026,
+        "title": "Những điểm đáng chú ý trong Thông tư 18/2026/TT-BTC về quản lý thuế đối với hộ, cá nhân kinh doanh (hồ sơ, thủ tục hoàn thuế)",
+        "quote": "cơ quan thuế sẽ ban hành quyết định hoàn thuế hoặc quyết định hoàn thuế kiêm bù trừ với các khoản thu ngân sách nhà nước khác",
+        "url": "https://pbgdpl.cantho.gov.vn/nhung-diem-dang-chu-y-trong-thong-tu-182026tt-btc-ve-quan-ly-thue-doi-voi-ho-ca-nhan-kinh-doanh",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 14,
+        "org": "Quốc hội (toàn văn đăng trên cổng Trung tâm Phục vụ hành chính công tỉnh Nghệ An)",
+        "year": 2026,
+        "title": "Toàn văn Nghị quyết 43/2026/QH16 về giảm thuế TNCN, TNDN (khoản 1 Điều 1; Điều 2), đăng lại từ Chinhphu.vn",
+        "quote": "đối với thu nhập từ kinh doanh của cá nhân cư trú có mức doanh thu hằng năm của năm 2026, năm 2027 không quá 10 tỷ đồng",
+        "url": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-nghi-quyet-so-43-2026-qh16-ve-giam-thue-thu-nhap-ca-nhan-thue-thu-nhap-doanh-nghiep-2796.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      }
+    ]
+  },
+  {
+    "id": "thu-nhap-nen-tang-nuoc-ngoai",
+    "kind": "rule",
+    "section": "0",
+    "title": "Tiền YouTube, AdSense, Facebook, TikTok trả từ nước ngoài: không ai khấu trừ hộ, phải tự khai",
+    "summary": "Cơ quan thuế xếp tiền quảng cáo, chia sẻ doanh thu từ nền tảng nước ngoài là thu nhập kinh doanh, cá nhân cư trú phải tự khai, kể cả phần đã bị nước ngoài khấu trừ. Đến hết 2025: trên 100 triệu/năm thì nộp 7% toàn bộ doanh thu (5% GTGT + 2% TNCN). Từ 2026: từ 1 tỷ/năm trở xuống không nộp nhưng vẫn phải thông báo doanh thu trước 31/1 năm sau; trên 1 tỷ thì khai quý, TNCN nhóm quảng cáo số, nội dung số là 5% trên phần vượt ngưỡng hoặc 15% trên lợi nhuận.",
+    "tags": {
+      "risk": "high",
+      "evidence": "B",
+      "applies": [
+        "content"
+      ]
+    },
+    "who": {
+      "text": "Cá nhân cư trú tại Việt Nam nhận tiền từ YouTube (AdSense), Google, Facebook, TikTok và nền tảng nước ngoài khác. Thu nhập chịu thuế TNCN của cá nhân cư trú gồm cả thu nhập phát sinh ngoài lãnh thổ Việt Nam. Thuế cơ sở 3 Phú Thọ và Cục Thuế xếp hoạt động sáng tạo nội dung trên YouTube là cung cấp dịch vụ, kinh doanh trên nền tảng số nước ngoài. Nền tảng không có chức năng đặt hàng trực tuyến và thanh toán thì không khấu trừ thay; cá nhân tự kê khai theo Điều 8–10 NĐ 68/2026 (khoản 2 Điều 11).",
+      "refs": [
+        1,
+        2,
+        4
+      ]
+    },
+    "rule": {
+      "text": "Doanh thu đến 31/12/2025 (TT 40/2021/TT-BTC): tổng doanh thu năm trên 100 triệu thì nộp GTGT 5% và TNCN 2% trên toàn bộ doanh thu, không chỉ phần vượt ngưỡng. Từ 1/1/2026 (NĐ 68/2026 sửa bởi NĐ 141/2026): doanh thu năm từ 1 tỷ trở xuống không nộp GTGT, TNCN, nhưng phải thông báo doanh thu thực tế chậm nhất 31/1 năm sau. Trên 1 tỷ: khai theo quý kể từ quý vượt ngưỡng. TNCN theo tỷ lệ: điểm đ khoản 3 Điều 7 Luật Thuế TNCN 109/2025/QH15 đặt 5% (trước là 2%) cho cung cấp sản phẩm, dịch vụ nội dung thông tin số về giải trí, trò chơi điện tử, phim, ảnh, nhạc số, quảng cáo số, tính trên phần doanh thu vượt ngưỡng; việc áp nhóm 5% này cho tiền YouTube là suy luận từ luật, chưa thấy văn bản hướng dẫn riêng năm 2026. Hoặc chọn 15% trên lợi nhuận; trên 3 tỷ bắt buộc tính trên lợi nhuận (17%). GTGT: Cục Thuế hướng dẫn doanh thu quảng cáo từ người xem tại Việt Nam thuộc diện chịu GTGT, tỷ lệ 5%; phần doanh thu từ người xem ở nước ngoài chưa có hướng dẫn 2026 rõ ràng. Thuế đã nộp ở nước ngoài (ví dụ thuế Mỹ đã khấu trừ trên thu nhập từ lượt xem tại Hoa Kỳ) được trừ nhưng không quá số thuế Việt Nam tính cho phần thu nhập đó; nước có hiệp định tránh đánh thuế hai lần thì theo hiệp định. Không phải lập hóa đơn cho dịch vụ nội dung số cung cấp cho tổ chức, cá nhân nước ngoài (NĐ 254/2026). Năm 2026, 2027 được giảm 30% TNCN nếu doanh thu không quá 10 tỷ (NĐ 398/2026).",
+      "refs": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        11,
+        13,
+        16
+      ]
+    },
+    "cost": {
+      "text": "Dưới 1 tỷ/năm: ghi sổ doanh thu S1a-HKD, thông báo doanh thu mỗi năm, thông báo tài khoản nhận tiền. Ví dụ (ước tính của tác giả; giả định toàn bộ doanh thu chịu GTGT 5% và TNCN nhóm nội dung số 5%, chọn phương pháp tỷ lệ): doanh thu 1,5 tỷ/năm → GTGT 1,5 tỷ × 5% = 75 triệu; TNCN (1,5 − 1) tỷ × 5% = 25 triệu, giảm 30% còn 17,5 triệu; tổng khoảng 92,5 triệu (khoảng 6,2% doanh thu). Nếu phần người xem nước ngoài không chịu GTGT thì số thuế thấp hơn.",
+      "refs": [
+        7
+      ]
+    },
+    "penalty": {
+      "text": "Không khai: truy thu, tiền chậm nộp, phạt 20% số thuế thiếu, hoặc 1–3 lần số thuế nếu bị xác định trốn thuế; thời hiệu 5 năm (NĐ 125/2020/NĐ-CP sửa bởi NĐ 310/2025/NĐ-CP). Người chưa từng khai phải tự liên hệ cơ quan thuế, cung cấp doanh thu từng năm để khai bổ sung. Chi cục Thuế TMĐT khuyến cáo người có doanh thu trực tuyến từ năm 2022 chủ động kê khai vì cơ quan thuế đã có dữ liệu nhiều nguồn. Đến 22/5/2025, cơ quan thuế đã xử lý 26.658 trường hợp kinh doanh TMĐT, truy thu và phạt 747 tỷ đồng (số tổng, không tách riêng YouTuber). Vụ có số tiền trên báo chính thống (báo không nêu tên người): năm 2019, Cục Thuế TP.HCM truy thu 1,5 tỷ đồng của một chủ kênh YouTube có thu nhập 19 tỷ đồng trong 2016–2018; năm 2022, Chi cục Thuế quận 7 – Nhà Bè truy thu, phạt 31 tỷ đồng một cá nhân có thu nhập từ Google, và Cục Thuế TP.HCM khi đó đã xử lý 38 người có thu nhập từ Google với tổng 169 tỷ đồng truy thu, phạt, tiền chậm nộp. Chưa tìm được vụ nêu đích danh tên YouTuber, TikToker trên báo chính thống.",
+      "refs": [
+        12,
+        1,
+        9,
+        10,
+        14,
+        15
+      ]
+    },
+    "effective": "Doanh thu đến 31/12/2025: TT 40/2021/TT-BTC (tổng 7%). Từ 1/1/2026: NĐ 68/2026/NĐ-CP sửa bởi NĐ 141/2026/NĐ-CP; Luật Thuế TNCN 109/2025/QH15 (phần thu nhập kinh doanh áp dụng từ kỳ tính thuế 2026) sửa bởi Luật 09/2026/QH16; hóa đơn: NĐ 254/2026/NĐ-CP từ 1/7/2026; giảm 30%: NĐ 398/2026/NĐ-CP.",
+    "notes": "Mức chứng cứ tổng thể B vì hướng dẫn áp dụng riêng cho YouTube chủ yếu đến từ trả lời của cơ quan thuế đăng trên báo (mức C), còn luật nền là A. Hai điểm chưa chắc: (1) GTGT với doanh thu từ người xem nước ngoài; (2) nhóm thuế suất TNCN 5% hay nhóm khác cho AdSense. Chưa tìm được hướng dẫn chính thức nêu tên Facebook, TikTok; áp cùng nguyên tắc nền tảng nước ngoài không khấu trừ thay. Không dùng con số khấu trừ thuế Mỹ (24%, 30%) làm thuế suất Việt Nam. Vòng 2: vẫn chưa thấy văn bản hay công văn năm 2026 của Cục Thuế xếp riêng tiền AdSense vào nhóm TNCN 5%, hoặc nói rõ doanh thu từ lượt xem nước ngoài có được coi là dịch vụ xuất khẩu (không chịu, hay chịu 0%) với hộ, cá nhân nộp theo tỷ lệ. Hai điểm này vẫn là suy luận, không phải hướng dẫn.",
+    "sources": [
+      {
+        "id": 1,
+        "org": "Báo Pháp luật Việt Nam – Doanh nhân (trả lời của Thuế cơ sở 3 tỉnh Phú Thọ)",
+        "year": 2026,
+        "title": "Thu nhập của người làm sáng tạo nội dung số sẽ bị tính thuế ra sao?",
+        "quote": "Thuế GTGT phải nộp bằng 5% doanh thu tính thuế, còn thuế TNCN bằng 2%.",
+        "url": "https://doanhnhan.baophapluat.vn/thu-nhap-cua-nguoi-lam-sang-tao-noi-dung-so-se-bi-tinh-thue-ra-sao.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 2,
+        "org": "Báo Lào Cai (dẫn hướng dẫn của Cục Thuế)",
+        "year": 2026,
+        "title": "Kiếm tiền từ YouTube, đóng thuế thế nào tại Việt Nam?",
+        "quote": "Cá nhân cư trú tại Việt Nam có thu nhập từ YouTube phải kê khai, nộp thuế theo quy định, kể cả phần thu nhập đã bị khấu trừ ở nước ngoài.",
+        "url": "https://baolaocai.vn/kiem-tien-tu-youtube-dong-thue-the-nao-tai-viet-nam-post897168.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 3,
+        "org": "Báo Lào Cai (dẫn hướng dẫn của Cục Thuế)",
+        "year": 2026,
+        "title": "Kiếm tiền từ YouTube, đóng thuế thế nào tại Việt Nam? (GTGT với lượt xem tại Việt Nam)",
+        "quote": "nhận doanh thu quảng cáo từ người dùng (lượt xem) tại Việt Nam thì doanh thu thuộc đối tượng chịu thuế giá trị gia tăng",
+        "url": "https://baolaocai.vn/kiem-tien-tu-youtube-dong-thue-the-nao-tai-viet-nam-post897168.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 4,
+        "org": "Cổng TTĐT tỉnh Hà Tĩnh",
+        "year": 2026,
+        "title": "Hướng dẫn khai thuế, khấu trừ thuế với hoạt động kinh doanh trên nền tảng TMĐT (trích khoản 2 Điều 11 NĐ 68/2026)",
+        "quote": "nền tảng số khác không có chức năng đặt hàng trực tuyến và chức năng thanh toán có trách nhiệm tự kê khai, nộp thuế",
+        "url": "https://hatinh.gov.vn/vi/bai-viet/huong-dan-khai-thue-khau-tru-thue-voi-hoat-dong-kinh-doanh-tren-nen-tang-thuong-mai-dien-tu",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 5,
+        "org": "Cổng TTĐT Chính phủ (xaydungchinhsach.chinhphu.vn)",
+        "year": 2026,
+        "title": "Phương pháp tính thuế đối với cá nhân kinh doanh, hộ kinh doanh (trích điểm đ khoản 3 Điều 7 Luật Thuế TNCN 109/2025/QH15)",
+        "quote": "đ) Hoạt động cung cấp sản phẩm và dịch vụ nội dung thông tin số về giải trí, trò chơi điện tử, phim số, ảnh số, nhạc số, quảng cáo số: thuế suất 5%;",
+        "url": "https://xaydungchinhsach.chinhphu.vn/phuong-phap-tinh-thue-voi-ca-nhan-kinh-doanh-ho-kinh-doanh-119260309100708724.htm",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 6,
+        "org": "Cổng TTĐT Chính phủ (xaydungchinhsach.chinhphu.vn)",
+        "year": 2026,
+        "title": "Nội dung chính của Luật Thuế thu nhập cá nhân số 109/2025/QH15",
+        "quote": "điều chỉnh mức thuế suất từ 2% lên 5% đối với một số khoản thu nhập từ hoạt động cung cấp sản phẩm và dịch vụ nội dung thông tin số",
+        "url": "https://xaydungchinhsach.chinhphu.vn/noi-dung-chinh-cua-luat-thue-thu-nhap-ca-nhan-so-109-2025-qh15-119260123144204743.htm",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 7,
+        "org": "Cổng TTĐT Chính phủ (xaydungchinhsach.chinhphu.vn)",
+        "year": 2026,
+        "title": "Nội dung mới của NĐ 68/2026/NĐ-CP và TT 18/2026/TT-BTC",
+        "quote": "kê khai các loại thuế liên quan với cơ quan thuế chậm nhất vào ngày 31/01 của năm dương lịch tiếp theo",
+        "url": "https://xaydungchinhsach.chinhphu.vn/noi-dung-moi-cua-nghi-dinh-68-2026-nd-cp-va-thong-tu-18-2026-tt-btc-nguoi-nop-thue-can-luu-y-119260312140920747.htm",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 8,
+        "org": "EY Việt Nam",
+        "year": 2026,
+        "title": "Bản tin Thuế tháng 7/2026: trường hợp không phải lập hóa đơn theo NĐ 254/2026",
+        "quote": "Cung cấp sản phẩm, dịch vụ nội dung số cho tổ chức, cá nhân nước ngoài",
+        "url": "https://www.ey.com/vi_vn/technical/tax/tax-and-law-updates/nghi-dinh-254-2026-nd-cp-ve-hoa-don-dien-tu-va-chung-tu-dien-tu",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 9,
+        "org": "VnBusiness (phát biểu Chi cục trưởng Chi cục Thuế TMĐT)",
+        "year": 2026,
+        "title": "Quy định mới từ năm 2026 và lời cảnh báo cho các YouTuber",
+        "quote": "Những cá nhân kinh doanh trực tuyến có phát sinh doanh thu từ năm 2022 đến nay cần chủ động kê khai để tránh bị xử phạt",
+        "url": "https://vnbusiness.vn/quy-dinh-moi-tu-nam-2026-va-loi-canh-bao-cho-cac-youtuber.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 10,
+        "org": "VnBusiness (số liệu Bộ Tài chính)",
+        "year": 2025,
+        "title": "Bộ trưởng Tài chính nêu giải pháp chống thất thu thuế thương mại điện tử",
+        "quote": "Số trường hợp đã xử lý vi phạm là 26.658 trường hợp với số thuế xử lý truy thu và phạt là 747 tỷ đồng.",
+        "url": "https://vnbusiness.vn/bo-truong-tai-chinh-neu-giai-phap-chong-that-thu-thue-thuong-mai-dien-tu.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 11,
+        "org": "Thời báo Tài chính Việt Nam (Bộ Tài chính)",
+        "year": 2026,
+        "title": "Nâng ngưỡng doanh thu không phải nộp thuế lên 1 tỷ đồng (NĐ 141/2026/NĐ-CP)",
+        "quote": "ngưỡng doanh thu hộ kinh doanh không phải nộp thuế được nâng lên 1 tỷ đồng thay cho ngưỡng dưới 500 triệu đồng",
+        "url": "https://thoibaotaichinhvietnam.vn/nang-nguong-doanh-thu-khong-phai-nop-thue-len-1-ty-dong-dieu-ho-kinh-doanh-mong-cho-da-thanh-hien-thuc-196524.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 12,
+        "org": "Chính phủ (Công báo số 1687+1688)",
+        "year": 2025,
+        "title": "NĐ 310/2025/NĐ-CP sửa đổi NĐ 125/2020/NĐ-CP (thời hiệu, mức phạt khai sai, trốn thuế)",
+        "quote": "Phạt 20% số tiền thuế thiếu hoặc số tiền thuế đã được miễn, giảm, hoàn cao hơn quy định đối với hành vi khai sai dẫn đến thiếu số tiền thuế phải nộp",
+        "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/12/46755/60183-1-20251687-1688310-2025-nd-cp.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 13,
+        "org": "Thời báo Tài chính Việt Nam (Bộ Tài chính)",
+        "year": 2026,
+        "title": "Hướng dẫn giảm 30% thuế thu nhập đối với cá nhân, doanh nghiệp có doanh thu không quá 10 tỷ đồng (NĐ 398/2026/NĐ-CP)",
+        "quote": "không phân biệt phương pháp tính thuế thu nhập cá nhân",
+        "url": "https://thoibaotaichinhvietnam.vn/huong-dan-giam-30-thue-thu-nhap-doi-voi-ca-nhan-doanh-nghiep-co-doanh-thu-khong-qua-10-ty-dong-206205.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 14,
+        "org": "VietNamNet (số liệu Cục Thuế TP.HCM)",
+        "year": 2019,
+        "title": "Làm clip đăng Youtube, sống ở Sài Gòn thu nhập 19 tỷ đồng",
+        "quote": "Cục Thuế TP HCM vừa truy thu xong 1,5 tỉ đồng từ một cá nhân có thu nhập 19 tỉ đồng qua việc đăng clip lên kênh Youtube",
+        "url": "https://vietnamnet.vn/lam-clip-dang-youtube-song-o-sai-gon-thu-nhap-19-ty-dong-575397.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 15,
+        "org": "VietNamNet (phát biểu Phó Cục trưởng Cục Thuế TP.HCM)",
+        "year": 2022,
+        "title": "Kiếm lợi trăm tỷ từ Google, một người ở TP.HCM bị truy thu 31 tỷ tiền thuế",
+        "quote": "Chi cục Thuế quận 7 - Nhà Bè (TP.HCM) vừa truy thu, xử phạt số tiền 31 tỷ đồng với một cá nhân có thu nhập khủng từ Google",
+        "url": "https://vietnamnet.vn/kiem-loi-tram-ty-tu-google-mot-nguoi-o-tp-hcm-bi-truy-thu-31-ty-tien-thue-2035435.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 16,
+        "org": "Quốc hội (toàn văn đăng trên cổng Trung tâm Phục vụ hành chính công tỉnh Nghệ An)",
+        "year": 2026,
+        "title": "Toàn văn Nghị quyết 43/2026/QH16 về giảm thuế TNCN, TNDN (khoản 1 Điều 1; Điều 2), đăng lại từ Chinhphu.vn",
+        "quote": "đối với thu nhập từ kinh doanh của cá nhân cư trú có mức doanh thu hằng năm của năm 2026, năm 2027 không quá 10 tỷ đồng",
+        "url": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-nghi-quyet-so-43-2026-qh16-ve-giam-thue-thu-nhap-ca-nhan-thue-thu-nhap-doanh-nghiep-2796.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      }
+    ]
+  }
+]

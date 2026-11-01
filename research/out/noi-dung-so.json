@@ -1,0 +1,1403 @@
+[
+  {
+    "id": "kenh-youtube-ai-faceless",
+    "kind": "model",
+    "section": "1",
+    "title": "Kênh YouTube không lộ mặt, dựng nội dung bằng AI (làm tại Việt Nam)",
+    "summary": "Bỏ ra một dàn máy (≈ 48 triệu nếu mua mới) và khoảng 2,4 triệu/tháng thuê bao công cụ AI trả bằng USD; chỉ có doanh thu quảng cáo khi kênh vào được YPP. Hợp với người viết kịch bản tốt, chịu làm nội dung có góc nhìn riêng chứ không đúc khuôn. Bẫy lớn nhất: kênh sản xuất hàng loạt theo khuôn bị YouTube xếp vào “nội dung không xác thực” và tắt kiếm tiền cả kênh.",
+    "tags": {
+      "capital": "mid",
+      "breakeven": "unknown",
+      "risk": "high",
+      "legal": "simple",
+      "time": "part",
+      "evidence": "C"
+    },
+    "capital": {
+      "range": "≈ 47 – 62 triệu (mua máy mới)",
+      "text": "Mua máy mới: ≈ 47 – 62 triệu (máy + 0–6 tháng thuê bao chạy trước); đã có máy: ≈ 2,4 – 14,3 triệu (chỉ thuê bao). Gồm dàn PC Core i9-12900K(F) + RTX 3060 12GB mua mới tháng 11/2026, cộng tiền thuê bao công cụ AI cho những tháng chưa có doanh thu (chưa vào YPP thì chưa được chia tiền quảng cáo; xét duyệt YPP thường khoảng 1 tháng sau khi đạt ngưỡng). Hai cấu hình báo giá cho tổng linh kiện chính ≈ 47,4 triệu (bo mạch DDR5, phần lớn giá GearVN) và ≈ 47,8 triệu (bo mạch DDR4, giá An Phát) — chưa gồm vỏ case, màn hình, bàn phím chuột (không có báo giá). RAM 32GB đang chiếm gần 1/3 giá máy.",
+      "breakdown": [
+        {
+          "item": "CPU Intel Core i9-12900KF (bản 12900K đang báo “Liên hệ”)",
+          "value": "10,8 – 12,0 triệu",
+          "refs": [
+            21
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "VGA GeForce RTX 3060 12GB",
+          "value": "10,2 – 12,7 triệu",
+          "refs": [
+            19,
+            20
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "RAM 32GB (DDR5 hoặc DDR4 tùy bo mạch)",
+          "value": "13,9 – 16,0 triệu",
+          "refs": [
+            22,
+            23
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Bo mạch chủ B760M",
+          "value": "2,5 – 2,7 triệu",
+          "refs": [
+            24,
+            26
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "SSD NVMe Gen4 1TB",
+          "value": "4,6 – 5,0 triệu",
+          "refs": [
+            25,
+            29
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Nguồn 650–750W + tản nhiệt khí",
+          "value": "2,5 – 3,5 triệu",
+          "refs": [
+            27,
+            28
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Thuê bao công cụ AI cho 1–6 tháng chạy trước (bộ cơ sở 92 USD/tháng)",
+          "value": "2,4 – 14,3 triệu",
+          "refs": [
+            10,
+            11,
+            12,
+            13,
+            18,
+            35
+          ],
+          "grade": "C"
+        }
+      ],
+      "grade": "C",
+      "refs": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        35
+      ]
+    },
+    "burn": {
+      "range": "≈ 3,0 – 4,4 triệu/tháng",
+      "text": "Cơ sở ≈ 4,0 triệu/tháng. Đơn giá chính thức, quy đổi theo giá bán USD của Vietcombank 25.990 đ (ngày 30/10/2026): Claude Pro 20 USD = 519.800 đ (17 USD/tháng nếu trả năm 200 USD); ChatGPT Plus 20 USD = 519.800 đ; ElevenLabs Creator 22 USD = 571.780 đ (121.000 credit ≈ 121 phút giọng đọc; tháng đầu 11 USD); Midjourney Standard 30 USD = 779.700 đ → cộng 92 USD = 2.391.080 đ. Điện — công thức: kWh/tháng = công suất trung bình (kW) × giờ chạy/ngày × 30; tiền = kWh × giá bậc biên của hộ × 1,08 (VAT 8% đến 31/12/2026). Giả định cơ sở 0,35 kW (CPU 125 W công suất cơ sở + GPU 170 W + ≈ 55 W linh kiện khác — phần 55 W là giả định) × 8 giờ = 84 kWh; hộ đã dùng điện tới bậc 4–6 thì giá biên 2.998 – 3.460 đ/kWh → 272.000 – 314.000 đ. Khấu hao: 48 triệu / 36 tháng = 1.333.000 đ. Tổng cơ sở ≈ 4,0 triệu. Bản tiết kiệm (1 chatbot, Midjourney Basic 10 USD, tổng 52 USD) ≈ 3,0 triệu. Bản nặng (0,47 kW: CPU 241 W turbo tối đa + GPU 170 W + ≈ 60 W; 12 giờ/ngày = 169 kWh ≈ 632.000 đ ở bậc 6) ≈ 4,4 triệu. Chưa tính: internet, công người làm, VAT/phí thẻ trên thuê bao nước ngoài (ElevenLabs ghi giá chưa gồm thuế).",
+      "grade": "C",
+      "refs": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        34,
+        35,
+        36
+      ]
+    },
+    "breakeven": {
+      "range": "Không xác định trước khi vào YPP",
+      "text": "Trước khi vào YPP doanh thu quảng cáo bằng 0, nên không tính được thời gian hoà vốn. Ngưỡng hiện hành: 1.000 người đăng ký + 4.000 giờ xem hợp lệ/12 tháng, hoặc 1.000 người đăng ký + 10 triệu lượt xem Shorts hợp lệ/90 ngày. Kênh nộp mới từ 1/2/2027: 8.000 giờ/365 ngày hoặc 20 triệu lượt xem Shorts/90 ngày. YPP mở rộng 500 người đăng ký (có ở Việt Nam) chỉ mở fan funding, Shopping — không chia tiền quảng cáo. Sau khi vào YPP, lượt xem video dài cần để bù chi phí cơ sở ≈ 4,04 triệu/tháng (≈ 158 USD theo giá mua chuyển khoản VCB 25.610 đ): ≈ 876.000 lượt/tháng nếu RPM 0,18 USD (người xem Việt Nam, dữ liệu Dynamoi), ≈ 155.000 lượt nếu RPM 1,02 USD (trung vị 76 thị trường trong mẫu của Dynamoi, số đọc ngày 01/11/2026). Công thức: lượt xem cần = chi phí (USD) / RPM × 1.000.",
+      "grade": "C",
+      "refs": [
+        1,
+        2,
+        5,
+        18,
+        30,
+        35
+      ]
+    },
+    "margin": {
+      "gross": "Chưa có số liệu đáng tin",
+      "net": "Chưa có số liệu đáng tin",
+      "text": "Không có nguồn công bố cả doanh thu lẫn chi phí của một kênh faceless Việt Nam nên chưa tính được biên. Case gần nhất: VnExpress (7/2025) kể một người ở TP.HCM làm 5 kênh dựng bằng AI, thu 'vài nghìn USD/tháng' kể cả tiền tài trợ, thuê 2 nhân viên — không nêu chi phí. Cấu trúc: doanh thu = lượt xem có quảng cáo × RPM. Video dài: chủ kênh nhận 55% doanh thu ròng quảng cáo trên trang xem. Shorts: doanh thu quảng cáo giữa các Shorts gộp thành quỹ, chia theo tỷ lệ lượt xem của kênh trong từng nước, chủ kênh giữ 45% phần được phân bổ. Chi phí gần như cố định (thuê bao + máy), nên biên lợi nhuận phụ thuộc gần như hoàn toàn vào lượt xem và quốc gia người xem: CPM Việt Nam ≈ 0,85 USD so với Mỹ ≈ 14,67 USD (AIR Media-Tech, 2025, nguồn có lợi ích thương mại). Doanh thu từ người xem Mỹ có thể bị Google khấu trừ thuế Mỹ 0–30%.",
+      "grade": "C",
+      "refs": [
+        3,
+        4,
+        9,
+        30,
+        31,
+        37
+      ]
+    },
+    "risks": [
+      {
+        "title": "Bị tắt kiếm tiền cả kênh vì “nội dung không xác thực”",
+        "text": "Ngày 15/7/2025 YouTube đổi tên chính sách “repetitious content” thành “inauthentic content”, nói rõ nội dung lặp lại hoặc sản xuất hàng loạt không được kiếm tiền. Ví dụ bị cấm có: nội dung AI theo khuôn chung chung tạo cảm giác sản xuất hàng loạt, slideshow ảnh/chữ chạy ít bình luận, truyện cùng một khuôn. Kênh dùng nhân vật AI đóng vai chuyên gia y tế, pháp lý, tài chính, chính trị không được kiếm tiền. Xét theo cả kênh (chủ đề, metadata, video nhiều xem nhất). Sự kiện: sau thư thường niên của CEO YouTube đầu 2026, 16/100 kênh AI kém chất lượng nhiều đăng ký nhất (danh sách Kapwing) bị gỡ — tổng hơn 35 triệu đăng ký, 4,7 tỷ lượt xem (Znews 30/1/2026). Tháng 12/2025 YouTube xoá Screen Culture và KH Studio (trailer phim giả bằng AI, hơn 2 triệu đăng ký) sau khi đã tắt kiếm tiền từ cuối 3/2025.",
+        "refs": [
+          6,
+          7,
+          32,
+          33
+        ]
+      },
+      {
+        "title": "Ngưỡng YPP tăng gấp đôi từ 1/2/2027, Shorts phải duy trì 10 triệu lượt xem/90 ngày",
+        "text": "Kênh nộp mới từ 1/2/2027 cần 8.000 giờ xem/365 ngày hoặc 20 triệu lượt xem Shorts/90 ngày (gấp đôi hiện nay); kênh đã trong YPP không bị ảnh hưởng tư cách nhưng phải chấp nhận điều khoản mới trước 31/1/2027 để tiếp tục kiếm tiền đầy đủ. Cũng từ 1/2/2027, muốn nhận tiền quỹ Shorts của tháng nào phải có ít nhất 10 triệu lượt xem Shorts hợp lệ trong 90 ngày. Kênh mở muộn đốt chi phí lâu hơn trước khi có đồng đầu tiên; kênh chỉ làm Shorts có thể có tháng không được chia tiền.",
+        "refs": [
+          2,
+          4
+        ]
+      },
+      {
+        "title": "RPM thị trường Việt quá thấp so với chi phí trả bằng USD",
+        "text": "RPM YouTube ở Việt Nam ≈ 0,18 USD/1.000 lượt xem tính đến 28/10/2026, xếp 67/76 thị trường (Dynamoi — mẫu các kênh kết nối, chủ yếu kênh nhạc); CPM ≈ 0,85 USD năm 2025 (AIR Media-Tech, hơn 3.000 kênh). Cả hai là bên thứ ba có lợi ích thương mại. Bộ công cụ AI cơ sở tốn 92 USD/tháng, tức cần hàng trăm nghìn lượt xem Việt chỉ để bù thuê bao. Muốn RPM cao phải nhắm khán giả nước ngoài — khi đó doanh thu từ người xem Mỹ bị khấu trừ thuế 0–30% tùy hiệp định; không nộp thông tin thuế thì tài khoản cá nhân bị giữ 24% tổng thu nhập toàn cầu.",
+        "refs": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          30,
+          31
+        ]
+      }
+    ],
+    "legal": [
+      {
+        "title": "Gắn nhãn nội dung AI trông như thật",
+        "basis": "Chính sách YouTube “Disclosing use of GenAI content” (support.google.com/youtube/answer/14328491)",
+        "text": "Bật mục “AI use” khi tải lên nếu video: làm người thật nói/làm điều họ không làm; sửa cảnh quay sự kiện, địa điểm thật; tạo cảnh trông thật nhưng chưa từng xảy ra; hoặc nhạc AI là trọng tâm. Không cần khai với nội dung phi thực tế/hoạt hình hoặc chỉnh sửa nhỏ. Khai báo không làm giảm phân phối hay khả năng kiếm tiền. YouTube có thể tự gắn nhãn (nội dung có metadata C2PA, hệ thống tự phát hiện). Liên tục không khai: có thể bị gắn nhãn thủ công, gỡ nội dung hoặc đình chỉ YPP.",
+        "refs": [
+          8
+        ]
+      },
+      {
+        "title": "Thuế Mỹ trên doanh thu từ người xem Mỹ",
+        "basis": "Chương 3 Bộ luật Thuế vụ Mỹ — theo trang trợ giúp YouTube “US tax requirements” (answer 10391362)",
+        "text": "Mọi kênh YPP, dù ở đâu, phải nộp thông tin thuế Mỹ trong AdSense cho YouTube. Đã nộp: khấu trừ 0–30% trên thu nhập từ người xem Mỹ, tùy quan hệ hiệp định thuế của nước cư trú. Chưa nộp: tài khoản cá nhân bị giữ 24% tổng thu nhập toàn cầu. Hạn nộp/khai lợi ích hiệp định: 10/12 hằng năm.",
+        "refs": [
+          9
+        ]
+      },
+      {
+        "title": "Thuế tại Việt Nam với thu nhập từ YouTube",
+        "basis": "Khoản 1 Điều 8 NĐ 68/2026/NĐ-CP sửa đổi bởi Điều 1 NĐ 141/2026/NĐ-CP — theo trả lời của Cục Thuế trên Cổng TTĐT Chính phủ (23/7/2026)",
+        "text": "Cục Thuế (7/2026): người chỉ có doanh thu từ làm YouTube có trách nhiệm tự kê khai, nộp thuế TNCN và GTGT. Doanh thu năm từ 1 tỷ đồng trở xuống: không nộp thuế nhưng phải thông báo doanh thu thực tế với cơ quan thuế, hạn 31/1 năm sau (người bắt đầu trong 6 tháng đầu 2026: thông báo phần đến 30/6/2026 trước 31/7/2026). Trên 1 tỷ: khai, nộp thuế từ quý doanh thu vượt ngưỡng; doanh thu trên 3 tỷ (hoặc trên 1 tỷ và chọn tính theo thu nhập) phải quyết toán TNCN năm, hạn 31/3. Chi tiết tỷ lệ thuế xem mục pháp lý chung phần 0.",
+        "refs": [
+          38
+        ]
+      },
+      {
+        "title": "Bản quyền và giấy phép thương mại của công cụ AI",
+        "basis": "Chính sách kiếm tiền kênh YouTube — mục Reused content (answer 1311392); điều khoản gói Midjourney (docs.midjourney.com)",
+        "text": "Chính sách “nội dung dùng lại” tách khỏi bản quyền: có quyền dùng vẫn có thể bị tắt kiếm tiền nếu không biến đổi đáng kể; ngược lại Content ID và khiếu nại bản quyền vẫn áp dụng riêng. Công cụ AI có điều khoản thương mại riêng: Midjourney buộc công ty doanh thu trên 1 triệu USD/năm mua gói Pro hoặc Mega. Kiểm tra quyền thương mại của gói giọng đọc đang dùng trước khi bật kiếm tiền.",
+        "refs": [
+          6,
+          13
+        ]
+      }
+    ],
+    "seed": null,
+    "notes": "Toàn bộ phần chi phí là ước tính của tác giả (mức C) dựng trên đơn giá chính thức (mức A). Chủ kênh thật nên thay bằng số của mình: giờ máy chạy/ngày và công suất thực (đo bằng ổ cắm có đồng hồ), bậc điện biên của hộ (xem hoá đơn EVN), gói công cụ thực dùng (nhiều kênh chỉ cần 1 chatbot), giá máy thực mua hoặc máy sẵn có, tỷ giá ngày ngân hàng trừ tiền thẻ, RPM trong YouTube Studio của chính kênh. Số của Dynamoi thay đổi hằng ngày (27/10: hạng 68/75, trung vị 1,04 USD; 28/10: hạng 67/76, trung vị 1,02 USD); chưa tìm được nguồn có phương pháp công khai cho riêng Việt Nam. RPM Dynamoi tính theo nước người xem trên mẫu kênh kết nối (chủ yếu nhạc), không phải RPM chung của kênh Việt; kênh nhắm người xem nước ngoài có RPM khác hẳn. Giá RAM tháng 11/2026 cao bất thường (32GB ≈ 14–16 triệu) — kiểm tra lại khi mua. Từ 1/2/2027 YouTube mở rộng Premium Lite ra mọi nước có Premium — chưa rõ tác động tới kênh Việt. Kênh không đăng video hoặc bài trong tab Posts 6 tháng có thể bị tắt kiếm tiền.",
+    "sources": [
+      {
+        "id": 1,
+        "org": "YouTube (Google)",
+        "year": 2026,
+        "title": "YouTube Partner Program overview & eligibility",
+        "quote": "Get 1,000 subscribers with 4,000 qualified watch hours in the last 12 months, or",
+        "url": "https://support.google.com/youtube/answer/72851?hl=en",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 2,
+        "org": "YouTube (Google)",
+        "year": 2026,
+        "title": "Changes to the YouTube Partner Program (hiệu lực 1/2/2027)",
+        "quote": "Starting Feb. 1, 2027, YPP entry thresholds for new creators are changing to 8,000 qualified watch hours in the last 365 days, or 20M qualified Shorts views in the last 90 days",
+        "url": "https://support.google.com/youtube/answer/12843009?hl=en",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 3,
+        "org": "YouTube (Google)",
+        "year": 2026,
+        "title": "YouTube partner earnings overview",
+        "quote": "YouTube will pay them 55% of net revenues from ads displayed or streamed on their public videos on their content Watch Page.",
+        "url": "https://support.google.com/youtube/answer/72902?hl=en",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 4,
+        "org": "YouTube (Google)",
+        "year": 2026,
+        "title": "YouTube Shorts monetization policies",
+        "quote": "Monetizing creators will keep 45% of their allocated revenue, regardless if music was used or not.",
+        "url": "https://support.google.com/youtube/answer/12504220?hl=en",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 5,
+        "org": "YouTube (Google)",
+        "year": 2026,
+        "title": "Overview of the expanded YouTube Partner Program (danh sách nước có Vietnam)",
+        "quote": "Get 500 subscribers with 3 valid public uploads in the last 90 days, and 3,000 qualified watch hours in the last 12 months",
+        "url": "https://support.google.com/youtube/answer/13429240?hl=en",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 6,
+        "org": "YouTube (Google)",
+        "year": 2025,
+        "title": "YouTube channel monetization policies — cập nhật 15/7/2025",
+        "quote": "We are also renaming this policy from  “repetitious content” to “inauthentic content.”",
+        "url": "https://support.google.com/youtube/answer/1311392?hl=en",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 7,
+        "org": "YouTube (Google)",
+        "year": 2026,
+        "title": "YouTube channel monetization policies — ví dụ không được kiếm tiền",
+        "quote": "AI-generated content made with generic or unoriginal templates giving the impression of mass production without adding the creator’s original, authentic insights or perspective",
+        "url": "https://support.google.com/youtube/answer/1311392?hl=en",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 8,
+        "org": "YouTube (Google)",
+        "year": 2026,
+        "title": "Disclosing use of GenAI content",
+        "quote": "Creators who consistently choose not to disclose this information may be subject to manual application of a label, or penalties from YouTube, including removal of content or suspension from the YouTube Partner Program.",
+        "url": "https://support.google.com/youtube/answer/14328491?hl=en",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 9,
+        "org": "YouTube (Google)",
+        "year": 2026,
+        "title": "U.S. tax requirements for YouTube earnings",
+        "quote": "If you submit U.S. tax info, tax withholding rates are between 0-30% on earnings you get from U.S. viewers",
+        "url": "https://support.google.com/youtube/answer/10391362?hl=en",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 10,
+        "org": "Anthropic",
+        "year": 2026,
+        "title": "Claude pricing — gói Pro",
+        "quote": "Per month with annual subscription discount ( $200 billed up front). $20 if billed monthly.",
+        "url": "https://claude.com/pricing",
+        "type": "price",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 11,
+        "org": "OpenAI",
+        "year": 2026,
+        "title": "What is ChatGPT Plus? (OpenAI Help Center)",
+        "quote": "Price: $20/month (billed monthly).",
+        "url": "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus",
+        "type": "price",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 12,
+        "org": "ElevenLabs",
+        "year": 2026,
+        "title": "ElevenLabs pricing",
+        "quote": "Creator $22 (121,000 credits, $11 for the first month)",
+        "url": "https://elevenlabs.io/pricing",
+        "type": "price",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 13,
+        "org": "Midjourney",
+        "year": 2026,
+        "title": "Comparing Midjourney Plans (Basic 10 USD, Standard 30 USD/tháng)",
+        "quote": "You must purchase the Pro or Mega plan if you are a company making more than $1,000,000 USD in gross revenue per year.",
+        "url": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans",
+        "type": "price",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 14,
+        "org": "NVIDIA",
+        "year": 2021,
+        "title": "GeForce RTX 3060 / 3060 Ti — Thermal and Power Specs (cột 3060 Ti / 3060)",
+        "quote": "Graphics Card Power (W) 200 170",
+        "url": "https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3060-3060ti/",
+        "type": "stats",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 15,
+        "org": "Intel",
+        "year": 2021,
+        "title": "Intel Core i9-12900K Processor — Specifications",
+        "quote": "Processor Base Power 125 W; Maximum Turbo Power 241 W",
+        "url": "https://www.intel.com/content/www/us/en/products/sku/134599/intel-core-i912900k-processor-30m-cache-up-to-5-20-ghz/specifications.html",
+        "type": "stats",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 16,
+        "org": "LuatVietnam (trích Quyết định 1279/QĐ-BCT của Bộ Công Thương)",
+        "year": 2026,
+        "title": "Bảng giá điện sinh hoạt mới nhất 2026 — 6 bậc: 1.984 / 2.050 / 2.380 / 2.998 / 3.350 / 3.460 đ/kWh (chưa VAT)",
+        "quote": "Quyết định 1279/QĐ-BCT quy định về giá bán điện đã có quy định về việc điều chỉnh mức giá bán lẻ điện bình quân từ ngày 10/5/2025",
+        "url": "https://luatvietnam.vn/linh-vuc-khac/bang-gia-dien-sinh-hoat-883-96993-article.html",
+        "type": "price",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 17,
+        "org": "VTC News",
+        "year": 2026,
+        "title": "Chi tiết bảng giá điện sinh hoạt 2026, cách tính giá điện tháng 6/2026 (05/06/2026)",
+        "quote": "Thuế GTGT tháng 4/2026 đối với điện sinh hoạt là 8%",
+        "url": "https://vtcnews.vn/chi-tiet-bang-gia-dien-sinh-hoat-2026-cach-tinh-gia-dien-thang-6-2026-ar1021826.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 18,
+        "org": "Vietcombank",
+        "year": 2026,
+        "title": "Tỷ giá ngày 30/10/2026: USD mua tiền mặt 25.580, mua chuyển khoản 25.610, bán 25.990",
+        "quote": "\"currencyCode\":\"USD\",\"cash\":\"25580.00\",\"transfer\":\"25610.00\",\"sell\":\"25990.00\"",
+        "url": "https://www.vietcombank.com.vn/api/exchangerates?date=2026-10-30",
+        "type": "price",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 19,
+        "org": "GEARVN (nhà bán lẻ — nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "VGA RTX 3060 12GB — ASUS Dual RTX 3060 OC 12GB V2: 12.690.000 đ",
+        "quote": "Card màn hình ASUS Dual GeForce RTX 3060 OC Edition 12GB V2 (DUAL-RTX3060-O12G-V2)",
+        "url": "https://gearvn.com/collections/vga-rtx-ampere-3060-12gb",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 20,
+        "org": "An Phát PC (nhà bán lẻ — nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "VGA RTX 3060 12GB — giá build PC 10.199.000 đ, bán lẻ 10.599.000 đ",
+        "quote": "Giá bán lẻ VGA : 10.599.000đ",
+        "url": "https://www.anphatpc.com.vn/vga-rtx-3060.html",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 21,
+        "org": "An Phát PC (nhà bán lẻ — nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "CPU Intel Core i9-12900KF: 10.799.000 đ (giá niêm yết 11.999.000 đ); i9-12900K: Liên hệ",
+        "quote": "CPU Intel Core i9-12900KF (30M Cache, up to 5.20 GHz, 16C24T, Socket 1700)",
+        "url": "https://www.anphatpc.com.vn/tim?q=i9-12900K",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 22,
+        "org": "An Phát PC (nhà bán lẻ — nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "RAM Kingston 32GB DDR4 3200: 15.990.000 đ",
+        "quote": "Ram PC Kingston 32GB DDR4 bus 3200 (KCP432ND8/32)",
+        "url": "https://www.anphatpc.com.vn/tim?q=RAM+DDR4+32GB",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 23,
+        "org": "GEARVN (nhà bán lẻ — nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "RAM Corsair Vengeance RGB 32GB (2x16GB) DDR5 5600: 13.890.000 đ",
+        "quote": "Ram Corsair Vengeance RGB 32GB (2x16GB) 5600 DDR5 (CMH32GX5M2B5600C40K)",
+        "url": "https://gearvn.com/search?q=ram+ddr4+32gb",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 24,
+        "org": "GEARVN (nhà bán lẻ — nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "Bo mạch chủ ASUS PRIME B760M-K (DDR5): 2.490.000 đ",
+        "quote": "Bo mạch chủ ASUS PRIME B760M-K (DDR5)",
+        "url": "https://gearvn.com/search?q=B760M",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 25,
+        "org": "GEARVN (nhà bán lẻ — nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "SSD Kingston NV3 1TB NVMe Gen4: 4.990.000 đ",
+        "quote": "Ổ cứng SSD Kingston NV3 1TB M.2 PCIe NVMe Gen4",
+        "url": "https://gearvn.com/search?q=ssd+1tb",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 26,
+        "org": "An Phát PC (nhà bán lẻ — nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "Mainboard Asus PRIME B760M-A DDR4: 2.719.000 đ",
+        "quote": "Mainboard Asus PRIME B760M-A DDR4",
+        "url": "https://www.anphatpc.com.vn/tim?q=B760M+DDR4",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 27,
+        "org": "An Phát PC (nhà bán lẻ — nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "Nguồn Corsair CX650 80 Plus Gold: 1.459.000 đ; ASUS PRIME 750B: 1.759.000 đ",
+        "quote": "Nguồn máy tính Corsair CX650 ATX 3.1/80plus Gold/CP-9020325-NA",
+        "url": "https://www.anphatpc.com.vn/tim?q=Nguon+650W",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 28,
+        "org": "An Phát PC (nhà bán lẻ — nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "Tản nhiệt khí CPU: Cooler Master Hyper 620S 1.060.000 đ; Thermalright Frost Commander 140 1.749.000 đ",
+        "quote": "Tản nhiệt Cooler Master HYPER 620S ARGB",
+        "url": "https://www.anphatpc.com.vn/tim?q=tan+nhiet+khi",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 29,
+        "org": "An Phát PC (nhà bán lẻ — nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "SSD WD Green SN3000 1TB NVMe Gen4: 4.599.000 đ",
+        "quote": "Ổ cứng SSD WD Green SN3000 1TB NVMe PCIe Gen4x4 WDS100T5G0E",
+        "url": "https://www.anphatpc.com.vn/tim?q=SSD+1TB+NVMe",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 30,
+        "org": "Dynamoi (công ty quảng bá âm nhạc — nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "Vietnam YouTube RPM (2026): 0,18 USD (đến 28/10/2026); playback CPM 1,14 USD; hạng 67/76; trung vị mẫu 1,02 USD (trang cập nhật hằng ngày, đọc 01/11/2026)",
+        "quote": "These benchmarks describe connected channels, not countrywide rates.",
+        "url": "https://dynamoi.com/data/youtube-adsense-rpm/vn",
+        "type": "report",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 31,
+        "org": "AIR Media-Tech (MCN — nguồn có lợi ích thương mại)",
+        "year": 2025,
+        "title": "How much can creators make with AdSense in 2025 — CPM theo nước (Vietnam 0,85 USD; United States 14,67 USD)",
+        "quote": "Note: These are average CPMs based on over 3,000 YouTube channels across different countries.",
+        "url": "https://air.io/en/monetization/how-much-can-creators-make-with-adsense-in-2025",
+        "type": "report",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 32,
+        "org": "Znews",
+        "year": 2026,
+        "title": "YouTube mạnh tay với 'rác AI' (30/01/2026)",
+        "quote": "Kể từ sau thư của CEO Neal Mohan, 16/100 kênh trong danh sách này đã bị gỡ khỏi YouTube.",
+        "url": "https://znews.vn/youtube-manh-tay-voi-rac-ai-post1623986.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 33,
+        "org": "GIGAZINE",
+        "year": 2025,
+        "title": "YouTube shut down two major channels, Screen Culture and KH Studio, which used AI to create fake movie trailers (23/12/2025)",
+        "quote": "Together, they had over 2 million subscribers and 1 billion views.",
+        "url": "https://gigazine.net/gsc_news/en/20251223-youtube-shuts-down-ai-fake-movie-trailers-channels",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 34,
+        "org": "Quốc hội (qua LuatVietnam)",
+        "year": 2025,
+        "title": "Nghị quyết 204/2025/QH15 về giảm thuế giá trị gia tăng (thuế suất 8% từ 1/7/2025 đến 31/12/2026)",
+        "quote": "có hiệu lực thi hành từ ngày 01/7/2025 đến hết ngày 31/12/2026",
+        "url": "https://luatvietnam.vn/tin-van-ban-moi/da-co-nghi-quyet-204-2025-qh15-ve-giam-thue-gia-tri-gia-tang-den-het-nam-2026-186-102713-article.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "snippet",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 35,
+        "org": "Tác giả cẩm nang",
+        "year": 2026,
+        "title": "Ước tính chi phí vận hành kênh faceless AI — công thức và giả định ghi trong mục burn/breakeven",
+        "quote": "kWh/tháng = kW × giờ/ngày × 30; tiền điện = kWh × giá bậc biên × 1,08; khấu hao = giá máy / 36; lượt xem hoà vốn = chi phí USD / RPM × 1.000",
+        "url": null,
+        "type": "estimate",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 36,
+        "org": "Trung tâm Phục vụ hành chính công tỉnh Nghệ An (đăng toàn văn, nguồn Quốc hội)",
+        "year": 2025,
+        "title": "TOÀN VĂN: Nghị quyết số 204/2025/QH15 về giảm thuế giá trị gia tăng",
+        "quote": "Nghị quyết này có hiệu lực thi hành từ ngày 1/7/2025 đến hết ngày 31/12/2026.",
+        "url": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-nghi-quyet-so-204-2025-qh15-ve-giam-thue-gia-tri-gia-tang-2308.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 37,
+        "org": "VnExpress International",
+        "year": 2025,
+        "title": "Vietnamese content creators earn thousands of dollars monthly from AI-generated faceless videos (09/07/2025)",
+        "quote": "Her five YouTube channels together fetch her several thousands of dollars a month, including sponsorship deals.",
+        "url": "https://e.vnexpress.net/news/tech/tech-news/vietnamese-content-creators-earn-thousands-of-dollars-monthly-from-ai-generated-faceless-videos-4911697.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 38,
+        "org": "Cổng TTĐT Chính phủ (xaydungchinhsach.chinhphu.vn) — trả lời của Cục Thuế",
+        "year": 2026,
+        "title": "Làm video đăng tải lên nền tảng Youtube và có phát sinh doanh thu, có cần kê khai thuế? (23/07/2026)",
+        "quote": "Nếu mức doanh thu năm từ hoạt động làm Youtube từ 01 tỷ đồng trở xuống thì chỉ cần thực hiện thông báo doanh thu thực tế phát sinh trong năm với cơ quan thuế",
+        "url": "https://xaydungchinhsach.chinhphu.vn/lam-video-dang-tai-len-nen-tang-youtube-va-co-phat-sinh-doanh-thu-co-can-ke-khai-thue-119260723152359049.htm",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      }
+    ]
+  },
+  {
+    "id": "trang-facebook-reels-kiem-tien",
+    "kind": "model",
+    "section": "1",
+    "title": "Trang Facebook làm Reels/video kiếm tiền từ chương trình của Meta",
+    "summary": "Vốn thấp (thiết bị sẵn có + vài thuê bao công cụ), nhưng cửa kiếm tiền trực tiếp từ Meta đã hẹp: quảng cáo trong video, quảng cáo trên Reels và thưởng hiệu suất đóng từ 31/8/2025; chương trình thay thế (Facebook content monetisation) chỉ theo lời mời. Hợp với người tự quay, tự làm nội dung gốc, có sẵn cộng đồng. Bẫy lớn nhất: đăng lại hoặc chỉnh sửa sơ sài nội dung người khác — mất quyền kiếm tiền và bị giảm phân phối cả trang.",
+    "tags": {
+      "capital": "low",
+      "breakeven": "unknown",
+      "risk": "high",
+      "legal": "simple",
+      "time": "part",
+      "evidence": "A"
+    },
+    "capital": {
+      "range": "< 10 triệu nếu có sẵn thiết bị",
+      "text": "Dưới 10 triệu nếu dùng điện thoại/máy tính sẵn có; ≈ 48 triệu nếu mua dàn PC như mô hình kênh YouTube AI. Các trang chính thức của Meta đã đọc không nêu phí tham gia chương trình kiếm tiền. Vốn chủ yếu là thiết bị quay/dựng và tiền thuê bao công cụ cho vài tháng đầu.",
+      "breakdown": [
+        {
+          "item": "Thiết bị",
+          "value": "dùng sẵn có, hoặc ≈ 47,4 – 47,8 triệu nếu mua dàn PC i9 + RTX 3060 (xem mục kenh-youtube-ai-faceless)",
+          "refs": [
+            14
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Thuê bao công cụ 1–3 tháng đầu",
+          "value": "1,35 – 7,2 triệu",
+          "refs": [
+            13,
+            14,
+            15,
+            16,
+            17
+          ],
+          "grade": "C"
+        }
+      ],
+      "grade": "C",
+      "refs": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    "burn": {
+      "range": "≈ 1,35 – 2,4 triệu/tháng",
+      "text": "Chỉ tính thuê bao công cụ. Bộ tối thiểu: 1 chatbot 20 USD + ElevenLabs Creator 22 USD + Midjourney Basic 10 USD = 52 USD ≈ 1.351.480 đ; bộ đủ như mô hình YouTube 92 USD ≈ 2.391.080 đ (giá bán USD Vietcombank 25.990 đ ngày 30/10/2026). Chưa tính điện, khấu hao máy, công làm, VAT/phí thẻ trên thuê bao nước ngoài.",
+      "grade": "C",
+      "refs": [
+        13,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    "breakeven": {
+      "range": "Không xác định",
+      "text": "Không tính được khi chưa được mời vào Facebook content monetisation: Meta không công bố đơn giá theo lượt xem; số tiền dựa trên lượt xem hợp lệ và thời gian xem “do Meta toàn quyền xác định”. Reels phải dài tối thiểu 10 giây; nội dung có thời gian xem dưới 5 giây không được tính. Ngoài FCM còn Sao (fan tặng): 1 cent/Sao, cần 500 người theo dõi trong 30 ngày liên tiếp; Việt Nam có trong danh sách hỗ trợ Sao. Tiền trả khoảng ngày 21 hằng tháng cho thu nhập tháng trước; ngoài Mỹ cần số dư tối thiểu 100 USD nếu nhận qua chuyển khoản quốc tế (wire), 25 USD với phương thức khác.",
+      "grade": "A",
+      "refs": [
+        1,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "margin": {
+      "gross": "Chưa có số liệu đáng tin",
+      "net": "Chưa có số liệu đáng tin",
+      "text": "Meta trả cho người sáng tạo gần 3 tỷ USD năm 2025, 60% cho Reels — nhưng không công bố theo quốc gia hay theo lượt xem, nên không suy ra được thu nhập một trang Việt. Không tìm được bài báo nào nêu cả doanh thu lẫn chi phí của một trang Facebook Việt sau khi quảng cáo trong video đóng (31/8/2025). Cấu trúc: doanh thu biến động theo lượt xem/thời gian xem do Meta đo, có thể bị điều chỉnh khi xét vi phạm; chi phí gần như cố định (thuê bao). Nội dung bị bên khác khiếu nại sở hữu có thể bị chia hoặc giữ tiền.",
+      "grade": "A",
+      "refs": [
+        1,
+        7
+      ]
+    },
+    "risks": [
+      {
+        "title": "Không còn cửa kiếm tiền: chương trình cũ đã đóng, chương trình mới chỉ theo lời mời",
+        "text": "Quảng cáo trong video (in-stream), quảng cáo trên Reels và thưởng hiệu suất kết thúc ngày 31/8/2025. Facebook content monetisation hiện chỉ theo lời mời; mẫu bày tỏ quan tâm không phải đơn đăng ký và không bảo đảm được mời. Thưởng Breakthrough (tới 5.000 USD) chỉ cho người ở Mỹ. Trang lập ra để ăn quảng cáo trong video kiểu cũ hiện không còn nguồn thu đó; người chưa được mời gần như chỉ còn Sao, gói đăng ký và nội dung thương hiệu.",
+        "refs": [
+          1,
+          2,
+          12
+        ]
+      },
+      {
+        "title": "Bị gắn cờ nội dung không nguyên bản: mất kiếm tiền và bị bóp phân phối cả trang",
+        "text": "Thông báo ngày 14/7/2025: tài khoản đăng lại video, ảnh, chữ của người khác nhiều lần sẽ mất quyền tham gia chương trình kiếm tiền một thời gian và bị giảm phân phối mọi bài; bản sao video bị giảm phân phối. Hướng dẫn nội dung gốc coi các thao tác sau là “chỉnh sửa nhỏ” (vẫn bị phạt): thêm viền, logo/watermark, chỉ thêm chữ hoặc tiêu đề, nhạc nền, đổi tốc độ, phụ đề, lồng tiếng chỉ mô tả lại, video react chỉ xem cùng, ghép clip không có tường thuật riêng. Nửa đầu 2025 Meta xử lý khoảng 500.000 tài khoản spam/tương tác giả và gỡ khoảng 10 triệu hồ sơ mạo danh người làm nội dung lớn.",
+        "refs": [
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "title": "Trang bị hạn chế hoặc cấm kiếm tiền do vi phạm chính sách",
+        "text": "Một vi phạm Tiêu chuẩn cộng đồng có thể làm mất quyền dùng công cụ kiếm tiền; vi phạm Chính sách kiếm tiền dành cho đối tác (PMP) hoặc Chính sách kiếm tiền từ nội dung (CMP) lặp lại có thể bị cấm tạm thời hoặc vĩnh viễn. Kháng nghị video chỉ gửi được một lần, thường trả lời trong 7 ngày. Khán giả phần lớn là tương tác giả, chia sẻ dàn dựng, crosspost số lượng lớn cũng làm mất quyền kiếm tiền; thu nhập có thể bị điều chỉnh khi phát hiện vi phạm.",
+        "refs": [
+          3,
+          4,
+          11,
+          19
+        ]
+      }
+    ],
+    "legal": [
+      {
+        "title": "Điều kiện quốc gia, tài khoản nhận tiền và xác minh thuế",
+        "basis": "Partner Monetisation Policies (Meta Business Help 169845596919485); About payouts on Facebook (194187525195870)",
+        "text": "Phải cư trú ở quốc gia có tính năng; tổ chức tài chính liên kết cũng phải ở quốc gia đủ điều kiện, đổi nơi ở có thể mất quyền kiếm tiền. Tên tài khoản Facebook/Instagram phải khớp tên pháp lý gắn với mã số thuế. Chưa thêm tài khoản nhận tiền: tối đa tích 500 USD/công cụ (1.500 USD cho 3 công cụ); quá 6 tháng không thêm thì mất số tiền đó.",
+        "refs": [
+          11,
+          4
+        ]
+      },
+      {
+        "title": "Bản quyền và quyền sở hữu nội dung",
+        "basis": "Original content guidelines on Facebook (262834734651607); About Facebook content monetisation for creators (1049081556813520)",
+        "text": "Nội dung có khiếu nại sở hữu được giải quyết nghiêng về bên thứ ba thì không được trả tiền; trong lúc xem xét, Meta giữ một phần hoặc toàn bộ tiền. Hướng dẫn nội dung gốc tách biệt với chính sách sở hữu trí tuệ: biến đổi đủ để được phân phối vẫn có thể vi phạm quyền của người khác.",
+        "refs": [
+          1,
+          10
+        ]
+      },
+      {
+        "title": "Thuế tại Việt Nam với thu nhập từ Meta",
+        "basis": "Khoản 1 Điều 8 NĐ 68/2026/NĐ-CP sửa đổi bởi Điều 1 NĐ 141/2026/NĐ-CP (Cục Thuế mới trả lời cụ thể cho trường hợp YouTube); xem mục pháp lý chung phần 0",
+        "text": "Cục Thuế hướng dẫn (7/2026) cho người có doanh thu từ YouTube: tự kê khai, nộp thuế; doanh thu năm từ 1 tỷ đồng trở xuống chỉ phải thông báo doanh thu thực tế với cơ quan thuế, trên 1 tỷ khai, nộp từ quý vượt ngưỡng. Tiền Meta chuyển về là doanh thu từ một nền tảng nước ngoài tương tự, nên nhiều khả năng theo cùng cách — đây là suy luận, chưa thấy văn bản trả lời riêng cho Meta; đối chiếu mục phần 0.",
+        "refs": [
+          20
+        ]
+      }
+    ],
+    "seed": null,
+    "notes": "Không tìm thấy danh sách quốc gia đủ điều kiện cho Facebook content monetisation trên các trang trợ giúp đọc được; trang Creator Fast Track hiện “not available in your country” khi truy cập từ máy ở Việt Nam (chỉ là tín hiệu theo IP, không phải xác nhận chính sách). Cách kiểm tra chắc chắn: Meta Business Suite > Kiếm tiền > Xem điều kiện của Trang, hoặc Bảng điều khiển chuyên nghiệp > Kiếm tiền. Nội dung dựng bằng AI không bị cấm riêng trong các trang đã đọc, nhưng giọng đọc AI chỉ mô tả lại clip của người khác thuộc nhóm “chỉnh sửa nhỏ”. Meta khuyên chú thích không chèn link, ít chữ in hoa, tối đa 5 hashtag. Chi phí là ước tính (mức C) theo đơn giá chính thức; người làm thật thay bằng gói công cụ mình dùng.",
+    "sources": [
+      {
+        "id": 1,
+        "org": "Meta",
+        "year": 2026,
+        "title": "About Facebook content monetisation for creators (Meta Business Help Centre)",
+        "quote": "In-stream ads, Ads on Reels and the Performance bonus programme ended on 31 August 2025, which is the last day that creators were able to earn from any of these monetisation programmes.",
+        "url": "https://www.facebook.com/business/help/1049081556813520",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 2,
+        "org": "Meta",
+        "year": 2026,
+        "title": "Facebook content monetisation (Meta for Creators)",
+        "quote": "The programme is currently invitation-only.",
+        "url": "https://creators.facebook.com/tools/facebook-content-monetization",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 3,
+        "org": "Meta",
+        "year": 2026,
+        "title": "About Facebook content monetisation for creators — cách tính tiền",
+        "quote": "The amount that you may earn is based on numerous factors, including qualified views and watch time of your eligible public content on Facebook, as solely determined by Meta.",
+        "url": "https://www.facebook.com/business/help/1049081556813520",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 4,
+        "org": "Meta",
+        "year": 2026,
+        "title": "About payouts on Facebook",
+        "quote": "Payouts are released around the 21st of every month for earnings made in the previous month.",
+        "url": "https://www.facebook.com/business/help/194187525195870",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 5,
+        "org": "Meta",
+        "year": 2026,
+        "title": "About payouts on Facebook — số dư tối thiểu ngoài Mỹ (wire 100 USD; phương thức khác 25 USD)",
+        "quote": "Wire transfer: you'll be paid once a month after you've reached the minimum balance of USD 100.",
+        "url": "https://www.facebook.com/business/help/194187525195870",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 6,
+        "org": "Meta",
+        "year": 2026,
+        "title": "Enable Facebook Stars (Meta for Creators); danh sách nước hỗ trợ Sao có Vietnam (Business Help 862669417580221)",
+        "quote": "For every Star you receive from a fan, you earn 1 cent from Meta.",
+        "url": "https://creators.facebook.com/tools/stars",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 7,
+        "org": "Meta",
+        "year": 2026,
+        "title": "Expand your opportunities to earn (Meta for Creators)",
+        "quote": "Facebook paid out nearly USD 3 billion to creators in 2025.",
+        "url": "https://creators.facebook.com/earn-money/expand-your-opportunities-to-earn",
+        "type": "stats",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 8,
+        "org": "Meta",
+        "year": 2025,
+        "title": "Combating unoriginal content to protect and elevate creators (14/7/2025)",
+        "quote": "Accounts that improperly reuse someone else's videos, photos or text posts repeatedly will not only lose access to Facebook monetisation programmes for a period of time, but will also receive reduced distribution on everything that they share.",
+        "url": "https://creators.facebook.com/blog/combating-unoriginal-content",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 9,
+        "org": "Meta",
+        "year": 2025,
+        "title": "Combating unoriginal content — số liệu xử lý nửa đầu 2025",
+        "quote": "In the first half of 2025, we took action on around 500,000 accounts engaged in spammy behaviour or fake engagement",
+        "url": "https://creators.facebook.com/blog/combating-unoriginal-content",
+        "type": "stats",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 10,
+        "org": "Meta",
+        "year": 2026,
+        "title": "Original content guidelines on Facebook",
+        "quote": "Third-party content that is posted without substantial changes is considered unoriginal and will receive reduced distribution.",
+        "url": "https://www.facebook.com/business/help/262834734651607",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 11,
+        "org": "Meta",
+        "year": 2026,
+        "title": "Partner Monetisation Policies",
+        "quote": "To monetise, you must reside in an eligible country where the product or feature is available.",
+        "url": "https://www.facebook.com/business/help/169845596919485",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 12,
+        "org": "Meta",
+        "year": 2026,
+        "title": "Apply to the Breakthrough bonus programme (Meta for Creators)",
+        "quote": "Be based in the United States.",
+        "url": "https://creators.facebook.com/breakthrough-bonus",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 13,
+        "org": "OpenAI",
+        "year": 2026,
+        "title": "What is ChatGPT Plus? (OpenAI Help Center)",
+        "quote": "Price: $20/month (billed monthly).",
+        "url": "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus",
+        "type": "price",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 14,
+        "org": "Tác giả cẩm nang",
+        "year": 2026,
+        "title": "Ước tính vốn/chi phí — dùng lại đơn giá và báo giá linh kiện của mục kenh-youtube-ai-faceless",
+        "quote": "Tổng thuê bao = tổng giá USD các gói × giá bán USD Vietcombank 25.990 đ (30/10/2026)",
+        "url": null,
+        "type": "estimate",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 15,
+        "org": "ElevenLabs",
+        "year": 2026,
+        "title": "ElevenLabs pricing",
+        "quote": "Creator $22 (121,000 credits, $11 for the first month)",
+        "url": "https://elevenlabs.io/pricing",
+        "type": "price",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 16,
+        "org": "Midjourney",
+        "year": 2026,
+        "title": "Comparing Midjourney Plans (Basic 10 USD, Standard 30 USD/tháng)",
+        "quote": "Midjourney offers four subscription tiers: Basic, Standard, Pro, and Mega.",
+        "url": "https://docs.midjourney.com/hc/en-us/articles/27870484040333-Comparing-Midjourney-Plans",
+        "type": "price",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 17,
+        "org": "Anthropic",
+        "year": 2026,
+        "title": "Claude pricing — gói Pro",
+        "quote": "Per month with annual subscription discount ( $200 billed up front). $20 if billed monthly.",
+        "url": "https://claude.com/pricing",
+        "type": "price",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 18,
+        "org": "Vietcombank",
+        "year": 2026,
+        "title": "Tỷ giá ngày 30/10/2026: USD bán 25.990, mua chuyển khoản 25.610",
+        "quote": "\"currencyCode\":\"USD\",\"cash\":\"25580.00\",\"transfer\":\"25610.00\",\"sell\":\"25990.00\"",
+        "url": "https://www.vietcombank.com.vn/api/exchangerates?date=2026-10-30",
+        "type": "price",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 19,
+        "org": "Meta",
+        "year": 2026,
+        "title": "About Page and professional mode demonetisation",
+        "quote": "A Page or profile's access to monetisation tools can be removed after a single violation of Community Standards.",
+        "url": "https://www.facebook.com/business/help/2339387956318180",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 20,
+        "org": "Cổng TTĐT Chính phủ (xaydungchinhsach.chinhphu.vn) — trả lời của Cục Thuế",
+        "year": 2026,
+        "title": "Làm video đăng tải lên nền tảng Youtube và có phát sinh doanh thu, có cần kê khai thuế? (23/07/2026) — hướng dẫn cho YouTube, dùng làm tham chiếu",
+        "quote": "Nếu mức doanh thu năm từ hoạt động làm Youtube từ 01 tỷ đồng trở xuống thì chỉ cần thực hiện thông báo doanh thu thực tế phát sinh trong năm với cơ quan thuế",
+        "url": "https://xaydungchinhsach.chinhphu.vn/lam-video-dang-tai-len-nen-tang-youtube-va-co-phat-sinh-doanh-thu-co-can-ke-khai-thue-119260723152359049.htm",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      }
+    ]
+  },
+  {
+    "id": "affiliate-shopee-tiktok-shop",
+    "kind": "model",
+    "section": "1",
+    "title": "Tiếp thị liên kết (affiliate) Shopee / TikTok Shop qua mạng xã hội",
+    "summary": "Gần như không cần vốn: đăng nội dung kèm link, nhận hoa hồng khi đơn hoàn thành. Từ 1/10/2026 Shopee khấu trừ 10% trên hoa hồng của cá nhân, hộ kinh doanh (5% GTGT + 5% TNCN, theo báo chí); TikTok Shop chưa khấu trừ, người nhận tự kê khai. Hợp với người có kênh và tự làm review thật. Bẫy lớn nhất: hoa hồng bị trần, bị trừ phần vượt hạn mức, và tài khoản bị khoá vì nội dung không chính chủ, rải link hoặc chạy quảng cáo trả phí.",
+    "tags": {
+      "capital": "low",
+      "breakeven": "unknown",
+      "risk": "mid",
+      "legal": "simple",
+      "time": "part",
+      "evidence": "B"
+    },
+    "capital": {
+      "range": "≈ 0 – vài triệu",
+      "text": "Các trang chính thức Shopee đã đọc không nêu phí tham gia. Cần CCCD (số CCCD dùng làm mã số thuế từ 1/7/2025), tài khoản ngân hàng trùng tên, kênh mạng xã hội đã đăng ký với chương trình. Công cụ dựng nội dung là tùy chọn (giá xem mục Facebook/YouTube).",
+      "breakdown": [
+        {
+          "item": "Hồ sơ thanh toán & thuế (CCCD, ảnh tra cứu MST, tài khoản ngân hàng)",
+          "value": "0 đ (công chuẩn bị hồ sơ)",
+          "refs": [
+            6
+          ],
+          "grade": "A"
+        },
+        {
+          "item": "Công cụ nội dung (tùy chọn)",
+          "value": "0 – 2,4 triệu/tháng",
+          "refs": [
+            14
+          ],
+          "grade": "C"
+        }
+      ],
+      "grade": "C",
+      "refs": [
+        6,
+        14
+      ]
+    },
+    "burn": {
+      "range": "0 – 2,4 triệu/tháng (công cụ, tùy chọn)",
+      "text": "Không có phí cố định bắt buộc trong tài liệu đã đọc. Không tính chi phí quảng cáo: Shopee Affiliate liệt kê “quảng cáo trả phí trên mạng xã hội” là quảng cáo không hợp lệ, lý do khoá tài khoản. TikTok Shop: chưa kiểm chứng được chính sách quảng cáo cho người làm affiliate.",
+      "grade": "C",
+      "refs": [
+        7,
+        14
+      ]
+    },
+    "breakeven": {
+      "range": "Không xác định (gần như không vốn)",
+      "text": "Không có vốn lớn để hoàn; chi phí chính là thời gian. Dòng tiền Shopee: đơn chỉ được tính vào chu kỳ thanh toán sau khi đã hoàn thành; giao diện ghi Shopee kết thúc đối soát ngày 20 hằng tháng. Giao diện mới thông báo nâng cấp sang hóa đơn theo ngày, chi trả vào thứ Ba và thứ Năm khi tổng tiền chờ trả đạt mức tối thiểu (giá trị ngưỡng hiển thị theo tài khoản — chưa đọc được). Chưa đạt ngưỡng thì cộng dồn sang kỳ sau.",
+      "grade": "A",
+      "refs": [
+        2,
+        3,
+        8
+      ]
+    },
+    "margin": {
+      "gross": "Chưa có số liệu đáng tin",
+      "net": "Chưa có số liệu đáng tin",
+      "text": "Tỷ lệ hoa hồng Shopee thay đổi theo sản phẩm, ngành hàng và chiến dịch, hiển thị trong trang affiliate sau khi đăng nhập; nhóm này không đọc được bảng tỷ lệ công khai nên không ghi số. Cấu trúc: hoa hồng = hoa hồng từ Shopee + “Hoa hồng Xtra” (thưởng thêm từ người bán), bị chặn bởi mức tối đa trên mỗi đơn và hạn mức hàng tháng (phần vượt bị khấu trừ), rồi trừ thuế (từ 1/10/2026: 5% GTGT + 5% TNCN). Chi phí chính là thời gian làm nội dung. TikTok Shop: tỷ lệ hoa hồng do người bán đặt cho từng sản phẩm; chưa đọc được điều khoản chính thức (trang cho người bán/affiliate tải bằng JavaScript); theo báo chí (10/2026) TikTok chưa khấu trừ thuế khi chi trả.",
+      "grade": "A",
+      "refs": [
+        1,
+        4,
+        5,
+        13,
+        15,
+        17
+      ]
+    },
+    "risks": [
+      {
+        "title": "Tài khoản affiliate bị khoá, mất quyền tạo link và nhận hoa hồng",
+        "text": "Shopee liệt kê lý do khoá: nội dung không chính chủ/sao chép; nội dung cấm; nội dung rác (khuyến mãi giả, đánh giá mồi nhử, bài trùng lặp); quảng cáo không hợp lệ (email quảng cáo, giả mạo Shopee, dùng thương hiệu/từ khoá Shopee, quảng cáo trả phí trên mạng xã hội); chiếm đoạt lưu lượng; rải link; dùng kênh chưa đăng ký; lượng truy cập không khớp kênh đã đăng ký. Sau ngày bị khoá, tài khoản không tạo được link và không nhận hoa hồng.",
+        "refs": [
+          7,
+          9
+        ]
+      },
+      {
+        "title": "Hoa hồng bị trần, bị trừ phần vượt hạn mức, đơn huỷ không được tính",
+        "text": "Mỗi đơn có mức hoa hồng tối đa; mỗi tháng có hạn mức do Shopee thông báo — tổng hoa hồng vượt hạn mức thì phần vượt bị khấu trừ. Tỷ lệ Hoa hồng Xtra hiển thị khác thực tế thì tỷ lệ thực tế được áp dụng. Chỉ đơn hoàn thành mới vào chu kỳ thanh toán. Thay đổi gần đây trên giao diện: hoa hồng chuyển sang hiển thị theo từng đơn thay vì từng chuyển đổi (ngày áp dụng hiển thị theo tài khoản).",
+        "refs": [
+          4,
+          5,
+          8,
+          13
+        ]
+      },
+      {
+        "title": "Kênh dẫn traffic bị giảm phân phối",
+        "text": "Người làm affiliate sống nhờ một trang mạng xã hội. Trên Facebook, nội dung bên thứ ba đăng lại không thay đổi đáng kể bị giảm phân phối; Meta cho biết chú thích không có link chạy tốt nhất — tức bài gắn link affiliate ở chú thích thiệt về phân phối. Một trang bị bóp lượt xem là doanh thu affiliate rơi theo.",
+        "refs": [
+          10,
+          11
+        ]
+      }
+    ],
+    "legal": [
+      {
+        "title": "Khấu trừ thuế TNCN trên hoa hồng affiliate",
+        "basis": "Khoản 6 Điều 7, điểm c khoản 2 Điều 8 NĐ 253/2026/NĐ-CP (theo trả lời của Cục Thuế trên Cổng TTĐT Chính phủ, 23/7/2026); khoản 1 Điều 8 NĐ 68/2026/NĐ-CP sửa đổi bởi NĐ 141/2026/NĐ-CP; thông báo của Shopee áp dụng từ 1/10/2026 (qua báo chí)",
+        "text": "Cục Thuế (7/2026): người làm affiliate Shopee không đăng ký kinh doanh thì hoa hồng là thu nhập có tính chất tiền lương, tiền công — Shopee khấu trừ, nộp thay TNCN, cuối năm người nhận tổng hợp để quyết toán; có đăng ký kinh doanh thì hoa hồng là doanh thu kinh doanh, doanh thu năm từ 1 tỷ trở xuống chỉ phải thông báo doanh thu. Từ 1/10/2026 Shopee đổi cách khấu trừ: cá nhân, cá nhân kinh doanh, hộ kinh doanh bị khấu trừ 5% GTGT + 5% TNCN trên hoa hồng (VietnamFinance dẫn thông báo của Shopee; chưa đọc được bản thông báo gốc). Trước đó giao diện Shopee Affiliate ghi khấu trừ 10% khi hoa hồng hợp lệ từ 250.000 đ; không tìm được văn bản thuế nào đặt ngưỡng 250.000 đ — đây là cách Shopee áp dụng, có thể đã thay đổi sau 1/10/2026, kiểm tra trong tài khoản. TikTok Shop: theo báo chí (10/2026) chưa khấu trừ thuế khi chi trả; Thuế cơ sở 3 TP.HCM hướng dẫn hộ kinh doanh làm affiliate TikTok áp thuế suất TNCN 2% (hoa hồng đại lý). Từ 1/7/2025 số CCCD thay mã số thuế của cá nhân, hộ kinh doanh. Shopee Việt Nam chưa nhận cá nhân ở nước ngoài làm affiliate.",
+        "refs": [
+          1,
+          6,
+          12,
+          16,
+          15,
+          17
+        ]
+      },
+      {
+        "title": "Luật Quảng cáo sửa đổi 2025",
+        "basis": "Luật sửa đổi, bổ sung một số điều của Luật Quảng cáo (2025) — chi tiết ở mục pháp lý chung (nhóm khác)",
+        "text": "Người review gắn link bán hàng là người chuyển tải nội dung quảng cáo; nghĩa vụ cụ thể xem mục pháp lý chung.",
+        "refs": []
+      },
+      {
+        "title": "Quy định nội dung và thương hiệu của Shopee Affiliate",
+        "basis": "Shopee Help Center — khiếu nại tài khoản Shopee Affiliate (help.shopee.vn/portal/10/article/125482)",
+        "text": "Cấm nội dung không chính chủ, nội dung rác, rải link, chiếm lưu lượng; dùng thương hiệu/từ khoá liên quan đến Shopee để quảng cáo bị xem là quảng cáo không hợp lệ. Vi phạm thì phải xoá bài/link, gửi bằng chứng để khiếu nại.",
+        "refs": [
+          7
+        ]
+      }
+    ],
+    "seed": null,
+    "notes": "Trang affiliate.shopee.vn là ứng dụng JavaScript; các câu trích từ giao diện (thuế 250.000 đ/10%, đối soát ngày 20, hóa đơn theo ngày trả thứ Ba/thứ Năm, hạn mức hoa hồng) được đọc từ tệp ngôn ngữ giao diện tiếng Việt của chính trang ngày 01/11/2026 — là câu chữ của Shopee nhưng có thể thuộc nhiều phiên bản giao diện cùng lúc. Người làm thật: kiểm tra tỷ lệ hoa hồng, hạn mức tháng, ngưỡng chi trả, cách khấu trừ thuế trong tài khoản của mình. Cách khấu trừ thuế mới của Shopee từ 1/10/2026 (5% GTGT + 5% TNCN) mới có nguồn báo chí; ngưỡng 250.000 đ không có căn cứ trong văn bản thuế đã tìm. TikTok Shop Affiliate: chưa có nguồn chính thức về tỷ lệ hoa hồng, điều kiện tham gia, chu kỳ trả (seller-vn.tiktok.com, affiliate.tiktok.com tải bằng JavaScript; shop.tiktok.com chặn bằng kiểm tra bảo mật); các con số '1.000 người theo dõi, 18 tuổi' chỉ có trên blog. Biên lợi nhuận: chưa tìm được case có công bố cả hoa hồng lẫn chi phí.\n\nCác nguồn ghi \"chữ trong giao diện trang\" là câu chữ chính thức của Shopee hiển thị trong trang Shopee Affiliate sau khi đăng nhập, không phải văn bản chính sách công khai. Vì người đọc không mở link mà thấy ngay được, các nguồn này được hạ xuống mức B.",
+    "sources": [
+      {
+        "id": 1,
+        "org": "Shopee Việt Nam",
+        "year": 2026,
+        "title": "Shopee Affiliate — giao diện thiết lập thuế (cá nhân trong nước) (chữ trong giao diện trang, phải đăng nhập mới thấy)",
+        "quote": "Nếu Hoa hồng hợp lệ ≥ 250.000 VND thì áp dụng mức khấu trừ thuế 10%.",
+        "url": "https://affiliate.shopee.vn/",
+        "type": "policy",
+        "grade": "B",
+        "verified": "ui",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 2,
+        "org": "Shopee Việt Nam",
+        "year": 2026,
+        "title": "Shopee Affiliate — thông báo hóa đơn theo ngày (chữ trong giao diện trang, phải đăng nhập mới thấy)",
+        "quote": "Việc chi trả sẽ được thực hiện vào mỗi thứ Ba và thứ Năm khi tổng số tiền chờ thanh toán đạt đến mức tối thiểu…",
+        "url": "https://affiliate.shopee.vn/",
+        "type": "policy",
+        "grade": "B",
+        "verified": "ui",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 3,
+        "org": "Shopee Việt Nam",
+        "year": 2026,
+        "title": "Shopee Affiliate — lịch đối soát (chữ trong giao diện trang, phải đăng nhập mới thấy)",
+        "quote": "Shopee sẽ kết thúc quá trình đối soát vào ngày 20 hàng tháng.",
+        "url": "https://affiliate.shopee.vn/",
+        "type": "policy",
+        "grade": "B",
+        "verified": "ui",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 4,
+        "org": "Shopee Việt Nam",
+        "year": 2026,
+        "title": "Shopee Affiliate — hạn mức hoa hồng hàng tháng (chữ trong giao diện trang, phải đăng nhập mới thấy)",
+        "quote": "Tổng hoa hồng… của đơn đặt hàng trong tháng đã vượt quá giới hạn hàng tháng…, vì vậy phần vượt quá… sẽ được khấu trừ.",
+        "url": "https://affiliate.shopee.vn/",
+        "type": "policy",
+        "grade": "B",
+        "verified": "ui",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 5,
+        "org": "Shopee Việt Nam",
+        "year": 2026,
+        "title": "Shopee Affiliate — Hoa hồng Xtra (chữ trong giao diện trang, phải đăng nhập mới thấy)",
+        "quote": "Hoa hồng Xtra là hoa hồng thưởng thêm bên cạnh hoa hồng từ Shopee.",
+        "url": "https://affiliate.shopee.vn/",
+        "type": "policy",
+        "grade": "B",
+        "verified": "ui",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 6,
+        "org": "Shopee Việt Nam",
+        "year": 2026,
+        "title": "Hướng dẫn cập nhật Thông tin Thanh toán & Thông tin Thuế (Shopee Help Center)",
+        "quote": "Từ 01/07/2025, Số định danh cá nhân (Căn cước công dân) chính thức thay thế mã số thuế đối với cá nhân, hộ gia đình và hộ kinh doanh.",
+        "url": "https://help.shopee.vn/portal/10/article/180808",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 7,
+        "org": "Shopee Việt Nam",
+        "year": 2026,
+        "title": "Làm thế nào để khiếu nại cho tài khoản Shopee Affiliate qua kênh hỗ trợ Shopee Affiliate? (bảng lý do khoá tài khoản)",
+        "quote": "Quảng cáo trả phí trên mạng xã hội",
+        "url": "https://help.shopee.vn/portal/10/article/125482",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 8,
+        "org": "Shopee Việt Nam",
+        "year": 2026,
+        "title": "Shopee Affiliate — điều kiện tính đơn vào chu kỳ thanh toán (chữ trong giao diện trang, phải đăng nhập mới thấy)",
+        "quote": "Đơn hàng sẽ được tính vào chu kỳ Thanh toán tiếp theo sau khi đã hoàn thành.",
+        "url": "https://affiliate.shopee.vn/",
+        "type": "policy",
+        "grade": "B",
+        "verified": "ui",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 9,
+        "org": "Shopee Việt Nam",
+        "year": 2026,
+        "title": "Shopee Affiliate — thông báo khoá tài khoản (bản tiếng Anh của giao diện) (chữ trong giao diện trang, phải đăng nhập mới thấy)",
+        "quote": "You will be unable to generate any affiliate links or earn commission after….",
+        "url": "https://affiliate.shopee.vn/",
+        "type": "policy",
+        "grade": "B",
+        "verified": "ui",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 10,
+        "org": "Meta",
+        "year": 2026,
+        "title": "Original content guidelines on Facebook",
+        "quote": "Third-party content that is posted without substantial changes is considered unoriginal and will receive reduced distribution.",
+        "url": "https://www.facebook.com/business/help/262834734651607",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 11,
+        "org": "Meta",
+        "year": 2025,
+        "title": "Combating unoriginal content to protect and elevate creators (14/7/2025)",
+        "quote": "We've found that captions with no links, minimal use of capital letters and no more than five hashtags perform best.",
+        "url": "https://creators.facebook.com/blog/combating-unoriginal-content",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 12,
+        "org": "Shopee Việt Nam",
+        "year": 2026,
+        "title": "Shopee Affiliate — giao diện loại tài khoản nước ngoài (chữ trong giao diện trang, phải đăng nhập mới thấy)",
+        "quote": "Shopee Việt Nam hiện chưa hỗ trợ đăng ký cá nhân ở nước ngoài làm đơn vị liên kết",
+        "url": "https://affiliate.shopee.vn/",
+        "type": "policy",
+        "grade": "B",
+        "verified": "ui",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 13,
+        "org": "Shopee Việt Nam",
+        "year": 2026,
+        "title": "Shopee Affiliate — hạn mức hoa hồng mỗi đơn và thay đổi cách hiển thị (chữ trong giao diện trang, phải đăng nhập mới thấy)",
+        "quote": "Sau…, hoa hồng sẽ được hiển thị trên mỗi đơn hàng thay vì mỗi chuyển đổi.",
+        "url": "https://affiliate.shopee.vn/",
+        "type": "policy",
+        "grade": "B",
+        "verified": "ui",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 14,
+        "org": "Tác giả cẩm nang",
+        "year": 2026,
+        "title": "Ước tính chi phí công cụ — dùng lại đơn giá của mục kenh-youtube-ai-faceless (52–92 USD/tháng × 25.990 đ)",
+        "quote": "0 đ nếu tự quay bằng điện thoại; 1.351.480 – 2.391.080 đ/tháng nếu dùng bộ công cụ AI",
+        "url": null,
+        "type": "estimate",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 15,
+        "org": "VietnamFinance",
+        "year": 2026,
+        "title": "Shopee thông báo chính sách khấu trừ thuế mới với thu nhập từ Affiliate (15/09/2026)",
+        "quote": "từ ngày 1/10, đối với các đối tác tham gia chương trình dưới hình thức cá nhân, cá nhân kinh doanh hoặc hộ kinh doanh, Shopee sẽ thực hiện khấu trừ thuế trên các khoản thu nhập kinh doanh từ hoạt động Affiliate",
+        "url": "https://vietnamfinance.vn/shopee-thong-bao-chinh-sach-khau-tru-thue-moi-voi-thu-nhap-tu-affiliate-d150612.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 16,
+        "org": "Cổng TTĐT Chính phủ (xaydungchinhsach.chinhphu.vn) — trả lời của Cục Thuế",
+        "year": 2026,
+        "title": "Làm tiếp thị liên kết bán hàng hưởng hoa hồng trên sàn TMĐT cần khai thuế như thế nào? (23/07/2026)",
+        "quote": "Sàn TMĐT Shopee có trách nhiệm khấu trừ, nộp thay thuế TNCN đối với thu nhập từ tiền lương, tiền công theo quy định.",
+        "url": "https://xaydungchinhsach.chinhphu.vn/lam-tiep-thi-lien-ket-ban-hang-huong-hoa-hong-tren-san-tmdt-can-khai-thue-nhu-the-nao-119260723160309548.htm",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 17,
+        "org": "VietnamFinance",
+        "year": 2026,
+        "title": "Bán hàng Affiliate, livestream trên Tiktok thu hơn 1 tỷ đồng, nộp thuế TNCN thế nào? (01/10/2026)",
+        "quote": "Tiktok hiện không khấu trừ thuế trước khi chi trả, nên hộ kinh doanh sẽ phải tự thực hiện kê khai, nộp thuế.",
+        "url": "https://vietnamfinance.vn/ban-hang-affiliate-livestream-tren-tiktok-thu-hon-1-ty-dong-nop-thue-tncn-the-nao-d151391.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      }
+    ]
+  }
+]

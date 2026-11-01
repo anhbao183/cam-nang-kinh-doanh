@@ -1,0 +1,6 @@
+# Cấu hình máy chủ xem thử cục bộ
+.claude/launch.json
+# Bản một file, dựng lại bằng node tools/build.mjs
+dist/
+__pycache__/
+*.pyc

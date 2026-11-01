@@ -1,0 +1,2361 @@
+[
+  {
+    "id": "giat-say-tu-dong",
+    "kind": "model",
+    "section": "5",
+    "title": "Tiệm giặt sấy tự động / giặt ủi lấy liền",
+    "summary": "Bỏ vài trăm triệu vào máy giặt, máy sấy loại thương mại và mặt bằng; thu tiền theo mẻ, ít nhân công nếu cho khách tự phục vụ. Hợp người có mặt bằng sát khu trọ, chung cư nhỏ, khu du lịch. Bẫy lớn nhất: máy chạy dưới công suất trong khi tiền máy, tiền thuê và tiền điện máy sấy (đắt nhất vào giờ cao điểm buổi tối) vẫn phải trả.",
+    "tags": {
+      "capital": "mid",
+      "breakeven": "unknown",
+      "risk": "mid",
+      "legal": "simple",
+      "time": "part",
+      "evidence": "C"
+    },
+    "capital": {
+      "range": "Từ ≈ 240 triệu (riêng 8 máy LG)",
+      "text": "Ước tính của tác giả, chỉ tính tiền máy: 4 máy giặt LG 13 kg × 28,49 triệu + 4 máy sấy LG 13,6 kg × 30,99–31,99 triệu ≈ 238–242 triệu (giá niêm yết bán lẻ, tra ngày 01/11/2026, nguồn có lợi ích thương mại). Hai mốc so sánh từ báo chí: (1) hai tiệm ở TP.HCM năm 2017 dùng máy giá khoảng 10 triệu/máy giặt, 8–9 triệu/máy sấy, mỗi tiệm trên 100 triệu tiền máy, chưa kể mặt bằng (số liệu cũ); (2) trạm giặt sấy tự động máy 7 kg trong ký túc xá ĐH Xây dựng Hà Nội (2025) tốn 1,2 tỉ đồng gồm thiết bị, phần mềm thanh toán QR và cải tạo mặt bằng – báo không nêu số máy. Chưa có số liệu đáng tin cho cọc, cải tạo mặt bằng, kéo điện 3 pha và đường cấp – thoát nước của một tiệm lẻ.",
+      "breakdown": [
+        {
+          "item": "Máy giặt thương mại LG 13 kg (CWG27MDQRS)",
+          "value": "28,49 triệu/máy (2 nhà bán cùng mức)",
+          "refs": [
+            7,
+            8
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Máy sấy thương mại LG 13,6 kg (CDT29MUQES/CDT29MUOES)",
+          "value": "30,99–31,99 triệu/máy",
+          "refs": [
+            7,
+            9
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Máy sấy Speed Queen 15 kg (phương án rẻ hơn)",
+          "value": "18,45 triệu/máy (1 nhà bán)",
+          "refs": [
+            7
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Mặt bằng, điện 3 pha, cấp thoát nước, hệ thống thanh toán",
+          "value": "Thuê 10–12 triệu/tháng (2 tiệm TP.HCM, 2017); cải tạo: chưa có số liệu",
+          "refs": [
+            22
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Trạm giặt sấy tự động KTX (thiết bị, phần mềm, cải tạo)",
+          "value": "1,2 tỉ đồng (Hà Nội, 2025; không rõ số máy)",
+          "refs": [
+            21
+          ],
+          "grade": "C"
+        }
+      ],
+      "grade": "C",
+      "refs": [
+        7,
+        8,
+        9,
+        21,
+        22
+      ]
+    },
+    "burn": {
+      "range": "≈ 10 – 12 triệu thuê + điện, nước/lượt",
+      "text": "Cố định: tiền thuê (khoảng 10–12 triệu/tháng ở hai tiệm TP.HCM năm 2017 – số liệu cũ, chưa có số mới đáng tin), trả nợ/khấu hao máy, internet và phí thanh toán, bảo trì. Biến đổi lớn nhất là điện máy sấy. Ước tính tác giả cho 1 mẻ sấy điện: điện trở 5,4 kW (thông số dòng LG Giant C, không đúng model ở trên) × 0,75 giờ ≈ 4 kWh → khoảng 12.600 đồng nếu chạy giờ bình thường (3.152 đ/kWh) và khoảng 21.700 đồng nếu chạy giờ cao điểm (5.422 đ/kWh), chưa VAT – biểu giá kinh doanh dưới 6 kV theo QĐ 1279/QĐ-BCT, áp dụng đến 31/10/2026. Từ 01/11/2026 áp dụng QĐ 2892/QĐ-BCT ngày 31/10/2026, giá bình quân giảm 2% (thông cáo EVN); đến ngày 01/11/2026 EVN và Bộ Công Thương chưa công bố bảng giá chi tiết theo nhóm khách hàng. Bộ số báo chí đưa (cao điểm 3.348/3.586 đ/kWh, thấp điểm 1.274 đ/kWh) khớp với giá sản xuất cũ giảm 2% (thấp điểm sản xuất dưới 6 kV 1.300 × 0,98 = 1.274), nhiều khả năng không phải giá kinh doanh. Giờ cao điểm 17h30–22h30, thứ Hai đến thứ Bảy (QĐ 963/QĐ-BCT) trùng giờ khách đi làm về. Nước: 1 mẻ giặt máy LG dòng CWG27 10 kg dùng khoảng 50 lít (thông số nhà sản xuất, khi không tải) → khoảng 1.450 đồng ở Hà Nội (29.000 đ/m³ kinh doanh dịch vụ, chưa VAT, chưa phí BVMT nước thải); TP.HCM 21.300 đ/m³ (mức 2025) cộng giá dịch vụ thoát nước 30% giá nước.",
+      "grade": "C",
+      "refs": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        10,
+        22,
+        23
+      ]
+    },
+    "breakeven": {
+      "range": "≈ 6 – 10 lượt/ngày để đủ tiền thuê",
+      "text": "Ước tính có công thức (nguồn 25): mỗi cặp giặt + sấy bán 53.000–70.000 đồng (Joins Pro niêm yết 33.000–50.000 đ/lượt giặt 9–19 kg; một tiệm TP.HCM 10/2026 thu 50.000 đ giặt khoảng 10 kg và 20.000 đ sấy, đã gồm nước giặt), trừ điện sấy và nước còn khoảng 39.000–56.000 đồng. Chỉ để trả 10–12 triệu tiền thuê, tiệm cần khoảng 179–308 cặp/tháng, tức 6–10 cặp/ngày. Thời gian thu hồi vốn máy = vốn ÷ lãi tháng; không tìm được số liệu đáng tin về số lượt thực tế/ngày nên chưa tính được số tháng. So sánh: giặt sấy theo kg ngoài ký túc xá ở Hà Nội 12.000–30.000 đ/kg (Tuổi Trẻ 2025). Câu ‘doanh thu 3 tiệm trong 2 tháng đủ mở thêm 1 tiệm’ là lời chủ chuỗi Laundpro, người đồng thời là nhà phân phối máy – không dùng làm chuẩn.",
+      "grade": "C",
+      "refs": [
+        12,
+        19,
+        20,
+        21,
+        22,
+        25
+      ]
+    },
+    "margin": {
+      "gross": "≈ 74 – 80% mỗi lượt (ước tính)",
+      "net": "Chưa có số liệu đáng tin",
+      "text": "Biên gộp mỗi lượt (giá bán trừ điện sấy và nước) khoảng 74–80% theo ước tính ở nguồn 25, chưa trừ hóa chất, điện máy giặt và phí thanh toán. Lãi ròng phụ thuộc số lượt và tiền thuê: một tiệm TP.HCM năm 2017 thuê 12 triệu/tháng, đầu tư trên 100 triệu tiền máy, cho biết chỉ lãi 5–7 triệu/tháng khi thuận lợi (1 case, số liệu cũ). Mức ‘lợi nhuận hơn 30%’ trên báo là tự khai của chủ Laundpro, cũng là nhà phân phối Speed Queen (lợi ích thương mại) – đã loại. Thuế từ kỳ 2026: doanh thu năm ≤ 1 tỷ không chịu GTGT, không nộp TNCN, chỉ thông báo doanh thu; trên 1 tỷ, giặt là là dịch vụ: GTGT 5% trên toàn bộ doanh thu, TNCN 2% trên phần doanh thu vượt 1 tỷ (hoặc 15% thu nhập tính thuế nếu chọn cách tính theo thu nhập). Ngưỡng 1 tỷ theo NĐ 141/2026, áp dụng từ kỳ tính thuế 2026 (trước đó NĐ 68/2026 ghi 500 triệu).",
+      "grade": "C",
+      "refs": [
+        15,
+        16,
+        17,
+        22,
+        25,
+        26,
+        27
+      ]
+    },
+    "risks": [
+      {
+        "title": "Máy chạy dưới công suất, chi phí cố định ăn dần vốn",
+        "text": "Tiền máy, tiền thuê và nợ vay chạy đều dù không có khách. Thị trường phân mảnh: thống kê Bộ Công Thương 2022 có khoảng 15.316 tiệm giặt, hơn 60% mở trong 2020–2022, hơn 96% là hộ nhỏ; doanh nghiệp lớn như Masan cũng vào ngành từ 2022. Chọn sai vị trí là chết trước khi máy kịp hỏng.",
+        "refs": [
+          11,
+          13
+        ]
+      },
+      {
+        "title": "Mua máy rẻ, hỏng vặt và gián đoạn dịch vụ",
+        "text": "Tiệm đầu tiên của Laundpro gần phá sản vì máy dân dụng khấu hao nhanh, chi phí sửa chữa lớn; khi thay hệ máy, thời gian nhập khẩu kéo dài làm mất khách cũ. Nguồn là chủ tiệm kiêm nhà phân phối máy, nên chỉ đọc như một case, không phải số liệu chung.",
+        "refs": [
+          12
+        ]
+      },
+      {
+        "title": "Tiền điện máy sấy vào giờ cao điểm",
+        "text": "Giờ cao điểm 17h30–22h30 (thứ Hai–thứ Bảy) đúng giờ khách mang đồ đến. Theo biểu giá đến 31/10/2026, giá cao điểm kinh doanh dưới 6 kV 5.422 đ/kWh, cao hơn 72% giờ bình thường (3.152 đ/kWh); một mẻ sấy chạy giờ cao điểm tốn thêm khoảng 9.000 đồng tiền điện, tức gần một nửa giá một lượt sấy 20.000 đồng. Biểu giá mới từ 01/11/2026 giảm bình quân 2% nhưng chưa có bảng chi tiết; cần xem lại hóa đơn tháng đầu.",
+        "refs": [
+          1,
+          2,
+          3,
+          4,
+          20
+        ]
+      }
+    ],
+    "legal": [
+      {
+        "title": "Chỉ cần đăng ký hộ kinh doanh",
+        "basis": "Điều 83 NĐ 168/2025/NĐ-CP; Điều 3 NĐ 96/2016/NĐ-CP (viết lại bởi Điều 1 NĐ 392/2026/NĐ-CP, hiệu lực 15/11/2026)",
+        "text": "Giặt sấy không nằm trong danh mục 15 nhóm ngành nghề có điều kiện về ANTT (Điều 3 NĐ 96/2016 do NĐ 392/2026 viết lại, đã đối chiếu bản ký số), nên không cần Giấy chứng nhận đủ điều kiện ANTT. Phải đăng ký hộ kinh doanh; không được hoạt động dưới danh nghĩa hộ kinh doanh mà không đăng ký.",
+        "refs": [
+          14,
+          24
+        ]
+      },
+      {
+        "title": "Thuế theo doanh thu thực từ 2026",
+        "basis": "Điều 3, Điều 4, Điều 8 NĐ 68/2026/NĐ-CP; khoản 1, 3 Điều 7 Luật Thuế TNCN 109/2025/QH15; điểm b khoản 2 Điều 12 Luật Thuế GTGT 48/2024/QH15; NĐ 141/2026/NĐ-CP (nâng ngưỡng lên 1 tỷ)",
+        "text": "Doanh thu năm ≤ 1 tỷ: thông báo doanh thu thực tế với cơ quan thuế chậm nhất 31/01 năm sau. Vượt 1 tỷ: khai thuế theo quý từ quý vượt ngưỡng; GTGT 5%, TNCN 2% phần vượt (dịch vụ).",
+        "refs": [
+          15,
+          16,
+          17,
+          26,
+          27
+        ]
+      },
+      {
+        "title": "Nước thải và PCCC",
+        "basis": "Biểu giá Hawaco 2026 (QĐ 6592/QĐ-UBND Hà Nội); lộ trình giá thoát nước TP.HCM 2022–2025; Điều 21 Luật PCCC và CNCH 55/2024/QH15 (hiệu lực 01/7/2025)",
+        "text": "Hà Nội: tiền nước kinh doanh chưa gồm phí BVMT đối với nước thải (tỷ lệ cụ thể theo NĐ 53/2020/NĐ-CP – chưa đọc được nguyên văn). TP.HCM: cộng 30% giá dịch vụ thoát nước, xử lý nước thải. Tiệm trong nhà ở kết hợp kinh doanh phải đáp ứng điều kiện an toàn phòng cháy của Điều 21 Luật PCCC 2024. Chưa tìm thấy quy định môi trường riêng cho tiệm giặt quy mô hộ.",
+        "refs": [
+          5,
+          6,
+          18
+        ]
+      }
+    ],
+    "seed": null,
+    "notes": "Mô hình ‘giặt ủi lấy liền theo kg’ cần nhân công gấp – ủi, nên chi phí lương thay cho phần tự phục vụ; chưa có số liệu lương ngành đáng tin. Mọi báo giá máy là giá niêm yết của nhà bán lẻ (lợi ích thương mại), có thể khác giá dự án/nhà phân phối. Giá thuê mặt bằng và lãi của tiệm lấy từ bài năm 2017 – chỉ dùng làm mốc, cần khảo sát lại khu vực định mở. Giá nước TP.HCM là mức 2025 theo báo SGGP; chưa xác minh có điều chỉnh năm 2026. Biểu giá điện chi tiết theo QĐ 2892/QĐ-BCT (01/11/2026) chưa được công bố; con số báo chí nhiều khả năng là giá sản xuất. Số lượt khách/ngày thực tế: chưa có nguồn đáng tin, nên thời gian hoàn vốn chưa tính được.",
+    "sources": [
+      {
+        "id": 1,
+        "org": "EVN",
+        "year": 2025,
+        "title": "Retail electricity tariff (Decision No. 1279/QD-BCT dated 9 May 2025) – giá kinh doanh",
+        "quote": "Voltage below 6kV a) Standard hour 3,152 b) Off-peak hour 1,918 c) Peak hour 5,422",
+        "url": "https://en.evn.com.vn/d/en-US/news/RETAIL%20ELECTRICITY%20TARIFF-60-28-252",
+        "type": "price",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 2,
+        "org": "EVN",
+        "year": 2026,
+        "title": "Thông cáo báo chí: Điều chỉnh giá bán lẻ điện bình quân từ ngày 01/11/2026",
+        "quote": "giá bán lẻ điện bình quân là 2.159,9037 đồng/kWh (chưa bao gồm thuế giá trị gia tăng) áp dụng từ ngày 01 tháng 11 năm 2026",
+        "url": "https://www.evn.com.vn/d/vi-VN/news/Dieu-chinh-gia-ban-le-dien-binh-quan-tu-ngay-01-thang-11-nam-2026-60-142-510169",
+        "type": "price",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 3,
+        "org": "Tuổi Trẻ",
+        "year": 2026,
+        "title": "Giá điện giảm 2%: Chi tiết mức giá 5 bậc thang điện sinh hoạt (01/11/2026)",
+        "quote": "giá giờ cao điểm là 3.348 đồng/kWh cho cấp điện áp từ trung áp trở lên; với cấp điện áp hạ áp đên 1kV là 3.586 đồng/kWh",
+        "url": "https://tuoitre.vn/gia-dien-giam-2-chi-tiet-muc-gia-5-bac-thang-dien-sinh-hoat-100261101091531402.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 4,
+        "org": "LuatVietnam",
+        "year": 2026,
+        "title": "Giá điện giờ cao điểm là bao nhiêu? Áp dụng vào khung thời gian nào? (QĐ 963/QĐ-BCT)",
+        "quote": "giá điện cao điểm được áp dụng vào khung giờ từ 17h30 đến 22h30 (05 giờ/ngày) từ thứ Hai đến thứ Bảy hằng tuần, ngày Chủ nhật không có giờ cao điểm",
+        "url": "https://luatvietnam.vn/linh-vuc-khac/gia-dien-gio-cao-diem-la-bao-nhieu-ap-dung-vao-khung-thoi-gian-nao-883-109187-article.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 5,
+        "org": "Công ty Nước sạch Hà Nội (Hawaco)",
+        "year": 2026,
+        "title": "Bảng giá bán lẻ nước sạch năm 2026 trên địa bàn Hà Nội (hiệu lực 01/01/2026; QĐ 3541/QĐ-UBND, QĐ 6592/QĐ-UBND)",
+        "quote": "Kinh doanh dịch vụ 29.000 Giá bán trên chưa bao gồm thuế giá trị gia tăng và phí bảo vệ môi trường đối với nước thải sinh hoạt.",
+        "url": "https://hawacom.vn/thong-tin-gia-nuoc",
+        "type": "price",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 6,
+        "org": "Sài Gòn Giải Phóng",
+        "year": 2025,
+        "title": "Đơn giá nước sinh hoạt: Hộ gia đình tính theo định mức (27/3/2025)",
+        "quote": "đơn vị sản xuất, giá 12.100 đồng/m3 ; cơ sở kinh doanh dịch vụ, giá 21.300 đồng/m3",
+        "url": "https://www.sggp.org.vn/don-gia-nuoc-sinh-hoat-ho-gia-dinh-tinh-theo-dinh-muc-post787873.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 7,
+        "org": "META.vn (nhà bán lẻ – lợi ích thương mại)",
+        "year": 2026,
+        "title": "Danh mục máy giặt, máy sấy công nghiệp – giá niêm yết",
+        "quote": "Máy giặt công nghiệp LG Inverter 13kg CWG27MDQRS.ASSQEML",
+        "url": "https://meta.vn/may-giat-say-cong-nghiep-c3920",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 8,
+        "org": "Điện Máy Chợ Lớn (nhà bán lẻ – lợi ích thương mại)",
+        "year": 2026,
+        "title": "Máy giặt công nghiệp LG Inverter 13 kg CWG27MDQRS – giá 28.490.000 đ",
+        "quote": "LG Máy Giặt Công Nghiệp LG Inverter 13 Kg CWG27MDQRS",
+        "url": "https://dienmaycholon.com/may-giat/may-giat-cong-nghiep-lg-inverter-13-kg-cwg27mdqrs",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 9,
+        "org": "Điện Máy Chợ Lớn (nhà bán lẻ – lợi ích thương mại)",
+        "year": 2026,
+        "title": "Máy sấy thông hơi công nghiệp LG 13,6 kg CDT29MUOES – giá 30.990.000 đ",
+        "quote": "LG Máy Sấy Thông Hơi Công Nghiệp LG 13.6 Kg CDT29MUOES",
+        "url": "https://dienmaycholon.com/may-say/may-say-thong-hoi-cong-nghiep-lg-136-kg-cdt29muoes",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 10,
+        "org": "LG (spec sheet do Coinamatic phân phối)",
+        "year": 2023,
+        "title": "LG Giant C Dryer – thông số điện trở sấy",
+        "quote": "Heating Element kW — 5.4",
+        "url": "https://coinamatic.com/wp-content/uploads/2023/12/LG-Giant-C-Dryer.pdf",
+        "type": "quote",
+        "grade": "C",
+        "verified": "snippet",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 11,
+        "org": "Việt Nam News / VietNamNet",
+        "year": 2023,
+        "title": "Laundromat market growing in Việt Nam (6/9/2023)",
+        "quote": "Statistics of 2022 also showed that there were about 15,316 laundry shops in the country with more than 60 per cent of them launched within the period of 2020-22",
+        "url": "https://vietnamnet.vn/en/laundromat-market-growing-in-vietnam-2186079.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 12,
+        "org": "Báo Đầu tư",
+        "year": 2016,
+        "title": "CEO Laundpro Nguyễn Anh Sơn: Hai lần khởi nghiệp, một lần vui (chủ tiệm kiêm nhà phân phối Speed Queen – lợi ích thương mại)",
+        "quote": "do đầu tư dòng máy thông thường, khoản khấu hao sau thời gian sử dụng không ít, chi phí sửa chữa máy ảnh hưởng lớn đến lợi nhuận khiến dịch vụ của Sơn tiến đến bờ phá sản.",
+        "url": "https://baodautu.vn/ceo-laundpro-nguyen-anh-son-hai-lan-khoi-nghiep-mot-lan-vui-d48487.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 13,
+        "org": "VnExpress",
+        "year": 2022,
+        "title": "Masan mở chuỗi giặt ủi (12/5/2022; số liệu do Masan cung cấp – lợi ích thương mại)",
+        "quote": "toàn Việt Nam có hơn 15.000 cửa hàng giặt ủi dân sinh với hơn 60% mở mới trong 3 năm trở lại đây",
+        "url": "https://vnexpress.net/masan-mo-chuoi-giat-ui-4462463.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 14,
+        "org": "Chính phủ",
+        "year": 2025,
+        "title": "Nghị định 168/2025/NĐ-CP về đăng ký doanh nghiệp (ngày 30/6/2025) – Điều 83 (bản đăng tại ketoananpha.vn)",
+        "quote": "không được hoạt động dưới danh nghĩa hộ kinh doanh mà không đăng ký.",
+        "url": "https://ketoananpha.vn/nghi-dinh-168-2025-nd-cp",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 15,
+        "org": "Quốc hội",
+        "year": 2025,
+        "title": "Luật Thuế thu nhập cá nhân số 109/2025/QH15 – Điều 7 (thu nhập kinh doanh áp dụng từ kỳ tính thuế 2026)",
+        "quote": "Cá nhân cư trú có hoạt động sản xuất, kinh doanh có mức doanh thu năm từ 500 triệu đồng trở xuống không phải nộp thuế thu nhập cá nhân.",
+        "url": "https://ketoananpha.vn/luat-thue-thu-nhap-ca-nhan-2025",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 16,
+        "org": "Quốc hội",
+        "year": 2024,
+        "title": "Luật Thuế giá trị gia tăng số 48/2024/QH15 – Điều 12 (phương pháp tính trực tiếp)",
+        "quote": "b2) Dịch vụ, xây dựng không bao thầu nguyên vật liệu: 5%;",
+        "url": "https://ketoananpha.vn/luat-thue-gia-tri-gia-tang-2024",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 17,
+        "org": "Chính phủ",
+        "year": 2026,
+        "title": "Nghị định 68/2026/NĐ-CP về chính sách thuế và quản lý thuế đối với hộ, cá nhân kinh doanh (ngày 05/3/2026) – Điều 3 (bản ký số trên Cổng TTĐT Chính phủ)",
+        "quote": "Hộ kinh doanh, cá nhân kinh doanh có hoạt động sản xuất, kinh doanh có mức doanh thu năm từ 500 triệu đồng trở xuống thuộc đối tượng không chịu thuế giá trị gia tăng.",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/68-ndcp.signed.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 18,
+        "org": "Quốc hội",
+        "year": 2024,
+        "title": "Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ số 55/2024/QH15 – Điều 21",
+        "quote": "Nhà ở kết hợp sản xuất, kinh doanh phải bảo đảm các điều kiện an toàn về phòng cháy sau đây:",
+        "url": "https://ketoananpha.vn/luat-phong-chay-chua-chay-va-cuu-nan-cuu-ho-2024",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 19,
+        "org": "VnExpress",
+        "year": 2023,
+        "title": "Masan ra mắt chuỗi cửa hàng tự giặt sấy Joins Pro (13/8/2023) – giá niêm yết sau khuyến mại",
+        "quote": "mức giá niêm yết được áp dụng là 33.000 đồng, 40.000 đồng, 50.000 đồng mỗi lượt, lần lượt cho các khối lượng giặt 9 kg, 14 kg và 19 kg.",
+        "url": "https://vnexpress.net/masan-ra-mat-chuoi-cua-hang-tu-giat-say-4640648.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 20,
+        "org": "Tri Thức – Znews",
+        "year": 2026,
+        "title": "Tiệm trà đạo kết hợp giặt sấy 'độc lạ' ở TP.HCM (13/10/2026)",
+        "quote": "Dịch vụ giặt sấy tại đây vận hành hoàn toàn tự động, với giá 50.000 đồng cho một lần giặt và 20.000 đồng cho một lần sấy, đã bao gồm nước giặt và nước xả.",
+        "url": "https://znews.vn/tiem-tra-dao-ket-hop-giat-say-doc-la-o-tphcm-post1689158.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 21,
+        "org": "Tuổi Trẻ",
+        "year": 2025,
+        "title": "Cựu sinh viên góp tiền tỉ xây trạm giặt sấy tặng đàn em ở ký túc xá (ĐH Xây dựng Hà Nội, 31/10/2025)",
+        "quote": "Sau 3 tháng, trạm giặt sấy trị giá 1,2 tỉ đồng chính thức hoàn thành, bao gồm thiết bị, phần mềm và bảo trì phần mềm, cải tạo mặt bằng.",
+        "url": "https://tuoitre.vn/cuu-sinh-vien-gop-tien-ti-xay-tram-giat-say-tang-dan-em-o-ky-tuc-xa-20251031182736212.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 22,
+        "org": "VietNamNet",
+        "year": 2017,
+        "title": "Cửa hàng giặt sấy tự động nở rộ ở TP.HCM (15/10/2017) – 2 tiệm, số liệu cũ",
+        "quote": "Cũng đầu tư trên 100 triệu đồng tiền máy móc, tuy nhiên, để gánh khoảng tiền 12 triệu đồng thuê mặt bằng mỗi tháng",
+        "url": "https://vietnamnet.vn/cua-hang-giat-say-tu-dong-no-ro-o-tphcm-404801.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 23,
+        "org": "LG Electronics Philippines (thông số nhà sản xuất)",
+        "year": 2026,
+        "title": "Máy giặt thương mại LG 10 kg CWG27MDCRB – thông số nước (cùng dòng CWG27, khác model bán ở VN)",
+        "quote": "Water Consumption - ℓ 50(Without loading)",
+        "url": "https://www.lg.com/ph/business/commercial-laundry/washer/giant-washer/cwg27mdcrb",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 24,
+        "org": "Chính phủ",
+        "year": 2026,
+        "title": "Nghị định 392/2026/NĐ-CP ngày 20/10/2026 (hiệu lực 15/11/2026) – Điều 1 viết lại Điều 3 NĐ 96/2016: danh mục 15 nhóm ngành nghề có điều kiện về ANTT (bản ký số)",
+        "quote": "Điều 3. Ngành, nghề đầu tư kinh doanh có điều kiện về an ninh, trật tự và phạm vi quản lý",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/10/392_2026_nd-cp_20102026-signed.signed.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 25,
+        "org": "Ước tính của tác giả",
+        "year": 2026,
+        "title": "Đóng góp mỗi lượt và số lượt hòa vốn tiền thuê của tiệm giặt sấy tự phục vụ",
+        "quote": "Đóng góp 1 cặp giặt + sấy = giá giặt 33.000–50.000 đ (nguồn 19, 20) + giá sấy 20.000 đ (nguồn 20) − điện sấy ≈ 4 kWh × 3.152 đ ≈ 12.600 đ (nguồn 1, 10) − nước ≈ 50 lít × 29.000 đ/m³ ≈ 1.450 đ (nguồn 5, 23) ≈ 39.000–56.000 đ, tức ≈ 74–80% giá bán. Số cặp hòa vốn tiền thuê = 10–12 triệu/tháng (nguồn 22) ÷ 39.000–56.000 đ ≈ 179–308 cặp/tháng ≈ 6–10 cặp/ngày. Chưa tính hóa chất (nếu tiệm cấp), điện máy giặt, phí thanh toán, khấu hao máy, lương.",
+        "type": "estimate",
+        "grade": "C",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 26,
+        "org": "Sở Tư pháp TP Cần Thơ (Cổng PBGDPL)",
+        "year": 2026,
+        "title": "Một số quy định của NĐ 141/2026/NĐ-CP ngày 29/4/2026",
+        "quote": "Nghị định này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2026.",
+        "url": "https://pbgdpl.cantho.gov.vn/mot-so-quy-dinh-cua-nghi-dinh-so-1412026nd-cp-ngay-2942026-cua-chinh-phu",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 27,
+        "org": "Thời báo Tài chính Việt Nam (Bộ Tài chính)",
+        "year": 2026,
+        "title": "Nâng ngưỡng doanh thu không phải nộp thuế lên 1 tỷ đồng",
+        "quote": "sửa đổi cụm từ “500 triệu đồng” thành “01 tỷ đồng” tại Điều 3, Điều 4",
+        "url": "https://thoibaotaichinhvietnam.vn/nang-nguong-doanh-thu-khong-phai-nop-thue-len-1-ty-dong-dieu-ho-kinh-doanh-mong-cho-da-thanh-hien-thuc-196524.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      }
+    ]
+  },
+  {
+    "id": "homestay-cho-thue-ngan-han",
+    "kind": "model",
+    "section": "5",
+    "title": "Homestay / cho thuê căn hộ ngắn hạn qua Airbnb, Booking",
+    "summary": "Bỏ tiền sắm nội thất (thường kèm thuê lại hoặc mua căn hộ), thu tiền phòng theo đêm qua nền tảng. Hợp người có nhà riêng ở nơi có khách du lịch và chịu làm đủ thủ tục lưu trú. Bẫy lớn nhất: thuê lại căn để cho thuê ngắn hạn – theo số liệu AirDNA, căn trung bình ở Hà Nội không đủ trả tiền thuê, ở TP.HCM chỉ dư khoảng 20% doanh thu; làm trong chung cư còn có thể bị phạt 100–130 triệu (cá nhân) nếu bị coi là dùng căn hộ không để ở.",
+    "tags": {
+      "capital": "mid",
+      "breakeven": "slow",
+      "risk": "high",
+      "legal": "conditional",
+      "time": "part",
+      "evidence": "B"
+    },
+    "capital": {
+      "range": "≈ 115 – 160 triệu/căn (thuê lại)",
+      "text": "Ước tính có công thức cho mô hình thuê lại một căn hộ 2 phòng ngủ (nguồn 43): cọc thuê dài hạn 50–60 triệu/căn (CafeF 3/2025) + nội thất khoảng 65 triệu/căn (case quận 12 TP.HCM: 130 triệu cho 2 căn, năm 2016) đến ‘hàng trăm triệu’ (CafeF) ≈ 115–160 triệu, có thể cao hơn nếu làm nội thất cao cấp. Tự xây homestay là bài toán khác: một chủ homestay ở Tây Hồ (Hà Nội) kể đầu tư hơn 400 triệu cho 1 căn (2019, tự khai). Ngoài ra: khóa thông minh, internet, phương tiện báo cháy, chữa cháy; phí hồ sơ ANTT và thông báo cơ sở lưu trú (không thấy lệ phí cụ thể trong văn bản đọc được). Giá phòng thị trường (AirDNA, 12 tháng đến 9/2026, quy đổi 25.610 đ/USD): TP.HCM 49 USD ≈ 1,25 triệu/đêm; Hà Nội 37 USD ≈ 0,95 triệu; Đà Nẵng 64 USD ≈ 1,64 triệu; Lâm Đồng 48 USD ≈ 1,23 triệu.",
+      "breakdown": [
+        {
+          "item": "Cọc thuê dài hạn (mô hình thuê lại)",
+          "value": "50–60 triệu/căn",
+          "refs": [
+            31
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Nội thất, đồ vải, thiết bị",
+          "value": "≈ 65 triệu/căn 2PN (case 2016) đến hàng trăm triệu",
+          "refs": [
+            30,
+            31
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Tự xây 1 căn homestay (Tây Hồ, Hà Nội)",
+          "value": "hơn 400 triệu (1 case 2019, tự khai)",
+          "refs": [
+            32
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Giá phòng trung bình (ADR) theo AirDNA",
+          "value": "0,95–1,64 triệu/đêm (HN thấp nhất, Đà Nẵng cao nhất)",
+          "refs": [
+            22,
+            23,
+            24,
+            25,
+            28
+          ],
+          "grade": "B"
+        },
+        {
+          "item": "Giá phòng tham khảo (căn hộ quận 1, dịp lễ 2/9/2024)",
+          "value": "khoảng 1,6 triệu đồng/đêm (1 trường hợp)",
+          "refs": [
+            15
+          ],
+          "grade": "C"
+        }
+      ],
+      "grade": "C",
+      "refs": [
+        15,
+        22,
+        23,
+        24,
+        25,
+        28,
+        30,
+        31,
+        32,
+        43
+      ]
+    },
+    "burn": {
+      "range": "≈ 11 – 13 triệu thuê + 15,5% phí Airbnb",
+      "text": "Cố định: tiền thuê căn (căn 2PN đầy đủ nội thất ở một khu đô thị Hà Nội khoảng 11 triệu/tháng năm 2023; giá thuê chung cư trung bình theo Batdongsan quanh 13 triệu/căn ở cả Hà Nội và TP.HCM, quý 1/2025) hoặc lãi vay, phí quản lý, internet. Phí nền tảng: Airbnb đang chuyển mọi chủ nhà sang phí một phía, trừ thẳng vào tiền chủ nhà nhận, đa số 15,5% (14–16%); phí chia đôi cũ là 3% phía chủ nhà và 14,1–16,5% phía khách, đang bị bỏ dần. Booking.com không công bố tỷ lệ chung: hoa hồng tùy quốc gia, loại cơ sở và hợp đồng, tính trên cả phí dọn phòng. Biến đổi theo đêm: dọn phòng, giặt đồ vải, điện nước, vật tư – chưa có số liệu đáng tin. Điện: cơ sở lưu trú du lịch áp giá kinh doanh theo khung giờ. Thuế: nếu nền tảng có chức năng thanh toán khấu trừ, mỗi giao dịch dịch vụ bị trừ 5% GTGT + 2% TNCN.",
+      "grade": "C",
+      "refs": [
+        19,
+        21,
+        26,
+        27,
+        29,
+        33
+      ]
+    },
+    "breakeven": {
+      "range": "TP.HCM ≈ 28 – 39 tháng; HN không hòa",
+      "text": "Ước tính có công thức (nguồn 43), dùng số trung bình thị trường AirDNA (12 tháng đến 9/2026): công suất TP.HCM 57%, Hà Nội 46%, Đà Nẵng 66%, Lâm Đồng 41%. Với căn thuê lại 13 triệu/tháng, chỉ để trả tiền thuê cần công suất khoảng 41% ở TP.HCM (12,3 đêm/tháng) và 54% ở Hà Nội (16,2 đêm) – Hà Nội cao hơn mức trung bình thị trường, nên căn trung bình không hòa vốn. Ở TP.HCM, phần dư khoảng 4,1 triệu/tháng trước chi phí vận hành; vốn 115–160 triệu cần khoảng 28–39 tháng, thực tế lâu hơn vì chưa trừ dọn phòng, điện nước. Đà Nẵng có doanh thu trung bình cao nhất (30,3 triệu/tháng) nhưng không có số liệu giá thuê căn ở Đà Nẵng để tính. Lưu ý: ‘căn trung bình’ của AirDNA gồm cả phòng riêng, studio, biệt thự; căn 2PN thường có giá đêm cao hơn. Case tự khai (Tây Hồ, 2019): xây 1 căn hơn 400 triệu, hoàn vốn sau 1,5 năm – không đại diện.",
+      "grade": "C",
+      "refs": [
+        22,
+        23,
+        24,
+        25,
+        29,
+        32,
+        43
+      ]
+    },
+    "margin": {
+      "gross": "TP.HCM ≈ 20%; Hà Nội âm (thuê lại)",
+      "net": "Chưa có số liệu đáng tin",
+      "text": "Biên ở đây = (doanh thu − phí Airbnb 15,5% − tiền thuê căn) ÷ doanh thu, chưa trừ dọn phòng, điện nước, vật tư (nguồn 43): TP.HCM khoảng 20%, Hà Nội âm. Chủ nhà tự sở hữu căn thì không có tiền thuê nhưng phải tính chi phí cơ hội của căn nhà. Doanh thu trung bình mỗi căn đang hoạt động (AirDNA, 9/2025–9/2026) tăng mạnh (TP.HCM +130%, Hà Nội +146%) trong khi số căn giảm 45–49% và giá đêm giảm 13–24% – nguồn cung co lại sau đợt siết chung cư, không phải giá phòng tăng. Thuế phân biệt rõ hai loại. Cho thuê nhà để ở (hợp đồng thuê, không phải lưu trú): TNCN 5% trên phần doanh thu vượt 1 tỷ/năm. Kinh doanh lưu trú là dịch vụ: TNCN 2% phần vượt 1 tỷ (hoặc 15% thu nhập tính thuế nếu chọn), GTGT 5% toàn bộ doanh thu khi doanh thu năm trên 1 tỷ. Một căn trung bình ở TP.HCM (≈ 243 triệu/năm) nằm dưới ngưỡng 1 tỷ. Theo NĐ 117/2025, nền tảng số có chức năng thanh toán, kể cả nước ngoài, thuộc diện khấu trừ thay; Airbnb/Booking đã thực hiện đến đâu: chưa kiểm chứng. Ngưỡng 1 tỷ theo NĐ 141/2026, áp dụng từ kỳ tính thuế 2026 (trước đó NĐ 68/2026 ghi 500 triệu).",
+      "grade": "C",
+      "refs": [
+        16,
+        17,
+        18,
+        19,
+        22,
+        23,
+        26,
+        43,
+        44,
+        45
+      ]
+    },
+    "risks": [
+      {
+        "title": "Thuê lại căn: doanh thu trung bình không đủ trả tiền thuê",
+        "text": "Theo AirDNA, căn trung bình ở Hà Nội thu khoảng 12,6 triệu/tháng, sau phí Airbnb còn 10,6 triệu – thấp hơn tiền thuê chung cư trung bình khoảng 13 triệu; ở TP.HCM dư khoảng 4,1 triệu trước chi phí vận hành. Cộng thêm rủi ro chung cư: Luật Nhà ở 2023 cấm dùng căn hộ vào mục đích không phải để ở; NĐ 339/2026 (hiệu lực 26/8/2026) phạt 100–130 triệu – mức cho cá nhân, trừ trường hợp cho thuê để ở. Nhiều ban quản lý chung cư TP.HCM từng thông báo cấm cho thuê ngắn hạn (HoREA, 5/2025); đại diện chủ căn hộ cho biết nhiều người không cho thuê được nhưng vẫn trả lãi ngân hàng (11/2025). Số căn đang hoạt động trên AirDNA giảm 45% ở TP.HCM và 49% ở Hà Nội trong 12 tháng đến 9/2026.",
+        "refs": [
+          9,
+          11,
+          13,
+          22,
+          23,
+          29,
+          34,
+          35,
+          43
+        ]
+      },
+      {
+        "title": "Homestay xây trên đất không đúng mục đích bị cưỡng chế phá dỡ",
+        "text": "Ngày 4/9/2026, xã Kim Anh (Hà Nội) huy động khoảng 70 người cưỡng chế các villa, homestay xây trong rừng phòng hộ; công trình đầu tiên bị buộc khắc phục vì chuyển đất rừng phòng hộ sang đất phi nông nghiệp khi chưa được phép. Vốn xây dựng mất trắng.",
+        "refs": [
+          14
+        ]
+      },
+      {
+        "title": "Thiếu Giấy chứng nhận ANTT, bỏ sót thông báo lưu trú",
+        "text": "Kinh doanh lưu trú khi chưa có Giấy chứng nhận đủ điều kiện ANTT: phạt 10–20 triệu (cá nhân; tổ chức gấp đôi). Không thông báo lưu trú: 2–4 triệu (1–3 khách), 4–8 triệu (4–8 khách), 8–12 triệu (từ 9 khách) – mức trong Điều 10 NĐ 282/2025 đã đối chiếu bản ký số; NĐ 347/2026 chỉ sửa câu chữ đối tượng (thêm ‘có chức năng lưu trú’), giữ nguyên mức phạt. Không khai báo tạm trú cho khách nước ngoài: 3–5, 10–15, 15–20 triệu theo số khách. Với Airbnb, khách tự nhận phòng bằng mã khóa nên dễ bỏ sót bước này.",
+        "refs": [
+          6,
+          7,
+          38
+        ]
+      }
+    ],
+    "legal": [
+      {
+        "title": "Homestay là loại hình gì, có phải xếp hạng không",
+        "basis": "Khoản 6 Điều 48, Điều 49, khoản 1–2 Điều 50 Luật Du lịch 09/2017/QH14; khoản 6 Điều 21, Điều 27, khoản 1 Điều 29 NĐ 168/2017/NĐ-CP",
+        "text": "‘Nhà ở có phòng cho khách du lịch thuê’ (homestay) là một loại cơ sở lưu trú du lịch, với điều kiện khách cùng sinh hoạt với gia đình chủ nhà. Cho thuê nguyên căn không có chủ ở cùng thì không phải homestay theo định nghĩa này, mà gần với ‘căn hộ du lịch’ hoặc ‘biệt thự du lịch’. Xếp hạng sao là tự nguyện và chỉ áp dụng cho khách sạn, biệt thự, căn hộ du lịch, tàu thủy lưu trú – homestay không xếp hạng. Phải đáp ứng điều kiện tối thiểu: đèn, nước sạch; khu sinh hoạt chung, bếp, phòng tắm, vệ sinh; chăn ga gối, khăn thay khi có khách mới; chủ nhà được tập huấn nghiệp vụ du lịch. Chậm nhất 15 ngày trước khi hoạt động phải gửi thông báo bằng văn bản cho Sở quản lý du lịch cấp tỉnh.",
+        "refs": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "Giấy chứng nhận đủ điều kiện về ANTT",
+        "basis": "Khoản 14 Điều 3, Điều 8, Điều 23, Điều 24, Điều 44 NĐ 96/2016/NĐ-CP (viết lại, sửa đổi bởi NĐ 392/2026/NĐ-CP, hiệu lực 15/11/2026); điểm a khoản 4 Điều 15 NĐ 282/2025/NĐ-CP",
+        "text": "Kinh doanh lưu trú (cả cơ sở theo Luật Du lịch và cho thuê lưu trú theo giờ, qua đêm) là ngành có điều kiện về ANTT; từ 15/11/2026 nằm ở khoản 14 Điều 3 mới. Người có nhà cho thuê có hợp đồng thuê nhà để ở, học tập, làm việc không thuộc diện này. Từ 15/11/2026: Công an cấp xã cấp giấy cho cơ sở từ 29 phòng trở xuống, Công an cấp tỉnh cấp cho cơ sở từ 30 phòng hoặc xếp hạng 5 sao; hạn cấp mới không quá 4 ngày làm việc từ khi đủ hồ sơ; hồ sơ cần biên bản kiểm tra PCCC (trừ khi cơ sở dữ liệu đã kết nối); phương án bảo đảm ANTT chỉ bắt buộc với cơ sở lưu trú là doanh nghiệp. Cơ sở phải kiểm tra giấy tờ tùy thân của khách (căn cước, hộ chiếu, thẻ thường trú/tạm trú...), ghi sổ khách, lưu thông tin khách. Hoạt động khi chưa có giấy: 10–20 triệu (cá nhân), tổ chức gấp đôi.",
+        "refs": [
+          3,
+          4,
+          5,
+          6,
+          36,
+          37
+        ]
+      },
+      {
+        "title": "Thông báo lưu trú cho từng lượt khách",
+        "basis": "Điều 30 Luật Cư trú 68/2020/QH14 (sửa đổi bởi Luật 118/2025/QH15, hiệu lực 01/7/2026); TT 116/2026/TT-BCA; khoản 4 Điều 44 NĐ 96/2016/NĐ-CP; khoản 2, 3, 4 Điều 10, Điều 21, khoản 2 Điều 5 NĐ 282/2025/NĐ-CP (Điều 10 sửa bởi Điều 35 NĐ 347/2026/NĐ-CP, hiệu lực 15/9/2026)",
+        "text": "Thông báo trước 23 giờ ngày khách đến; khách đến sau 23 giờ thì trước 8 giờ sáng hôm sau. Khách nước ngoài phải khai báo tạm trú. Phạt theo số khách bị bỏ sót (xem rủi ro 3). Mức trong Chương II NĐ 282/2025 là mức cho cá nhân; tổ chức gấp 2 lần.",
+        "refs": [
+          3,
+          6,
+          7,
+          8,
+          38
+        ]
+      },
+      {
+        "title": "Kinh doanh lưu trú trong căn hộ chung cư",
+        "basis": "Điểm c khoản 8 Điều 3 Luật Nhà ở 27/2023/QH15 (hiệu lực 01/8/2024); điểm d khoản 3 Điều 62, điểm b khoản 4 Điều 5 NĐ 339/2026/NĐ-CP (hiệu lực 26/8/2026); QĐ 19/2026/QĐ-UBND TP.HCM (hiệu lực 25/4/2026, thay QĐ 26/2025/QĐ-UBND)",
+        "text": "Luật cấm ‘sử dụng căn hộ chung cư vào mục đích không phải để ở’, nhưng không định nghĩa thuê ngắn ngày. NĐ 339/2026 phạt 100–130 triệu hành vi này, trừ trường hợp cho thuê để ở; đây là mức cho cá nhân (điểm b khoản 4 Điều 5, đã đối chiếu bản ký số), tổ chức bị phạt theo khung tổ chức của Nghị định (tối đa 300 triệu trong lĩnh vực nhà ở). Luật sư (Dân trí 9/2026): không nên hiểu cứ đăng Airbnb, cho thuê theo ngày là bị phạt – còn tùy cách khai thác; thuê theo đêm, khách luân phiên, có quy trình nhận/trả phòng thì nghiêng về kinh doanh lưu trú. TP.HCM: QĐ 26/2025 (chỉ cho kinh doanh lưu trú ở căn hộ du lịch trong chung cư hỗn hợp) đã bị thay bằng QĐ 19/2026 từ 25/4/2026; theo báo chí, quy định mới cho phép cho thuê căn hộ ngắn ngày, tuần nhưng chủ sở hữu phải đăng ký hoạt động cơ sở lưu trú du lịch và làm đủ nghĩa vụ cư trú, thuế, ANTT, PCCC; chưa đọc nguyên văn QĐ 19. Hai văn bản chưa rõ cách ăn khớp: căn đã đăng ký lưu trú du lịch theo QĐ 19 có bị coi là ‘không để ở’ theo NĐ 339 hay không – chưa có hướng dẫn. Hà Nội: chưa tìm được quy định hay tranh chấp cụ thể kiểm chứng được.",
+        "refs": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          34,
+          35,
+          39,
+          40,
+          41,
+          42
+        ]
+      },
+      {
+        "title": "Thuế lưu trú khác cho thuê tài sản",
+        "basis": "Khoản 3 điểm c và khoản 4 Điều 7 Luật Thuế TNCN 109/2025/QH15; điểm b khoản 2 Điều 12 Luật Thuế GTGT 48/2024/QH15; Điều 3, Điều 4 NĐ 68/2026/NĐ-CP; khoản 1 Điều 1, khoản 2 Điều 5 NĐ 117/2025/NĐ-CP; NĐ 141/2026/NĐ-CP (nâng ngưỡng lên 1 tỷ)",
+        "text": "Cho thuê bất động sản (trừ kinh doanh lưu trú): TNCN 5% phần vượt 1 tỷ. Kinh doanh lưu trú: dịch vụ, TNCN 2% phần vượt hoặc 15% thu nhập; GTGT 5% khi doanh thu năm trên 1 tỷ. Nền tảng có chức năng thanh toán khấu trừ 5% GTGT + 2% TNCN mỗi giao dịch dịch vụ.",
+        "refs": [
+          16,
+          17,
+          18,
+          19,
+          44,
+          45
+        ]
+      },
+      {
+        "title": "PCCC",
+        "basis": "Điều 21 Luật PCCC và CNCH 55/2024/QH15; khoản 3 Điều 19 NĐ 96/2016 (sửa bởi NĐ 392/2026)",
+        "text": "Nhà ở kết hợp kinh doanh lưu trú phải đáp ứng điều kiện phòng cháy của Điều 21; biên bản kiểm tra PCCC là giấy tờ trong hồ sơ xin giấy ANTT (khoản 3 Điều 19 NĐ 96/2016 do Điều 4 NĐ 392/2026 sửa, hiệu lực 15/11/2026; được miễn nộp khi cơ sở dữ liệu nhà nước đã kết nối).",
+        "refs": [
+          5,
+          20,
+          36
+        ]
+      }
+    ],
+    "seed": null,
+    "notes": "Ba trạng thái pháp lý cần tách: (1) homestay đúng nghĩa – chủ ở cùng khách; (2) căn hộ/biệt thự du lịch – cả căn, có đăng ký lưu trú; (3) cho thuê nhà để ở – hợp đồng thuê, thuế cho thuê tài sản, không thuộc diện giấy ANTT. Số liệu thị trường lấy từ trang công khai của AirDNA (trung bình mọi loại căn trên Airbnb, Vrbo, Booking; 12 tháng đến 9/2026). AirDNA không có trang riêng cho Đà Lạt; số ‘Lâm Đồng’ chưa rõ tính theo địa giới cũ hay tỉnh Lâm Đồng mới (gồm cả Đắk Nông, Bình Thuận từ 1/7/2025). Giá thuê chung cư 13 triệu/căn là trung bình của Batdongsan quý 1/2025 qua báo, không cùng loại căn với căn Airbnb trung bình – chỉ dùng làm mốc. Chưa có giá thuê dài hạn đáng tin cho Đà Nẵng, Đà Lạt. Không dùng số trên blog.",
+    "sources": [
+      {
+        "id": 1,
+        "org": "Quốc hội",
+        "year": 2017,
+        "title": "Luật Du lịch số 09/2017/QH14 – Điều 48, 49, 50 (bản đăng tại ketoananpha.vn)",
+        "quote": "Tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch được tự nguyện đăng ký xếp hạng cơ sở lưu trú du lịch với cơ quan nhà nước có thẩm quyền.",
+        "url": "https://ketoananpha.vn/luat-du-lich-2017",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 2,
+        "org": "Chính phủ",
+        "year": 2017,
+        "title": "Nghị định 168/2017/NĐ-CP hướng dẫn Luật Du lịch – Điều 21, 27, 29",
+        "quote": "Nhà ở có phòng cho khách du lịch thuê: Nhà ở có khu vực được bố trí trang thiết bị, tiện nghi cho khách du lịch thuê lưu trú; khách cùng sinh hoạt với gia đình chủ nhà.",
+        "url": "https://ketoananpha.vn/nghi-dinh-168-2017-nd-cp",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 3,
+        "org": "Chính phủ",
+        "year": 2016,
+        "title": "Nghị định 96/2016/NĐ-CP điều kiện về ANTT – khoản 22 Điều 3, Điều 44 (bản gốc 2016)",
+        "quote": "Kinh doanh dịch vụ lưu trú, gồm: Các cơ sở lưu trú theo quy định của Luật du lịch và các hình thức dịch vụ cho thuê lưu trú khác (nghỉ theo giờ và nghỉ qua đêm)",
+        "url": "https://ketoananpha.vn/nghi-dinh-96-2016-nd-cp",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 4,
+        "org": "LuatVietnam",
+        "year": 2026,
+        "title": "Nghị định 392/2026/NĐ-CP: Công an cấp xã cấp giấy chứng nhận ANTT (hiệu lực 15/11/2026)",
+        "quote": "Kinh doanh dịch vụ lưu trú từ 29 phòng cho thuê lưu trú trở xuống;",
+        "url": "https://luatvietnam.vn/tin-van-ban-moi/nghi-dinh-392-2026-nd-cp-cong-an-cap-xa-cap-giay-chung-nhan-an-ninh-trat-tu-cho-quan-karaoke-tiem-cam-do-186-114183-article.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 5,
+        "org": "LuatVietnam",
+        "year": 2026,
+        "title": "Giấy tờ chứng minh điều kiện an toàn PCCC từ 15/11/2026 (NĐ 392/2026 sửa khoản 3 Điều 19 NĐ 96/2016)",
+        "quote": "Biên bản kiểm tra về phòng cháy và chữa cháy của cơ quan có thẩm quyền theo quy định của pháp luật về phòng cháy, chữa cháy và cứu nạn, cứu hộ.",
+        "url": "https://luatvietnam.vn/tin-van-ban-moi/giay-to-chung-minh-dieu-kien-an-toan-phong-chay-chua-chay-tu-15-11-2026-186-114186-article.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 6,
+        "org": "Chính phủ",
+        "year": 2025,
+        "title": "Nghị định 282/2025/NĐ-CP xử phạt VPHC lĩnh vực ANTT, ATXH (ngày 30/10/2025, hiệu lực 15/12/2025) – Điều 5, 10, 15, 21 (bản ký số trên Cổng TTĐT Chính phủ; đã đối chiếu Điều 10)",
+        "quote": "cơ sở lưu trú du lịch, cơ sở lưu trú ở khu công nghiệp và các cơ sở khác không thực hiện thông báo lưu trú từ 01 đến 03 người lưu trú;",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/11/282-cp.signed.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 7,
+        "org": "Báo Lào Cai",
+        "year": 2026,
+        "title": "Không thông báo lưu trú, cơ sở kinh doanh có thể bị phạt tới 12 triệu đồng (NĐ 347/2026/NĐ-CP)",
+        "quote": "Phó Thủ tướng Thường trực Chính phủ Phạm Gia Túc thay mặt Chính phủ ký ban hành Nghị định số 347/2026/NĐ-CP ngày 8/9/2026 sửa đổi, bổ sung một số điều của 4 Nghị định.",
+        "url": "https://baolaocai.vn/khong-thong-bao-luu-tru-co-so-kinh-doanh-co-the-bi-phat-toi-12-trieu-dong-post909081.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 8,
+        "org": "Luật sư Việt Nam (LSVN)",
+        "year": 2026,
+        "title": "Một số điểm mới cơ bản của Luật Cư trú (sửa đổi) và Thông tư 116/2026/TT-BCA (17/7/2026)",
+        "quote": "Việc thông báo phải thực hiện trước 23 giờ của ngày bắt đầu lưu trú; nếu người đến sau 23 giờ thì phải thông báo trước 08 giờ ngày hôm sau.",
+        "url": "https://lsvn.vn/mot-so-diem-moi-co-ban-cua-luat-cu-tru-sua-doi-va-thong-tu-116-2026-tt-bca-a176014.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 9,
+        "org": "Quốc hội",
+        "year": 2023,
+        "title": "Luật Nhà ở số 27/2023/QH15 – điểm c khoản 8 Điều 3",
+        "quote": "sử dụng căn hộ chung cư vào mục đích không phải để ở",
+        "url": "https://ketoananpha.vn/luat-nha-o-2023",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 10,
+        "org": "Tuổi Trẻ",
+        "year": 2026,
+        "title": "Cho thuê chung cư theo ngày: Coi chừng bị phạt trăm triệu vì dùng nhà sai mục đích (11/9/2026, NĐ 339/2026/NĐ-CP)",
+        "quote": "mức phạt tiền từ 100 - 130 triệu đồng được áp dụng đối với hành vi sử dụng căn hộ chung cư vào mục đích không phải để ở",
+        "url": "https://tuoitre.vn/cho-thue-chung-cu-theo-ngay-coi-chung-bi-phat-tram-trieu-vi-dung-nha-sai-muc-dich-10026091112545148.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 11,
+        "org": "Diễn đàn Doanh nghiệp",
+        "year": 2025,
+        "title": "TP HCM không cấm căn hộ chung cư cho thuê ngắn ngày (19/5/2025)",
+        "quote": "trên thực tế hiện nay thì tất cả các Ban quản trị, Ban quản lý nhà chung cư trên địa bàn Thành phố đều thông báo cấm cho thuê căn hộ nhà chung cư ngắn hạn",
+        "url": "https://diendandoanhnghiep.vn/tp-hcm-khong-cam-can-ho-chung-cu-cho-thue-ngan-ngay-10154752.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 12,
+        "org": "Tuổi Trẻ",
+        "year": 2025,
+        "title": "TP.HCM có quy định mới về nơi để xe, điều kiện kinh doanh, lưu trú trong chung cư (QĐ 26/2025/QĐ-UBND, 3/3/2025)",
+        "quote": "Phải là căn hộ dùng làm cơ sở lưu trú du lịch thuộc nhà chung cư có mục đích sử dụng hỗn hợp",
+        "url": "https://tuoitre.vn/tp-hcm-co-quy-dinh-moi-ve-noi-de-xe-dieu-kien-kinh-doanh-luu-tru-trong-chung-cu-2025030312174872.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 13,
+        "org": "Tuổi Trẻ",
+        "year": 2025,
+        "title": "Sở Xây dựng đề xuất tiếp tục nghiên cứu, sửa đổi quy định về lưu trú ngắn hạn trong chung cư (18/11/2025)",
+        "quote": "Nhiều người đã đầu tư căn hộ hiện nay rơi vào tình trạng hết sức khó khăn, không cho thuê được, không có doanh thu trong khi phải trả lãi ngân hàng",
+        "url": "https://tuoitre.vn/so-xay-dung-de-xuat-tiep-tuc-nghien-cuu-sua-doi-quy-dinh-ve-luu-tru-ngan-han-trong-chung-cu-20251118145714913.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 14,
+        "org": "Tuổi Trẻ",
+        "year": 2026,
+        "title": "Hà Nội bắt đầu cưỡng chế phá dỡ loạt villa, homestay sai phép trong rừng phòng hộ (4/9/2026)",
+        "quote": "UBND xã Kim Anh (Hà Nội) huy động lực lượng và máy móc, bắt đầu cưỡng chế một số công trình villa, homestay vi phạm tại khu vực rừng phòng hộ trên địa bàn xã.",
+        "url": "https://tuoitre.vn/ha-noi-bat-dau-cuong-che-pha-do-loat-villa-homestay-sai-phep-trong-rung-phong-ho-100260904113533324.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 15,
+        "org": "Tri Thức – Znews",
+        "year": 2024,
+        "title": "Căn hộ kiểu Airbnb ở TP.HCM kín khách hết lễ 2/9 dù bị cấm (29/8/2024)",
+        "quote": "Mức giá khoảng 1,6 triệu đồng/đêm, chia ra chỉ 400.000 đồng/người",
+        "url": "https://znews.vn/can-ho-kieu-airbnb-o-tphcm-kin-khach-het-le-29-du-bi-cam-post1494665.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 16,
+        "org": "Quốc hội",
+        "year": 2025,
+        "title": "Luật Thuế thu nhập cá nhân số 109/2025/QH15 – khoản 4 Điều 7",
+        "quote": "Cá nhân cho thuê bất động sản, trừ hoạt động kinh doanh lưu trú, nộp thuế thu nhập cá nhân được xác định bằng phần doanh thu vượt trên mức quy định",
+        "url": "https://ketoananpha.vn/luat-thue-thu-nhap-ca-nhan-2025",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 17,
+        "org": "Quốc hội",
+        "year": 2024,
+        "title": "Luật Thuế giá trị gia tăng số 48/2024/QH15 – Điều 12",
+        "quote": "b2) Dịch vụ, xây dựng không bao thầu nguyên vật liệu: 5%;",
+        "url": "https://ketoananpha.vn/luat-thue-gia-tri-gia-tang-2024",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 18,
+        "org": "Chính phủ",
+        "year": 2026,
+        "title": "Nghị định 68/2026/NĐ-CP thuế hộ, cá nhân kinh doanh – Điều 3, 4, 8 (bản ký số trên Cổng TTĐT Chính phủ)",
+        "quote": "Hộ kinh doanh, cá nhân kinh doanh có hoạt động sản xuất, kinh doanh có mức doanh thu năm từ 500 triệu đồng trở xuống thuộc đối tượng không chịu thuế giá trị gia tăng.",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/68-ndcp.signed.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 19,
+        "org": "Chính phủ",
+        "year": 2025,
+        "title": "Nghị định 117/2025/NĐ-CP quản lý thuế kinh doanh trên nền tảng TMĐT, nền tảng số (hiệu lực 01/7/2025) – Điều 1, Điều 5",
+        "quote": "tổ chức là nhà quản lý nền tảng số có chức năng thanh toán (bao gồm cả tổ chức trong nước và nước ngoài)",
+        "url": "https://ketoananpha.vn/nghi-dinh-117-2025-nd-cp",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 20,
+        "org": "Quốc hội",
+        "year": 2024,
+        "title": "Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ số 55/2024/QH15 – Điều 21",
+        "quote": "Nhà ở kết hợp sản xuất, kinh doanh phải bảo đảm các điều kiện an toàn về phòng cháy sau đây:",
+        "url": "https://ketoananpha.vn/luat-phong-chay-chua-chay-va-cuu-nan-cuu-ho-2024",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 21,
+        "org": "Tuổi Trẻ",
+        "year": 2026,
+        "title": "Giá điện giảm 2%: Chi tiết mức giá 5 bậc thang điện sinh hoạt (01/11/2026)",
+        "quote": "Với giá bán lẻ điện cho mục đích kinh doanh, cơ sở lưu trú du lịch cũng được áp dụng mức giá theo giờ",
+        "url": "https://tuoitre.vn/gia-dien-giam-2-chi-tiet-muc-gia-5-bac-thang-dien-sinh-hoat-100261101091531402.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 22,
+        "org": "AirDNA",
+        "year": 2026,
+        "title": "Ho Chi Minh City short-term rental market data (cập nhật 27/10/2026, dữ liệu 12 tháng đến 9/2026)",
+        "quote": "Ho Chi Minh City, Default has 15,063 active short-term rental listings that earn an average of $9.5K per year, with 57% average occupancy and a $49 average daily rate.",
+        "url": "https://www.airdna.co/vacation-rental-data/app/vn/default/ho-chi-minh-city/overview",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 23,
+        "org": "AirDNA",
+        "year": 2026,
+        "title": "Hanoi short-term rental market data (cập nhật 27/10/2026, dữ liệu 12 tháng đến 9/2026)",
+        "quote": "Hanoi, Default has 13,050 active short-term rental listings that earn an average of $5.9K per year, with 46% average occupancy and a $37 average daily rate.",
+        "url": "https://www.airdna.co/vacation-rental-data/app/vn/default/hanoi/overview",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 24,
+        "org": "AirDNA",
+        "year": 2026,
+        "title": "Da Nang short-term rental market data (cập nhật 27/10/2026, dữ liệu 12 tháng đến 9/2026)",
+        "quote": "Da Nang, Default has 8,157 active short-term rental listings that earn an average of $14.2K per year, with 66% average occupancy and a $64 average daily rate.",
+        "url": "https://www.airdna.co/vacation-rental-data/app/vn/default/da-nang/overview",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 25,
+        "org": "AirDNA",
+        "year": 2026,
+        "title": "Lam Dong (gồm Đà Lạt; không có trang riêng cho Đà Lạt) short-term rental market data (cập nhật 27/10/2026)",
+        "quote": "Lam Dong, Default has 2,188 active short-term rental listings that earn an average of $6.6K per year, with 41% average occupancy and a $48 average daily rate.",
+        "url": "https://www.airdna.co/vacation-rental-data/app/vn/default/lam-dong/overview",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 26,
+        "org": "Airbnb Help Center",
+        "year": 2026,
+        "title": "Airbnb service fees (bài 1857) – phí chủ nhà",
+        "quote": "With this structure, the entire fee is deducted from the host's payout. Most hosts pay 15.5%, remaining hosts typically pay 14%-16%",
+        "url": "https://www.airbnb.com/help/article/1857",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 27,
+        "org": "Booking.com for Partners",
+        "year": 2026,
+        "title": "Understanding your commission – hoa hồng Booking.com",
+        "quote": "The exact percentage depends on your country, property type, and the accommodation agreement you signed when you joined us.",
+        "url": "https://partner.booking.com/en-us/help/commission-invoices-tax/commission/understanding-our-commission",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 28,
+        "org": "Vietcombank",
+        "year": 2026,
+        "title": "Tỷ giá USD ngày 01/11/2026 (bảng tỷ giá XML)",
+        "quote": "Buy=\"25,580.00\" Transfer=\"25,610.00\" Sell=\"25,990.00\"",
+        "url": "https://portal.vietcombank.com.vn/Usercontrols/TVPortal.TyGia/pXML.aspx",
+        "type": "price",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 29,
+        "org": "Thời báo Tài chính Việt Nam (số liệu Batdongsan.com.vn)",
+        "year": 2025,
+        "title": "Giá bán chung cư tại Hà Nội và TP.HCM vẫn tiếp tục tăng, lợi suất thuê giảm (11/4/2025)",
+        "quote": "ba năm qua, giá thuê chung cư tương đối ổn định, dao động quanh mốc 13 triệu đồng/căn tại cả hai thị trường.",
+        "url": "https://thoibaotaichinhvietnam.vn/gia-ban-chung-cu-tai-ha-noi-va-tp-ho-chi-minh-van-tiep-tuc-tang-loi-suat-thue-giam-174381.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 30,
+        "org": "Sài Gòn Giải Phóng",
+        "year": 2019,
+        "title": "Nỗi lo homestay (14/9/2019) – case thuê lại 2 căn 2PN quận 12 năm 2016",
+        "quote": "Toàn bộ chi phí đầu tư nội thất hết 130 triệu đồng.",
+        "url": "https://www.sggp.org.vn/noi-lo-homestay-post530843.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 31,
+        "org": "CafeF",
+        "year": 2025,
+        "title": "Cấm cho thuê chung cư ngắn ngày: nhà đầu tư 'ngồi trên lửa' (13/3/2025)",
+        "quote": "nhiều căn hộ còn có hợp đồng thuê dài hạn với số tiền đặt cọc khoảng 50 – 60 triệu đồng mỗi căn.",
+        "url": "https://cafef.vn/cam-cho-thue-chung-cu-ngan-ngay-nha-dau-tu-ngoi-tren-lua-chuyen-gia-danh-gia-loi-suat-cho-thue-o-mo-hinh-nhu-airbnb-se-giam-188250313092300463.chn",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 32,
+        "org": "Dân trí",
+        "year": 2019,
+        "title": "Kinh doanh homestay tại Hà Nội: Có thật 1 vốn 4 lời? (3/9/2019) – case Tây Hồ, tự khai",
+        "quote": "Ban đầu chị đầu tư xây dựng 1 căn hộ với số vốn hơn 400 triệu, vay từ ngân hàng.",
+        "url": "https://dantri.com.vn/bat-dong-san/kinh-doanh-homestay-tai-ha-noi-co-that-1-von-4-loi-20190903062853501.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 33,
+        "org": "VnExpress",
+        "year": 2023,
+        "title": "Có nên thuê căn hộ để kinh doanh Airbnb? (thư bạn đọc, Hà Nội, 16/9/2023)",
+        "quote": "Giá thuê một căn đầy đủ nội thất khoảng 11 triệu đồng một tháng.",
+        "url": "https://vnexpress.net/co-nen-thue-can-ho-de-kinh-doanh-airbnb-4653952.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 34,
+        "org": "Chính phủ",
+        "year": 2026,
+        "title": "Nghị định 339/2026/NĐ-CP xử phạt VPHC xây dựng, nhà ở, kinh doanh BĐS (ngày 26/8/2026, hiệu lực 26/8/2026 – Điều 90) – điểm d khoản 3 Điều 62 (bản ký số do Bộ Xây dựng đăng)",
+        "quote": "Sử dụng căn hộ chung cư vào mục đích không phải để ở, trừ trường hợp cho thuê để ở theo quy định của pháp luật về nhà ở;",
+        "url": "https://xdcs.cdnchinhphu.vn/446259493575335936/2026/9/5/nghidinh3392026-1788576305668504267006.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 35,
+        "org": "Chính phủ",
+        "year": 2026,
+        "title": "Nghị định 339/2026/NĐ-CP – điểm b khoản 4 Điều 5 (mức phạt khoản 3 Điều 62 là mức cho cá nhân)",
+        "quote": "khoản 1, khoản 2, khoản 3 Điều 62; điểm a, điểm b, điểm d khoản 2 Điều 64; khoản 1 Điều 73; khoản 1 Điều 74 Nghị định này là mức phạt áp dụng đối với cá nhân.",
+        "url": "https://xdcs.cdnchinhphu.vn/446259493575335936/2026/9/5/nghidinh3392026-1788576305668504267006.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 36,
+        "org": "Chính phủ",
+        "year": 2026,
+        "title": "Nghị định 392/2026/NĐ-CP ngày 20/10/2026 (hiệu lực 15/11/2026, Điều 48) – Điều 9 sửa Điều 24 NĐ 96/2016: thẩm quyền cấp giấy ANTT (bản ký số)",
+        "quote": "Kinh doanh dịch vụ karaoke; kinh doanh dịch vụ xoa bóp; kinh doanh dịch vụ cầm đồ; kinh doanh dịch vụ lưu trú từ 29 phòng cho thuê lưu trú trở xuống;",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/10/392_2026_nd-cp_20102026-signed.signed.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 37,
+        "org": "Chính phủ",
+        "year": 2026,
+        "title": "Nghị định 392/2026/NĐ-CP – Điều 1 (khoản 14 Điều 3 NĐ 96/2016 mới: kinh doanh dịch vụ lưu trú)",
+        "quote": "Tổ chức, cá nhân có nhà cho người Việt Nam hoặc người nước ngoài thuê (có hợp đồng thuê nhà) để ở, học tập, làm việc không thuộc phạm vi điều chỉnh của Nghị định này.",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/10/392_2026_nd-cp_20102026-signed.signed.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 38,
+        "org": "Chính phủ",
+        "year": 2026,
+        "title": "Nghị định 347/2026/NĐ-CP ngày 08/9/2026 (hiệu lực 15/9/2026) – Điều 35 sửa điểm đ khoản 2, điểm b khoản 3, điểm d khoản 4 Điều 10 NĐ 282/2025 (bản ký số)",
+        "quote": "Cơ sở kinh doanh lưu trú, nhà ở tập thể, cơ sở chữa bệnh, cơ sở lưu trú du lịch, cơ sở lưu trú ở khu công nghiệp và các cơ sở khác có chức năng lưu trú",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/9/347_2026_nd-cp_08092026_7-signed.signed.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 39,
+        "org": "Diễn đàn Doanh nghiệp",
+        "year": 2026,
+        "title": "TP HCM: Cho thuê căn hộ ngắn ngày phải đăng ký hoạt động cơ sở lưu trú (QĐ 19/2026/QĐ-UBND, hiệu lực 25/4/2026)",
+        "quote": "Đối với loại hình cho thuê căn hộ du lịch, chủ sở hữu phải đăng ký hoạt động cơ sở lưu trú và tuân thủ các quy định pháp luật về du lịch.",
+        "url": "https://diendandoanhnghiep.vn/tp-hcm-cho-thue-can-ho-ngan-ngay-phai-dang-ky-hoat-dong-co-so-luu-tru-10177257.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 40,
+        "org": "Báo Đấu thầu",
+        "year": 2026,
+        "title": "Từ ‘vùng xám’ đến khung pháp lý: TP.HCM chính thức quản lý hoạt động cho thuê căn hộ ngắn hạn (QĐ 19/2026/QĐ-UBND)",
+        "quote": "Đối với hình thức cho thuê ngắn hạn theo ngày, tuần, chủ sở hữu phải đăng ký hoạt động lưu trú du lịch, đồng thời tuân thủ các quy định về cư trú, thuế, an ninh trật tự và phòng cháy chữa cháy.",
+        "url": "https://baodauthau.vn/tu-vung-xam-den-khung-phap-ly-tphcm-chinh-thuc-quan-ly-hoat-dong-cho-thue-can-ho-ngan-han-post197285.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 41,
+        "org": "VietNamNet Global",
+        "year": 2026,
+        "title": "HCMC eases Airbnb restrictions to unlock VND16 trillion ‘sharing economy’ (26/5/2026)",
+        "quote": "under Decision No19 of the HCMC People’s Committee, effective from April 25, 2026, the management of short-term rental apartments (the Airbnb model) has been relaxed compared to Decision No26",
+        "url": "https://vietnamnet.vn/en/hcmc-eases-airbnb-restrictions-to-unlock-vnd16-trillion-sharing-economy-2517157.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 42,
+        "org": "Dân trí",
+        "year": 2026,
+        "title": "Cho thuê căn hộ theo ngày, trường hợp nào bị phạt 130 triệu đồng? (12/9/2026, ý kiến luật sư)",
+        "quote": "Vì vậy, không nên hiểu quy định mới theo hướng cứ đăng căn hộ trên Airbnb và cho thuê theo ngày, đêm là bị phạt 100-130 triệu đồng.",
+        "url": "https://dantri.com.vn/bat-dong-san/cho-thue-can-ho-theo-ngay-truong-hop-nao-bi-phat-130-trieu-dong-20260912105550190.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 43,
+        "org": "Ước tính của tác giả",
+        "year": 2026,
+        "title": "Doanh thu, chênh lệch thuê lại và hòa vốn căn cho thuê ngắn hạn",
+        "quote": "Tỷ giá 25.610 đ/USD (nguồn 28). Doanh thu/tháng = doanh thu năm AirDNA ÷ 12: TP.HCM 9.500 USD → 20,3 triệu; Hà Nội 5.900 USD → 12,6 triệu; Đà Nẵng 14.200 USD → 30,3 triệu; Lâm Đồng 6.600 USD → 14,1 triệu (nguồn 22–25). Nhận về sau phí Airbnb 15,5% (nguồn 26): 17,1 / 10,6 / 25,6 / 11,9 triệu. Trừ tiền thuê căn ≈ 13 triệu/tháng (nguồn 29): TP.HCM còn ≈ 4,1 triệu (≈ 20% doanh thu), Hà Nội âm ≈ 2,4 triệu, trước dọn phòng, giặt đồ vải, điện nước, vật tư. Công suất hòa vốn tiền thuê = 13 triệu ÷ (giá đêm × 0,845): TP.HCM 13 ÷ (1,25 × 0,845) ≈ 12,3 đêm ≈ 41%; Hà Nội 13 ÷ (0,95 × 0,845) ≈ 16,2 đêm ≈ 54%. Vốn thuê lại = cọc 50–60 triệu (nguồn 31) + nội thất ≈ 65 triệu/căn 2PN (nguồn 30: 130 triệu cho 2 căn) đến khoảng 100 triệu (nguồn 31: ‘hàng trăm triệu’) ≈ 115–160 triệu; thu hồi ở TP.HCM ≈ 115–160 ÷ 4,1 ≈ 28–39 tháng, chưa trừ chi phí vận hành nên thực tế dài hơn.",
+        "type": "estimate",
+        "grade": "C",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 44,
+        "org": "Sở Tư pháp TP Cần Thơ (Cổng PBGDPL)",
+        "year": 2026,
+        "title": "Một số quy định của NĐ 141/2026/NĐ-CP ngày 29/4/2026",
+        "quote": "Nghị định này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2026.",
+        "url": "https://pbgdpl.cantho.gov.vn/mot-so-quy-dinh-cua-nghi-dinh-so-1412026nd-cp-ngay-2942026-cua-chinh-phu",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 45,
+        "org": "Thời báo Tài chính Việt Nam (Bộ Tài chính)",
+        "year": 2026,
+        "title": "Nâng ngưỡng doanh thu không phải nộp thuế lên 1 tỷ đồng",
+        "quote": "sửa đổi cụm từ “500 triệu đồng” thành “01 tỷ đồng” tại Điều 3, Điều 4",
+        "url": "https://thoibaotaichinhvietnam.vn/nang-nguong-doanh-thu-khong-phai-nop-thue-len-1-ty-dong-dieu-ho-kinh-doanh-mong-cho-da-thanh-hien-thuc-196524.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      }
+    ]
+  },
+  {
+    "id": "spa-nail-goi-dau-duong-sinh",
+    "kind": "model",
+    "section": "5",
+    "title": "Spa / tiệm nail / gội đầu dưỡng sinh",
+    "summary": "Bỏ tiền thuê mặt bằng, ghế giường, dụng cụ và mỹ phẩm; bán công dịch vụ chăm sóc không xâm lấn. Hợp người có tay nghề và giữ được khách quen. Bẫy lớn nhất: lấn sang tiêm, chích, laser, hút mỡ, phun xăm có thuốc tê tiêm – những việc chỉ bệnh viện, phòng khám có giấy phép được làm; tai biến kéo theo đình chỉ, phạt và hồ sơ chuyển công an.",
+    "tags": {
+      "capital": "mid",
+      "breakeven": "slow",
+      "risk": "high",
+      "legal": "conditional",
+      "time": "full",
+      "evidence": "C"
+    },
+    "capital": {
+      "range": "≈ 20 – 500 triệu tùy quy mô",
+      "text": "Từ báo chí (case, mức C): tiệm nail có sẵn mặt bằng chỉ cần đèn, ghế, tủ, đồ nghề khoảng 20–30 triệu; tiệm nail bài bản 5–6 ghế, bồn ngâm chân, máy lạnh 200–300 triệu (Báo Phụ Nữ TP.HCM 2019); một chủ tiệm nail Hà Nội nói 50–70 triệu là mở được 1 tiệm (2020). Spa: một spa mini trong chung cư Linh Đàm (Hà Nội) bỏ khoảng 500 triệu (2026); chủ spa TP.HCM xếp spa bình dân (massage, nặn mụn, đắp mặt nạ) ở mức máy móc khoảng 500 triệu trở xuống (2023). Số liệu nail là năm 2019–2020, cần cộng trượt giá. Cơ cấu: (1) cọc và sửa mặt bằng; (2) ghế nail, giường gội/chăm sóc da, đèn, máy hơ; (3) khu tiệt trùng dụng cụ; (4) mỹ phẩm có số tiếp nhận phiếu công bố, giữ hóa đơn nguồn gốc; (5) lương thợ. Nếu muốn làm dịch vụ xâm lấn thì không còn là spa: phải lập phòng khám chuyên khoa – tối thiểu phòng khám 10 m², phòng thủ thuật 10 m², khu tiệt khuẩn, hộp cấp cứu phản vệ, người hành nghề có giấy phép.",
+      "breakdown": [
+        {
+          "item": "Tiệm nail có sẵn mặt bằng (đèn, ghế, tủ, đồ nghề)",
+          "value": "20–30 triệu (2019)",
+          "refs": [
+            22
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Điều kiện tối thiểu nếu làm phòng khám chuyên khoa (thẩm mỹ)",
+          "value": "Phòng khám ≥ 10 m², phòng thủ thuật ≥ 10 m², hộp cấp cứu phản vệ",
+          "refs": [
+            2
+          ],
+          "grade": "A"
+        },
+        {
+          "item": "Tiệm nail tự mở (Hà Nội)",
+          "value": "50–70 triệu (lời chủ tiệm, 2020)",
+          "refs": [
+            21
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Tiệm nail bài bản 5–6 ghế, bồn ngâm chân, máy lạnh",
+          "value": "200–300 triệu (2019)",
+          "refs": [
+            22
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Spa mini trong chung cư (Hà Nội)",
+          "value": "≈ 500 triệu (1 case, 2026)",
+          "refs": [
+            18
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Spa bình dân, máy móc tầm trung (TP.HCM)",
+          "value": "≤ 500 triệu (lời chủ spa, 2023)",
+          "refs": [
+            20
+          ],
+          "grade": "C"
+        }
+      ],
+      "grade": "C",
+      "refs": [
+        2,
+        18,
+        20,
+        21,
+        22
+      ]
+    },
+    "burn": {
+      "range": "≈ 55 – 73 triệu/tháng (2 spa nhỏ)",
+      "text": "Hai case spa nhỏ: (1) bạn đọc VnExpress (8/2025): thuê mặt bằng 15 triệu + lương 3 nhân viên 40 triệu, cộng nguyên liệu và quảng cáo, doanh thu khoảng 70 triệu/tháng chỉ vừa đủ; (2) spa mini Linh Đàm, Hà Nội (2026): thuê 25 triệu + lương 2 nhân viên 30 triệu + điện nước, vật tư, marketing 18 triệu = khoảng 73 triệu/tháng. Tiệm nail: thợ thu nhập 8–12 triệu/tháng chưa kể tiền tip (chủ tiệm Hà Nội, 2020). Biến đổi: mỹ phẩm, vật tư dùng một lần, khăn giặt. Không tìm được khảo sát chi phí vận hành ngành ở VN.",
+      "grade": "C",
+      "refs": [
+        18,
+        19,
+        21
+      ]
+    },
+    "breakeven": {
+      "range": "≥ 24 tháng (spa, lời chủ cơ sở)",
+      "text": "Một chủ spa TP.HCM (Znews 2023): nếu bài bản và đông khách thì sớm nhất sau 2 năm mới thu hồi vốn; chính bà sau hơn 6 năm vẫn chưa hoàn vốn. Case thất bại: spa mini Linh Đàm (Hà Nội, 2026) doanh thu tụt còn khoảng 50 triệu, lỗ trung bình 23 triệu/tháng, đến tháng thứ 9 sang nhượng 250 triệu, mất khoảng 457 triệu. Ước tính có công thức (nguồn 29): để đủ chi phí 55–73 triệu/tháng với giá gội dưỡng sinh 100.000–400.000 đồng/lượt, cần khoảng 140–730 lượt/tháng (5–24 lượt/ngày), chưa trừ vật tư. Giá thị trường: gội thường 50.000–100.000 đ, gội dưỡng sinh 100.000–400.000 đ (2026), gói cơ bản từ 59.000 đ (2023); sơn gel 130.000–180.000 đ, cắt da khoảng 40.000 đ (TP.HCM, Tết 2025); một bộ sơn móng 80.000 đến hơn 200.000 đ (2024).",
+      "grade": "C",
+      "refs": [
+        18,
+        20,
+        23,
+        24,
+        25,
+        26,
+        29
+      ]
+    },
+    "margin": {
+      "gross": "Chưa có số liệu đáng tin",
+      "net": "≈ 0 – 5% (1 case spa, 2025)",
+      "text": "Case spa nhỏ (VnExpress 8/2025): doanh thu khoảng 70 triệu/tháng, ‘thỉnh thoảng dư vài triệu nhưng cũng có tháng bù lỗ’ → biên ròng khoảng 0–5% (ước tính, nguồn 29). Một case – không đại diện cho ngành. Thuế từ 2026: doanh thu năm ≤ 1 tỷ không chịu GTGT, không nộp TNCN. Trên 1 tỷ: công dịch vụ chịu GTGT 5%, TNCN 2% phần vượt; bán lẻ mỹ phẩm là hàng hóa, tỷ lệ thấp hơn (GTGT 1%, TNCN 0,5%). Ngưỡng 1 tỷ theo NĐ 141/2026, áp dụng từ kỳ tính thuế 2026 (trước đó NĐ 68/2026 ghi 500 triệu).",
+      "grade": "C",
+      "refs": [
+        14,
+        15,
+        16,
+        19,
+        29,
+        30,
+        31
+      ]
+    },
+    "risks": [
+      {
+        "title": "Làm dịch vụ xâm lấn không phép, gây tai biến",
+        "text": "Sở Y tế TP.HCM ghi nhận nhiều cơ sở đăng ký hộ kinh doanh ‘cắt tóc, gội đầu’ hoặc ‘tắm hơi, massage, chăm sóc da’ nhưng có phòng thủ thuật, tiêm ngực, hút mỡ. Vụ Thẩm mỹ viện Kim An (Quận 1, 10/2024): khách bị tai biến sau hút mỡ, người tư vấn là nhân viên học lớp 8, không có bằng y tế; Sở chuyển hồ sơ công an. Báo chí ghi nhận ca hoại tử mông sau khi một spa tiêm filler giá rẻ (9/2025) và ca tử vong 24 tuổi tại một phòng khám thẩm mỹ (8/2026). Một cơ sở từng bị đình chỉ 18 tháng.",
+        "refs": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "title": "Mỹ phẩm, chất tiêm không rõ nguồn hoặc chưa công bố",
+        "text": "Vụ Mailisa (12/2025): Bộ Y tế đình chỉ lưu hành, thu hồi toàn bộ sản phẩm do công ty quản lý thẩm mỹ viện này công bố vì không xuất trình được hồ sơ thông tin sản phẩm (PIF). Mỹ phẩm theo cơ chế tự công bố, hậu kiểm – rủi ro dồn về người bán và người dùng. Tại Q’Aman Beauty Spa (1/2025), đoàn kiểm tra thấy filler, meso trong tủ lạnh; khách bị phản vệ sau khi tiêm. Đưa mỹ phẩm ra lưu thông khi chưa có số tiếp nhận phiếu công bố: phạt 20–30 triệu (cá nhân).",
+        "refs": [
+          3,
+          7,
+          11
+        ]
+      },
+      {
+        "title": "Quảng cáo như cơ sở y tế",
+        "text": "Quảng cáo dịch vụ khám chữa bệnh khi chưa có giấy phép hoạt động bị phạt riêng: Sở Y tế TP.HCM phạt một cá nhân 35 triệu cho hành vi này; một bệnh viện thẩm mỹ bị phạt 120 triệu và đình chỉ 4,5 tháng vì can thiệp xâm lấn kèm quảng cáo khi chưa có phép (1/2025). Dùng chữ ‘bác sĩ’, ‘hủy mỡ’, ‘không phẫu thuật’ trên mạng xã hội là dấu hiệu đoàn kiểm tra tìm đến.",
+        "refs": [
+          6,
+          7
+        ]
+      }
+    ],
+    "legal": [
+      {
+        "title": "Ranh giới: dịch vụ xâm lấn phải là bệnh viện hoặc phòng khám có giấy phép",
+        "basis": "Khoản 12 Điều 40, Điều 43 NĐ 96/2023/NĐ-CP (hiệu lực 01/01/2024); khoản 15 Điều 7, Điều 50 Luật Khám bệnh, chữa bệnh 15/2023/QH15",
+        "text": "Dịch vụ thẩm mỹ dùng thuốc, chất, thiết bị can thiệp vào cơ thể (phẫu thuật, thủ thuật, tiêm, chích, bơm, chiếu tia, sóng, đốt, xâm lấn khác) để đổi màu da, hình dạng, cân nặng, tạo hình; dịch vụ dùng sản phẩm có tác dụng dược lý; và xăm, phun, thêu có dùng thuốc tê dạng tiêm – chỉ được làm ở bệnh viện, phòng khám đa khoa hoặc chuyên khoa đã có giấy phép hoạt động. Cung cấp dịch vụ khám chữa bệnh khi không có giấy phép là hành vi bị nghiêm cấm. Spa, nail, gội đầu chỉ làm dịch vụ không xâm lấn.",
+        "refs": [
+          1,
+          2
+        ]
+      },
+      {
+        "title": "Mức phạt y tế hiện hành",
+        "basis": "Khoản 6 Điều 39, khoản 6 và 8 Điều 40, khoản 7 Điều 38, khoản 2 Điều 68, Điều 4 NĐ 117/2020/NĐ-CP (sửa đổi bởi NĐ 124/2021/NĐ-CP)",
+        "text": "Can thiệp xâm lấn làm thay đổi màu da, hình dạng, cân nặng: 20–30 triệu, kèm đình chỉ cơ sở 3–6 tháng. Cung cấp dịch vụ khám chữa bệnh không có giấy phép hoạt động: 40–50 triệu. Khám chữa bệnh khi chưa có chứng chỉ hành nghề: 30–40 triệu. Đưa mỹ phẩm chưa có số tiếp nhận phiếu công bố ra lưu thông: 20–30 triệu. Đây là mức cho cá nhân; tổ chức gấp 2 lần. Bộ Y tế vẫn viện dẫn NĐ 117/2020 khi xử lý vụ Mailisa (12/2025).",
+        "refs": [
+          3,
+          11
+        ]
+      },
+      {
+        "title": "Điều kiện ANTT: xoa bóp (vẫn có) và thẩm mỹ xâm lấn (bỏ từ 15/11/2026)",
+        "basis": "Khoản 5, khoản 20 Điều 3 NĐ 96/2016/NĐ-CP (khoản 20 sửa bởi khoản 1 Điều 1 NĐ 58/2026/NĐ-CP); Điều 3 NĐ 96/2016 viết lại bởi Điều 1 NĐ 392/2026/NĐ-CP (hiệu lực 15/11/2026); Điều 30 NĐ 96/2016",
+        "text": "Kinh doanh dịch vụ xoa bóp (massage, tẩm quất) phải có Giấy chứng nhận đủ điều kiện ANTT, bố trí phòng nam, nữ riêng; từ 15/11/2026 do Công an cấp xã cấp. Gội đầu dưỡng sinh có xoa bóp có thể bị xếp vào nhóm này – chưa tìm được hướng dẫn chính thức phân định. Dịch vụ phẫu thuật thẩm mỹ: NĐ 58/2026 (theo LuatVietnam hiệu lực 15/3/2026) mở rộng định nghĩa sang tiêm, chích, bơm, chiếu tia, xăm, phun, thêu trên da. Nhưng NĐ 392/2026 viết lại toàn bộ danh mục Điều 3 còn 15 nhóm, không còn dịch vụ phẫu thuật thẩm mỹ – từ 15/11/2026 nhóm này không cần giấy ANTT (đã đối chiếu bản ký số), nhưng vẫn chỉ được làm ở bệnh viện, phòng khám có giấy phép.",
+        "refs": [
+          4,
+          5,
+          27,
+          28
+        ]
+      },
+      {
+        "title": "Mỹ phẩm phải có số tiếp nhận phiếu công bố",
+        "basis": "NĐ 93/2016/NĐ-CP (điều kiện sản xuất mỹ phẩm); Thông tư 06/2011/TT-BYT (quản lý mỹ phẩm); khoản 2 Điều 68 NĐ 117/2020/NĐ-CP",
+        "text": "Mỹ phẩm được lưu hành theo cơ chế doanh nghiệp tự công bố, cơ quan quản lý hậu kiểm. Tiệm nên lưu số tiếp nhận phiếu công bố và hóa đơn nguồn gốc của từng sản phẩm. Nguyên văn TT 06/2011 chưa đọc được trong đợt này; nội dung lấy theo trả lời của Bộ Y tế.",
+        "refs": [
+          3,
+          11,
+          12
+        ]
+      },
+      {
+        "title": "Đăng ký kinh doanh đúng ngành",
+        "basis": "Điều 83 NĐ 168/2025/NĐ-CP",
+        "text": "Phải đăng ký hộ kinh doanh. Ngành đăng ký (cắt tóc, gội đầu, chăm sóc da) không cho phép làm dịch vụ y tế; Sở Y tế TP.HCM có lập danh sách theo dõi riêng các cơ sở phun xăm, spa, cắt tóc gội đầu.",
+        "refs": [
+          13,
+          17
+        ]
+      }
+    ],
+    "seed": null,
+    "notes": "Các vụ việc chủ yếu ở TP.HCM vì Sở Y tế TP.HCM công bố chi tiết; không có nghĩa nơi khác ít vi phạm hơn. NĐ 96/2023 và NĐ 117/2020 đọc từ trang tra cứu (hethongphapluat.com), có thể chưa cập nhật sửa đổi 2025–2026; chưa xác minh có nghị định xử phạt y tế mới thay thế NĐ 117/2020. Số liệu tiền đều là case báo chí (mức C), nhiều bài nail năm 2019–2020; chưa có khảo sát ngành. Vòng 1 ghi ‘từ 15/3/2026 thẩm mỹ xâm lấn phải đáp ứng điều kiện ANTT’ – đúng một phần: khoản 20 (phẫu thuật thẩm mỹ) đã có từ trước, NĐ 58 chỉ mở rộng định nghĩa, và NĐ 392 bỏ hẳn nhóm này từ 15/11/2026.",
+    "sources": [
+      {
+        "id": 1,
+        "org": "Quốc hội",
+        "year": 2023,
+        "title": "Luật Khám bệnh, chữa bệnh số 15/2023/QH15 – khoản 15 Điều 7 (bản đăng tại hethongphapluat.com)",
+        "quote": "Cơ sở khám bệnh, chữa bệnh cung cấp dịch vụ khám bệnh, chữa bệnh khi thuộc một trong các trường hợp sau đây: a) Không có giấy phép hoạt động;",
+        "url": "https://hethongphapluat.com/luat-kham-benh-chua-benh-2023",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 2,
+        "org": "Chính phủ",
+        "year": 2023,
+        "title": "Nghị định 96/2023/NĐ-CP hướng dẫn Luật Khám bệnh, chữa bệnh – khoản 12 Điều 40, Điều 43",
+        "quote": "Cơ sở có cung cấp các dịch vụ thẩm mỹ dưới đây hoặc có sử dụng sản phẩm có tác dụng dược lý phải được thành lập theo một trong các hình thức tổ chức là bệnh viện",
+        "url": "https://hethongphapluat.com/nghi-dinh-96-2023-nd-cp-huong-dan-luat-kham-benh-chua-benh.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 3,
+        "org": "Chính phủ",
+        "year": 2020,
+        "title": "Nghị định 117/2020/NĐ-CP xử phạt VPHC lĩnh vực y tế – Điều 4, 38, 39, 40, 68",
+        "quote": "Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với một trong các hành vi sử dụng thuốc, các chất, thiết bị để can thiệp vào cơ thể người",
+        "url": "https://hethongphapluat.com/nghi-dinh-117-2020-nd-cp-quy-dinh-ve-xu-phat-vi-pham-hanh-chinh-trong-linh-vuc-y-te.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 4,
+        "org": "Chính phủ",
+        "year": 2016,
+        "title": "Nghị định 96/2016/NĐ-CP điều kiện về ANTT – khoản 5 Điều 3, Điều 30",
+        "quote": "Kinh doanh dịch vụ xoa bóp, gồm: Sử dụng phương pháp vật lý trị liệu để xoa bóp (massage), tẩm quất phục vụ sức khỏe con người.",
+        "url": "https://ketoananpha.vn/nghi-dinh-96-2016-nd-cp",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 5,
+        "org": "LuatVietnam",
+        "year": 2026,
+        "title": "Từ ngày 15/3/2026, dịch vụ tiêm filler, phun xăm, hút mỡ phải đảm bảo điều kiện về ANTT (NĐ 58/2026/NĐ-CP)",
+        "quote": "các dịch vụ có sử dụng thuốc, chất hoặc thiết bị để can thiệp vào cơ thể người như phẫu thuật, thủ thuật hoặc các can thiệp có tiêm, chích, bơm, chiếu tia",
+        "url": "https://luatvietnam.vn/tin-van-ban-moi/tu-ngay-15-3-2026-dich-vu-tiem-filer-phun-xam-hut-mo-phai-dam-bao-dieu-kien-ve-an-ninh-trat-tu-186-107587-article.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 6,
+        "org": "Sở Y tế TP.HCM",
+        "year": 2025,
+        "title": "Xử lý nghiêm 02 cơ sở hành nghề hút mỡ bụng trái phép tại Quận 1 và Quận 3 (10/4/2025)",
+        "quote": "cơ sở treo biển hiệu “Thẩm mỹ viện Athena” được đăng ký loại hình hoạt động Hộ kinh doanh, với ngành nghề: dịch vụ tắm hơi, massage, chăm sóc da.",
+        "url": "https://medinet.hochiminhcity.gov.vn/xu-ly-quang-cao-va-hanh-nghe-trai-phep-trong-linh-vuc-y-te/so-y-te-tphcm-xu-ly-nghiem-02-co-so-hanh-nghe-hut-mo-bung-trai-phep-ngay-tai-tr-c16616-72996.aspx",
+        "type": "report",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 7,
+        "org": "Sở Y tế TP.HCM",
+        "year": 2025,
+        "title": "Kết quả kiểm tra và xử lý vi phạm trong lĩnh vực y tế từ 04/01/2025 đến 11/01/2025",
+        "quote": "hình thức phạt tiền 120 triệu đồng và đình chỉ hoạt động khám bệnh, chữa bệnh của cơ sở trong thời hạn 4,5 tháng",
+        "url": "https://medinet.hochiminhcity.gov.vn/xu-ly-quang-cao-va-hanh-nghe-trai-phep-trong-linh-vuc-y-te/so-y-te-tp-hcm-ket-qua-kiem-tra-va-xu-ly-vi-pham-trong-linh-vuc-y-te-tu-ngay-04-c16616-72585.aspx",
+        "type": "report",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 8,
+        "org": "Sở Y tế TP.HCM",
+        "year": 2024,
+        "title": "02 cơ sở hành nghề phẫu thuật thẩm mỹ trái phép, gây tai biến nặng cho khách hàng (25/10/2024)",
+        "quote": "người bệnh đến cơ sở này và được nhân viên B.T.L (học lớp 8, không có bằng cấp về y tế) tiếp nhận",
+        "url": "https://medinet.hochiminhcity.gov.vn/xu-ly-quang-cao-va-hanh-nghe-trai-phep-trong-linh-vuc-y-te/so-y-te-tphcm-02-co-so-hanh-nghe-phau-thuat-tham-my-trai-phep-gay-tai-bien-nang-c16616-71974.aspx",
+        "type": "report",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 9,
+        "org": "Tuổi Trẻ",
+        "year": 2025,
+        "title": "Một phụ nữ bị hoại tử mông vì tiêm filler collagen đa tầng, giá rẻ (9/9/2025)",
+        "quote": "bệnh nhân từng bị một spa tại địa phương tiêm filler collagen đa tầng, giá rẻ làm đầy vòng 3 cách đây 2 năm.",
+        "url": "https://tuoitre.vn/mot-phu-nu-nguoi-bi-hoai-tu-mong-vi-tiem-filler-collagen-da-tang-gia-re-20250909103308606.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 10,
+        "org": "Tuổi Trẻ",
+        "year": 2026,
+        "title": "Bộ Y tế yêu cầu làm rõ vụ bệnh nhân 24 tuổi nghi tử vong tại phòng khám thẩm mỹ ở TP.HCM (21/8/2026)",
+        "quote": "bệnh nhân N.Q.T. (24 tuổi) được ghi nhận không còn mạch, không đo được huyết áp, đồng tử giãn.",
+        "url": "https://tuoitre.vn/bo-y-te-yeu-cau-lam-ro-vu-benh-nhan-24-tuoi-nghi-tu-vong-tai-phong-kham-tham-my-o-tphcm-10026082119002106.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 11,
+        "org": "Tuổi Trẻ",
+        "year": 2025,
+        "title": "Bộ Y tế trả lời câu hỏi về lỗ hổng quản lý mỹ phẩm vụ Mailisa (6/12/2025)",
+        "quote": "Việc quản lý mỹ phẩm hiện nay theo cơ chế doanh nghiệp tự công bố sản phẩm, cơ quan chức năng kiểm tra sau.",
+        "url": "https://tuoitre.vn/bo-y-te-tra-loi-cau-hoi-cua-tuoi-tre-ve-viec-co-hay-khong-lo-hong-quan-ly-my-pham-vu-mailisa-20251206164003979.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 12,
+        "org": "Chính phủ",
+        "year": 2016,
+        "title": "Nghị định 93/2016/NĐ-CP điều kiện sản xuất mỹ phẩm",
+        "quote": "được tiếp tục sản xuất các loại sản phẩm mỹ phẩm đã được cấp số tiếp nhận Phiếu công bố sản phẩm mỹ phẩm còn hiệu lực",
+        "url": "https://ketoananpha.vn/nghi-dinh-93-2016-nd-cp",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 13,
+        "org": "Sở Y tế TP.HCM",
+        "year": 2026,
+        "title": "Danh sách các cơ sở dịch vụ thẩm mỹ, chăm sóc da (spa), cắt tóc, gội đầu trên địa bàn Thành phố",
+        "quote": "Danh sách các cơ sở dịch vụ thẩm mỹ (phun, xăm, thêu trên da); cơ sở chăm sóc da (spa); cơ sở cắt tóc, gội đầu,… trên địa bàn Thành phố.",
+        "url": "https://medinet.hochiminhcity.gov.vn/tai-ve/danh-sach-cac-co-so-dich-vu-tham-my-phun-xam-theu-tren-da-co-so-cham-soc-da-spa-c4722-67821.aspx",
+        "type": "stats",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 14,
+        "org": "Quốc hội",
+        "year": 2025,
+        "title": "Luật Thuế thu nhập cá nhân số 109/2025/QH15 – Điều 7",
+        "quote": "Cá nhân cư trú có hoạt động sản xuất, kinh doanh có mức doanh thu năm từ 500 triệu đồng trở xuống không phải nộp thuế thu nhập cá nhân.",
+        "url": "https://ketoananpha.vn/luat-thue-thu-nhap-ca-nhan-2025",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 15,
+        "org": "Quốc hội",
+        "year": 2024,
+        "title": "Luật Thuế giá trị gia tăng số 48/2024/QH15 – Điều 12",
+        "quote": "b2) Dịch vụ, xây dựng không bao thầu nguyên vật liệu: 5%;",
+        "url": "https://ketoananpha.vn/luat-thue-gia-tri-gia-tang-2024",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 16,
+        "org": "Chính phủ",
+        "year": 2026,
+        "title": "Nghị định 68/2026/NĐ-CP thuế hộ, cá nhân kinh doanh – Điều 3 (bản ký số trên Cổng TTĐT Chính phủ)",
+        "quote": "Hộ kinh doanh, cá nhân kinh doanh có hoạt động sản xuất, kinh doanh có mức doanh thu năm từ 500 triệu đồng trở xuống thuộc đối tượng không chịu thuế giá trị gia tăng.",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/68-ndcp.signed.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 17,
+        "org": "Chính phủ",
+        "year": 2025,
+        "title": "Nghị định 168/2025/NĐ-CP về đăng ký doanh nghiệp – Điều 83",
+        "quote": "không được hoạt động dưới danh nghĩa hộ kinh doanh mà không đăng ký.",
+        "url": "https://ketoananpha.vn/nghi-dinh-168-2025-nd-cp",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 18,
+        "org": "VietNamNet",
+        "year": 2026,
+        "title": "Bỏ 500 triệu mở spa làm đẹp, chủ tiệm gần mất trắng sau chưa đầy 1 năm (spa mini Linh Đàm, Hà Nội, 14/5/2026)",
+        "quote": "Tổng chi phí cố định và vận hành lên tới khoảng 73 triệu đồng.",
+        "url": "https://vietnamnet.vn/bo-500-trieu-mo-spa-lam-dep-chu-tiem-gan-mat-trang-sau-chua-day-1-nam-2513947.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 19,
+        "org": "VnExpress",
+        "year": 2025,
+        "title": "Mở spa tôi phải đóng những loại thuế gì? (thư bạn đọc, 6/8/2025)",
+        "quote": "Tôi đang thu khoảng 70 triệu đồng mỗi tháng từ tiệm spa, trong khi chi phí gồm: 15 triệu tiền thuê mặt bằng, 40 triệu trả lương cho ba nhân viên",
+        "url": "https://vnexpress.net/mo-spa-toi-phai-dong-nhung-loai-thue-gi-4914981.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 20,
+        "org": "Tri Thức – Znews",
+        "year": 2023,
+        "title": "Bỏ tiền tỷ mở spa, bao giờ hoàn vốn? (15/5/2023, phỏng vấn chủ spa TP.HCM)",
+        "quote": "nếu hoạt động bài bản và đông khách, thì sớm nhất phải sau 2 năm mới lấy lại được tiền đầu tư.",
+        "url": "https://znews.vn/bo-tien-ty-mo-spa-bao-gio-hoan-von-post1431321.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 21,
+        "org": "VnExpress",
+        "year": 2020,
+        "title": "Lưu ý khi chọn nghề nail (12/3/2020, chủ tiệm nail Đống Đa, Hà Nội)",
+        "quote": "Nếu sẵn vốn, chỉ cần khoảng 50 - 70 triệu đồng, bạn có thể đầu tư riêng cho mình 1 tiệm nail.",
+        "url": "https://vnexpress.net/luu-y-khi-chon-nghe-nail-4067693.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 22,
+        "org": "Báo Phụ Nữ TP.HCM (trên tuoitre.vn)",
+        "year": 2019,
+        "title": "Vốn chưa tới 30 triệu đồng mở tiệm nail được không? (20/5/2019)",
+        "quote": "Nếu bạn có sẵn mặt bằng, chỉ cần chuẩn bị bộ đồ nghề; trang thiết bị đèn, ghế, tủ… chi phí khoảng 20 - 30 triệu đồng.",
+        "url": "https://tuoitre.vn/phunuonline/von-chua-toi-30-trieu-dong-mo-tiem-nail-duoc-khong-a136277.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 23,
+        "org": "Tuổi Trẻ / Saigon Times",
+        "year": 2025,
+        "title": "Làm không ngơi tay, tiệm làm tóc và nail ‘kiếm đậm’ ngày sát Tết (26/1/2025)",
+        "quote": "trung bình các dịch vụ cắt da dao động khoảng 40.000 đồng, sơn gel khoảng từ 130.000 đồng - 180.000 đồng",
+        "url": "https://tuoitre.vn/saigontimes/lam-khong-ngoi-tay-tiem-lam-toc-va-nail-kiem-dam-ngay-sat-tet-1061038817.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 24,
+        "org": "Tri Thức – Znews",
+        "year": 2026,
+        "title": "Vì sao khách Trung Quốc đổ xô sang Việt Nam gội đầu? (4/2/2026)",
+        "quote": "Giá gội đầu trên thị trường hiện dao động từ 50.000-100.000 đồng cho gội thường tại tiệm và từ 100.000-400.000 đồng cho các gói gội đầu dưỡng sinh kéo dài 30-90 phút.",
+        "url": "https://znews.vn/vi-sao-khach-trung-quoc-do-xo-sang-viet-nam-goi-dau-post1625002.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 25,
+        "org": "Thanh Niên",
+        "year": 2023,
+        "title": "Người trẻ đi gội đầu dưỡng sinh (24/7/2023)",
+        "quote": "gói gội đầu dưỡng sinh cơ bản thường từ 59.000 đồng, thời gian gội khoảng 30 phút",
+        "url": "https://thanhnien.vn/nguoi-tre-di-goi-dau-duong-sinh-185230724204341187.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 26,
+        "org": "Dân trí",
+        "year": 2024,
+        "title": "Khách xếp hàng đến 3h sáng, chủ tiệm nail vẫn than Tết... kém (8/2/2024)",
+        "quote": "Giá mỗi bộ sơn móng tay dao động từ 80.000 đồng đến hơn 200.000 đồng.",
+        "url": "https://dantri.com.vn/lao-dong-viec-lam/khach-xep-hang-den-3h-sang-chu-tiem-nail-van-than-tet-kem-20240205220555622.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 27,
+        "org": "Chính phủ",
+        "year": 2026,
+        "title": "Nghị định 58/2026/NĐ-CP ngày 13/02/2026 – khoản 1 Điều 1 sửa khoản 20 Điều 3 NĐ 96/2016 (bản ký số)",
+        "quote": "Kinh doanh dịch vụ phẫu thuật thẩm mỹ, gồm: Các dịch vụ có sử dụng thuốc, các chất, thiết bị để can thiệp vào cơ thể người",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/02/58nd.signed.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 28,
+        "org": "Chính phủ",
+        "year": 2026,
+        "title": "Nghị định 392/2026/NĐ-CP ngày 20/10/2026 (hiệu lực 15/11/2026) – Điều 1 viết lại Điều 3 NĐ 96/2016 (15 nhóm, không còn dịch vụ phẫu thuật thẩm mỹ); Điều 9 (Công an cấp xã cấp giấy cho xoa bóp) (bản ký số)",
+        "quote": "5. Kinh doanh dịch vụ xoa bóp, gồm: Sử dụng phương pháp vật lý trị liệu để xoa bóp (massage), tẩm quất phục vụ sức khỏe con người.",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/10/392_2026_nd-cp_20102026-signed.signed.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 29,
+        "org": "Ước tính của tác giả",
+        "year": 2026,
+        "title": "Biên ròng và số lượt hòa vốn của tiệm spa/gội đầu nhỏ",
+        "quote": "Biên ròng ≈ ‘thỉnh thoảng dư vài triệu’ ÷ doanh thu 70 triệu/tháng ≈ 0–5% (nguồn 19). Doanh thu hòa vốn ≥ chi phí tháng 55–73 triệu (nguồn 18, 19); với giá gội dưỡng sinh 100.000–400.000 đ/lượt (nguồn 24) cần ≈ 140–730 lượt/tháng ≈ 5–24 lượt/ngày, chưa trừ vật tư; chi phí tháng lấy từ spa chăm sóc da, chưa có số liệu riêng cho tiệm gội đầu.",
+        "type": "estimate",
+        "grade": "C",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 30,
+        "org": "Sở Tư pháp TP Cần Thơ (Cổng PBGDPL)",
+        "year": 2026,
+        "title": "Một số quy định của NĐ 141/2026/NĐ-CP ngày 29/4/2026",
+        "quote": "Nghị định này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2026.",
+        "url": "https://pbgdpl.cantho.gov.vn/mot-so-quy-dinh-cua-nghi-dinh-so-1412026nd-cp-ngay-2942026-cua-chinh-phu",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 31,
+        "org": "Thời báo Tài chính Việt Nam (Bộ Tài chính)",
+        "year": 2026,
+        "title": "Nâng ngưỡng doanh thu không phải nộp thuế lên 1 tỷ đồng",
+        "quote": "sửa đổi cụm từ “500 triệu đồng” thành “01 tỷ đồng” tại Điều 3, Điều 4",
+        "url": "https://thoibaotaichinhvietnam.vn/nang-nguong-doanh-thu-khong-phai-nop-thue-len-1-ty-dong-dieu-ho-kinh-doanh-mong-cho-da-thanh-hien-thuc-196524.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      }
+    ]
+  },
+  {
+    "id": "lop-day-them-trung-tam-ngoai-ngu",
+    "kind": "model",
+    "section": "5",
+    "title": "Lớp dạy thêm / trung tâm ngoại ngữ nhỏ",
+    "summary": "Bỏ tiền thuê phòng, bàn ghế, tài liệu và trả lương giáo viên; thu học phí theo khóa. Hợp người dạy giỏi, không phải giáo viên đang đứng lớp tại trường có học sinh theo học. Bẫy lớn nhất: thu học phí trước dài hạn rồi dùng tiền khóa sau trả chi phí khóa trước – khi tuyển sinh chậm lại, trung tâm vỡ dòng tiền, phải hoàn học phí và có thể bị công an vào cuộc.",
+    "tags": {
+      "capital": "mid",
+      "breakeven": "unknown",
+      "risk": "mid",
+      "legal": "conditional",
+      "time": "full",
+      "evidence": "C"
+    },
+    "capital": {
+      "range": "10 triệu – 3 tỷ tùy quy mô (case)",
+      "text": "Chỉ có case báo chí, nhiều bài cũ và tự khai: một trung tâm khởi đầu với 10 triệu, thuê cơ sở 4 triệu/tháng, mua bàn ghế cũ (Hà Nội, 2015); một chủ chuỗi nói 3 tỷ đủ mở trung tâm khoảng 15 phòng học trên 500 m², khoảng 20% cho mặt bằng, còn lại cải tạo và thiết bị (2013) – tức khoảng 200 triệu/phòng học. Chưa tìm được case mới (2024–2026) có số vốn kiểm chứng được. Lớp dạy thêm ngoài trường: đăng ký kinh doanh, phòng học bảo đảm ANTT – PCCC, bảng công khai. Trung tâm ngoại ngữ: hồ sơ xin phép phải có văn bản pháp lý xác nhận số tiền đầu tư phù hợp quy mô dự kiến (Nghị định không ấn định mức tối thiểu), giấy tờ quyền sử dụng địa điểm, chương trình, tài liệu, đội ngũ đạt chuẩn. NĐ 125/2024 và Quy chế trung tâm ngoại ngữ, tin học (TT 21/2018, bản đọc được) không quy định diện tích tối thiểu theo học viên.",
+      "breakdown": [
+        {
+          "item": "Mặt bằng, phòng học, thiết bị dạy học",
+          "value": "≈ 3 tỷ cho 15 phòng/500 m² (case 2013)",
+          "refs": [
+            24
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Vốn đầu tư phải chứng minh khi xin phép trung tâm",
+          "value": "Không có mức tối thiểu cố định; theo quy mô dự kiến",
+          "refs": [
+            5
+          ],
+          "grade": "A"
+        },
+        {
+          "item": "Khởi đầu tối thiểu (thuê cơ sở, đồ cũ)",
+          "value": "10 triệu (Hà Nội, 2015, tự khai)",
+          "refs": [
+            25
+          ],
+          "grade": "C"
+        }
+      ],
+      "grade": "C",
+      "refs": [
+        5,
+        24,
+        25
+      ]
+    },
+    "burn": {
+      "range": "GV 30 – 60% + mặt bằng 20 – 25% DT",
+      "text": "Cơ cấu chi phí theo hai trung tâm (Saigon Times 10/2024): Envis School (Hà Nội) – lương giáo viên khoảng 30% doanh thu, thuê và vận hành cơ sở 20%, tuyển sinh – truyền thông 10%; một trung tâm khác – giáo viên và nhân viên 60%, mặt bằng và vận hành 25%. Lương: giáo viên mới ra trường dạy 5–6 lớp/tuần khoảng 12–13 triệu/tháng, vài năm sau 16–18 triệu, lâu năm 30–40 triệu (hệ thống Gee-O, Thanh Niên 7/2024); thỉnh giảng ở trung tâm 300.000–400.000 đ/giờ (cùng bài). Giáo viên nước ngoài dạy trường công nhận 350.000 đ/giờ, cao hơn mức các trung tâm trả (Dân trí 9/2024). Tham khảo cơ cấu nhân sự thật: Trung tâm ngoại ngữ Úc Châu (TP.HCM, quý 1/2025) có 7 giáo viên, 4 nhân viên, 1 giám đốc cho 14 lớp, 172 học sinh. Khi Apax vỡ nợ, ngoài học phí còn nợ lương giáo viên, nhân viên 11,5 tỉ và tiền thuê mặt bằng 9 tỉ – hai khoản này chạy đều bất kể tuyển sinh.",
+      "grade": "C",
+      "refs": [
+        7,
+        8,
+        17,
+        18,
+        19,
+        26
+      ]
+    },
+    "breakeven": {
+      "range": "Chưa có số liệu đáng tin",
+      "text": "Chưa có case kiểm chứng được về thời gian hòa vốn. Cách tự tính: số học viên hòa vốn/tháng = (lương cố định + thuê + chi phí chung) ÷ học phí thuần/học viên/tháng. Học phí ghi nhận theo tháng thực dạy, không theo tiền đã thu trước – Sở GD&ĐT TP.HCM yêu cầu thu theo số tháng thực học, không thu dài hạn sai quy định (1/2024). Mức học phí thị trường (case): dạy thêm văn hóa 40.000 đ/buổi (phản ánh bạn đọc, 3/2025); tiếng Anh trẻ em TP.HCM – trung tâm bình thường 1,5 triệu/tháng cho 2 con (2023), trung tâm có tiếng hơn 3 triệu/tháng (2023), khoảng 6 triệu/tháng ở một trung tâm quận Bình Thạnh (2024); Envis (Hà Nội) trung bình 2 triệu/tháng (2024).",
+      "grade": "C",
+      "refs": [
+        11,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    "margin": {
+      "gross": "≈ 15 – 40% (sau GV, mặt bằng)",
+      "net": "Chưa có số liệu đáng tin",
+      "text": "Phần còn lại sau lương giáo viên, mặt bằng và tuyển sinh khoảng 15–40% doanh thu theo cơ cấu chi phí hai trung tâm (ước tính, nguồn 27); chưa trừ lương quản lý, thuế. Không có số lãi ròng kiểm chứng được. Hoạt động dạy học theo quy định pháp luật giáo dục không chịu thuế GTGT. TNCN: doanh thu năm ≤ 1 tỷ không nộp; trên 1 tỷ, dịch vụ 2% phần vượt hoặc 15% thu nhập tính thuế nếu chọn. Ngưỡng 1 tỷ theo NĐ 141/2026, áp dụng từ kỳ tính thuế 2026 (trước đó NĐ 68/2026 ghi 500 triệu).",
+      "grade": "C",
+      "refs": [
+        13,
+        14,
+        15,
+        18,
+        19,
+        27,
+        28,
+        29
+      ]
+    },
+    "risks": [
+      {
+        "title": "Thu học phí trước, vỡ dòng tiền, phải hoàn tiền",
+        "text": "Apax Leaders (TP.HCM, 3/2024): học phí phải hoàn 108,1 tỉ, mới trả 14,3 tỉ; nợ thêm lương 11,5 tỉ, mặt bằng 9 tỉ, chậm đóng BHXH 31 tỉ. Trung tâm nhỏ cũng vậy: Úc Châu và Úc Châu 1 (TP.HCM, 5/2025) đóng cửa, cắt liên lạc sau khi thu học phí hàng tỉ đồng; IALC Việt Nam (Đắk Lắk) ngừng dạy từ khoảng 1/2026, giám đốc không liên lạc được, tỉnh giao công an xác minh (4/2026). Sở GD&ĐT TP.HCM yêu cầu thu học phí theo số tháng thực học, không thu dài hạn sai quy định.",
+        "refs": [
+          7,
+          8,
+          9,
+          22
+        ]
+      },
+      {
+        "title": "Hoạt động không phép hoặc ngoài phạm vi được phép",
+        "text": "Sở GD&ĐT TP.HCM (9/2025): trong 1.961 trung tâm ngoại ngữ, tin học được cấp phép, có nơi dạy sai chương trình, quảng cáo sai về giáo viên nước ngoài, dùng giáo viên chưa đạt chuẩn, tổ chức bán trú, giữ trẻ, dạy thêm hè ngoài phạm vi. Tổ chức dịch vụ giáo dục khi chưa được phép: phạt 20–40 triệu (tổ chức); ngoài địa điểm được phép hoặc không bảo đảm điều kiện: 10–20 triệu.",
+        "refs": [
+          6,
+          10
+        ]
+      },
+      {
+        "title": "Giáo viên trường công dạy chính học sinh của mình",
+        "text": "Giáo viên đang dạy ở trường không được dạy thêm có thu tiền đối với học sinh mình được phân công dạy – kể cả khi dạy môn khác (Bộ GD&ĐT trả lời 9/2026); giáo viên trường công lập không được quản lý, điều hành cơ sở dạy thêm. Người mở lớp dựa vào học sinh chính khóa của mình là mất nguồn khách ngay khi bị phát hiện.",
+        "refs": [
+          1,
+          3
+        ]
+      }
+    ],
+    "legal": [
+      {
+        "title": "Lớp dạy thêm ngoài nhà trường phải đăng ký kinh doanh và công khai",
+        "basis": "Điều 3, khoản 1 Điều 4, Điều 6, Điều 7 Thông tư 29/2024/TT-BGDĐT (hiệu lực 14/02/2025); Điều 83 NĐ 168/2025/NĐ-CP",
+        "text": "Tổ chức, cá nhân dạy thêm có thu tiền phải đăng ký kinh doanh; trước khi tuyển sinh phải công khai môn, thời lượng theo khối, địa điểm, thời gian, danh sách người dạy và mức thu (Mẫu số 02). Không dạy thêm cho học sinh tiểu học, trừ nghệ thuật, thể dục thể thao, kỹ năng sống. Mức thu do thỏa thuận. Lớp học phải tuân thủ quy định ANTT, vệ sinh, PCCC. Thông tư vẫn được Bộ áp dụng đến 9/2026; có bàn về sửa đổi từ 3/2026 nhưng chưa thấy văn bản sửa.",
+        "refs": [
+          1,
+          2,
+          3,
+          12,
+          16
+        ]
+      },
+      {
+        "title": "Giáo viên trường công: không thu tiền học sinh mình dạy, không đứng tên cơ sở",
+        "basis": "Khoản 2, 3 Điều 4, khoản 3 Điều 6 Thông tư 29/2024/TT-BGDĐT; điểm c khoản 2 Điều 11 Luật Nhà giáo 73/2025/QH15 (hiệu lực 01/01/2026)",
+        "text": "Không dạy thêm có thu tiền với học sinh mình được nhà trường phân công dạy; giáo viên trường công lập không được quản lý, điều hành dạy thêm ngoài trường nhưng được tham gia dạy; phải báo cáo hiệu trưởng (Mẫu số 03). Nhà giáo không được ép người học học thêm dưới mọi hình thức. NĐ 04/2021/NĐ-CP (bản đã sửa bởi NĐ 127/2021 đọc được) không có hành vi riêng về dạy thêm – vi phạm của giáo viên chủ yếu xử lý bằng kỷ luật; chưa kiểm chứng văn bản xử phạt mới hơn.",
+        "refs": [
+          1,
+          3,
+          4,
+          6
+        ]
+      },
+      {
+        "title": "Trung tâm ngoại ngữ phải được Sở GD&ĐT cho phép thành lập",
+        "basis": "Điều 42, 43, 44, 45 NĐ 125/2024/NĐ-CP (hiệu lực 20/11/2024)",
+        "text": "Trung tâm ngoại ngữ, tin học là ‘trung tâm khác thực hiện nhiệm vụ giáo dục thường xuyên’. Điều kiện: địa điểm, cơ sở vật chất, phòng học, thiết bị đáp ứng chương trình; chương trình, tài liệu; cán bộ quản lý, giáo viên đủ số lượng, đạt chuẩn của Bộ GD&ĐT; dự thảo quy chế. Giám đốc Sở GD&ĐT cho phép thành lập: thẩm định 10 ngày từ khi đủ hồ sơ, quyết định trong 5 ngày làm việc. Bị đình chỉ nếu không duy trì điều kiện hoặc không hoạt động trong 1 năm. Chuẩn chi tiết về giáo viên, diện tích nằm ở quy chế của Bộ – chưa kiểm tra văn bản hiện hành.",
+        "refs": [
+          5
+        ]
+      },
+      {
+        "title": "Mức phạt lĩnh vực giáo dục",
+        "basis": "Khoản 3 Điều 3, điểm c khoản 3 Điều 5, điểm b khoản 1, 2, 5 Điều 6 NĐ 04/2021/NĐ-CP (sửa đổi bởi NĐ 127/2021/NĐ-CP)",
+        "text": "Thành lập cơ sở giáo dục thường xuyên khi chưa được phép: 20–40 triệu. Hoạt động giáo dục khi chưa được cho phép hoạt động: 20–40 triệu. Không bảo đảm điều kiện hoặc hoạt động ngoài địa điểm được phép: 10–20 triệu. Mức trong Chương II là mức cho tổ chức; cá nhân bằng một nửa.",
+        "refs": [
+          6
+        ]
+      }
+    ],
+    "seed": null,
+    "notes": "Tách hai mô hình: (1) lớp dạy thêm văn hóa cho học sinh phổ thông – chịu TT 29/2024; (2) trung tâm ngoại ngữ – chịu NĐ 125/2024, xin phép thành lập và cho phép hoạt động. Hoạt động ‘giáo dục tăng cường’ trong trường được quy định riêng tại Thông tư 85/2026/TT-BGDĐT từ 15/11/2026 (chỉ thấy qua tiêu đề LuatVietnam, chưa đọc). Số liệu tiền đều là case báo chí; vốn mở trung tâm chỉ có bài 2013 và 2015, tự khai – cần case mới. Các vụ ôm học phí lấy từ Tuổi Trẻ, có văn bản của Sở GD&ĐT/UBND tỉnh làm căn cứ.",
+    "sources": [
+      {
+        "id": 1,
+        "org": "Bộ GD&ĐT",
+        "year": 2024,
+        "title": "Thông tư 29/2024/TT-BGDĐT quy định về dạy thêm, học thêm – Điều 3, 4, 6, 7 (bản đăng tại ketoananpha.vn)",
+        "quote": "Giáo viên đang dạy học tại các nhà trường không được dạy thêm ngoài nhà trường có thu tiền của học sinh đối với học sinh mà giáo viên đó đang được nhà trường phân công dạy học",
+        "url": "https://ketoananpha.vn/thong-tu-29-2024-tt-bgddt",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 2,
+        "org": "Cổng TTĐT Chính phủ (xaydungchinhsach.chinhphu.vn)",
+        "year": 2025,
+        "title": "Toàn văn Thông tư số 29/2024/TT-BGDĐT quy định về dạy thêm, học thêm",
+        "quote": "Thông tư này có hiệu lực từ ngày 14/2/2025.",
+        "url": "https://xaydungchinhsach.chinhphu.vn/toan-van-thong-tu-so-29-2024-tt-bgddt-quy-dinh-ve-day-them-hoc-them-119250104110707832.htm",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 3,
+        "org": "Tuổi Trẻ",
+        "year": 2026,
+        "title": "Bộ GD&ĐT: Giáo viên dạy thêm chéo môn không được thu tiền HS do mình đứng lớp (8/9/2026)",
+        "quote": "giáo viên không được tổ chức dạy thêm có thu tiền cho học sinh mà mình đang được nhà trường phân công giảng dạy, kể cả khi môn dạy thêm khác với môn giáo viên dạy chính khóa.",
+        "url": "https://tuoitre.vn/bo-giao-duc-va-dao-tao-giao-vien-day-them-cheo-mon-khong-duoc-thu-tien-hs-do-minh-dung-lop-10026090806404612.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 4,
+        "org": "Quốc hội",
+        "year": 2025,
+        "title": "Luật Nhà giáo số 73/2025/QH15 – Điều 11 (hiệu lực 01/01/2026)",
+        "quote": "c) Ép buộc người học tham gia học thêm dưới mọi hình thức;",
+        "url": "https://ketoananpha.vn/luat-nha-giao-2025",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 5,
+        "org": "Chính phủ",
+        "year": 2024,
+        "title": "Nghị định 125/2024/NĐ-CP điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục – Điều 42–45 (bản đăng tại hethongphapluat.com)",
+        "quote": "Trung tâm khác thực hiện nhiệm vụ giáo dục thường xuyên gồm: Trung tâm ngoại ngữ, tin học; trung tâm ngôn ngữ và văn hóa; trung tâm giáo dục kỹ năng sống",
+        "url": "https://hethongphapluat.com/nghi-dinh-125-2024-nd-cp-quy-dinh-ve-dieu-kien-dau-tu-va-hoat-dong-trong-linh-vuc-giao-duc.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 6,
+        "org": "Chính phủ",
+        "year": 2021,
+        "title": "Nghị định 04/2021/NĐ-CP xử phạt VPHC lĩnh vực giáo dục (sửa đổi bởi NĐ 127/2021/NĐ-CP) – Điều 3, 5, 6",
+        "quote": "b) Phạt tiền từ 20.000.000 đồng đến 40.000.000 đồng đối với cơ sở giáo dục phổ thông, cơ sở giáo dục thường xuyên, tổ chức thực hiện dịch vụ giáo dục;",
+        "url": "https://hethongphapluat.com/nghi-dinh-04-2021-nd-cp-quy-dinh-ve-xu-phat-vi-pham-hanh-chinh-trong-linh-vuc-giao-duc.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 7,
+        "org": "Tuổi Trẻ",
+        "year": 2024,
+        "title": "Apax còn nợ hơn 93 tỉ đồng học phí tại TP.HCM (12/3/2024, theo báo cáo Sở GD&ĐT TP.HCM)",
+        "quote": "Cũng theo Apax, số tiền học phí phải hoàn trả là 108,1 tỉ đồng, trong đó đã trả 14,3 tỉ đồng, còn nợ khoảng 93,8 tỉ đồng.",
+        "url": "https://tuoitre.vn/apax-con-no-hon-93-ti-dong-hoc-phi-tai-tp-hcm-20240312165611189.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 8,
+        "org": "Tuổi Trẻ",
+        "year": 2025,
+        "title": "Sở GD&ĐT TP.HCM báo cáo vụ trung tâm ngoại ngữ thu học phí hàng tỉ đồng rồi ‘biến mất’ (19/5/2025)",
+        "quote": "Trung tâm ngoại ngữ Úc Châu và Úc Châu 1 bị phụ huynh tố cáo là đóng cửa và cắt liên lạc, sau khi thu học phí hàng tỉ đồng từ cha mẹ học sinh.",
+        "url": "https://tuoitre.vn/so-giao-duc-va-dao-tao-tp-hcm-bao-cao-vu-trung-tam-ngoai-ngu-thu-hoc-phi-hang-ti-dong-roi-bien-mat-20250519213401173.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 9,
+        "org": "Tuổi Trẻ",
+        "year": 2026,
+        "title": "Giao công an xác minh vụ Trung tâm Anh ngữ IALC VN chưa hoàn trả học phí đã đóng cửa (2/4/2026)",
+        "quote": "trung tâm đã ngừng hoạt động, không tổ chức dạy học từ khoảng tháng 1-2026; giám đốc trung tâm không có mặt tại địa phương và không thể liên lạc.",
+        "url": "https://tuoitre.vn/giao-cong-an-xac-minh-vu-trung-tam-anh-ngu-ialc-vn-chua-hoan-tra-hoc-phi-da-dong-cua-20260402131200529.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 10,
+        "org": "Tuổi Trẻ",
+        "year": 2025,
+        "title": "Gần 2.000 trung tâm ngoại ngữ, tin học ở TP.HCM, nhiều nơi vẫn dạy sai, quảng cáo quá đà (25/9/2025)",
+        "quote": "tính đến tháng 8-2025, toàn TP.HCM có 1.961 trung tâm được cấp phép hoạt động",
+        "url": "https://tuoitre.vn/gan-2-000-trung-tam-ngoai-ngu-tin-hoc-o-tp-hcm-nhieu-noi-van-day-sai-quang-cao-qua-da-20250925153800716.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 11,
+        "org": "Tuổi Trẻ",
+        "year": 2025,
+        "title": "Siết dạy thêm, đừng để giáo viên đổi lớp cho nhau ở trung tâm rồi thu tiền cao (ý kiến bạn đọc, 30/3/2025)",
+        "quote": "các trung tâm lập tức gửi đơn chào mời tận lớp, giá 40.000 đồng/buổi.",
+        "url": "https://tuoitre.vn/siet-day-them-dung-de-giao-vien-doi-lop-cho-nhau-o-trung-tam-roi-thu-tien-cao-20250327091153824.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 12,
+        "org": "Tuổi Trẻ",
+        "year": 2026,
+        "title": "Sửa quy định dạy thêm, học thêm theo hướng nào? (20/3/2026)",
+        "quote": "Dạy thêm, học thêm không bị cấm cực đoan mà được siết chặt quản lý hơn.",
+        "url": "https://tuoitre.vn/sua-quy-dinh-day-them-hoc-them-theo-huong-nao-20260319223047641.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 13,
+        "org": "Quốc hội",
+        "year": 2024,
+        "title": "Luật Thuế giá trị gia tăng số 48/2024/QH15 – khoản 13 Điều 5",
+        "quote": "13. Hoạt động dạy học, dạy nghề theo quy định của pháp luật về giáo dục, giáo dục nghề nghiệp.",
+        "url": "https://ketoananpha.vn/luat-thue-gia-tri-gia-tang-2024",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 14,
+        "org": "Quốc hội",
+        "year": 2025,
+        "title": "Luật Thuế thu nhập cá nhân số 109/2025/QH15 – Điều 7",
+        "quote": "Cá nhân cư trú có hoạt động sản xuất, kinh doanh có mức doanh thu năm từ 500 triệu đồng trở xuống không phải nộp thuế thu nhập cá nhân.",
+        "url": "https://ketoananpha.vn/luat-thue-thu-nhap-ca-nhan-2025",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 15,
+        "org": "Chính phủ",
+        "year": 2026,
+        "title": "Nghị định 68/2026/NĐ-CP thuế hộ, cá nhân kinh doanh – Điều 4, 8 (bản ký số trên Cổng TTĐT Chính phủ)",
+        "quote": "Hộ kinh doanh, cá nhân kinh doanh có hoạt động sản xuất, kinh doanh có mức doanh thu năm từ 500 triệu đồng trở xuống thuộc đối tượng không chịu thuế giá trị gia tăng.",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/68-ndcp.signed.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 16,
+        "org": "Chính phủ",
+        "year": 2025,
+        "title": "Nghị định 168/2025/NĐ-CP về đăng ký doanh nghiệp – Điều 83",
+        "quote": "không được hoạt động dưới danh nghĩa hộ kinh doanh mà không đăng ký.",
+        "url": "https://ketoananpha.vn/nghi-dinh-168-2025-nd-cp",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 17,
+        "org": "Thanh Niên",
+        "year": 2024,
+        "title": "Giáo viên tiếng Anh có thu nhập hàng chục triệu, thậm chí gần trăm triệu đồng/tháng (3/7/2024)",
+        "quote": "Sinh viên mới ra trường dạy tầm 5, 6 lớp mỗi tuần sẽ nhận khoảng 12-13 triệu đồng, sau vài năm tăng lên 16-18 triệu đồng mỗi tháng.",
+        "url": "https://thanhnien.vn/giao-vien-tieng-anh-co-thu-nhap-hang-chuc-trieu-tham-chi-gan-tram-trieu-dong-thang-185240703142547338.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 18,
+        "org": "Tuổi Trẻ / Saigon Times",
+        "year": 2024,
+        "title": "Người học tiết kiệm hơn, tạo ‘ngách’ cho trung tâm ngoại ngữ nhỏ khai phá (6/10/2024) – cơ cấu chi phí Envis School, Hà Nội",
+        "quote": "tiền trả lương cho giáo viên đóng tỷ lệ phần trăm lớn nhất (khoảng 30%/doanh thu), 20% chi phí thuê và vận hành cơ sở (điện, nước, khấu hao)",
+        "url": "https://tuoitre.vn/saigontimes/nguoi-hoc-tiet-kiem-hon-tao-ngach-cho-trung-tam-ngoai-ngu-nho-khai-pha-106987241.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 19,
+        "org": "Tuổi Trẻ / Saigon Times",
+        "year": 2024,
+        "title": "Người học tiết kiệm hơn, tạo ‘ngách’ cho trung tâm ngoại ngữ nhỏ khai phá (6/10/2024) – trung tâm thứ hai",
+        "quote": "trung tâm bỏ ra khoảng 60% chi phí cho đội ngũ giáo viên và nhân viên chăm sóc học sinh, khoảng 25% vào các chi phí mặt bằng và vận hành khác.",
+        "url": "https://tuoitre.vn/saigontimes/nguoi-hoc-tiet-kiem-hon-tao-ngach-cho-trung-tam-ngoai-ngu-nho-khai-pha-106987241.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 20,
+        "org": "Tuổi Trẻ / Saigon Times",
+        "year": 2024,
+        "title": "Người học tiết kiệm hơn, tạo ‘ngách’ cho trung tâm ngoại ngữ nhỏ khai phá (6/10/2024) – học phí",
+        "quote": "Với mức học phí trung bình 2 triệu/tháng cho khóa 3 tháng",
+        "url": "https://tuoitre.vn/saigontimes/nguoi-hoc-tiet-kiem-hon-tao-ngach-cho-trung-tam-ngoai-ngu-nho-khai-pha-106987241.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 21,
+        "org": "Tuổi Trẻ",
+        "year": 2024,
+        "title": "Trung tâm ngoại ngữ, tin học ở TP.HCM không được thu học phí dài hạn (9/1/2024) – học phí phụ huynh kể",
+        "quote": "mỗi tháng học phí của con chị tại trung tâm anh ngữ ở quận Bình Thạnh là xấp xỉ 6 triệu đồng.",
+        "url": "https://tuoitre.vn/trung-tam-ngoai-ngu-tin-hoc-o-tp-hcm-khong-duoc-thu-hoc-phi-dai-han-20240109094706631.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 22,
+        "org": "Tuổi Trẻ",
+        "year": 2024,
+        "title": "Trung tâm ngoại ngữ, tin học ở TP.HCM không được thu học phí dài hạn (9/1/2024) – yêu cầu của Sở GD&ĐT",
+        "quote": "Sở yêu cầu các trung tâm thu học phí theo số tháng thực học, phải được công khai từ đầu khóa học và không được thu học phí dài hạn không đúng quy định.",
+        "url": "https://tuoitre.vn/trung-tam-ngoai-ngu-tin-hoc-o-tp-hcm-khong-duoc-thu-hoc-phi-dai-han-20240109094706631.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 23,
+        "org": "VnExpress",
+        "year": 2023,
+        "title": "Có nên tốn 3 triệu mỗi tháng cho con học tiếng Anh? (thư bạn đọc, TP.HCM, 26/5/2023)",
+        "quote": "Học thêm Anh Văn ở trung tâm của cả hai con: 1,5 triệu đồng (trung tâm bình thường), một tháng mới được học giáo viên nước ngoài một lần.",
+        "url": "https://vnexpress.net/co-nen-ton-3-trieu-moi-thang-cho-con-hoc-tieng-anh-4610011.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 24,
+        "org": "CafeF",
+        "year": 2013,
+        "title": "Kinh doanh trung tâm Anh ngữ: Rủi ro 1, lợi nhuận 50 (2013, số liệu cũ)",
+        "quote": "Chỉ với 3 tỷ đồng là đã có thể thành lập một trung tâm Anh ngữ với khoảng 15 phòng học đầy đủ trang thiết bị trên mặt bằng khoảng 500 m2",
+        "url": "https://cafef.vn/cau-chuyen-kinh-doanh/kinh-doanh-trung-tam-anh-ngu-rui-ro-1-loi-nhuan-50-1883050912185746720.chn",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 25,
+        "org": "Thanh Niên",
+        "year": 2015,
+        "title": "Giúp người lười học tiếng Anh, giám đốc 9X kiếm tiền tỉ (20/10/2015, tự khai)",
+        "quote": "Số tiền 10 triệu đồng, trong đó tiền thuê cơ sở mỗi tháng là 4 triệu đồng.",
+        "url": "https://thanhnien.vn/giup-nguoi-luoi-hoc-tieng-anh-giam-doc-9x-kiem-tien-ti-185509512.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 26,
+        "org": "Dân trí",
+        "year": 2024,
+        "title": "Nhiều giáo viên nước ngoài ‘rải’ trăm đơn xin việc, chấp nhận lương thấp (24/9/2024)",
+        "quote": "Dạy ở trường công, Jack được trả 350.000 đồng/giờ dạy, mức lương cao hơn các trung tâm Anh ngữ khác.",
+        "url": "https://dantri.com.vn/lao-dong-viec-lam/nhieu-giao-vien-nuoc-ngoai-rai-tram-don-xin-viec-chap-nhan-luong-thap-20240923154137974.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 27,
+        "org": "Ước tính của tác giả",
+        "year": 2026,
+        "title": "Phần còn lại sau chi phí chính của trung tâm ngoại ngữ",
+        "quote": "Phần còn lại = 100% doanh thu − lương GV 30% − thuê và vận hành 20% − tuyển sinh 10% = 40% (nguồn 18); 100% − GV và nhân viên 60% − mặt bằng, vận hành 25% = 15% (nguồn 19). Chưa trừ lương quản lý (trường hợp 1), thuế và chi phí khác.",
+        "type": "estimate",
+        "grade": "C",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 28,
+        "org": "Sở Tư pháp TP Cần Thơ (Cổng PBGDPL)",
+        "year": 2026,
+        "title": "Một số quy định của NĐ 141/2026/NĐ-CP ngày 29/4/2026",
+        "quote": "Nghị định này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2026.",
+        "url": "https://pbgdpl.cantho.gov.vn/mot-so-quy-dinh-cua-nghi-dinh-so-1412026nd-cp-ngay-2942026-cua-chinh-phu",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 29,
+        "org": "Thời báo Tài chính Việt Nam (Bộ Tài chính)",
+        "year": 2026,
+        "title": "Nâng ngưỡng doanh thu không phải nộp thuế lên 1 tỷ đồng",
+        "quote": "sửa đổi cụm từ “500 triệu đồng” thành “01 tỷ đồng” tại Điều 3, Điều 4",
+        "url": "https://thoibaotaichinhvietnam.vn/nang-nguong-doanh-thu-khong-phai-nop-thue-len-1-ty-dong-dieu-ho-kinh-doanh-mong-cho-da-thanh-hien-thuc-196524.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      }
+    ]
+  }
+]

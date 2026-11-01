@@ -1,0 +1,1891 @@
+[
+  {
+    "id": "quan-ca-phe-nho-mang-di",
+    "kind": "model",
+    "section": "4",
+    "title": "Quán cà phê nhỏ / cà phê mang đi",
+    "summary": "Bỏ ra khoảng 150–350 triệu cho một kiosk mang đi (ước tính); quán ngồi ở TP lớn có case tốn gần 1 tỷ. Cửa hàng đồ uống làm ăn tốt trong mẫu của iPOS chỉ giữ lại khoảng 13–15% doanh thu làm lãi, nên kể cả khi đắt khách cũng mất khoảng 8–22 tháng mới hoàn vốn (ước tính). Hợp người tự đứng quầy và tìm được mặt bằng rẻ mà đông. Bẫy lớn nhất: tiền thuê trả trước, và ly nước 21–35 nghìn bị kẹp giữa ki-ốt 7–15 nghìn với các chuỗi.",
+    "tags": {
+      "capital": "mid",
+      "breakeven": "mid",
+      "risk": "high",
+      "legal": "conditional",
+      "time": "full",
+      "evidence": "C"
+    },
+    "capital": {
+      "range": "150 – 350 triệu (ước tính)",
+      "text": "Không có khảo sát công khai về vốn trung bình của quán cà phê nhỏ. Ước tính của tác giả cho kiosk/mang đi = gói thiết bị và nhận diện (75–215 triệu, theo báo giá nhượng quyền) + cọc/trả trước mặt bằng 3 tháng (giả định thuê 12–30 triệu/tháng → 36–90 triệu) + vốn lưu động bằng 1 tháng chi phí cố định (30–45 triệu) ≈ 140–350 triệu. Giả định 'cọc 3 tháng' chưa có nguồn; có chủ nhà đòi trả trước cả năm. Quán ngồi: một case ở Hà Nội tốn ~1 tỷ, riêng tiền thuê gần một nửa.",
+      "breakdown": [
+        {
+          "item": "Gói nhượng quyền kiosk 16–30 m² (Milano, chưa gồm tiền thuê)",
+          "value": "từ 115,56 triệu",
+          "refs": [
+            8
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Gói cà phê nhỏ/chuyển đổi (Trung Nguyên E-Coffee: máy, quầy, bảng hiệu, nguyên liệu ~500 ly)",
+          "value": "từ 75 – 215 triệu",
+          "refs": [
+            9
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Tiền thuê trả trước — case quán 40 m², 30 triệu/tháng, đóng cả năm",
+          "value": "~360 triệu",
+          "refs": [
+            5
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Case quán thất bại ở Hà Nội (thuê, sửa, thiết kế, thiết bị)",
+          "value": "~1 tỷ, tiền thuê gần một nửa",
+          "refs": [
+            6
+          ],
+          "grade": "C"
+        }
+      ],
+      "grade": "C",
+      "refs": [
+        5,
+        6,
+        8,
+        9
+      ]
+    },
+    "burn": {
+      "range": "30 – 60 triệu/tháng (TP lớn, ước tính)",
+      "text": "Chi phí cố định gồm: tiền thuê (Milano 2023: ~20 triệu cho 30 m² ở TP lớn, từ 12 triệu cho 60 m² ở tỉnh; case 2026: 30 triệu cho 40 m²), lương (một bảng dự phóng kiosk trà sữa ghi 18 triệu/tháng), điện nước (~5 triệu trong cùng bảng), phần mềm và chi phí khác. Cộng 12–30 + 15–18 + 3–5 + 2–5 ≈ 32–58 triệu (ước tính của tác giả). Đối chiếu tỷ lệ ở cửa hàng đồ uống làm ăn tốt (iPOS 2025): nhân sự ≈ 15% doanh thu, nhóm 'mặt bằng, điện nước, marketing…' ≈ 41%.",
+      "grade": "C",
+      "refs": [
+        2,
+        4,
+        5,
+        10
+      ]
+    },
+    "breakeven": {
+      "range": "≈ 8 – 22 tháng (ước tính)",
+      "text": "Không có khảo sát công khai về thời gian hoàn vốn; iPOS không công bố chỉ số này. Ước tính của tác giả: hoàn vốn = vốn ÷ lãi tháng. Doanh thu giả định 120 triệu/tháng, lấy từ bảng dự phóng kiosk Viên Viên (211 ly/ngày; nguồn của bên bán, là mức lạc quan). Lãi 13,38–15,16% doanh thu (cửa hàng đồ uống làm ăn tốt, iPOS) → 16–18 triệu/tháng. Vốn 150–350 triệu → khoảng 8–22 tháng. Nếu doanh thu chỉ quanh điểm hòa vốn thì không hoàn vốn: case quán 40 m² thuê 30 triệu/tháng (2026) phải bán 80–100 ly giá 30.000 đ mỗi ngày (≈ 72–90 triệu/tháng) mới hòa vốn, và sau khi trả điện, lương 3 nhân viên chủ còn gần 2 triệu/tháng; case Hà Nội (2025) doanh thu ~50 triệu/tháng không đủ trả thuê và lương. Tự tính doanh thu hòa vốn/tháng = chi phí cố định ÷ (1 − tỷ lệ nguyên liệu), VD 40 triệu ÷ (1 − 0,29) ≈ 56 triệu. Một chủ quán nói mỗi bàn phải làm ra 200–400 nghìn/ngày mới hòa vốn.",
+      "grade": "C",
+      "refs": [
+        2,
+        5,
+        6,
+        7,
+        10,
+        23
+      ]
+    },
+    "margin": {
+      "gross": "≈ 70 – 71% doanh thu",
+      "net": "≈ 13,4 – 15,2% doanh thu",
+      "text": "Chuẩn đối sánh iPOS 2025 (thu thập 2–3/2026) cho 100 cửa hàng đồ uống làm ăn tốt: Hà Nội — nhân sự 15,31%, nguyên liệu 28,74%, mặt bằng/điện nước/marketing… 40,78%, lợi nhuận 15,16%; TP.HCM — 15,32% / 29,80% / 41,50% / 13,38%. Mẫu chỉ gồm cửa hàng lãi gộp trên 10%, chạy từ 1 năm trở lên: đây là mức của người sống sót, không phải của quán mới mở. Vòng 2 đã xem lại ảnh trang 89–90: số của mô hình đồ uống khớp cả nhãn lẫn lát cắt. Mốc chuỗi lớn (quy mô khác hẳn quán nhỏ, chỉ để so): Phúc Long năm 2025 có doanh thu 1.891 tỷ, biên EBITDA 18,7%, lãi ròng 10,3%, 202 cửa hàng độc lập, doanh thu bình quân ~22,8 triệu/ngày ở cửa hàng cùng kỳ (Masan công bố). Highlands năm 2025 có 985 cửa hàng (JFC công bố), EBITDA khoảng 2,48 tỷ peso, tức hơn 1.085 tỷ đ (báo chí dẫn báo cáo JFC); chia cho doanh thu hơn 4.946 tỷ đ của SuperFoods (gồm cả Phở 24, 14 cửa hàng) thì EBITDA ≈ 22% doanh thu và doanh thu ≈ 5 tỷ đ/cửa hàng/năm (tác giả tính thô, gồm cả cửa hàng nhượng quyền). Chuỗi có lợi thế mua hàng, thương hiệu mà vẫn chỉ lãi ròng khoảng 10%: đừng tin bảng dự phóng lãi 25–30% cho quán nhỏ.",
+      "grade": "B",
+      "refs": [
+        2,
+        3,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    "risks": [
+      {
+        "title": "Chọn sai mặt bằng hoặc thuê quá đắt",
+        "text": "Tiền thuê là chi phí cố định, không cắt được khi vắng khách; Milano cho biết mặt bằng chiếm ~18% doanh thu của chuỗi. Case Hà Nội 2025: vốn ~1 tỷ, tiền thuê gần một nửa, quán trong ngõ hay ngập, doanh thu ~50 triệu/tháng không đủ trả thuê và lương, đóng cửa sau vài tháng. Case 2026: thuê 30 triệu/tháng, đóng trước cả năm, sau khi trả điện và lương 3 nhân viên chủ quán còn gần 2 triệu/tháng. Chuỗi lớn cũng co lại để tối ưu chi phí: The Coffee House giảm từ 150 cửa hàng (cuối 2023) còn 115 (8/2024).",
+        "refs": [
+          4,
+          5,
+          6,
+          22
+        ]
+      },
+      {
+        "title": "Kẹt ở phân khúc lưng chừng 21–35 nghìn/ly",
+        "text": "6 tháng đầu 2026 chỉ 15,82% cơ sở đồ uống tăng trưởng (đồ ăn: 25,64%). iPOS nhận định phân khúc 21–35 nghìn chịu sức ép lớn nhất: không rẻ bằng ki-ốt 7–15 nghìn, chưa đủ tốt để lên tầm trung; quán mang đi hương vị không khác biệt bị kẹp giữa xe đẩy/kiosk và chuỗi. Quán ngồi còn chịu cảnh khách ngồi lâu gọi ít trong khi mỗi bàn cần 200–400 nghìn/ngày mới hòa vốn.",
+        "refs": [
+          1,
+          7,
+          11
+        ]
+      },
+      {
+        "title": "Chi phí nguyên liệu và tuân thủ tăng nhanh hơn giá bán",
+        "text": "Năm 2025, 69,38% doanh nghiệp F&B nói giá nguyên liệu tăng mạnh là rào cản lớn nhất, 57,11% chịu áp lực từ chính sách tuân thủ (hóa đơn điện tử, kê khai thuế, BHXH); trong nhóm mở trước 2025, 58,91% đã tăng giá nhưng 40,49% chỉ dám tăng dưới 5%. Cả ngành: hơn 50.000 cửa hàng F&B đóng cửa trong 6 tháng đầu 2025 (≈15,5% số cửa hàng cuối 2024 — tác giả tính từ 50.000/323.010); nhiều quán nhỏ thử vài tháng rồi đóng vì thiếu vốn.",
+        "refs": [
+          1,
+          21
+        ]
+      }
+    ],
+    "legal": [
+      {
+        "title": "Giấy chứng nhận cơ sở đủ điều kiện ATTP — bắt buộc với quán có địa điểm cố định",
+        "basis": "Điều 34, 36, 37 Luật An toàn thực phẩm số 55/2010/QH12; khoản 1 Điều 11 và khoản 1 Điều 12 NĐ 15/2018/NĐ-CP (đang áp dụng lại theo NQ 15/2026/NQ-CP); khoản 1 Điều 18 và khoản 2 Điều 3 NĐ 115/2018/NĐ-CP (sửa đổi bởi NĐ 124/2021/NĐ-CP)",
+        "text": "Danh sách miễn ở khoản 1 Điều 12 NĐ 15/2018 gồm thức ăn đường phố, kinh doanh không có địa điểm cố định, nhà hàng trong khách sạn… — không có 'dịch vụ ăn uống' nói chung, nên quán cà phê có địa điểm cố định (kể cả hộ kinh doanh) phải có GCN. Điều kiện: đã đăng ký ngành nghề kinh doanh thực phẩm; hồ sơ có giấy xác nhận đủ sức khỏe của chủ và người trực tiếp làm; cơ quan kiểm tra thực tế trong 15 ngày; GCN hiệu lực 3 năm, nộp hồ sơ cấp lại trước hạn 6 tháng. Không có GCN: phạt 20–30 triệu với tổ chức, cá nhân/hộ kinh doanh bằng một nửa (10–15 triệu). NĐ 46/2026/NĐ-CP (ban hành 26/1/2026 để thay NĐ 15/2018) đang bị tạm ngưng cho tới khi Luật ATTP sửa đổi có hiệu lực. Nơi cấp do UBND tỉnh phân cấp sau khi bỏ cấp huyện: TP.HCM hiện là Sở ATTP, đang đề xuất ủy quyền cho UBND xã/phường đến hết 28/2/2027 — hỏi bộ phận một cửa xã/phường trước khi nộp. Dự án Luật ATTP (sửa đổi) đã được Quốc hội thảo luận ở tổ ngày 24/10/2026 (kỳ họp thứ 2) và dự kiến thông qua ở kỳ họp thứ 3 (5/2027), nên NĐ 15/2018 còn áp dụng ít nhất tới khi luật mới có hiệu lực. Mức phạt vẫn theo NĐ 115/2018: Bộ Y tế mới có dự thảo sửa đổi để tăng phạt, đến 1/11/2026 chưa thấy ban hành.",
+        "refs": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          28,
+          29,
+          30
+        ]
+      },
+      {
+        "title": "Bày bàn ghế, quầy ra vỉa hè",
+        "basis": "khoản 7 và khoản 12 Điều 12 NĐ 168/2024/NĐ-CP (hiệu lực 1/1/2025)",
+        "text": "Dùng trái phép lòng đường, vỉa hè để kinh doanh dịch vụ ăn uống, bày bán hàng: phạt 2–3 triệu (cá nhân), 4–6 triệu (tổ chức). Dùng tạm thời vỉa hè ở nơi phải có giấy phép mà không có phép: 10–15 triệu (cá nhân), 20–30 triệu (tổ chức), kèm buộc khôi phục hiện trạng.",
+        "refs": [
+          18
+        ]
+      },
+      {
+        "title": "Thuế, hóa đơn, PCCC, bản quyền nhạc — chỉ dẫn",
+        "basis": "NQ 198/2025/QH15 (bỏ thuế khoán từ 1/1/2026); Luật PCCC và CNCH số 55/2024/QH15 và NĐ 105/2025/NĐ-CP (hiệu lực 1/7/2025); điểm b khoản 1 Điều 20 Luật SHTT (sửa đổi bởi Luật 07/2022/QH15)",
+        "text": "Thuế kê khai, hóa đơn điện tử từ máy tính tiền: xem phần 0. PCCC: xem phần 0. Mở nhạc trong quán là biểu diễn tác phẩm trước công chúng gián tiếp qua bản ghi — cần xin phép và trả tiền bản quyền; chi tiết ở mục riêng.",
+        "refs": [
+          1,
+          19,
+          20
+        ]
+      }
+    ],
+    "seed": null,
+    "notes": "Biến thể: kiosk/xe mang đi 8–30 m²; quán ngồi 40–70 m²; nhận nhượng quyền cà phê (Milano, Trung Nguyên E-Coffee tự công bố không thu phí quản lý hay % doanh thu — nguồn có lợi ích thương mại). Tỷ lệ chi phí là của cửa hàng làm ăn tốt ở HN/HCM; ở tỉnh tiền thuê thấp hơn (Milano: từ 12 triệu/60 m², số 2023). Mốc chuỗi: The Coffee House giảm từ 150 cửa hàng (cuối 2023) còn 115 (8/2024) và được Golden Gate mua 99,98% cổ phần với giá phí tạm thời 270 tỷ đồng (theo BCTC kiểm toán 2024 của Golden Gate, dẫn trong nguồn 1); Starbucks rời mặt bằng Reserve Hàn Thuyên mà môi giới ước thuê ~750 triệu/tháng (nguồn 22, ước tính của báo). Thiếu: tỷ lệ đóng cửa riêng của quán mới mở. Thời gian hoàn vốn mới là ước tính theo công thức (mức C), chưa có khảo sát.",
+    "sources": [
+      {
+        "id": 1,
+        "org": "iPOS.vn & Nestlé Professional (VIRAC thẩm định dữ liệu)",
+        "year": 2026,
+        "title": "Báo cáo thị trường Kinh doanh Ẩm thực tại Việt Nam năm 2025 — bản PDF đầy đủ lưu trên máy chủ bên thứ ba; bản gốc phát hành qua form tại https://ipos.vn/bao-cao-thi-truong-kinh-doanh-am-thuc-viet-nam-2025/",
+        "quote": "Có tới 69,38% doanh nghiệp cho biết giá nguyên vật liệu tăng mạnh là rào cản lớn nhất, bỏ xa các yếu tố còn lại.",
+        "url": "https://jhebreoxwuimlqwvjdok.supabase.co/storage/v1/object/public/mentee_docs/2025-report__Thi%20truong%20F&B%20nam%202025.pdf",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 2,
+        "org": "iPOS.vn & Nestlé Professional",
+        "year": 2026,
+        "title": "Báo cáo thị trường Kinh doanh Ẩm thực tại Việt Nam năm 2025 — Phần 5 'F&B Benchmark 2025' (tr. 88–90; số đọc từ biểu đồ tròn)",
+        "quote": "200 cơ sở kinh doanh này có tình trạng kinh doanh tốt, có lợi nhuận gộp trên 10%, thời gian hoạt động từ ít nhất 01 năm trở lên, và có khả năng kiểm soát dòng tiền tốt.",
+        "url": "https://jhebreoxwuimlqwvjdok.supabase.co/storage/v1/object/public/mentee_docs/2025-report__Thi%20truong%20F&B%20nam%202025.pdf",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 3,
+        "org": "iPOS.vn",
+        "year": 2026,
+        "title": "Thông cáo báo chí: iPOS.vn và Nestlé Professional công bố Báo cáo thị trường Kinh doanh Ẩm thực tại Việt Nam năm 2025 (09/04/2026)",
+        "quote": "Phần năm cung cấp tỷ lệ chuẩn đối sánh của các doanh nghiệp Kinh doanh F&B tại Hà Nội và TP.HCM.",
+        "url": "https://ipos.vn/thong-cao-bao-chi-ipos-vn-va-nestle-professional-cong-bo-bao-cao-thi-truong-kinh-doanh-am-thuc-tai-viet-nam-nam-2025/",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 4,
+        "org": "The Leader (Thời báo Kinh tế)",
+        "year": 2023,
+        "title": "Ly cà phê cõng bao nhiêu chi phí mặt bằng",
+        "quote": "chi phí mặt bằng chuỗi này chiếm khoảng 18% doanh thu hàng tháng.",
+        "url": "https://theleader.vn/ly-ca-phe-cong-bao-nhieu-chi-phi-mat-bang-d8252.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 5,
+        "org": "VTC News",
+        "year": 2026,
+        "title": "Thuê quán 30 triệu/tháng, tôi xót khi khách ngồi cả buổi gọi ly cà phê 30 nghìn (01/09/2026)",
+        "quote": "tôi chấp nhận mức giá thuê 30 triệu đồng/tháng, đóng tiền cả năm.",
+        "url": "https://vtcnews.vn/thue-quan-30-trieu-thang-toi-xot-khi-khach-ngoi-ca-buoi-goi-ly-ca-phe-30-nghin-ar1037363.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 6,
+        "org": "VietNamNet",
+        "year": 2025,
+        "title": "After losing VND1 billion, cafe owner realizes fatal mistake (31/10/2025)",
+        "quote": "The owner said total startup costs, including rent, renovation, design, and equipment, reached about VND1 billion. Rent alone took nearly half.",
+        "url": "https://vietnamnet.vn/en/after-losing-vnd1-billion-cafe-owner-realizes-fatal-mistake-2455864.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 7,
+        "org": "VietNamNet",
+        "year": 2026,
+        "title": "Cafes face growing pressure from customers who linger too long (05/05/2026)",
+        "quote": "each table needs to generate around VND200,000–400,000 per day (even higher in prime locations) just to break even or earn a small profit.",
+        "url": "https://vietnamnet.vn/en/cafes-face-growing-pressure-from-customers-who-linger-too-long-2507699.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 8,
+        "org": "Công ty CP cà phê Milano Việt Nam (nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "Thông tin nhượng quyền Milano Coffee — báo giá các mô hình",
+        "quote": "Milano Coffee Mô hình KIOSK Phù hợp cho mặt bằng nhỏ Diện tích từ 16 - 30m 2 Giá từ 115,560,000 đ",
+        "url": "https://milanocoffee.com.vn/thong-tin-nhuong-quyen",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 9,
+        "org": "Trung Nguyên E-Coffee (nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "Nhượng quyền Trung Nguyên E-Coffee — các gói hợp tác",
+        "quote": "Giá Trị Gói Từ 75 triệu",
+        "url": "https://trungnguyenecoffee.com/nhuong-quyen/",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 10,
+        "org": "Trà sữa Viên Viên (nguồn có lợi ích thương mại)",
+        "year": 2025,
+        "title": "Chi phí nhượng quyền Trà sữa Viên Viên & thời gian hoàn vốn — bảng dự phóng 1 cửa hàng Express",
+        "quote": "Tổng Ngân Sách Đầu Tư Ban Đầu: 373.010.000 VNĐ",
+        "url": "https://trasuavienvien.com/nhuong-quyen-tra-sua-vien-vien/",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 11,
+        "org": "iPOS.vn",
+        "year": 2026,
+        "title": "Thông cáo báo chí: Báo cáo thị trường Kinh doanh Ẩm thực tại Việt Nam 6 tháng đầu năm 2026 (10/09/2026)",
+        "quote": "Chịu sức ép lớn nhất là phân khúc bình dân 21.000 – 35.000 VND do không đủ rẻ để cạnh tranh với ki-ốt 7.000 – 15.000 VND, nhưng chưa đủ tốt để bước lên vùng tầm trung.",
+        "url": "https://ipos.vn/ipos-vn-va-nestle-professional-cong-bo-bao-cao-thi-truong-kinh-doanh-am-thuc-tai-viet-nam-6-thang-dau-nam-2026/",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 12,
+        "org": "Chính phủ",
+        "year": 2018,
+        "title": "Nghị định 15/2018/NĐ-CP quy định chi tiết thi hành một số điều của Luật An toàn thực phẩm — Điều 11, 12 (bản trên cơ sở dữ liệu tổng hợp)",
+        "quote": "Cơ sở sản xuất, kinh doanh thực phẩm phải có Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm khi hoạt động, trừ trường hợp quy định tại khoản 1 Điều 12 Nghị định này",
+        "url": "https://hethongphapluat.com/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 13,
+        "org": "Cổng PBGDPL TP. Cần Thơ (tóm tắt Nghị quyết 15/2026/NQ-CP của Chính phủ)",
+        "year": 2026,
+        "title": "Tạm ngưng hiệu lực Nghị định số 46/2026/NĐ-CP đến khi có Luật An toàn thực phẩm (sửa đổi)",
+        "quote": "Nghị định số 15/2018/NĐ-CP của Chính phủ hướng dẫn của Luật An toàn thực phẩm và các văn bản quy định, hướng dẫn thi hành tiếp tục có hiệu lực.",
+        "url": "https://pbgdpl.cantho.gov.vn/tam-ngung-hieu-luc-nghi-dinh-so-462026nd-cp-den-khi-co-luat-an-toan-thuc-pham-sua-doi",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 14,
+        "org": "Chính phủ",
+        "year": 2018,
+        "title": "Nghị định 115/2018/NĐ-CP xử phạt vi phạm hành chính về an toàn thực phẩm — Điều 18",
+        "quote": "Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với hành vi kinh doanh dịch vụ ăn uống mà không có Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm",
+        "url": "https://hethongphapluat.com/nghi-dinh-115-2018-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-an-toan-thuc-pham/dieu-18",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 15,
+        "org": "Chính phủ",
+        "year": 2018,
+        "title": "Nghị định 115/2018/NĐ-CP (sửa đổi bởi NĐ 124/2021/NĐ-CP) — Điều 3: mức phạt với cá nhân và tổ chức",
+        "quote": "Đối với cùng một hành vi vi phạm hành chính thì mức phạt tiền đối với tổ chức gấp 02 lần mức phạt tiền đối với cá nhân.",
+        "url": "https://hethongphapluat.com/nghi-dinh-115-2018-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-an-toan-thuc-pham/dieu-3",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 16,
+        "org": "Quốc hội",
+        "year": 2010,
+        "title": "Luật An toàn thực phẩm số 55/2010/QH12 — Điều 34, 36, 37",
+        "quote": "Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm có hiệu lực trong thời gian 03 năm.",
+        "url": "https://hethongphapluat.com/luat-an-toan-thuc-pham-2010.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 17,
+        "org": "Báo Đại biểu Nhân dân",
+        "year": 2026,
+        "title": "TP. Hồ Chí Minh đề xuất thêm thẩm quyền cho UBND cấp xã trong lĩnh vực an toàn thực phẩm (29/06/2026)",
+        "quote": "Sở ATTP TP. Hồ Chí Minh kiến nghị UBND thành phố chấp thuận việc Sở ủy quyền cho UBND cấp xã thực hiện thủ tục cấp giấy chứng nhận cơ sở đủ điều kiện ATTP",
+        "url": "https://daibieunhandan.vn/tp-ho-chi-minh-de-xuat-them-tham-quyen-cho-ubnd-cap-xa-trong-linh-vuc-an-toan-thuc-pham-10421905.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 18,
+        "org": "Chính phủ",
+        "year": 2024,
+        "title": "Nghị định 168/2024/NĐ-CP xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ — Điều 12",
+        "quote": "Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với cá nhân, từ 4.000.000 đồng đến 6.000.000 đồng đối với tổ chức thực hiện hành vi sử dụng trái phép lòng đường, vỉa hè",
+        "url": "https://hethongphapluat.com/nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-an-toan-giao-thong-trong-linh-vuc-giao-thong-duong-bo-tru-diem-phuc-hoi-diem-giay-phep-lai-xe.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 19,
+        "org": "Quốc hội",
+        "year": 2022,
+        "title": "Luật số 07/2022/QH15 sửa đổi, bổ sung Luật Sở hữu trí tuệ — Điều 20 (quyền tài sản)",
+        "quote": "Biểu diễn tác phẩm trước công chúng bao gồm việc biểu diễn tác phẩm tại bất cứ nơi nào mà công chúng có thể tiếp cận được ngoại trừ tại gia đình",
+        "url": "https://hethongphapluat.com/luat-so-huu-tri-tue-sua-doi-2022.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 20,
+        "org": "Chính phủ",
+        "year": 2025,
+        "title": "Nghị định 105/2025/NĐ-CP hướng dẫn Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ (Luật số 55/2024/QH15)",
+        "quote": "Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2025.",
+        "url": "https://hethongphapluat.com/nghi-dinh-105-2025-nd-cp-huong-dan-luat-phong-chay-chua-chay-va-cuu-nan-cuu-ho.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 21,
+        "org": "Báo Sài Gòn Giải Phóng",
+        "year": 2025,
+        "title": "Hơn 50.000 cửa hàng ăn uống đóng cửa ở Việt Nam (15/10/2025)",
+        "quote": "Nhiều cửa hàng nhỏ thử nghiệm mô hình kinh doanh trong vài tháng nhưng không đủ vốn hoặc chiến lược để tồn tại lâu dài.",
+        "url": "https://www.sggp.org.vn/hon-50000-cua-hang-an-uong-dong-cua-o-viet-nam-post818148.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 22,
+        "org": "Nhà Đầu tư",
+        "year": 2024,
+        "title": "Giá thuê mặt bằng cản trở 'giấc mơ' chuỗi cà phê ở Việt Nam? (26/08/2024)",
+        "quote": "The Coffee House chỉ còn 115 chi nhánh trên toàn quốc, sụt giảm 24% chi nhánh so với con số 150 cửa hàng cuối năm 2023.",
+        "url": "https://nhadautu.vn/gia-thue-mat-bang-can-tro-giac-mo-chuoi-ca-phe-o-viet-nam-d88441.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 23,
+        "org": "Ước tính của tác giả",
+        "year": 2026,
+        "title": "Ước tính thời gian hoàn vốn quán cà phê nhỏ / mang đi",
+        "quote": "hoàn vốn = vốn 150–350 triệu (mục vốn) ÷ lãi tháng; lãi = doanh thu 120 triệu (dự phóng kiosk Viên Viên, nguồn 10) × 13,38–15,16% (iPOS, nguồn 2) = 16–18 triệu → 8–22 tháng",
+        "type": "estimate",
+        "grade": "C",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 24,
+        "org": "Masan Group (MSN) — báo cáo của doanh nghiệp niêm yết",
+        "year": 2026,
+        "title": "MSN Recorded 1.6x YoY Earnings for FY2025, Achieving All-Time-High Profit — phần Phúc Long Heritage (PLH), thông cáo 28/01/2026",
+        "quote": "FY EBITDA margin stood at 18.7%, and FY NPAT Pre-MI grew 1.6x YoY, with a healthy net margin of 10.3%, up by 260 bps YoY.",
+        "url": "https://www.masangroup.com/news/press-releases/msn-recorded-16x-yoy-earnings-for-fy2025-achieving-all-time-high-profit/",
+        "type": "financials",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 25,
+        "org": "Jollibee Foods Corporation (JFC) — báo cáo của doanh nghiệp niêm yết",
+        "year": 2026,
+        "title": "JFC Press Release for Q4 and FY 2025 (bản PDF trên kho tài liệu công bố của JFC)",
+        "quote": "International (6,837) - 576 in China, 348 in North America, 437 in EMEAA, 985 with Highlands Coffee mainly in Vietnam",
+        "url": "https://bucketeer-3eb16243-2c1c-43d2-be4e-1c2b3664d293.s3.amazonaws.com/2026/03/17C-Press-Release-for-Q4-and-FY-2025.pdf",
+        "type": "financials",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 26,
+        "org": "Tuổi Trẻ News",
+        "year": 2026,
+        "title": "Highlands Coffee nears 1,000 stores, posts over $41mn profit as IPO plans advance (15/03/2026)",
+        "quote": "the coffee chain’s earnings before interest, tax, depreciation and amortization (EBITDA) reached approximately 2.48 billion pesos ($41.5 million) in 2025, a six-percent increase from the previous year.",
+        "url": "https://news.tuoitre.vn/highlands-coffee-nears-1000-stores-posts-over-41mn-profit-as-ipo-plans-advance-103260314184115769.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 27,
+        "org": "Index.vn (trang tổng hợp tin, dẫn báo cáo JFC)",
+        "year": 2026,
+        "title": "Highlands Coffee posts EBITDA of over VND 1 trillion in 2025, the highest in three years (17/04/2026)",
+        "quote": "SuperFoods—the unit behind Highlands Coffee and Pho 24—reported revenue of more than 11.9 billion pesos (equivalent to more than 4,946 billion VND), up nearly 17%.",
+        "url": "https://index.vn/en/news/highlands-coffee-posts-ebitda-of-over-vnd-1-trillion-in-2025-the-highest-in-three-years",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 28,
+        "org": "Báo Đại biểu Nhân dân",
+        "year": 2026,
+        "title": "Tăng cường tham khảo kinh nghiệm quốc tế trong quản lý an toàn thực phẩm (30/09/2026)",
+        "quote": "dự kiến được trình Quốc hội cho ý kiến tại Kỳ họp thứ Hai, Quốc hội khóa XVI (tháng 10/2026) và xem xét thông qua tại Kỳ họp thứ Ba, Quốc hội khóa XVI (tháng 5/2027)",
+        "url": "https://daibieunhandan.vn/tang-cuong-tham-khao-kinh-nghiem-quoc-te-trong-quan-ly-an-toan-thuc-pham-10432269.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 29,
+        "org": "Tạp chí Luật sư Việt Nam (LSVN)",
+        "year": 2026,
+        "title": "Quốc hội thảo luận về các dự án luật trong lĩnh vực an toàn thực phẩm, sở hữu trí tuệ (24/10/2026)",
+        "quote": "Buổi chiều, Quốc hội thảo luận ở Tổ về các dự án: Luật Phát triển công nghiệp văn hóa; Luật An toàn thực phẩm (sửa đổi); Luật sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ.",
+        "url": "https://lsvn.vn/quoc-hoi-thao-luan-ve-cac-du-an-luat-trong-linh-vuc-an-toan-thuc-pham-so-huu-tri-tue-a181432.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 30,
+        "org": "Tạp chí Doanh nghiệp & Hội nhập",
+        "year": 2025,
+        "title": "Bộ Y tế đề xuất tăng mạnh mức xử phạt vi phạm an toàn thực phẩm (30/10/2025) — dự thảo, chưa ban hành",
+        "quote": "Bộ Y tế đang lấy ý kiến cho dự thảo Nghị định sửa đổi, bổ sung một số điều của Nghị định 115/2018/NĐ-CP và Nghị định 124/2021/NĐ-CP",
+        "url": "https://doanhnghiephoinhap.vn/bo-y-te-de-xuat-tang-manh-muc-xu-phat-vi-pham-an-toan-thuc-pham-119873.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      }
+    ]
+  },
+  {
+    "id": "quan-an-binh-dan",
+    "kind": "model",
+    "section": "4",
+    "title": "Quán ăn bình dân (cơm, bún, phở…)",
+    "summary": "Quán nhỏ trong ngõ tốn khoảng 200 triệu tiền sửa bếp, thiết bị, chưa kể tiền thuê; quán 200 m² ở Hà Nội tốn ~650 triệu vì phải trả trước 8 tháng tiền nhà. Quán đồ ăn làm ăn tốt ở HN/HCM giữ lại khoảng 12,7–14,8% doanh thu làm lãi, nên quán đắt khách cũng mất khoảng 10–20 tháng mới hoàn vốn (ước tính). Hợp người nấu ngon và chịu đứng bếp cả ngày. Bẫy lớn nhất: một sự cố an toàn thực phẩm, giá nguyên liệu tăng mà không dám tăng giá bán, hoặc chủ nhà lấy lại mặt bằng đúng lúc quán đông.",
+    "tags": {
+      "capital": "mid",
+      "breakeven": "mid",
+      "risk": "high",
+      "legal": "conditional",
+      "time": "full",
+      "evidence": "C"
+    },
+    "capital": {
+      "range": "≈ 200 – 650 triệu (2 case)",
+      "text": "Không có khảo sát công khai về vốn mở quán ăn bình dân. Hai case kiểm chứng được: (1) quán bánh xèo, nem lụi thuê nhà trong ngõ (hợp đồng 2 năm, bài không nêu thành phố) bỏ gần 200 triệu để sửa, làm lại bếp, mua thiết bị, trang trí, chưa gồm tiền thuê; (2) quán cơm văn phòng hơn 200 m² ở phường Cầu Giấy, Hà Nội (đầu 2025): thuê 45 triệu/tháng, phải trả trước 6 tháng và cọc 2 tháng ≈ 360 triệu, thêm gần 300 triệu cải tạo, thiết bị, nguyên liệu đầu, biển hiệu, quảng bá, tổng ~650 triệu. Mốc trên, không phải quán bình dân: một nhà hàng mặt phố trung tâm Hà Nội thuê 80 triệu/tháng tốn gần 2 tỷ, khoảng 80% vào sửa chữa, nội thất, bếp công nghiệp. Cấu trúc chung: sửa bếp, hút mùi; thiết bị nấu và bảo quản; bàn ghế; cọc và trả trước tiền thuê; vốn lưu động vài tuần nguyên liệu.",
+      "breakdown": [
+        {
+          "item": "Case 1: sửa chữa, làm lại bếp, thiết bị, trang trí (chưa gồm thuê)",
+          "value": "~200 triệu",
+          "refs": [
+            6
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Case 2 (200 m², Cầu Giấy, HN): 6 tháng thuê trả trước + 2 tháng cọc",
+          "value": "~360 triệu",
+          "refs": [
+            16
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Case 2: cải tạo, thiết bị, nguyên liệu đầu, biển hiệu, quảng bá",
+          "value": "gần 300 triệu",
+          "refs": [
+            16
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Mốc trên: nhà hàng mặt phố trung tâm HN, thuê 80 triệu/tháng (không phải bình dân)",
+          "value": "gần 2 tỷ",
+          "refs": [
+            20
+          ],
+          "grade": "C"
+        }
+      ],
+      "grade": "C",
+      "refs": [
+        6,
+        16,
+        20
+      ]
+    },
+    "burn": {
+      "range": "≈ 24 – 51 triệu/tháng (ước tính)",
+      "text": "Ước tính của tác giả cho quán nhỏ = tiền thuê 13–30 triệu (2 case Hà Nội 2025: quán cơm văn phòng trong ngõ ở Đống Đa 13 triệu/tháng chưa gồm điện nước; quán bún hơn 30 m² ở Linh Đàm 30 triệu/tháng) + lương 1–2 người theo mức ~10,6 triệu/người/tháng (case Cầu Giấy: 8 nhân viên, 85 triệu/tháng) ≈ 24–51 triệu/tháng, chưa gồm điện, nước, gas và công của chủ. Quán lớn hơn: case 200 m² ở Cầu Giấy có chi phí cố định ~130 triệu (thuê 45 + lương 85), tổng chi vận hành 280–300 triệu/tháng kể cả nguyên liệu ~35% doanh thu. Đối chiếu tỷ lệ ở cửa hàng đồ ăn làm ăn tốt (iPOS 2025): nhân sự 12,7–14,8% doanh thu; nhóm mặt bằng, điện nước, marketing… 41,6–41,9%.",
+      "grade": "C",
+      "refs": [
+        2,
+        16,
+        17,
+        18,
+        21
+      ]
+    },
+    "breakeven": {
+      "range": "≈ 10 – 20 tháng (ước tính)",
+      "text": "Không có khảo sát công khai. Ước tính của tác giả: hoàn vốn = vốn ÷ lãi tháng. Vốn 226–260 triệu = ~200 triệu sửa sang, thiết bị (case 1) + cọc 2 tháng tiền thuê 13–30 triệu (mức cọc của case Cầu Giấy, tiền thuê của 2 case Hà Nội). Doanh thu 105–150 triệu/tháng = ~100 suất/ngày (một quán cơm văn phòng ở Hoàng Mai, Hà Nội giảm từ hơn 150 xuống dưới 100 suất/ngày, 2025) × 35.000–50.000 đ/suất (giá của quán cơm ở Đống Đa; khớp dải 31.000–50.000 đ chiếm 55,7% chi tiêu bữa trưa nửa đầu 2025) × 30 ngày. Lãi 12,7–14,8% doanh thu (iPOS) → 13–22 triệu/tháng → khoảng 10–20 tháng. Thực tế thường chậm hơn: quán bánh xèo năm đầu chỉ hòa vốn; quán bún cá ở đường Láng (Hà Nội) lãi ~20 triệu/tháng năm 2025 nhưng chỉ còn 3–5 triệu năm 2026, với vốn 200 triệu là 40–67 tháng; quán cơm 200 m² ở Cầu Giấy doanh thu 230–260 triệu/tháng vẫn lỗ gần 400 triệu sau 9 tháng. Tự tính doanh thu hòa vốn/tháng = chi phí cố định ÷ (1 − tỷ lệ nguyên liệu); VD 50 triệu ÷ (1 − 0,30) ≈ 71 triệu ≈ 60 suất 40.000 đ/ngày.",
+      "grade": "C",
+      "refs": [
+        2,
+        4,
+        6,
+        16,
+        17,
+        19,
+        21
+      ]
+    },
+    "margin": {
+      "gross": "≈ 69 – 70% doanh thu",
+      "net": "≈ 12,7 – 14,8% doanh thu",
+      "text": "Chuẩn đối sánh iPOS 2025 cho 100 cửa hàng đồ ăn làm ăn tốt: Hà Nội — nhân sự 14,50%, nguyên liệu 29,96%, mặt bằng/điện nước/marketing… 41,90%, lợi nhuận 13,65%; TP.HCM — nguyên liệu 30,91%, nhóm còn lại 41,64%, còn nhân sự và lợi nhuận là 12,69% và 14,77% nhưng báo cáo tự mâu thuẫn: nhãn in trên trang 90 ghi lợi nhuận 14,77%, nhân sự 12,69%, còn kích thước lát cắt lại ứng với lợi nhuận ~12,9%, nhân sự ~14,9%. Vì vậy dải lãi ghi 12,7–14,8%. Mẫu là cửa hàng vừa và nhỏ có lãi gộp trên 10%, chạy từ 1 năm, không riêng quán cơm, bún, phở bình dân. Có món tỷ lệ nguyên liệu cao hơn nhiều: một quán bún bò Huế ở Hà Nội (3/2026) tính nguyên liệu 35.000–38.000 đ cho tô bán 50.000 đ, tức 70–76% giá bán (tác giả tính). Giá bữa trưa đang nhích lên: 6 tháng đầu 2026, tỷ lệ khách chi dưới 30.000 đ giảm hơn 18%, nhóm chi từ 51.000 đ tăng 37%.",
+      "grade": "B",
+      "refs": [
+        2,
+        5,
+        19
+      ]
+    },
+    "risks": [
+      {
+        "title": "Sự cố an toàn thực phẩm",
+        "text": "Năm 2025, 26,81% doanh nghiệp F&B bị ảnh hưởng nặng nhất bởi cú sốc ATTP và thiên tai. Dịch liên cầu lợn khiến khách miền Trung tẩy chay thịt lợn, nội tạng 4–6 tháng — đánh thẳng vào bún bò, mì Quảng. Vụ đồ hộp Canfoco tác động tới quyết định của 54,45% thực khách. Với quán nhỏ, một vụ ngộ độc là mất khách ngay, chưa kể bị phạt.",
+        "refs": [
+          1,
+          3
+        ]
+      },
+      {
+        "title": "Mất mặt bằng đúng lúc quán đông",
+        "text": "Case 2025: thuê hợp đồng 2 năm, năm đầu chỉ hòa vốn; xin gia hạn 3 năm chỉ được ký 1 năm; 3 tháng trước khi hết hạn chủ nhà đòi lại mặt bằng, rồi tự mở quán bán đúng món và dùng lại tên quán. Người thuê nhỏ lẻ thường không theo kiện, mất luôn khoản ~200 triệu đã sửa sang và lượng khách quen.",
+        "refs": [
+          6
+        ]
+      },
+      {
+        "title": "Giá nguyên liệu tăng nhưng khách không chịu tăng giá",
+        "text": "Năm 2025, 69,38% doanh nghiệp coi giá nguyên liệu tăng mạnh là rào cản lớn nhất; một số đầu vào tăng 30–40%. 58,91% quán mở trước 2025 đã tăng giá nhưng 40,49% chỉ tăng dưới 5%; 38,59% cho rằng khách thắt chặt chi tiêu là yếu tố ảnh hưởng nhất tới doanh thu và biên lãi. Case Hà Nội 2026: quán bún cá ở đường Láng lãi ~20 triệu/tháng năm 2025, nay còn 3–5 triệu; thử giảm hải sản tươi thì khách giảm khoảng 30%, đành tăng giá 5.000 đ/bát.",
+        "refs": [
+          1,
+          19
+        ]
+      }
+    ],
+    "legal": [
+      {
+        "title": "Giấy chứng nhận cơ sở đủ điều kiện ATTP — bắt buộc với quán có địa điểm cố định",
+        "basis": "Điều 34, 36, 37 Luật An toàn thực phẩm số 55/2010/QH12; khoản 1 Điều 11 và khoản 1 Điều 12 NĐ 15/2018/NĐ-CP (đang áp dụng lại theo NQ 15/2026/NQ-CP); khoản 1 Điều 18 và khoản 2 Điều 3 NĐ 115/2018/NĐ-CP (sửa đổi bởi NĐ 124/2021/NĐ-CP)",
+        "text": "Quán ăn có địa điểm cố định là cơ sở kinh doanh dịch vụ ăn uống, không nằm trong danh sách miễn ở khoản 1 Điều 12 NĐ 15/2018, nên phải có GCN kể cả khi là hộ kinh doanh; muốn xin phải đăng ký ngành nghề kinh doanh thực phẩm trước. Hồ sơ có giấy xác nhận đủ sức khỏe của chủ và người trực tiếp nấu, bán; cơ quan kiểm tra thực tế trong 15 ngày; GCN hiệu lực 3 năm. Không có GCN: 10–15 triệu với cá nhân/hộ, 20–30 triệu với doanh nghiệp. NĐ 46/2026/NĐ-CP đang bị tạm ngưng; NĐ 15/2018 vẫn áp dụng. Nơi cấp do UBND tỉnh phân cấp (TP.HCM: Sở ATTP, đang đề xuất ủy quyền cho xã/phường). Một số xã cho cơ sở ăn uống không thuộc diện cấp GCN ký bản cam kết ATTP thay thế — hỏi trước tại UBND xã/phường. Dự án Luật ATTP (sửa đổi) đã được Quốc hội thảo luận ở tổ ngày 24/10/2026 (kỳ họp thứ 2) và dự kiến thông qua ở kỳ họp thứ 3 (5/2027), nên NĐ 15/2018 còn áp dụng ít nhất tới khi luật mới có hiệu lực. Mức phạt vẫn theo NĐ 115/2018: Bộ Y tế mới có dự thảo sửa đổi để tăng phạt, đến 1/11/2026 chưa thấy ban hành.",
+        "refs": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          14,
+          22,
+          23,
+          24
+        ]
+      },
+      {
+        "title": "Lấn vỉa hè để bày bàn ăn",
+        "basis": "khoản 7 Điều 12 NĐ 168/2024/NĐ-CP",
+        "text": "Dùng trái phép lòng đường, vỉa hè để kinh doanh dịch vụ ăn uống: 2–3 triệu (cá nhân), 4–6 triệu (tổ chức).",
+        "refs": [
+          13
+        ]
+      },
+      {
+        "title": "Thuế, hóa đơn, PCCC — chỉ dẫn",
+        "basis": "NQ 198/2025/QH15; Luật PCCC và CNCH số 55/2024/QH15, NĐ 105/2025/NĐ-CP",
+        "text": "Hết thuế khoán từ 1/1/2026, hộ kinh doanh tự kê khai; PCCC theo luật mới từ 1/7/2025 — chi tiết ở phần 0.",
+        "refs": [
+          1,
+          15
+        ]
+      }
+    ],
+    "seed": null,
+    "notes": "iPOS xếp quán phở, bún, cơm tấm vào nhóm 'nhà hàng dịch vụ nhanh' (limited-service); nhóm này cùng ẩm thực đường phố chiếm 57,2% số cửa hàng đồ ăn năm 2025 (nguồn 1). Tỷ lệ chi phí chỉ đúng cho cửa hàng vừa và nhỏ làm ăn tốt ở HN/HCM; quán cơm bình dân có thể có tỷ lệ nguyên liệu khác — chưa có số liệu riêng. Theo iPOS, gần 80% doanh nghiệp có doanh thu từ app giao đồ ăn dưới 30% tổng doanh thu (nguồn 1) — app là kênh phụ, không thay được khách tại chỗ. Vốn, chi phí tháng và hoàn vốn hiện dựa trên case báo chí (chủ yếu Hà Nội) và ước tính theo công thức, mức C; chưa có khảo sát. Case TP.HCM còn thiếu.",
+    "sources": [
+      {
+        "id": 1,
+        "org": "iPOS.vn & Nestlé Professional (VIRAC thẩm định dữ liệu)",
+        "year": 2026,
+        "title": "Báo cáo thị trường Kinh doanh Ẩm thực tại Việt Nam năm 2025 — bản PDF đầy đủ lưu trên máy chủ bên thứ ba; bản gốc phát hành qua form tại https://ipos.vn/bao-cao-thi-truong-kinh-doanh-am-thuc-viet-nam-2025/",
+        "quote": "26,81% gặp các cú sốc từ Bão lũ và An toàn thực phẩm.",
+        "url": "https://jhebreoxwuimlqwvjdok.supabase.co/storage/v1/object/public/mentee_docs/2025-report__Thi%20truong%20F&B%20nam%202025.pdf",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 2,
+        "org": "iPOS.vn & Nestlé Professional",
+        "year": 2026,
+        "title": "Báo cáo thị trường Kinh doanh Ẩm thực tại Việt Nam năm 2025 — Phần 5 'F&B Benchmark 2025' (tr. 88–90; số đọc từ biểu đồ tròn; ở biểu đồ đồ ăn TP.HCM nhãn in và lát cắt lệch nhau)",
+        "quote": "khảo sát và nghiên cứu các chỉ số chi phí kinh doanh của 200 cửa hàng quy mô vừa và nhỏ, bao gồm 100 mô hình đồ ăn, 100 mô hình đồ uống",
+        "url": "https://jhebreoxwuimlqwvjdok.supabase.co/storage/v1/object/public/mentee_docs/2025-report__Thi%20truong%20F&B%20nam%202025.pdf",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 3,
+        "org": "iPOS.vn",
+        "year": 2026,
+        "title": "Thông cáo báo chí: Báo cáo thị trường Kinh doanh Ẩm thực tại Việt Nam năm 2025 (09/04/2026)",
+        "quote": "vụ việc tại Đồ hộp Hạ Long Canfoco gây ảnh hưởng mạnh mẽ nhất với 54,45% thực khách cho biết tác động trực tiếp đến quyết định sử dụng sản phẩm",
+        "url": "https://ipos.vn/thong-cao-bao-chi-ipos-vn-va-nestle-professional-cong-bo-bao-cao-thi-truong-kinh-doanh-am-thuc-tai-viet-nam-nam-2025/",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 4,
+        "org": "iPOS.vn",
+        "year": 2025,
+        "title": "Press Release: Vietnam Foodservice Business Market Report for the First Half of 2025 (10/10/2025)",
+        "quote": "The proportion of consumers spending under VND 30,000 per meal has doubled (from 8.8% to 16.5%), while the VND 31,000–50,000 segment now accounts for 55.7% of regular lunch spending.",
+        "url": "https://ipos.vn/en/press-release-iposvn-and-nestle-professional-announce-the-vietnam-foodservice-business-market-report-for-the-first-half-of-2025/",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 5,
+        "org": "iPOS.vn",
+        "year": 2026,
+        "title": "Thông cáo báo chí: Báo cáo thị trường Kinh doanh Ẩm thực tại Việt Nam 6 tháng đầu năm 2026 (10/09/2026)",
+        "quote": "Ở bữa trưa, tỷ lệ thực khách chi dưới 30.000 VND giảm hơn 18%, trong khi nhóm chi từ 51.000 VND trở lên tăng tới 37%.",
+        "url": "https://ipos.vn/ipos-vn-va-nestle-professional-cong-bo-bao-cao-thi-truong-kinh-doanh-am-thuc-tai-viet-nam-6-thang-dau-nam-2026/",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 6,
+        "org": "VTC News",
+        "year": 2025,
+        "title": "Chủ nhà cướp trắng mồ hôi nước mắt khi đòi mặt bằng, bán món tôi xây thương hiệu (15/05/2025)",
+        "quote": "Tôi bỏ ra gần 200 triệu đồng để sửa chữa, sơn sửa, lắp kính, làm lại bếp, mua thiết bị, trang trí quán.",
+        "url": "https://vtcnews.vn/chu-nha-cuop-trang-mo-hoi-nuoc-mat-khi-doi-mat-bang-ban-mon-toi-xay-thuong-hieu-ar942831.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 7,
+        "org": "Chính phủ",
+        "year": 2018,
+        "title": "Nghị định 15/2018/NĐ-CP quy định chi tiết thi hành một số điều của Luật An toàn thực phẩm — Điều 11, 12",
+        "quote": "Cơ sở sản xuất, kinh doanh thực phẩm phải có Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm khi hoạt động, trừ trường hợp quy định tại khoản 1 Điều 12 Nghị định này",
+        "url": "https://hethongphapluat.com/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 8,
+        "org": "Cổng PBGDPL TP. Cần Thơ (tóm tắt Nghị quyết 15/2026/NQ-CP của Chính phủ)",
+        "year": 2026,
+        "title": "Tạm ngưng hiệu lực Nghị định số 46/2026/NĐ-CP đến khi có Luật An toàn thực phẩm (sửa đổi)",
+        "quote": "Nghị định số 15/2018/NĐ-CP của Chính phủ hướng dẫn của Luật An toàn thực phẩm và các văn bản quy định, hướng dẫn thi hành tiếp tục có hiệu lực.",
+        "url": "https://pbgdpl.cantho.gov.vn/tam-ngung-hieu-luc-nghi-dinh-so-462026nd-cp-den-khi-co-luat-an-toan-thuc-pham-sua-doi",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 9,
+        "org": "Chính phủ",
+        "year": 2018,
+        "title": "Nghị định 115/2018/NĐ-CP xử phạt vi phạm hành chính về an toàn thực phẩm — Điều 18",
+        "quote": "Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với hành vi kinh doanh dịch vụ ăn uống mà không có Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm",
+        "url": "https://hethongphapluat.com/nghi-dinh-115-2018-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-an-toan-thuc-pham/dieu-18",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 10,
+        "org": "Chính phủ",
+        "year": 2018,
+        "title": "Nghị định 115/2018/NĐ-CP (sửa đổi bởi NĐ 124/2021/NĐ-CP) — Điều 3",
+        "quote": "Đối với cùng một hành vi vi phạm hành chính thì mức phạt tiền đối với tổ chức gấp 02 lần mức phạt tiền đối với cá nhân.",
+        "url": "https://hethongphapluat.com/nghi-dinh-115-2018-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-an-toan-thuc-pham/dieu-3",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 11,
+        "org": "Quốc hội",
+        "year": 2010,
+        "title": "Luật An toàn thực phẩm số 55/2010/QH12 — Điều 34, 36, 37",
+        "quote": "Có đăng ký ngành, nghề kinh doanh thực phẩm trong Giấy chứng nhận đăng ký kinh doanh.",
+        "url": "https://hethongphapluat.com/luat-an-toan-thuc-pham-2010.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 12,
+        "org": "Báo Đại biểu Nhân dân",
+        "year": 2026,
+        "title": "TP. Hồ Chí Minh đề xuất thêm thẩm quyền cho UBND cấp xã trong lĩnh vực an toàn thực phẩm (29/06/2026)",
+        "quote": "Sở ATTP TP. Hồ Chí Minh kiến nghị UBND thành phố chấp thuận việc Sở ủy quyền cho UBND cấp xã thực hiện thủ tục cấp giấy chứng nhận cơ sở đủ điều kiện ATTP",
+        "url": "https://daibieunhandan.vn/tp-ho-chi-minh-de-xuat-them-tham-quyen-cho-ubnd-cap-xa-trong-linh-vuc-an-toan-thuc-pham-10421905.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 13,
+        "org": "Chính phủ",
+        "year": 2024,
+        "title": "Nghị định 168/2024/NĐ-CP xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ — Điều 12",
+        "quote": "Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với cá nhân, từ 4.000.000 đồng đến 6.000.000 đồng đối với tổ chức thực hiện hành vi sử dụng trái phép lòng đường, vỉa hè",
+        "url": "https://hethongphapluat.com/nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-an-toan-giao-thong-trong-linh-vuc-giao-thong-duong-bo-tru-diem-phuc-hoi-diem-giay-phep-lai-xe.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 14,
+        "org": "UBND xã Ngọc Lặc, tỉnh Thanh Hóa",
+        "year": 2026,
+        "title": "Công văn về triển khai ký cam kết đảm bảo ATTP đối với cơ sở không thuộc diện cấp GCN và thức ăn đường phố (4/2026)",
+        "quote": "Bản cam kết được lưu tại cơ sở thực phẩm và lưu tại cơ quan quản lý, mỗi nơi giữ một bản, có hiệu lực 3 năm.",
+        "url": "https://storage-vnportal.vnpt.vn/gov-tha/7455/FileVanBanChiDao/Cv%20k%C3%BD%20cam%20k%E1%BA%BFt%202026639126250423997299.pdf",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 15,
+        "org": "Chính phủ",
+        "year": 2025,
+        "title": "Nghị định 105/2025/NĐ-CP hướng dẫn Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ (Luật số 55/2024/QH15)",
+        "quote": "Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2025.",
+        "url": "https://hethongphapluat.com/nghi-dinh-105-2025-nd-cp-huong-dan-luat-phong-chay-chua-chay-va-cuu-nan-cuu-ho.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 16,
+        "org": "VnBusiness",
+        "year": 2026,
+        "title": "Vì sao nhiều quán có doanh thu tiền tỷ vẫn đóng cửa? (08/06/2026)",
+        "quote": "Tổng số vốn bỏ ra trước ngày khai trương lên tới khoảng 650 triệu đồng.",
+        "url": "https://vnbusiness.vn/vi-sao-nhieu-quan-co-doanh-thu-tien-ty-van-dong-cua.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 17,
+        "org": "VietNamNet",
+        "year": 2025,
+        "title": "Office lunch eateries struggle as customers cut back on dining out (08/08/2025)",
+        "quote": "The eatery also faces rental costs of VND13 million per month, excluding utilities like electricity and water.",
+        "url": "https://vietnamnet.vn/en/office-lunch-eateries-struggle-as-customers-cut-back-on-dining-out-2429443.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 18,
+        "org": "VietNamNet",
+        "year": 2025,
+        "title": "Hanoi noodle and pho shops hike prices by VND 5,000 amid rising costs (10/05/2025)",
+        "quote": "The Linh Dam shop owner revealed she pays VND 30 million (USD 1,185) per month for a space of just over 30 square meters.",
+        "url": "https://vietnamnet.vn/en/hanoi-noodle-and-pho-shops-hike-prices-by-vnd-5-000-amid-rising-costs-2399676.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 19,
+        "org": "VTC News",
+        "year": 2026,
+        "title": "Bát phở tăng giá lên 50.000 đồng, chủ quán có lãi lớn hơn thời 30.000 đồng? (25/03/2026)",
+        "quote": "năm ngoái bình quân lợi nhuận của quán bún hải sản của anh đạt khoảng 20 triệu đồng/tháng. Nhưng năm nay, khoản này chỉ còn 3 - 5 triệu đồng",
+        "url": "https://vtcnews.vn/bat-pho-tang-gia-len-50-000-dong-chu-quan-co-lai-lon-hon-thoi-30-000-dong-ar1009023.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 20,
+        "org": "VietNamNet",
+        "year": 2026,
+        "title": "High rents force young entrepreneurs to abandon startup dreams (07/03/2026)",
+        "quote": "The total capital of nearly VND2 billion was mainly allocated for rent, deposit, and site renovation.",
+        "url": "https://vietnamnet.vn/en/high-rents-force-young-entrepreneurs-to-abandon-startup-dreams-2495084.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 21,
+        "org": "Ước tính của tác giả",
+        "year": 2026,
+        "title": "Ước tính chi phí tháng và thời gian hoàn vốn quán ăn bình dân",
+        "quote": "chi phí cố định = thuê 13–30 triệu (nguồn 17, 18) + lương 1–2 × 85/8 triệu (nguồn 16); hoàn vốn = [200 triệu (nguồn 6) + 2 × thuê] ÷ [100 suất × 35–50 nghìn × 30 (nguồn 17) × 12,7–14,8% (nguồn 2)] ≈ 10–20 tháng",
+        "type": "estimate",
+        "grade": "C",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 22,
+        "org": "Báo Đại biểu Nhân dân",
+        "year": 2026,
+        "title": "Tăng cường tham khảo kinh nghiệm quốc tế trong quản lý an toàn thực phẩm (30/09/2026)",
+        "quote": "dự kiến được trình Quốc hội cho ý kiến tại Kỳ họp thứ Hai, Quốc hội khóa XVI (tháng 10/2026) và xem xét thông qua tại Kỳ họp thứ Ba, Quốc hội khóa XVI (tháng 5/2027)",
+        "url": "https://daibieunhandan.vn/tang-cuong-tham-khao-kinh-nghiem-quoc-te-trong-quan-ly-an-toan-thuc-pham-10432269.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 23,
+        "org": "Tạp chí Luật sư Việt Nam (LSVN)",
+        "year": 2026,
+        "title": "Quốc hội thảo luận về các dự án luật trong lĩnh vực an toàn thực phẩm, sở hữu trí tuệ (24/10/2026)",
+        "quote": "Buổi chiều, Quốc hội thảo luận ở Tổ về các dự án: Luật Phát triển công nghiệp văn hóa; Luật An toàn thực phẩm (sửa đổi); Luật sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ.",
+        "url": "https://lsvn.vn/quoc-hoi-thao-luan-ve-cac-du-an-luat-trong-linh-vuc-an-toan-thuc-pham-so-huu-tri-tue-a181432.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 24,
+        "org": "Tạp chí Doanh nghiệp & Hội nhập",
+        "year": 2025,
+        "title": "Bộ Y tế đề xuất tăng mạnh mức xử phạt vi phạm an toàn thực phẩm (30/10/2025) — dự thảo, chưa ban hành",
+        "quote": "Bộ Y tế đang lấy ý kiến cho dự thảo Nghị định sửa đổi, bổ sung một số điều của Nghị định 115/2018/NĐ-CP và Nghị định 124/2021/NĐ-CP",
+        "url": "https://doanhnghiephoinhap.vn/bo-y-te-de-xuat-tang-manh-muc-xu-phat-vi-pham-an-toan-thuc-pham-119873.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      }
+    ]
+  },
+  {
+    "id": "nhuong-quyen-tra-sua-do-uong",
+    "kind": "model",
+    "section": "4",
+    "title": "Nhận nhượng quyền trà sữa / đồ uống",
+    "summary": "Bỏ khoảng 370 triệu (trà sữa giá rẻ) tới hơn 1 tỷ (thương hiệu lớn) để mua sẵn công thức, nhận diện và quy trình. Bên bán quyền hứa hoàn vốn 4–11 tháng, trong khi cửa hàng đồ uống làm ăn tốt thực tế lãi 13–15% doanh thu, tức gần 2 năm mới hoàn vốn dù doanh thu đúng dự phóng (ước tính). Hợp người có vốn, chưa có công thức, chịu theo quy chuẩn. Bẫy lớn nhất: phí cố định và nghĩa vụ theo hệ thống vẫn chạy khi doanh thu hụt.",
+    "tags": {
+      "capital": "mid",
+      "breakeven": "slow",
+      "risk": "high",
+      "legal": "conditional",
+      "time": "full",
+      "evidence": "C"
+    },
+    "capital": {
+      "range": "≈ 370 triệu – hơn 1 tỷ",
+      "text": "Mọi con số dưới đây là báo giá của bên bán quyền (nguồn có lợi ích thương mại). Gói Express của Trà sữa Viên Viên (mặt tiền 4×7 m) 373,01 triệu, chưa gồm 10% VAT, đơn nguyên liệu đầu và phí duy trì 3 triệu/tháng. Tocotoco không công bố giá gói, chỉ chia form tư vấn theo 3 mức vốn 500–700 triệu, 700 triệu–1 tỷ, trên 1 tỷ; miễn phí nhượng quyền ngoài TP.HCM, Hà Nội; danh mục đầu tư có 'Phí đặt cọc' và 'Gói nguyên vật liệu'. Đồ uống cà phê rẻ hơn: Milano kiosk từ 115,56 triệu, Trung Nguyên E-Coffee từ 75–215 triệu.",
+      "breakdown": [
+        {
+          "item": "Trà sữa Viên Viên — gói Express (đào tạo, thiết kế, nội thất, cải tạo 4×7 m, máy POS, thiết bị)",
+          "value": "373,01 triệu",
+          "refs": [
+            1
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Tocotoco — 3 mức vốn trong form tư vấn",
+          "value": "500 triệu – trên 1 tỷ",
+          "refs": [
+            2
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Tham chiếu đồ uống cà phê: Milano kiosk / Trung Nguyên E-Coffee",
+          "value": "từ 115,56 triệu / từ 75–215 triệu",
+          "refs": [
+            3,
+            4
+          ],
+          "grade": "C"
+        }
+      ],
+      "grade": "C",
+      "refs": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "burn": {
+      "range": "≈ 38,5 triệu/tháng (dự phóng bên bán)",
+      "text": "Bảng dự phóng Viên Viên: phí duy trì 3 triệu (2,5% doanh thu), lương 18 triệu (15%), mặt bằng 10 triệu (8%), điện nước 5 triệu (4%), chi phí cố định khác 2 triệu, thuế 0,5 triệu. Tiền thuê 10 triệu chỉ đúng với mặt bằng rẻ; dòng thuế chưa phản ánh chế độ kê khai từ 1/1/2026 — tự tính lại theo phần 0.",
+      "grade": "C",
+      "refs": [
+        1
+      ]
+    },
+    "breakeven": {
+      "range": "≈ 20 – 23 tháng (ước tính)",
+      "text": "Tocotoco quảng cáo 'hoàn vốn từ 04 tháng'; Viên Viên tính 11,34 tháng với giả định doanh thu 120 triệu/tháng (211 ly/ngày) và lãi 27%. Ước tính của tác giả: giữ doanh thu 120 triệu nhưng lãi bằng mức cửa hàng đồ uống làm ăn tốt (13,38–15,16%, iPOS) thì lãi 16–18 triệu/tháng → 373 triệu cần ~20–23 tháng. Doanh thu hòa vốn theo chính bảng dự phóng: 38,5 triệu ÷ (1 − 41%) ≈ 65 triệu/tháng ≈ 115 ly/ngày (giá bình quân ~19.000 đ/ly, suy từ 120 triệu ÷ 6.330 ly). Nếu chỉ lãi ròng như chuỗi lớn Phúc Long năm 2025 (10,3% doanh thu) thì 120 triệu doanh thu cho ~12,4 triệu lãi/tháng → ~30 tháng.",
+      "grade": "C",
+      "refs": [
+        1,
+        2,
+        6,
+        20,
+        23
+      ]
+    },
+    "margin": {
+      "gross": "≈ 59% (dự phóng bên bán)",
+      "net": "13,4 – 15,2% (bên bán hứa 27%)",
+      "text": "Giá vốn trong dự phóng (nguyên liệu 38% + vận chuyển 3%) cao hơn tỷ lệ nguyên liệu 28,7–29,8% ở cửa hàng đồ uống làm ăn tốt (iPOS 2025); lưu ý danh mục đầu tư của Tocotoco có 'Gói nguyên vật liệu', và nhà sáng lập Viên Viên nói họ chủ động nguồn nguyên liệu với quy trình sản xuất riêng. Nhưng lãi dự phóng 27% lại gần gấp đôi mức 13,4–15,2% của cửa hàng khỏe, vì giả định tiền thuê chỉ 8% doanh thu. Chạy lại bảng với tiền thuê thật của mặt bằng bạn định thuê. Mốc chuỗi lớn, quy mô khác hẳn: Phúc Long năm 2025 có biên EBITDA 18,7%, lãi ròng 10,3% (Masan công bố).",
+      "grade": "C",
+      "refs": [
+        1,
+        2,
+        5,
+        6,
+        20
+      ]
+    },
+    "risks": [
+      {
+        "title": "Doanh thu thật thấp hơn bảng dự phóng",
+        "text": "Bảng dự phóng giả định doanh thu đều từ tháng đầu (Viên Viên: 211 ly/ngày). Thực tế 6 tháng đầu 2026 chỉ 15,82% cơ sở đồ uống tăng trưởng; năm 2024 chỉ 25,5% doanh nghiệp F&B giữ doanh thu ổn định và 14,7% tăng trưởng. Theo chính bảng chi phí của bên bán quyền, dưới ~65 triệu/tháng là lỗ (ước tính của tác giả), trong khi phí duy trì, lương, tiền thuê vẫn phải trả.",
+        "refs": [
+          1,
+          7,
+          9
+        ]
+      },
+      {
+        "title": "Hợp đồng khóa chặt bên nhận quyền",
+        "text": "Viên Viên: hợp đồng 3 năm, phí duy trì 3 triệu/tháng không phụ thuộc doanh thu, giá gói chưa gồm đơn nguyên liệu đầu. Luật Thương mại buộc bên nhận quyền chấp nhận kiểm soát, theo thiết kế của bên nhượng quyền và ngừng dùng nhãn hiệu, hệ thống khi hợp đồng chấm dứt — tiền làm biển hiệu, nội thất theo concept gần như mất giá trị. Muốn sang lại cửa hàng phải được bên nhượng quyền chấp thuận.",
+        "refs": [
+          1,
+          10,
+          11
+        ]
+      },
+      {
+        "title": "Thương hiệu mẹ gặp khủng hoảng hoặc bị sóng giá siêu rẻ ép",
+        "text": "Chagee bị kêu gọi tẩy chay ở Việt Nam khi chưa mở cửa hàng nào — mọi điểm của một thương hiệu chịu chung cú sốc. Sóng 'trà sữa 7K': 65% người tiêu dùng sẵn sàng thử đồ siêu rẻ nhưng phần lớn chỉ thử một lần; iPOS nhận định nhóm đồ uống lưng chừng bị kẹp giữa xe đẩy/kiosk và chuỗi có trải nghiệm tốt hơn.",
+        "refs": [
+          5,
+          8
+        ]
+      }
+    ],
+    "legal": [
+      {
+        "title": "Kiểm tra bên nhượng quyền và đòi đủ thông tin trước khi ký",
+        "basis": "Điều 5 NĐ 35/2006/NĐ-CP (sửa đổi bởi Điều 8 NĐ 08/2018/NĐ-CP); khoản 1 Điều 8 NĐ 35/2006/NĐ-CP",
+        "text": "Hệ thống đem nhượng quyền phải đã hoạt động ít nhất 1 năm. Bên nhượng quyền phải đưa bản sao hợp đồng mẫu và bản giới thiệu nhượng quyền ít nhất 15 ngày làm việc trước khi ký, trừ khi hai bên thỏa thuận khác — đừng ký thỏa thuận bỏ quyền này. Nên đòi thêm số liệu doanh thu thực của các cửa hàng đang chạy và số cửa hàng đã đóng.",
+        "refs": [
+          11,
+          13
+        ]
+      },
+      {
+        "title": "Ai phải đăng ký nhượng quyền",
+        "basis": "Điều 291 Luật Thương mại 2005; Điều 17a NĐ 35/2006/NĐ-CP (bổ sung bởi khoản 2 Điều 3 NĐ 120/2011/NĐ-CP); điểm a khoản 1 Điều 18 NĐ 35/2006/NĐ-CP",
+        "text": "Nhượng quyền trong nước và từ Việt Nam ra nước ngoài không phải đăng ký, chỉ thực hiện chế độ báo cáo Sở Công Thương. Chỉ nhượng quyền từ nước ngoài vào Việt Nam phải đăng ký tại Bộ Công Thương — với thương hiệu ngoại, hỏi văn bản chấp thuận đăng ký.",
+        "refs": [
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "title": "Điều khoản hợp đồng dễ thiệt cho bên nhận quyền",
+        "basis": "Điều 287, 289, 301 Luật Thương mại 2005; Điều 11, 15, 16 NĐ 35/2006/NĐ-CP",
+        "text": "Đọc kỹ: (1) giá, phí định kỳ, thời hạn, gia hạn và chấm dứt (Điều 11); (2) bên nhượng quyền được đơn phương chấm dứt nếu bên nhận vi phạm pháp luật nghiêm trọng hoặc không khắc phục vi phạm sau khi được báo bằng văn bản (khoản 2 Điều 16); (3) sang lại phải được chấp thuận, bên nhượng quyền có 15 ngày trả lời (Điều 15); (4) sau khi chấm dứt phải ngừng dùng nhãn hiệu, hệ thống và vẫn phải giữ bí mật kinh doanh (khoản 4–5 Điều 289); (5) mức phạt vi phạm hợp đồng không quá 8% giá trị phần nghĩa vụ bị vi phạm (Điều 301). Ghi nghĩa vụ đào tạo, trợ giúp kỹ thuật, đối xử bình đẳng của bên nhượng quyền (Điều 287) thành cam kết đo được.",
+        "refs": [
+          10,
+          11
+        ]
+      },
+      {
+        "title": "Bên nhượng quyền khai gian: phạt hành chính thấp, phải tự giữ bằng chứng",
+        "basis": "Điều 75 và điểm b khoản 4 Điều 4 NĐ 98/2020/NĐ-CP (khoản 4 Điều 4 sửa đổi bởi NĐ 24/2025/NĐ-CP; Điều 75 chưa bị sửa)",
+        "text": "Mức phạt cho cá nhân; tổ chức gấp đôi. Nhượng quyền mà không có hợp đồng: 1–3 triệu. Cung cấp thông tin không trung thực, không đủ nội dung bắt buộc trong bản giới thiệu nhượng quyền, hoặc hợp đồng sai ngôn ngữ, thiếu nội dung chủ yếu: 3–5 triệu. Không đăng ký (với nhượng quyền phải đăng ký), kinh doanh nhượng quyền khi chưa đủ điều kiện (VD hệ thống chưa chạy đủ 1 năm): 5–10 triệu. Tiếp tục kinh doanh nhượng quyền khi hợp đồng đã hết hạn: 10–30 triệu. Kèm buộc nộp lại số lợi bất hợp pháp. Tiền phạt nộp nhà nước, không bù cho bên nhận quyền. Muốn đòi tiền phải dựa vào hợp đồng (phạt vi phạm tối đa 8%, Điều 301 Luật Thương mại). Giữ lại bản giới thiệu và mọi bảng dự phóng doanh thu bên bán đưa.",
+        "refs": [
+          10,
+          13,
+          18,
+          19
+        ]
+      },
+      {
+        "title": "Cửa hàng nhận quyền vẫn phải tự xin GCN ATTP",
+        "basis": "khoản 1 Điều 11 NĐ 15/2018/NĐ-CP (đang áp dụng theo NQ 15/2026/NQ-CP); khoản 1 Điều 18 và khoản 2 Điều 3 NĐ 115/2018/NĐ-CP",
+        "text": "Cửa hàng là cơ sở dịch vụ ăn uống của bên nhận quyền; thương hiệu không thay bạn xin giấy. Không có GCN: 10–15 triệu (cá nhân/hộ), 20–30 triệu (doanh nghiệp). Thuế, hóa đơn: xem phần 0. Luật ATTP (sửa đổi) mới được Quốc hội cho ý kiến (24/10/2026), dự kiến thông qua 5/2027; NĐ 15/2018 vẫn áp dụng.",
+        "refs": [
+          14,
+          15,
+          16,
+          17,
+          21,
+          22
+        ]
+      }
+    ],
+    "seed": null,
+    "notes": "iPOS 2025 ghi nhận nhượng quyền tiếp tục là động lực tăng trưởng và chuỗi (≥10 cửa hàng) chiếm 8,3% doanh thu F&B năm 2025 (nguồn 5). Các con số vốn, chi phí, hoàn vốn ở mục này đều từ trang bán nhượng quyền — chỉ dùng làm báo giá, không phải bằng chứng lợi nhuận. Không tìm được hồ sơ công bố thông tin nhượng quyền (bản giới thiệu) của thương hiệu nào để đối chiếu. Mức phạt hành chính về nhượng quyền: Điều 75 NĐ 98/2020/NĐ-CP, đọc nguyên văn ở vòng 2; NĐ 24/2025/NĐ-CP sửa NĐ 98/2020 nhưng không đụng Điều 75.",
+    "sources": [
+      {
+        "id": 1,
+        "org": "Trà sữa Viên Viên (nguồn có lợi ích thương mại)",
+        "year": 2025,
+        "title": "Chi phí nhượng quyền Trà sữa Viên Viên & thời gian hoàn vốn — bảng ngân sách (cập nhật 16/04/2025) và dự phóng 1 cửa hàng Express",
+        "quote": "Giá đặt không bao gồm phí duy trì 3.000.000 VNĐ/tháng.",
+        "url": "https://trasuavienvien.com/nhuong-quyen-tra-sua-vien-vien/",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 2,
+        "org": "Công ty CP TM & DV Taco Việt Nam — ToCoToCo (nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "Nhượng quyền trà sữa ToCoToCo",
+        "quote": "Thu hồi vốn nhanh chóng và bắt đầu thu lợi nhuận chỉ từ 4 tháng kinh doanh.",
+        "url": "https://tocotocotea.com/nhuong-quyen/",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 3,
+        "org": "Công ty CP cà phê Milano Việt Nam (nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "Thông tin nhượng quyền Milano Coffee",
+        "quote": "Milano Coffee Mô hình KIOSK Phù hợp cho mặt bằng nhỏ Diện tích từ 16 - 30m 2 Giá từ 115,560,000 đ",
+        "url": "https://milanocoffee.com.vn/thong-tin-nhuong-quyen",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 4,
+        "org": "Trung Nguyên E-Coffee (nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "Nhượng quyền Trung Nguyên E-Coffee — các gói hợp tác",
+        "quote": "Giá Trị Gói Từ 215 triệu",
+        "url": "https://trungnguyenecoffee.com/nhuong-quyen/",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 5,
+        "org": "iPOS.vn & Nestlé Professional (VIRAC thẩm định dữ liệu)",
+        "year": 2026,
+        "title": "Báo cáo thị trường Kinh doanh Ẩm thực tại Việt Nam năm 2025 — bản PDF đầy đủ lưu trên máy chủ bên thứ ba; bản gốc phát hành qua form tại https://ipos.vn/bao-cao-thi-truong-kinh-doanh-am-thuc-viet-nam-2025/",
+        "quote": "mô hình nhượng quyền tiếp tục là một động lực tăng trưởng quan trọng, khi ngày càng nhiều nhà đầu tư ưu tiên lựa chọn thương hiệu có hệ thống sẵn thay vì tự xây dựng từ đầu.",
+        "url": "https://jhebreoxwuimlqwvjdok.supabase.co/storage/v1/object/public/mentee_docs/2025-report__Thi%20truong%20F&B%20nam%202025.pdf",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 6,
+        "org": "iPOS.vn & Nestlé Professional",
+        "year": 2026,
+        "title": "Báo cáo thị trường Kinh doanh Ẩm thực tại Việt Nam năm 2025 — Phần 5 'F&B Benchmark 2025' (tr. 88–90; số đọc từ biểu đồ tròn)",
+        "quote": "200 cơ sở kinh doanh này có tình trạng kinh doanh tốt, có lợi nhuận gộp trên 10%, thời gian hoạt động từ ít nhất 01 năm trở lên, và có khả năng kiểm soát dòng tiền tốt.",
+        "url": "https://jhebreoxwuimlqwvjdok.supabase.co/storage/v1/object/public/mentee_docs/2025-report__Thi%20truong%20F&B%20nam%202025.pdf",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 7,
+        "org": "iPOS.vn",
+        "year": 2026,
+        "title": "Thông cáo báo chí: Báo cáo thị trường Kinh doanh Ẩm thực tại Việt Nam 6 tháng đầu năm 2026 (10/09/2026)",
+        "quote": "25,64% cơ sở đồ ăn tăng trưởng, trong khi nhóm đồ uống chỉ đạt 15,82%.",
+        "url": "https://ipos.vn/ipos-vn-va-nestle-professional-cong-bo-bao-cao-thi-truong-kinh-doanh-am-thuc-tai-viet-nam-6-thang-dau-nam-2026/",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 8,
+        "org": "iPOS.vn",
+        "year": 2025,
+        "title": "Press Release: Vietnam Foodservice Business Market Report for the First Half of 2025 (10/10/2025)",
+        "quote": "Although 65% of consumers are willing to try ultra-low-priced items (such as VND 7,000 milk tea or VND 69,000 hotpot), most view these purchases as one-time “try it out” experiences",
+        "url": "https://ipos.vn/en/press-release-iposvn-and-nestle-professional-announce-the-vietnam-foodservice-business-market-report-for-the-first-half-of-2025/",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 9,
+        "org": "Kinh tế Sài Gòn Online",
+        "year": 2025,
+        "title": "Gần 60% cửa hàng ẩm thực giảm doanh thu trong năm 2024 (18/03/2025)",
+        "quote": "chỉ 25,5% doanh nghiệp ghi nhận doanh thu ổn định so với cùng kỳ năm 2023 và chỉ 14,7% ghi nhận tăng trưởng.",
+        "url": "https://thesaigontimes.vn/saigontimes/gan-60-cua-hang-am-thuc-giam-doanh-thu-trong-nam-2024/",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 10,
+        "org": "Quốc hội",
+        "year": 2005,
+        "title": "Luật Thương mại số 36/2005/QH11 — Điều 284–291 (nhượng quyền thương mại), Điều 301 (mức phạt vi phạm)",
+        "quote": "Ngừng sử dụng nhãn hiệu hàng hoá, tên thương mại, khẩu hiệu kinh doanh, biểu tượng kinh doanh và các quyền sở hữu trí tuệ khác (nếu có) hoặc hệ thống của bên nhượng quyền",
+        "url": "https://hethongphapluat.com/luat-thuong-mai-2005.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 11,
+        "org": "Bộ Công Thương",
+        "year": 2014,
+        "title": "Văn bản hợp nhất 15/VBHN-BCT năm 2014 hợp nhất Nghị định 35/2006/NĐ-CP về hoạt động nhượng quyền thương mại — Điều 8, 11, 15, 16, 17a, 18",
+        "quote": "cung cấp bản sao hợp đồng nhượng quyền thương mại mẫu và bản giới thiệu về nhượng quyền thương mại của mình cho bên dự kiến nhận quyền ít nhất là 15 ngày làm việc trước khi ký kết",
+        "url": "https://hethongphapluat.com/van-ban-hop-nhat-15-vbhn-bct-nam-2014-hop-nhat-nghi-dinh-huong-dan-luat-thuong-mai-ve-hoat-dong-nhuong-quyen-thuong-mai-do-bo-cong-thuong-ban-hanh.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 12,
+        "org": "Chính phủ",
+        "year": 2011,
+        "title": "Nghị định 120/2011/NĐ-CP sửa đổi thủ tục hành chính tại một số nghị định hướng dẫn Luật Thương mại — Điều 3",
+        "quote": "Các trường hợp sau không phải đăng ký nhượng quyền: a) Nhượng quyền trong nước; b) Nhượng quyền thương mại từ Việt Nam ra nước ngoài.",
+        "url": "https://hethongphapluat.com/nghi-dinh-120-2011-nd-cp-sua-doi-thu-tuc-hanh-chinh-tai-nghi-dinh-huong-dan-luat-thuong-mai.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 13,
+        "org": "Chính phủ",
+        "year": 2018,
+        "title": "Nghị định 08/2018/NĐ-CP sửa đổi một số nghị định liên quan đến điều kiện đầu tư kinh doanh thuộc phạm vi quản lý của Bộ Công Thương — Điều 8, 9",
+        "quote": "Thương nhân được phép cấp quyền thương mại khi hệ thống kinh doanh dự định dùng để nhượng quyền đã được hoạt động ít nhất 01 năm",
+        "url": "https://hethongphapluat.com/nghi-dinh-08-2018-nd-cp-ve-sua-doi-nghi-dinh-lien-quan-den-dieu-kien-dau-tu-kinh-doanh-thuoc-pham-vi-quan-ly-nha-nuoc-cua-bo-cong-thuong.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 14,
+        "org": "Chính phủ",
+        "year": 2018,
+        "title": "Nghị định 15/2018/NĐ-CP — Điều 11, 12",
+        "quote": "Cơ sở sản xuất, kinh doanh thực phẩm phải có Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm khi hoạt động, trừ trường hợp quy định tại khoản 1 Điều 12 Nghị định này",
+        "url": "https://hethongphapluat.com/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 15,
+        "org": "Chính phủ",
+        "year": 2018,
+        "title": "Nghị định 115/2018/NĐ-CP — Điều 18",
+        "quote": "Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với hành vi kinh doanh dịch vụ ăn uống mà không có Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm",
+        "url": "https://hethongphapluat.com/nghi-dinh-115-2018-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-an-toan-thuc-pham/dieu-18",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 16,
+        "org": "Chính phủ",
+        "year": 2018,
+        "title": "Nghị định 115/2018/NĐ-CP (sửa đổi bởi NĐ 124/2021/NĐ-CP) — Điều 3",
+        "quote": "Đối với cùng một hành vi vi phạm hành chính thì mức phạt tiền đối với tổ chức gấp 02 lần mức phạt tiền đối với cá nhân.",
+        "url": "https://hethongphapluat.com/nghi-dinh-115-2018-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-an-toan-thuc-pham/dieu-3",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 17,
+        "org": "Cổng PBGDPL TP. Cần Thơ (tóm tắt Nghị quyết 15/2026/NQ-CP của Chính phủ)",
+        "year": 2026,
+        "title": "Tạm ngưng hiệu lực Nghị định số 46/2026/NĐ-CP đến khi có Luật An toàn thực phẩm (sửa đổi)",
+        "quote": "Nghị định số 15/2018/NĐ-CP của Chính phủ hướng dẫn của Luật An toàn thực phẩm và các văn bản quy định, hướng dẫn thi hành tiếp tục có hiệu lực.",
+        "url": "https://pbgdpl.cantho.gov.vn/tam-ngung-hieu-luc-nghi-dinh-so-462026nd-cp-den-khi-co-luat-an-toan-thuc-pham-sua-doi",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 18,
+        "org": "Chính phủ",
+        "year": 2020,
+        "title": "Nghị định 98/2020/NĐ-CP xử phạt vi phạm hành chính trong hoạt động thương mại, sản xuất, buôn bán hàng giả, hàng cấm và bảo vệ quyền lợi người tiêu dùng — Điều 4, Điều 75 (cơ sở dữ liệu văn bản của VCCI)",
+        "quote": "Cung cấp thông tin không trung thực, không đầy đủ các nội dung bắt buộc trong bản giới thiệu về nhượng quyền thương mại",
+        "url": "https://vanban.vcci.com.vn/nghi-dinh-982020nd-cp-quy-dinh-ve-xu-phat-vi-pham-hanh-chinh-trong-hoat-dong-thuong-mai-san-xuat-buon-ban-hang-gia-hang-cam-va-bao-ve-quyen-loi-nguoi-tieu-dung",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 19,
+        "org": "Chính phủ (bản ký số đăng trên Cổng hành chính công tỉnh Nghệ An)",
+        "year": 2025,
+        "title": "Nghị định 24/2025/NĐ-CP ngày 21/02/2025 sửa đổi, bổ sung một số điều của NĐ 98/2020/NĐ-CP (hiệu lực 21/02/2025)",
+        "quote": "Số kí hiệu 24/2025/NĐ-CP Ngày ban hành 21/02/2025 Ngày bắt đầu hiệu lực 21/02/2025",
+        "url": "https://hcc.nghean.gov.vn/laws/detail/Nghi-dinh-so-24-2025-ND-CP-cua-Chinh-phu-Sua-doi-bo-sung-mot-so-dieu-cua-Nghi-dinh-so-98-2020-ND-CP-ngay-26-thang-8-nam-2020-cua-Chinh-phu-quy-dinh-xu-phat-vi-pham-hanh-chinh-trong-hoat-dong-thuong-mai-san-xuat-buon-ban-hang-gia-hang-cam-va-bao-1695/",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 20,
+        "org": "Masan Group (MSN) — báo cáo của doanh nghiệp niêm yết",
+        "year": 2026,
+        "title": "MSN Recorded 1.6x YoY Earnings for FY2025, Achieving All-Time-High Profit — phần Phúc Long Heritage (PLH), thông cáo 28/01/2026",
+        "quote": "FY EBITDA margin stood at 18.7%, and FY NPAT Pre-MI grew 1.6x YoY, with a healthy net margin of 10.3%, up by 260 bps YoY.",
+        "url": "https://www.masangroup.com/news/press-releases/msn-recorded-16x-yoy-earnings-for-fy2025-achieving-all-time-high-profit/",
+        "type": "financials",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 21,
+        "org": "Báo Đại biểu Nhân dân",
+        "year": 2026,
+        "title": "Tăng cường tham khảo kinh nghiệm quốc tế trong quản lý an toàn thực phẩm (30/09/2026)",
+        "quote": "dự kiến được trình Quốc hội cho ý kiến tại Kỳ họp thứ Hai, Quốc hội khóa XVI (tháng 10/2026) và xem xét thông qua tại Kỳ họp thứ Ba, Quốc hội khóa XVI (tháng 5/2027)",
+        "url": "https://daibieunhandan.vn/tang-cuong-tham-khao-kinh-nghiem-quoc-te-trong-quan-ly-an-toan-thuc-pham-10432269.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 22,
+        "org": "Tạp chí Luật sư Việt Nam (LSVN)",
+        "year": 2026,
+        "title": "Quốc hội thảo luận về các dự án luật trong lĩnh vực an toàn thực phẩm, sở hữu trí tuệ (24/10/2026)",
+        "quote": "Buổi chiều, Quốc hội thảo luận ở Tổ về các dự án: Luật Phát triển công nghiệp văn hóa; Luật An toàn thực phẩm (sửa đổi); Luật sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ.",
+        "url": "https://lsvn.vn/quoc-hoi-thao-luan-ve-cac-du-an-luat-trong-linh-vuc-an-toan-thuc-pham-so-huu-tri-tue-a181432.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 23,
+        "org": "Ước tính của tác giả",
+        "year": 2026,
+        "title": "Ước tính thời gian hoàn vốn khi nhận nhượng quyền trà sữa",
+        "quote": "hoàn vốn = 373 triệu (nguồn 1) ÷ [120 triệu doanh thu (dự phóng nguồn 1) × 13,38–15,16% (iPOS, nguồn 6)] ≈ 20–23 tháng; với lãi ròng 10,3% của Phúc Long (nguồn 20) ≈ 30 tháng",
+        "type": "estimate",
+        "grade": "C",
+        "accessed": "2026-11-01"
+      }
+    ]
+  },
+  {
+    "id": "xe-day-kiot-luu-dong",
+    "kind": "model",
+    "section": "4",
+    "title": "Xe đẩy / ki-ốt đồ ăn, đồ uống vỉa hè, không địa điểm cố định",
+    "summary": "Không thuê mặt bằng nên vốn thấp nhất nhóm: xe đẩy cà phê 4,6–13,9 triệu, ki-ốt lưu động 15–58 triệu theo báo giá xưởng; một người ở Hà Nội bỏ hơn 20 triệu cho xe và học pha chế. Bán vượt ngưỡng hòa vốn (một chủ xe nói 50 ly/ngày) thì vài tháng là hoàn vốn; dưới ngưỡng là mất vốn, như hai case cà phê vỉa hè năm 2025. Bẫy lớn nhất: chỗ đứng không có giấy tờ — bị phạt, bị dẹp là mất luôn khách quen; một vụ ngộ độc là hết.",
+    "tags": {
+      "capital": "low",
+      "breakeven": "fast",
+      "risk": "mid",
+      "legal": "simple",
+      "time": "part",
+      "evidence": "C"
+    },
+    "capital": {
+      "range": "≈ 20 triệu (xe) – 58 triệu (ki-ốt)",
+      "text": "Ước tính của tác giả: vốn = xe hoặc ki-ốt + dụng cụ pha chế, nấu + nguyên liệu, ly, túi ban đầu; không có cọc hay trả trước mặt bằng. Báo giá xưởng (nguồn có lợi ích thương mại): xe đẩy cà phê inox 1–1,8 m 4,6–11 triệu (Inox Kiệt Phát), 4,8–8 triệu theo bảng giá, có mẫu tới 13,9 triệu (Nhã Inox); ki-ốt lưu động 15–50 triệu cho mẫu trung bình (Gia Thành Decor, 12/2025), 58 triệu cho đơn từ 5 ki-ốt (DSDhome, 6/2025), chưa gồm dụng cụ. Case thật: anh Đức ở Hà Nội bỏ hơn 20 triệu mua xe đẩy và học pha chế (2025). Phần dụng cụ, máy pha chưa có báo giá kiểm chứng; xe pha máy espresso sẽ tốn hơn nhiều. Mốc trần, không phải xe đẩy: gói nhượng quyền LEAN của Milano từ 73,44 triệu.",
+      "breakdown": [
+        {
+          "item": "Xe đẩy cà phê inox 1–1,8 m (báo giá 2 xưởng)",
+          "value": "4,6 – 13,9 triệu",
+          "refs": [
+            15,
+            16
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Ki-ốt lưu động, chưa gồm dụng cụ (báo giá 2 xưởng)",
+          "value": "15 – 58 triệu",
+          "refs": [
+            17,
+            18
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Case Hà Nội 2025: xe đẩy + học pha chế",
+          "value": "hơn 20 triệu",
+          "refs": [
+            19
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Gói nhượng quyền LEAN của Milano (tham chiếu trần, không phải xe đẩy)",
+          "value": "từ 73,44 triệu",
+          "refs": [
+            11
+          ],
+          "grade": "C"
+        }
+      ],
+      "grade": "C",
+      "refs": [
+        11,
+        15,
+        16,
+        17,
+        18,
+        19,
+        25
+      ]
+    },
+    "burn": {
+      "range": "Chưa có số liệu đáng tin",
+      "text": "Chưa có số liệu đáng tin về chi phí cố định tháng của xe đẩy. Không có tiền thuê; chi phí gồm công của chính chủ, gas, đá, hao hụt, ly, túi; đứng ở nơi không được phép thì còn tiền phạt — hai nhà sáng lập Bánh mì Má Hải (TP.HCM) kể thời đầu tháng nào cũng nộp phạt ở phường để lấy lại xe. Mốc ngưỡng: một chủ xe cà phê ở Hà Nội (2025) nói muốn làm nghề chính thì mỗi ngày phải bán ít nhất 50 ly mới đủ tiền nguyên liệu và công. Theo nhà sáng lập trà sữa Viên Viên, giữ giá 7.000–12.000 đ mà vẫn có lãi nhờ mô hình mang đi tinh gọn, cắt tối đa nhân sự và mua nguyên liệu số lượng lớn — lợi thế quy mô mà một xe đơn lẻ không có.",
+      "grade": "C",
+      "refs": [
+        12,
+        19,
+        20,
+        21
+      ]
+    },
+    "breakeven": {
+      "range": "Case: ~2 tháng; nhiều case mất vốn",
+      "text": "Case có lãi: Bánh mì Má Hải (TP.HCM) thời mới khởi nghiệp đầu tư 3 triệu mỗi xe và thu hồi trong 2 tháng nhờ bán hơn 100 ổ/ngày (bài 2023; giá xe nay đã cao hơn). Case lỗ (2025): anh Đức ở Hà Nội bị yêu cầu dừng bán ngay ngày đầu vì lấn vỉa hè, con phố đã có 8–9 xe cà phê, cuối cùng bán xe, mất hơn 20 triệu; chị Thảo dẹp quầy sau 3 tháng, đứng chỗ vắng không bán nổi 20 ly/ngày giá 20.000–30.000 đ. Ước tính của tác giả: hoàn vốn = vốn ÷ [(số ly/ngày − ngưỡng hòa vốn) × lãi gộp/ly × 30]. Lãi gộp 14.000–21.000 đ/ly (giá 20.000–30.000 đ trừ nguyên liệu ~29% như cửa hàng đồ uống của iPOS; chưa trừ ly, túi; xe đẩy có thể khác). Vốn 20 triệu, bán vượt ngưỡng 10 ly/ngày → lãi 4,2–6,3 triệu/tháng → 3–5 tháng; không vượt ngưỡng thì không bao giờ hoàn vốn.",
+      "grade": "C",
+      "refs": [
+        19,
+        20,
+        21,
+        25,
+        26
+      ]
+    },
+    "margin": {
+      "gross": "Chưa có số liệu đáng tin",
+      "net": "Chưa có số liệu đáng tin",
+      "text": "Chuẩn đối sánh của iPOS chỉ khảo sát cửa hàng, không áp dụng cho xe đẩy. iPOS xếp đồ uống bình quân từ 15.000 đ/ly trở xuống vào 'phân khúc tiết kiệm', mô hình phổ biến là xe đẩy, kiosk, pick-up store; 6 tháng đầu 2026, ki-ốt 7.000–15.000 đ đang ép mạnh phân khúc 21–35 nghìn. Lời quảng cáo của bên bán xe, nguyên liệu 'lãi 50–70% mỗi ly' (theo lời kể của anh Đức) chưa được kiểm chứng và không tính công, hao hụt, ngày mưa. Một quầy bún chả vỉa hè ở Hoàn Kiếm (3/2026) giữ giá 30.000–40.000 đ/suất, khách giảm từ hơn 100 xuống ~70/ngày, tức doanh thu khoảng 2,1–2,8 triệu/ngày (tác giả tính).",
+      "grade": "B",
+      "refs": [
+        1,
+        2,
+        20,
+        22
+      ]
+    },
+    "risks": [
+      {
+        "title": "Bị phạt, bị dẹp chỗ bán",
+        "text": "Mức phạt hiện hành (NĐ 168/2024): bán hàng rong trên tuyến phố cấm bán 200–250 nghìn; dùng trái phép lòng đường, vỉa hè để kinh doanh ăn uống, bày bán 2–3 triệu (cá nhân); dùng tạm thời vỉa hè ở nơi phải có phép mà không có phép 10–15 triệu và buộc khôi phục hiện trạng. TP.HCM (CV 2416/UBND-VX ngày 27/3/2026) giao UBND xã lập danh sách, kiểm tra định kỳ và đột xuất cơ sở thức ăn đường phố. Mất chỗ đứng là mất khách quen — tài sản lớn nhất của xe đẩy.",
+        "refs": [
+          8,
+          9
+        ]
+      },
+      {
+        "title": "Ngộ độc, mất niềm tin về ATTP",
+        "text": "Năm 2025 có các vụ ngộ độc bánh mì, cùng dịch liên cầu lợn và vụ Canfoco làm thực khách đổi thói quen; sau khủng hoảng, khách chỉ tin vào những gì thấy tận mắt tại điểm bán. Vi phạm điều kiện thức ăn đường phố bị phạt 0,5–3 triệu mỗi lỗi — nhỏ so với hậu quả mất khách.",
+        "refs": [
+          3,
+          7
+        ]
+      },
+      {
+        "title": "Thời tiết, thiên tai",
+        "text": "12,90% doanh nghiệp F&B nói thiên tai, thời tiết cực đoan là biến cố ảnh hưởng mạnh nhất tới doanh thu năm 2025; ở Huế nhiều khu ngập sâu tới 1,5 m, quán xá tê liệt 15–20 ngày. Xe đẩy ngoài trời chịu trực tiếp mưa, nắng nóng, ngập, không có mái để bán tiếp.",
+        "refs": [
+          13
+        ]
+      }
+    ],
+    "legal": [
+      {
+        "title": "Không phải đăng ký hộ kinh doanh — trừ ngành nghề có điều kiện",
+        "basis": "khoản 3 Điều 82 NĐ 168/2025/NĐ-CP về đăng ký doanh nghiệp (hiệu lực 1/7/2025, thay NĐ 01/2021/NĐ-CP)",
+        "text": "Người bán hàng rong, quà vặt, kinh doanh lưu động, thời vụ, làm dịch vụ thu nhập thấp không phải đăng ký hộ kinh doanh, trừ ngành nghề đầu tư kinh doanh có điều kiện; mức 'thu nhập thấp' do UBND tỉnh quy định. Kinh doanh thực phẩm gắn điều kiện ATTP nên cách hiểu ngoại lệ có thể khác nhau giữa các nơi — hỏi UBND xã. Nghĩa vụ thuế của cá nhân kinh doanh: xem phần 0.",
+        "refs": [
+          4
+        ]
+      },
+      {
+        "title": "ATTP: miễn GCN nhưng vẫn phải đủ điều kiện; nhiều nơi bắt ký cam kết",
+        "basis": "điểm b, điểm i khoản 1 và khoản 2 Điều 12 NĐ 15/2018/NĐ-CP (đang áp dụng theo NQ 15/2026/NQ-CP); khoản 26 Điều 2 và Điều 31 Luật An toàn thực phẩm 2010; Điều 16 NĐ 115/2018/NĐ-CP",
+        "text": "Kinh doanh thực phẩm không có địa điểm cố định và thức ăn đường phố (bán rong, bày bán trên đường phố, nơi công cộng) không thuộc diện cấp GCN nhưng phải tuân thủ điều kiện: cách biệt nguồn ô nhiễm, bày trên bàn, giá, kệ, che đậy. Một số xã yêu cầu ký bản cam kết ATTP, lưu 2 bản, hiệu lực 3 năm (VD xã Ngọc Lặc, Thanh Hóa, 4/2026). Phạt: 0,5–1 triệu (không có bàn/giá/kệ, không che đậy, không đeo găng tay khi chạm thức ăn chín); 1–3 triệu (dụng cụ, bao bì không an toàn, dùng nước không vệ sinh, người đang mắc bệnh bị cấm vẫn trực tiếp bán…). Bộ Y tế đã đưa ra dự thảo tăng nhóm lỗi 0,5–1 triệu lên 1–2 triệu (lấy ý kiến 10/2025); đến 1/11/2026 chưa thấy ban hành. Luật ATTP (sửa đổi) được Quốc hội thảo luận tổ ngày 24/10/2026, dự kiến thông qua 5/2027; NĐ 15/2018 vẫn áp dụng.",
+        "refs": [
+          5,
+          6,
+          7,
+          10,
+          14,
+          23,
+          24
+        ]
+      },
+      {
+        "title": "Lấn chiếm lòng đường, vỉa hè",
+        "basis": "điểm e khoản 2, khoản 7, khoản 12 và điểm b khoản 16 Điều 12 NĐ 168/2024/NĐ-CP (hiệu lực 1/1/2025)",
+        "text": "Bán hàng rong trên lòng đường, vỉa hè các tuyến phố có quy định cấm bán: 200–250 nghìn (cá nhân). Dùng trái phép lòng đường, vỉa hè để kinh doanh dịch vụ ăn uống, bày bán: 2–3 triệu (cá nhân), 4–6 triệu (tổ chức). Đặt xe, ki-ốt dùng tạm thời vỉa hè ở nơi phải xin phép mà không có phép: 10–15 triệu (cá nhân), 20–30 triệu (tổ chức), buộc khôi phục hiện trạng.",
+        "refs": [
+          8
+        ]
+      }
+    ],
+    "seed": null,
+    "notes": "Tag vốn 'low' dựa trên báo giá xe đẩy và case Hà Nội; ki-ốt lưu động kèm dụng cụ có thể vượt 50 triệu. Tag rủi ro 'mid' là nhận định định tính (không có tiền thuê, cọc; tổn thất tối đa nhỏ). Tag hoàn vốn 'fast' chỉ đúng khi bán vượt ngưỡng; hai trong ba case báo chí là mất vốn. iPOS định nghĩa ẩm thực đường phố gồm quầy nhỏ, kiosk, xe đẩy, quầy vỉa hè (nguồn 1). Nhiều địa phương có chính sách cho dùng tạm vỉa hè có thu phí — chưa kiểm chứng trong phiên này, hỏi UBND xã/phường. Ki-ốt cố định trong chợ, trung tâm thương mại không thuộc mục này (có địa điểm cố định → xem quán cà phê/quán ăn).",
+    "sources": [
+      {
+        "id": 1,
+        "org": "iPOS.vn & Nestlé Professional (VIRAC thẩm định dữ liệu)",
+        "year": 2026,
+        "title": "Báo cáo thị trường Kinh doanh Ẩm thực tại Việt Nam năm 2025 — định nghĩa mô hình (tr. 8, 10); bản PDF lưu trên máy chủ bên thứ ba; bản gốc phát hành qua form tại https://ipos.vn/bao-cao-thi-truong-kinh-doanh-am-thuc-viet-nam-2025/",
+        "quote": "Đây là những mô hình kinh doanh ẩm thực nhỏ, có thể có tính di động, bao gồm: Quầy hàng nhỏ, Kiosk, xe đẩy bán hàng, quầy hàng vỉa hè",
+        "url": "https://jhebreoxwuimlqwvjdok.supabase.co/storage/v1/object/public/mentee_docs/2025-report__Thi%20truong%20F&B%20nam%202025.pdf",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 2,
+        "org": "iPOS.vn",
+        "year": 2026,
+        "title": "Thông cáo báo chí: Báo cáo thị trường Kinh doanh Ẩm thực tại Việt Nam 6 tháng đầu năm 2026 (10/09/2026)",
+        "quote": "Chịu sức ép lớn nhất là phân khúc bình dân 21.000 – 35.000 VND do không đủ rẻ để cạnh tranh với ki-ốt 7.000 – 15.000 VND, nhưng chưa đủ tốt để bước lên vùng tầm trung.",
+        "url": "https://ipos.vn/ipos-vn-va-nestle-professional-cong-bo-bao-cao-thi-truong-kinh-doanh-am-thuc-tai-viet-nam-6-thang-dau-nam-2026/",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 3,
+        "org": "iPOS.vn",
+        "year": 2026,
+        "title": "Thông cáo báo chí: Báo cáo thị trường Kinh doanh Ẩm thực tại Việt Nam năm 2025 (09/04/2026)",
+        "quote": "theo sau là dịch liên cầu lợn (41,77%) và các vụ ngộ độc bánh mì.",
+        "url": "https://ipos.vn/thong-cao-bao-chi-ipos-vn-va-nestle-professional-cong-bo-bao-cao-thi-truong-kinh-doanh-am-thuc-tai-viet-nam-nam-2025/",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 4,
+        "org": "Chính phủ",
+        "year": 2025,
+        "title": "Nghị định 168/2025/NĐ-CP về đăng ký doanh nghiệp — Điều 82",
+        "quote": "kinh doanh lưu động, kinh doanh thời vụ, làm dịch vụ có thu nhập thấp không phải đăng ký hộ kinh doanh, trừ trường hợp kinh doanh các ngành, nghề đầu tư kinh doanh có điều kiện",
+        "url": "https://hethongphapluat.com/nghi-dinh-168-2025-nd-cp-ve-dang-ky-doanh-nghiep.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 5,
+        "org": "Chính phủ",
+        "year": 2018,
+        "title": "Nghị định 15/2018/NĐ-CP — Điều 12",
+        "quote": "Các cơ sở quy định tại khoản 1 Điều này phải tuân thủ các yêu cầu về điều kiện bảo đảm an toàn thực phẩm tương ứng.",
+        "url": "https://hethongphapluat.com/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 6,
+        "org": "Quốc hội",
+        "year": 2010,
+        "title": "Luật An toàn thực phẩm số 55/2010/QH12 — khoản 26 Điều 2, Điều 31",
+        "quote": "Thức ăn đường phố là thực phẩm được chế biến dùng để ăn, uống ngay, trong thực tế được thực hiện thông qua hình thức bán rong, bày bán trên đường phố, nơi công cộng hoặc những nơi tương tự.",
+        "url": "https://hethongphapluat.com/luat-an-toan-thuc-pham-2010.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 7,
+        "org": "Chính phủ",
+        "year": 2018,
+        "title": "Nghị định 115/2018/NĐ-CP — Điều 16 (vi phạm điều kiện ATTP trong kinh doanh thức ăn đường phố)",
+        "quote": "Phạt tiền từ 500.000 đồng đến 1.000.000 đồng đối với một trong các hành vi sau đây: a) Không có bàn, tủ, giá, kệ, thiết bị, dụng cụ",
+        "url": "https://hethongphapluat.com/nghi-dinh-115-2018-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-an-toan-thuc-pham/dieu-16",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 8,
+        "org": "Chính phủ",
+        "year": 2024,
+        "title": "Nghị định 168/2024/NĐ-CP xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ — Điều 12",
+        "quote": "Bán hàng rong hoặc bán hàng hóa nhỏ lẻ khác trên lòng đường, trên vỉa hè các tuyến phố có quy định cấm bán hàng",
+        "url": "https://hethongphapluat.com/nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-an-toan-giao-thong-trong-linh-vuc-giao-thong-duong-bo-tru-diem-phuc-hoi-diem-giay-phep-lai-xe.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 9,
+        "org": "Báo Đại biểu Nhân dân",
+        "year": 2026,
+        "title": "TP. Hồ Chí Minh: Lập danh sách, cập nhật đầy đủ hộ kinh doanh thức ăn đường phố (10/04/2026)",
+        "quote": "UBND cấp xã tổ chức rà soát, thống kê, quản lý, lập danh sách và cập nhật thường xuyên, đầy đủ các cơ sở, hộ kinh doanh thức ăn đường phố trên địa bàn",
+        "url": "https://daibieunhandan.vn/tp-ho-chi-minh-lap-danh-sach-cap-nhat-day-du-ho-kinh-doanh-thuc-an-duong-pho-10413022.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 10,
+        "org": "UBND xã Ngọc Lặc, tỉnh Thanh Hóa",
+        "year": 2026,
+        "title": "Công văn về triển khai ký cam kết đảm bảo ATTP đối với cơ sở không thuộc diện cấp GCN và thức ăn đường phố (4/2026)",
+        "quote": "Bản cam kết được lưu tại cơ sở thực phẩm và lưu tại cơ quan quản lý, mỗi nơi giữ một bản, có hiệu lực 3 năm.",
+        "url": "https://storage-vnportal.vnpt.vn/gov-tha/7455/FileVanBanChiDao/Cv%20k%C3%BD%20cam%20k%E1%BA%BFt%202026639126250423997299.pdf",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 11,
+        "org": "Công ty CP cà phê Milano Việt Nam (nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "Thông tin nhượng quyền Milano Coffee — mô hình LEAN",
+        "quote": "Milano Coffee Mô hình LEAN Phù hợp mặt bằng nhỏ Linh động với nhu cầu của khách hàng Giá từ 73,440,000 đ",
+        "url": "https://milanocoffee.com.vn/thong-tin-nhuong-quyen",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 12,
+        "org": "iPOS.vn & Nestlé Professional",
+        "year": 2026,
+        "title": "Báo cáo thị trường Kinh doanh Ẩm thực tại Việt Nam năm 2025 — phỏng vấn nhà sáng lập Trà sữa Viên Viên (tr. 62)",
+        "quote": "chúng tôi lựa chọn mô hình take-away tinh gọn, cắt giảm nhân sự tối đa và tập trung vào trải nghiệm khẩu vị.",
+        "url": "https://jhebreoxwuimlqwvjdok.supabase.co/storage/v1/object/public/mentee_docs/2025-report__Thi%20truong%20F&B%20nam%202025.pdf",
+        "type": "report",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 13,
+        "org": "iPOS.vn & Nestlé Professional",
+        "year": 2026,
+        "title": "Báo cáo thị trường Kinh doanh Ẩm thực tại Việt Nam năm 2025 — biến cố ảnh hưởng doanh thu (tr. 35)",
+        "quote": "nhiều khu vực bị ngập sâu tới 1,5m, khiến hàng loạt quán xá tê liệt vận hành hoàn toàn trong 15-20 ngày.",
+        "url": "https://jhebreoxwuimlqwvjdok.supabase.co/storage/v1/object/public/mentee_docs/2025-report__Thi%20truong%20F&B%20nam%202025.pdf",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 14,
+        "org": "Cổng PBGDPL TP. Cần Thơ (tóm tắt Nghị quyết 15/2026/NQ-CP của Chính phủ)",
+        "year": 2026,
+        "title": "Tạm ngưng hiệu lực Nghị định số 46/2026/NĐ-CP đến khi có Luật An toàn thực phẩm (sửa đổi)",
+        "quote": "Nghị định số 15/2018/NĐ-CP của Chính phủ hướng dẫn của Luật An toàn thực phẩm và các văn bản quy định, hướng dẫn thi hành tiếp tục có hiệu lực.",
+        "url": "https://pbgdpl.cantho.gov.vn/tam-ngung-hieu-luc-nghi-dinh-so-462026nd-cp-den-khi-co-luat-an-toan-thuc-pham-sua-doi",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 15,
+        "org": "Nhã Inox (xưởng gia công, nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "Xe cà phê mang đi giá rẻ, tủ cà phê take away inox đẹp — bảng giá",
+        "quote": "Tại Nhã Inox, mức giá xe cà phê từ 4,8 triệu đến 8 triệu",
+        "url": "https://nhainox.com/xe-ca-phe/",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 16,
+        "org": "Inox Kiệt Phát (xưởng gia công, nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "Xe bán cafe mang đi giá bao nhiêu? — danh sách giá niêm yết",
+        "quote": "Xe cà phê mang đi 1m MS1 4,800,000 ₫",
+        "url": "https://inoxgiacong.net/san-pham/danh-muc/xe-ban-cafe-mang-di-gia-bao-nhieu",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 17,
+        "org": "Gia Thành Decor (xưởng ki-ốt, nguồn có lợi ích thương mại)",
+        "year": 2025,
+        "title": "Kiot bán hàng lưu động giá bao nhiêu? (30/12/2025)",
+        "quote": "Kiot bán hàng lưu động thường có giá giao động từ 15 triệu – 50 triệu với các mẫu có thiết kế trung bình.",
+        "url": "https://giathanhadv.vn/kiot-ban-hang-luu-dong-gia-bao-nhieu/",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 18,
+        "org": "DSDhome — Công ty CP Kiến trúc DSD (nguồn có lợi ích thương mại)",
+        "year": 2025,
+        "title": "KIOT BÁN HÀNG LƯU ĐỘNG — trang sản phẩm, giá 58 triệu áp dụng cho đơn từ 5 ki-ốt (23/06/2025)",
+        "quote": "KIOT BÁN HÀNG LƯU ĐỘNG 58,000,000 ₫",
+        "url": "https://dsdhome.vn/cafe-van-phong/kiot-ban-hang-luu-dong.html",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 19,
+        "org": "Người Quan Sát",
+        "year": 2025,
+        "title": "Cà phê mang đi - mô hình kinh doanh được xem là 'cửa ngõ khởi nghiệp': Dễ vào cuộc nhưng khó thoát lỗ (10/09/2025)",
+        "quote": "Anh Nguyễn Duy Đức (Hà Nội) từng bỏ hơn 20 triệu đồng mua xe đẩy và học pha chế",
+        "url": "https://nguoiquansat.vn/ca-phe-mang-di-mo-hinh-kinh-doanh-duoc-xem-la-cua-ngo-khoi-nghiep-de-vao-cuoc-nhung-kho-thoat-lo-242510.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 20,
+        "org": "VietNamNet",
+        "year": 2025,
+        "title": "Sidewalk coffee startups face harsh reality (19/09/2025)",
+        "quote": "If this is your main job, you need to sell at least 50 cups a day to cover ingredient and labor costs",
+        "url": "https://vietnamnet.vn/en/sidewalk-coffee-startups-face-harsh-reality-2443691.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 21,
+        "org": "VnExpress International",
+        "year": 2023,
+        "title": "Sidewalk economy, once harried now embraced (11/10/2023)",
+        "quote": "They invested VND3 million in each cart, an amount they would go on to recover within two months after selling more than 100 loaves of banh mi every day.",
+        "url": "https://e.vnexpress.net/news/business/economy/sidewalk-economy-once-harried-now-embraced-4663273.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 22,
+        "org": "VietNamNet",
+        "year": 2026,
+        "title": "Rising costs tighten grip on Hanoi's street food vendors (30/03/2026)",
+        "quote": "He fears that any increase, however small, could drive customers away - especially as daily foot traffic has already dropped from more than 100 to around 70.",
+        "url": "https://vietnamnet.vn/en/rising-costs-tighten-grip-on-hanoi-s-street-food-vendors-2501582.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 23,
+        "org": "Tạp chí Doanh nghiệp & Hội nhập",
+        "year": 2025,
+        "title": "Bộ Y tế đề xuất tăng mạnh mức xử phạt vi phạm an toàn thực phẩm (30/10/2025) — dự thảo, chưa ban hành",
+        "quote": "không sử dụng găng tay khi tiếp xúc trực tiếp với thức ăn chín có thể bị phạt từ 1 đến 2 triệu đồng, thay vì 500 nghìn đến 1 triệu đồng như trước.",
+        "url": "https://doanhnghiephoinhap.vn/bo-y-te-de-xuat-tang-manh-muc-xu-phat-vi-pham-an-toan-thuc-pham-119873.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 24,
+        "org": "Báo Đại biểu Nhân dân",
+        "year": 2026,
+        "title": "Tăng cường tham khảo kinh nghiệm quốc tế trong quản lý an toàn thực phẩm (30/09/2026)",
+        "quote": "dự kiến được trình Quốc hội cho ý kiến tại Kỳ họp thứ Hai, Quốc hội khóa XVI (tháng 10/2026) và xem xét thông qua tại Kỳ họp thứ Ba, Quốc hội khóa XVI (tháng 5/2027)",
+        "url": "https://daibieunhandan.vn/tang-cuong-tham-khao-kinh-nghiem-quoc-te-trong-quan-ly-an-toan-thuc-pham-10432269.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 25,
+        "org": "Ước tính của tác giả",
+        "year": 2026,
+        "title": "Ước tính vốn và thời gian hoàn vốn xe đẩy",
+        "quote": "vốn ≈ xe 4,6–13,9 triệu hoặc ki-ốt 15–58 triệu (nguồn 15–18) + dụng cụ, nguyên liệu đầu (case hơn 20 triệu, nguồn 19); hoàn vốn = 20 triệu ÷ [10 ly vượt ngưỡng 50 ly (nguồn 20) × 14–21 nghìn × 30] ≈ 3–5 tháng",
+        "type": "estimate",
+        "grade": "C",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 26,
+        "org": "iPOS.vn & Nestlé Professional",
+        "year": 2026,
+        "title": "Báo cáo thị trường Kinh doanh Ẩm thực tại Việt Nam năm 2025 — Phần 5 'F&B Benchmark 2025' (tr. 89–90; tỷ lệ nguyên liệu cửa hàng đồ uống, không khảo sát xe đẩy)",
+        "quote": "200 cơ sở kinh doanh này có tình trạng kinh doanh tốt, có lợi nhuận gộp trên 10%, thời gian hoạt động từ ít nhất 01 năm trở lên, và có khả năng kiểm soát dòng tiền tốt.",
+        "url": "https://jhebreoxwuimlqwvjdok.supabase.co/storage/v1/object/public/mentee_docs/2025-report__Thi%20truong%20F&B%20nam%202025.pdf",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      }
+    ]
+  }
+]

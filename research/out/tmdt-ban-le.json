@@ -1,0 +1,1512 @@
+[
+  {
+    "id": "ban-hang-san-shopee-tiktok",
+    "kind": "model",
+    "section": "2",
+    "title": "Shop nhỏ tự nhập hàng, bán trên Shopee / TikTok Shop",
+    "summary": "Bỏ vài chục triệu nhập hàng, chạy quảng cáo, bán qua hai sàn đang chiếm hơn 97% doanh số. Từ 4/2025 đến 5/2026 Shopee tăng phí 5 đợt; TikTok Shop đổi biểu phí thêm từ 9/5, 3/7 và 3/8/2026. Theo biểu phí chính thức hiện hành, đơn 150.000đ thời trang nữ trên Shopee (người bán thường) mất khoảng 26–33% cho phí sàn và thuế khấu trừ, chưa tính quảng cáo. Hợp người có nguồn hàng rẻ, có chứng từ, chịu chạy số lượng; bẫy lớn nhất là biên mỏng bị phí mới ăn hết và nguy cơ khoá shop.",
+    "tags": {
+      "capital": "low",
+      "breakeven": "unknown",
+      "risk": "high",
+      "legal": "simple",
+      "time": "part",
+      "evidence": "C"
+    },
+    "capital": {
+      "range": "20 – 60 triệu (ước tính tác giả)",
+      "text": "Chưa có số liệu đáng tin về vốn điển hình của shop nhỏ. Ước tính theo công thức: vốn hàng = số mẫu × tồn mỗi mẫu × giá vốn (ví dụ 20 mẫu × 30 sản phẩm × 50.000đ = 30 triệu) + quảng cáo thử tháng đầu + bao bì, máy in nhiệt. Phần vốn hay bị quên: tiền bị giữ trong sàn đến khi đơn giao thành công, đã bị trừ phí; và tiền hàng hoàn về.",
+      "breakdown": [
+        {
+          "item": "Hàng tồn đầu kỳ (20 mẫu × 30 sp × 50.000đ)",
+          "value": "~30 triệu",
+          "refs": [],
+          "grade": "C"
+        },
+        {
+          "item": "Quảng cáo nội sàn tháng đầu",
+          "value": "5–15 triệu (giả định)",
+          "refs": [],
+          "grade": "C"
+        },
+        {
+          "item": "Bao bì, máy in nhiệt, cân",
+          "value": "3–5 triệu (giả định)",
+          "refs": [],
+          "grade": "C"
+        }
+      ],
+      "grade": "C",
+      "refs": []
+    },
+    "burn": {
+      "range": "3 – 15 triệu/tháng (ước tính tác giả)",
+      "text": "Chưa có số liệu đáng tin. Làm tại nhà, một người: chi cố định thấp, nhưng quảng cáo nội sàn gần như bắt buộc để giữ hiển thị (giả định 3–10 triệu) + bao bì + 0–1 người đóng gói bán thời gian. Shopee từng định tự động trích tối thiểu 1% doanh thu mỗi đơn vào tài khoản quảng cáo (chương trình Duy trì hiển thị, dự kiến 29/5/2026), đã tạm hoãn sau khi Uỷ ban Cạnh tranh Quốc gia vào cuộc — có thể quay lại.",
+      "grade": "C",
+      "refs": [
+        1,
+        2
+      ]
+    },
+    "breakeven": {
+      "range": "Chưa có số liệu đáng tin",
+      "text": "Hoà vốn theo tháng khi (đóng góp mỗi đơn × số đơn) ≥ chi cố định. Ví dụ (ước tính tác giả): đơn 150.000đ thời trang nữ trên Shopee, giá vốn 75.000đ (giả định), phí sàn + thuế khấu trừ 39.000–49.950đ (tính theo biểu phí ở mục biên lợi nhuận), đóng gói ~5.000đ (giả định) → đóng góp 20.050–31.000đ/đơn. Chi cố định 10 triệu (giả định) → cần khoảng 323–499 đơn/tháng (11–17 đơn/ngày), chưa trừ hàng hoàn. Hàng giá thấp hoà vốn khó hơn vì phí 3.000đ/đơn (Shopee: phí hạ tầng; TikTok: phí xử lý đơn).",
+      "grade": "C",
+      "refs": [
+        3,
+        7,
+        10,
+        24
+      ]
+    },
+    "margin": {
+      "gross": "≈ 15 – 23% giá bán (ví dụ tính)",
+      "net": "7 – 10% doanh thu (báo chí, 5/2026)",
+      "text": "Biên gộp là ví dụ: hàng nhập 50.000đ bán 100.000đ (lãi gộp 50% trước phí, giả định), sau phí sàn và thuế khấu trừ 27–35,2% còn khoảng 15–23% giá bán, trước quảng cáo, đóng gói, hoàn hàng. Biên ròng 7–10% là mức nhiều đơn vị kinh doanh nói với báo chí (5/2026); có shop chỉ hoà vốn. Phí Shopee cho người bán thường, đơn 150.000đ ngành thời trang nữ, theo bảng phí cố định chính thức từ 23/5/2026 (phần lớn mặt hàng thời trang nữ 16,5%, vải 14,5–15,5%; sắc đẹp 17%; trước đó từ 1/5/2026 là 12,5–13,5% và 14%): phí cố định 16,5% 24.750đ + phí xử lý giao dịch 6% 9.000đ + phí hạ tầng 3.000đ + thuế khấu trừ 1,5% 2.250đ = 39.000đ (26,0%). Thêm Voucher Xtra 5,5% (8.250đ) và PiShip (2.700đ): 49.950đ (33,3%). Với đơn 50.000đ: 30,0–40,9%. Phí xử lý giao dịch 6% (trước là 4,91%) áp từ 1/5/2026 cho người bán thường, 8/5/2026 cho Mall; bảng do Sapo đăng lại ghi áp cho mọi phương thức thanh toán, kể cả COD. Phí này tính cả trên phí vận chuyển người mua trả, ví dụ trên bỏ qua phần đó. TikTok Shop, người bán tiêu chuẩn, theo bảng phí chính thức từ 3/7/2026: trang phục nữ 14–15% (phần lớn 15%), mặc định 14%; phí giao dịch 6% thu với mọi người bán; phí xử lý đơn 3.000đ. Đơn 150.000đ váy nữ: 22.500 + 9.000 + 3.000 + 2.250 = 36.750đ (24,5%); thêm Voucher Extra 5% (tăng từ 4% từ 3/7/2026): 44.250đ (29,5%), chưa tính hoa hồng tiếp thị liên kết. Trước 1/4/2025, phí Shopee chỉ khoảng 9% (cố định ~4% + thanh toán 5%).",
+      "grade": "C",
+      "refs": [
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        16,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ]
+    },
+    "risks": [
+      {
+        "title": "Khoá shop, gỡ sản phẩm, bị thu giữ hàng",
+        "text": "Một lệnh khoá là dòng tiền dừng ngay. Năm 2025 có hơn 13.700 gian hàng online bị gỡ vì bán hàng giả, hàng cấm, hàng không rõ nguồn gốc. Luật TMĐT 2025 buộc sàn báo trước ít nhất 5 ngày trước khi hạn chế/đóng shop, nhưng phải đình chỉ ngay khi có yêu cầu bằng văn bản của cơ quan nhà nước. QLTT Quảng Ninh (7/2025) thu giữ kho 47.127 sản phẩm vi phạm phục vụ hàng trăm tài khoản TikTok. Tự nhập hàng mà không giữ hoá đơn, chứng từ là tự đặt mình vào nhóm này.",
+        "refs": [
+          14,
+          18,
+          19
+        ]
+      },
+      {
+        "title": "Phí sàn tăng liên tục ăn hết biên",
+        "text": "Shopee: 1/4/2025 tăng phí cố định (nhiều ngành từ 4% lên 9–10%), bỏ Freeship Xtra, người bán tự chịu cước hoàn trừ khi mua PiShip; 1/7/2025 thêm phí hạ tầng 3.000đ/đơn; 29/12/2025 tăng thêm 1–3% (làm đẹp ngoài Mall 11,78% → 14%); 1/5/2026 phí xử lý giao dịch 4,91% → 6% (Mall từ 8/5); 23/5/2026 phí cố định người bán thường tăng tiếp (thời trang nữ 12,5–13,5% → 14,5–16,5%; sắc đẹp 14% → 17%), Voucher Xtra 4% → 5,5%. TikTok Shop: 8/2025 hoa hồng từ 3–4% lên 10–12%; 27/10/2025 phí xử lý 3.000đ/đơn (thu cả đơn hoàn); 9/5/2026 phí giao dịch 5% → 6%; 3/7/2026 biểu phí mới cho người bán tiêu chuẩn (trang phục nữ 12,5–13,5% → 14–15%, một số ngành thiết yếu giảm), Voucher Extra 4% → 5%; 3/8/2026 Mall mặc định 15,5% → 16%. Uỷ ban Cạnh tranh Quốc gia mới chỉ làm Shopee hoãn một loại phí mới, các mức đã tăng vẫn giữ.",
+        "refs": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          9,
+          10,
+          11,
+          24,
+          25,
+          26,
+          28,
+          30,
+          31
+        ]
+      },
+      {
+        "title": "Doanh thu dồn về shop lớn, hàng từ xưởng Trung Quốc bán thẳng",
+        "text": "Năm 2025, số shop có đơn trên 4 sàn giảm 7,43% (còn ~601.800) trong khi doanh số tăng 34,75%; Shop Mall chỉ 2,12% số shop nhưng chiếm 32,6% doanh thu. 9 tháng 2026: Mall 3,54% số gian hàng, 36,8% doanh số trên Shopee và TikTok Shop; riêng quý III số shop có đơn giảm 2,47% còn 470.300 dù doanh số tăng 45%. Từ 5/2026 các xưởng Taobao mở gian hàng quốc tế trên Shopee, có COD và tiếng Việt — shop nhỏ bán hàng đại trà cạnh tranh giá trực tiếp với nguồn.",
+        "refs": [
+          12,
+          13,
+          22
+        ]
+      }
+    ],
+    "legal": [
+      {
+        "title": "Xác thực danh tính người bán, công khai thông tin hàng hoá",
+        "basis": "Luật Thương mại điện tử số 122/2025/QH15 (hiệu lực 01/7/2026); NĐ 248/2026/NĐ-CP quy định chi tiết (theo báo chí, chưa đối chiếu văn bản gốc)",
+        "text": "Từ 1/7/2026 mọi cá nhân, hộ, tổ chức muốn mở gian hàng phải qua xác thực danh tính của sàn. Người bán phải công khai nguồn gốc, chất lượng hàng; hàng thuộc ngành nghề có điều kiện chỉ được bán khi đủ giấy phép chuyên ngành. Sàn báo trước ≥5 ngày khi định hạn chế/đóng shop, trừ khi có yêu cầu bằng văn bản của cơ quan nhà nước.",
+        "refs": [
+          18
+        ]
+      },
+      {
+        "title": "Sàn khấu trừ thuế tại nguồn",
+        "basis": "NĐ 117/2025/NĐ-CP (áp dụng 01/7/2025 – 30/6/2026); từ 01/7/2026 Chương III (Điều 40–46) NĐ 252/2026/NĐ-CP về quản lý thuế (theo báo chí, chưa đối chiếu văn bản gốc); Điều 11, Điều 12 NĐ 68/2026/NĐ-CP sửa đổi bởi NĐ 141/2026/NĐ-CP (29/4/2026)",
+        "text": "Sàn có chức năng đặt hàng và thanh toán tự khấu trừ trên mỗi giao dịch: hàng hoá 1% GTGT + 0,5% TNCN. Từ NĐ 141/2026, ngưỡng không phải nộp thuế GTGT, TNCN của hộ, cá nhân kinh doanh là doanh thu năm từ 1 tỷ đồng trở xuống (trước là 500 triệu); hộ dưới ngưỡng được xử lý số thuế đã bị khấu trừ và phải thông báo doanh thu với cơ quan thuế. Ngưỡng tính trên tổng doanh thu mọi kênh, không tính riêng từng sàn. Chi tiết thủ tục xem mục thuế phần 0.",
+        "refs": [
+          15,
+          16,
+          17,
+          32,
+          33
+        ]
+      },
+      {
+        "title": "Hàng không rõ nguồn gốc, hàng giả, nhãn hàng hoá",
+        "basis": "Điều 17 NĐ 98/2020/NĐ-CP sửa đổi bởi NĐ 17/2022/NĐ-CP và NĐ 24/2025/NĐ-CP (còn hiệu lực theo Cục QL&PT thị trường trong nước); điểm b khoản 1 Điều 42 NĐ 37/2026/NĐ-CP về nhãn (bài CafeF ghi 'Điều 142' — nghị định này chỉ có 99 điều, nội dung trích trùng điểm b khoản 1 Điều 42)",
+        "text": "Tự nhập hàng phải giữ hoá đơn, chứng từ đầu vào để xuất trình khi QLTT kiểm tra. Kinh doanh hàng không rõ nguồn gốc, xuất xứ (cá nhân): cảnh cáo hoặc phạt 300.000–500.000đ nếu hàng dưới 1 triệu, tăng theo giá trị hàng tới 40–50 triệu nếu hàng từ 100 triệu trở lên; tổ chức phạt gấp đôi; gấp đôi tiếp nếu là người sản xuất, nhập khẩu hoặc hàng là thực phẩm, mỹ phẩm, hàng thuộc ngành nghề có điều kiện; tịch thu tang vật, buộc nộp lại lợi bất hợp pháp. Nhãn phải có tên, địa chỉ tổ chức/cá nhân chịu trách nhiệm: 10/2026 QLTT Hưng Yên phạt một hộ bán khay inox qua Facebook vì thiếu thông tin này.",
+        "refs": [
+          20,
+          21,
+          23,
+          34,
+          35
+        ]
+      }
+    ],
+    "seed": null,
+    "notes": "Biểu phí: bảng phí cố định Shopee (1/5 và 23/5/2026) và bảng hoa hồng TikTok Shop (3/7/2026, Mall 3/8/2026) là tệp chính thức của sàn, tìm được qua link trong bài của các đơn vị phần mềm và đọc trực tiếp; bảng 23/5/2026 không ghi loại người bán, việc xếp nó vào 'người bán thường' dựa vào bài dẫn link và ngày khớp thông báo của Shopee. Phí xử lý giao dịch 6%, Voucher Xtra 5,5%, PiShip 2.700đ, Voucher Extra TikTok 5% vẫn chỉ có từ báo chí và blog (mức C). Phí cố định khác nhau theo ngành con; ví dụ thời trang nữ chỉ để minh hoạ. Thuế khấu trừ 1,5% không phải phí sàn nhưng bị trừ thẳng vào tiền về. Số shop của Metric là shop có phát sinh đơn trong kỳ, không phải số shop đóng cửa. Người bán Mall có biểu phí riêng (cao hơn), không dùng các ví dụ trên.",
+    "sources": [
+      {
+        "id": 1,
+        "org": "Bộ Công Thương (moit.gov.vn)",
+        "year": 2026,
+        "title": "Ủy ban Cạnh tranh Quốc gia yêu cầu Shopee không áp dụng các loại phí mới đối với người bán hàng",
+        "quote": "Shopee dự kiến áp dụng loại phí mới thông qua Chương trình Duy trì hiển thị từ nạp tiền tự động trích từ doanh thu đơn hàng, dự kiến triển khai từ ngày 29/5/2026.",
+        "url": "https://moit.gov.vn/tin-tuc/uy-ban-canh-tranh-quoc-gia-yeu-cau-shopee-khong-ap-dung-cac-loai-phi-moi-doi-voi-nguoi-ban-hang.html",
+        "type": "press",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 2,
+        "org": "Doanh nghiệp & Hội nhập",
+        "year": 2026,
+        "title": "Shopee tạm hoãn chính sách thu phí mới sau yêu cầu từ cơ quan quản lý cạnh tranh",
+        "quote": "Sau quá trình rà soát, ngày 27/5, Công ty TNHH Shopee đã có báo cáo gửi Ủy ban Cạnh tranh Quốc gia, trong đó cho biết doanh nghiệp chủ động đề xuất tạm hoãn triển khai",
+        "url": "https://doanhnghiephoinhap.vn/shopee-tam-hoan-chinh-sach-thu-phi-moi-sau-yeu-cau-tu-co-quan-quan-ly-canh-tranh-137758.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 3,
+        "org": "VCCI (vcci.com.vn)",
+        "year": 2026,
+        "title": "Sàn thương mại điện tử đua tăng phí, đẩy người bán hàng vào thế khó (23/05/2026)",
+        "quote": "Thậm chí, trên sàn Shopee, theo nhiều chủ shop, sau đợt điều chỉnh mới, tổng phí sàn của một cửa hàng có thể tăng từ 24,5% lên hơn 30,5% doanh thu đơn hàng",
+        "url": "https://vcci.com.vn/tin-tuc/san-thuong-mai-dien-tu-dua-tang-phi-day-nguoi-ban-hang-vao-the-kho",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 4,
+        "org": "Tạp chí Kinh tế Tài chính (Thuế – Hải quan)",
+        "year": 2025,
+        "title": "Sàn tăng phí, áp lực bủa vây người bán nhỏ lẻ (22/12/2025)",
+        "quote": "Riêng với một số ngành tiêu dùng nhanh như sắc đẹp, áp dụng cho nhà bán không thuộc Shopee Mall, phí cố định được điều chỉnh từ 11,78% lên 14%.",
+        "url": "https://thuehaiquan.tapchikinhtetaichinh.vn/san-tang-phi-ap-luc-bua-vay-nguoi-ban-nho-le-133729.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 5,
+        "org": "VCCI (vcci.com.vn)",
+        "year": 2025,
+        "title": "Kinh doanh trên sàn thương mại điện tử chịu phí ra sao (14/03/2025)",
+        "quote": "Để bù vào phần trợ giá vận chuyển này, Shopee tăng phí cố định lên trung bình 9,5%, cộng thêm phí thanh toán 5%, đẩy tổng mức phí lên 14,5%.",
+        "url": "https://vcci.com.vn/tin-tuc/kinh-doanh-tren-san-thuong-mai-dien-tu-chiu-phi-ra-sao",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 6,
+        "org": "Báo Pháp luật Việt Nam – Doanh nhân",
+        "year": 2025,
+        "title": "Shopee ra loạt chính sách tính phí mới, tăng tới 6% tuỳ ngành hàng (06/03/2025)",
+        "quote": "người bán sẽ phải chịu chi phí vận chuyển trả hàng trong hai trường hợp: đơn trả hàng/hoàn tiền và đơn giao không thành công.",
+        "url": "https://doanhnhan.baophapluat.vn/shopee-ra-loat-chinh-sach-tinh-phi-moi-tang-toi-6-tuy-nganh-hang-nha-ban-hang-khoc-than-thi-ganh-nang-chi-phi-81201.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 7,
+        "org": "Báo Pháp luật Việt Nam – Doanh nhân",
+        "year": 2025,
+        "title": "Shopee áp thu phí hạ tầng 3.000 đồng/đơn hàng kể từ ngày 1/7",
+        "quote": "Sàn thương mại điện tử Shopee vừa ra thông báo sẽ thu phí hạ tầng 3.000 đồng cho mỗi đơn hàng",
+        "url": "https://doanhnhan.baophapluat.vn/shopee-ap-thu-phi-ha-tang-3000-dongdon-hang-ke-tu-ngay-17-83633.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 8,
+        "org": "BigSeller (phần mềm cho người bán — nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "Cập nhật phí Shopee 2026: Chi phí dành cho người bán không phải Mall sẽ thay đổi ra sao",
+        "quote": "Phí vận chuyển mỗi đơn từ 1.620 VND lên 2.700 VND",
+        "url": "https://www.bigseller.com/blog/articleDetails/4575/phi-shopee-2026-thay-doi-nhu-the-nao.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 9,
+        "org": "VCCI (vcci.com.vn), dẫn Báo Công Thương",
+        "year": 2026,
+        "title": "Từ 9/5, TikTok Shop tiếp tục tăng biểu phí với nhà bán hàng (04/05/2026)",
+        "quote": "Ngành thời trang từ 11 - 13% lên 12,5 - 13,5%; sức khỏe và làm đẹp từ 10,31 - 11,87% lên 12,5 - 14%; bách hóa từ 6,87 - 11,78% lên 9 - 13%.",
+        "url": "https://vcci.com.vn/tin-tuc/tu-9-5-tiktok-shop-tiep-tuc-tang-bieu-phi-voi-nha-ban-hang",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 10,
+        "org": "Người Quan Sát",
+        "year": 2025,
+        "title": "TikTok Shop tiếp tục thu thêm 3.000 đồng cho mỗi đơn hàng bán ra, cả khi đơn hàng phát sinh hoàn tiền hoặc trả hàng (17/10/2025)",
+        "quote": "áp dụng phí xử lý đơn hàng 3.000 đồng/đơn (đã gồm thuế), bắt đầu từ ngày 27-10.",
+        "url": "https://nguoiquansat.vn/tiktok-shop-tiep-tuc-thu-them-3-000-dong-cho-moi-don-hang-ban-ra-ca-khi-don-hang-phat-sinh-hoan-tien-hoac-tra-hang-249590.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 11,
+        "org": "Tuổi Trẻ",
+        "year": 2025,
+        "title": "TikTok Shop tăng phí 300%: Sàn 'thanh lọc', nhiều người bán hàng lao đao (05/08/2025)",
+        "quote": "Với mức phí mới, tăng 3 - 4% giá trị đơn hàng lên 10 - 12%, cộng thêm phí giao dịch là 5%/đơn hàng giao thành công",
+        "url": "https://tuoitre.vn/tiktok-shop-tang-phi-300-san-thanh-loc-nhieu-nguoi-ban-hang-lao-dao-20250805230653437.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 12,
+        "org": "Metric.vn (qua Báo Pháp luật Việt Nam – Doanh nhân)",
+        "year": 2026,
+        "title": "Thương mại điện tử Việt Nam 2025: gần 50.000 nhà bán hàng bị đào thải",
+        "quote": "Dù chỉ chiếm tỷ lệ khiêm tốn 2,12% về số lượng, nhóm Shop Mall lại thâu tóm tới 32,6% tổng doanh thu toàn sàn.",
+        "url": "https://doanhnhan.baophapluat.vn/thuong-mai-dien-tu-viet-nam-2025-gan-50-000-nha-ban-hang-bi-dao-thai-thi-phan-nam-gon-trong-tay-hai-ong-lon.html",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 13,
+        "org": "Metric.vn (qua Báo Pháp luật Việt Nam – Doanh nhân)",
+        "year": 2026,
+        "title": "Thương mại điện tử Việt Nam đạt 442.000 tỷ đồng sau 9 tháng (28/10/2026)",
+        "quote": "Trong quý, số lượng shop có phát sinh đơn hàng giảm nhẹ 2,47%, xuống còn 470.300 shop.",
+        "url": "https://doanhnhan.baophapluat.vn/thuong-mai-dien-tu-viet-nam-dat-442-000-ty-dong-sau-9-thang-cuoc-dua-dang-chuyen-sang-hang-gia-tri-cao.html",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 14,
+        "org": "Viet Nam News (qua Vietstock)",
+        "year": 2026,
+        "title": "E-commerce platforms urged to use automated filters to prevent spread of fakes",
+        "quote": "more than 13,700 online shops were removed last year for selling fake, banned or untraceable products",
+        "url": "https://en.vietstock.vn/2026/01/e-commerce-platforms-urged-to-use-automated-filters-to-prevent-spread-of-fakes-38-628819.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 15,
+        "org": "Cổng TTĐT tỉnh Hà Tĩnh (trích Điều 11 NĐ 68/2026/NĐ-CP)",
+        "year": 2026,
+        "title": "Hướng dẫn khai thuế, khấu trừ thuế với hoạt động kinh doanh trên nền tảng thương mại điện tử",
+        "quote": "có chức năng đặt hàng trực tuyến và chức năng thanh toán có trách nhiệm thực hiện khấu trừ, khai thay và nộp thay số thuế đã khấu trừ đối với mỗi giao dịch",
+        "url": "https://hatinh.gov.vn/vi/bai-viet/huong-dan-khai-thue-khau-tru-thue-voi-hoat-dong-kinh-doanh-tren-nen-tang-thuong-mai-dien-tu",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 16,
+        "org": "VCCI (vcci.com.vn)",
+        "year": 2025,
+        "title": "Từ 1/7, người bán hàng trên sàn TMĐT đóng thuế như thế nào",
+        "quote": "đối với nhóm hàng hóa, người bán sẽ chịu thuế GTGT là 1% và thuế TNCN là 0,5%.",
+        "url": "https://www.vcci.com.vn/tin-tuc/tu-1-7-nguoi-ban-hang-tren-san-tmdt-dong-thue-nhu-the-nao",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 17,
+        "org": "DH Tax Law (công ty tư vấn — nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "Hướng dẫn khai thuế, khấu trừ thuế kinh doanh online cho hộ kinh doanh từ 05/3/2026",
+        "quote": "Doanh thu thực tế trong năm từ 500 triệu đồng trở xuống",
+        "url": "https://dhtaxlaw.com.vn/huong-dan-khai-thue-khau-tru-thue-kinh-doanh-online-cho-ho-kinh-doanh-tu-05-3-2026",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 18,
+        "org": "Doanh nghiệp & Hội nhập",
+        "year": 2026,
+        "title": "Chính thức bắt buộc sàn thương mại điện tử định danh người bán, đền bù nếu lọt hàng giả (01/07/2026)",
+        "quote": "Sàn phải phát thông báo trước ít nhất 5 ngày trước khi định áp đặt các lệnh hạn chế, tạm dừng hoặc đóng cửa gian hàng của người bán.",
+        "url": "https://doanhnghiephoinhap.vn/chinh-thuc-bat-buoc-san-thuong-mai-dien-tu-dinh-danh-nguoi-ban-den-bu-neu-lot-hang-gia-141777.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 19,
+        "org": "VietnamFinance",
+        "year": 2025,
+        "title": "Phát hiện kho hàng hơn 47.000 sản phẩm nhập lậu, chuyên bán qua TikTok (09/07/2025)",
+        "quote": "Tại thời điểm kiểm tra, lực lượng chức năng đã phát hiện trong kho đang chứa tổng cộng 47.127 sản phẩm vi phạm.",
+        "url": "https://vietnamfinance.vn/phat-hien-kho-hang-hon-47000-san-pham-nhap-lau-chuyen-ban-qua-tiktok-d129458.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 20,
+        "org": "Cục Quản lý và Phát triển thị trường trong nước – Bộ Công Thương (dms.gov.vn)",
+        "year": 2020,
+        "title": "Nghị định 98/2020/NĐ-CP — trạng thái: Văn bản còn hiệu lực",
+        "quote": "Quy định xử phạt vi phạm hành chính trong hoạt động thương mại, sản xuất, buôn bán hàng giả, hàng cấm và bảo vệ quyền lợi người tiêu dùng",
+        "url": "https://dms.gov.vn/chi-tiet-vb/chi-tiet-van-ban/quy-dinh-xu-phat-vi-pham-hanh-chinh-trong-hoat-dong-thuong-mai-san-xuat-buon-ban-hang-gia-hang-cam-va-bao-ve-quyen-loi-nguoi-tieu-dung-7507",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 21,
+        "org": "Cục Quản lý và Phát triển thị trường trong nước – Bộ Công Thương (dms.gov.vn)",
+        "year": 2025,
+        "title": "Nghị định 24/2025/NĐ-CP (21/02/2025) — trạng thái: Văn bản còn hiệu lực",
+        "quote": "Nghị định 24/2025 sửa đổi Nghị định 98/2020 xử phạt VPHC trong hoạt động thương mại, buôn bán hàng giả, hàng cấm",
+        "url": "https://dms.gov.vn/chi-tiet-vb/chi-tiet-van-ban/nghi-dinh-242025-sua-doi-nghi-dinh-982020-xu-phat-vphc-trong-hoat-dong-thuong-mai-buon-ban-hang-gia-hang-cam-16299",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 22,
+        "org": "CafeF (dẫn Phụ nữ mới)",
+        "year": 2026,
+        "title": "Shop Taobao đã có mặt trên Shopee, nghề order tại Việt Nam bước vào cuộc đại thanh lọc lịch sử (25/05/2026)",
+        "quote": "Việc các xưởng Taobao lớn như Taobao mở gian hàng quốc tế trên Shopee đang khiến mô hình order hộ (đặt hàng hộ - PV) truyền thống bước vào giai đoạn sàng lọc mạnh nhất từ trước đến nay.",
+        "url": "https://cafef.vn/shop-taobao-da-co-mat-tren-shopee-nghe-order-tai-viet-nam-buoc-vao-cuoc-dai-thanh-loc-lich-su-188260525160504255.chn",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 23,
+        "org": "CafeF",
+        "year": 2026,
+        "title": "“Vua Khay-Inox” bị xử phạt vì bán hơn 2.000 sản phẩm vi phạm nhãn hàng hóa (18/10/2026)",
+        "quote": "không thể hiện thông tin về tên và địa chỉ của tổ chức, cá nhân chịu trách nhiệm về hàng hóa theo quy định tại điểm b khoản 1 Điều 142 Nghị định số 37/2026/NĐ-CP",
+        "url": "https://cafef.vn/vua-khay-inox-bi-xu-phat-vi-ban-hon-2000-san-pham-vi-pham-nhan-hang-hoa-188261018081548334.chn",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 24,
+        "org": "Shopee Việt Nam (tệp trên máy chủ tệp của Shopee, mms.file.susercontent.com)",
+        "year": 2026,
+        "title": "Biểu phí cố định áp dụng từ 23/05/2026 (đã gồm GTGT 8%) — bảng cho người bán không thuộc Shopee Mall (theo bài dẫn link); thời trang nữ 14,5–16,5%, sắc đẹp 17%",
+        "quote": "562 Thời Trang Nữ Đầm 16.50%",
+        "url": "https://mms.file.susercontent.com/api/v4/11195002/mms/vn-11195002-bmlg7-mo9l5o5t9kaz4f",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 25,
+        "org": "Shopee Việt Nam (tệp trên máy chủ tệp của Shopee, mms.file.susercontent.com)",
+        "year": 2026,
+        "title": "Biểu phí cố định áp dụng từ 01/05/2026 cho người bán không thuộc Shopee Mall (đã gồm GTGT 8%); thời trang nữ 12,5–13,5%, sắc đẹp 14%",
+        "quote": "561 Thời Trang Nữ Đầm 13.50%",
+        "url": "https://mms.file.susercontent.com/api/v4/11195002/mms/vn-11195002-bmlg5-mne2xs7y4ef984",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 26,
+        "org": "TikTok Shop Việt Nam (tệp PDF trên máy chủ của TikTok Shop Academy)",
+        "year": 2026,
+        "title": "Phí hoa hồng nền tảng tiêu chuẩn (gồm thuế) từ 3/7/2026 và phí Mall từ 3/8/2026; trang phục nữ: tiêu chuẩn 14–15%, Mall 16–17,1%",
+        "quote": "Thời trang Trang phục nữ & Đồ lót Váy nữ Váy thường mặc 15.00% 17.10%",
+        "url": "https://p16-oec-university-file-sign-sg.ibyteimg.com/tos-alisg-i-76w05nhsss-sg/2bb4f2a2fed443a9b803129aea0100d9.pdf?lk3s=5d1a069b&x-expires=2098152575&x-signature=YPp9GZwKoWiExeafMrCmQf7X6wk%3D",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 27,
+        "org": "Người Lao Động",
+        "year": 2026,
+        "title": "Người bán hàng trên Shopee vừa nhận thông báo quan trọng (24/04/2026)",
+        "quote": "cũng từ này 1-5, nền tảng tăng phí xử lý giao dịch (trước đây là phí thanh toán) lên mức 6%, cao hơn 1 điểm phần trăm so với trước.",
+        "url": "https://nld.com.vn/nguoi-ban-hang-tren-shopee-vua-nhan-thong-bao-quan-trong-19626042414065608.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 28,
+        "org": "Dân Việt (eTime)",
+        "year": 2026,
+        "title": "Ngành hàng phục vụ nhu cầu thiết yếu được giảm phí cố định trên Shopee",
+        "quote": "Cũng từ ngày 1/5/2026, Shopee cập nhật phí xử lý giao dịch (trước đây là Phí thanh toán) ở mức 6% (trước 1/5 là mức 4.91%).",
+        "url": "https://etime.danviet.vn/nganh-hang-phuc-vu-nhu-cau-thiet-yeu-duoc-giam-phi-co-dinh-tren-shopee-d1421908.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 29,
+        "org": "Sapo (đơn vị bán phần mềm — nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "Cập nhật phí sàn Shopee và TikTok Shop tháng 05/2026 — bảng ảnh phí xử lý giao dịch: 4,91% → 6,00% cho mọi phương thức thanh toán, kể cả COD (01/05 người bán thường, 08/05 Mall)",
+        "quote": "Shopee điều chỉnh Phí xử lý giao dịch dành cho Người bán với chi tiết mức phí của từng ngành hàng trong bảng dưới đây",
+        "url": "https://www.sapo.vn/blog/cap-nhat-phi-san-tmdt-thang-5-2026",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 30,
+        "org": "Người Lao Động",
+        "year": 2026,
+        "title": "Các sàn thương mại điện tử đua nhau giảm phí? (26/06/2026)",
+        "quote": "TikTok Shop cũng tăng phí chương trình Voucher Extra từ 4% lên 5% nhằm tăng ưu đãi cho người mua.",
+        "url": "https://nld.com.vn/cac-san-thuong-mai-dien-tu-dua-nhau-giam-phi-196260626190744505.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 31,
+        "org": "Lao Động (bản tổng hợp trên Stockbiz)",
+        "year": 2026,
+        "title": "TikTok Shop tăng phí từ hôm nay, có ngành hàng chịu phí gần 20% (03/08/2026)",
+        "quote": "Hiện phí giao dịch tiêu chuẩn của TikTok Shop là 6% đối với các đơn hàng được tạo từ ngày 9.5. Khoản phí này được thu đối với tất cả người bán khi đơn hàng hoàn thành.",
+        "url": "https://stockbiz.vn/tin-tuc/tiktok-shop-tang-phi-tu-hom-nay-co-nganh-hang-chiu-phi-gan-20/41270060",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 32,
+        "org": "Tạp chí Kinh tế Tài chính (Thuế – Hải quan)",
+        "year": 2026,
+        "title": "Doanh thu đến 1 tỷ đồng: Hộ kinh doanh không phải nộp thuế, nhưng phải thông báo doanh thu (07/09/2026)",
+        "quote": "Theo Nghị định số 141/2026/NĐ-CP, hộ, cá nhân kinh doanh có doanh thu năm từ 1 tỷ đồng trở xuống không phải nộp thuế GTGT và thuế TNCN",
+        "url": "https://thuehaiquan.tapchikinhtetaichinh.vn/doanh-thu-den-1-ty-dong-ho-kinh-doanh-khong-phai-nop-thue-nhung-phai-thong-bao-doanh-thu-166303.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 33,
+        "org": "Luật sư Việt Nam (lsvn.vn)",
+        "year": 2026,
+        "title": "Điểm mới của Nghị định 252/2026/NĐ-CP về quản lý thuế",
+        "quote": "hoàn thiện quy định về quản lý thuế đối với hoạt động kinh doanh trên nền tảng thương mại điện tử, nền tảng số (tại Chương III, từ Điều 40 đến Điều 46).",
+        "url": "https://lsvn.vn/diem-moi-cua-nghi-dinh-252-2026-nd-cp-ve-quan-ly-thue-a176330.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 34,
+        "org": "Chính phủ (toàn văn hợp nhất trên caselaw.vn)",
+        "year": 2025,
+        "title": "Nghị định 98/2020/NĐ-CP, Điều 17 (bản đã cập nhật sửa đổi bởi NĐ 17/2022 và NĐ 24/2025) — hàng không rõ nguồn gốc",
+        "quote": "Phạt tiền từ 40.000 000 đồng đến 50.000.000 đồng đối với hành vi vi phạm quy định tại khoản 1 Điều này trong trường hợp hàng hóa vi phạm có giá trị từ 100.000.000 đồng trở lên.",
+        "url": "https://caselaw.vn/van-ban-phap-luat/375390-nghi-dinh-so-98-2020-nd-cp-ngay-26-08-2020-cua-chinh-phu-quy-dinh-ve-xu-phat-vi-pham-hanh-chinh-trong-hoat-dong-thuong-mai-san-xuat-buon-ban-hang-gia-hang-cam-va-bao-ve-quyen-loi-nguoi-tieu-dung",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 35,
+        "org": "Chính phủ (toàn văn trên hethongphapluat.com)",
+        "year": 2026,
+        "title": "Nghị định 37/2026/NĐ-CP, Điều 42 — nội dung bắt buộc trên nhãn hàng hóa",
+        "quote": "b) Tên và địa chỉ của tổ chức, cá nhân chịu trách nhiệm về hàng hóa;",
+        "url": "https://hethongphapluat.com/nghi-dinh-37-2026-nd-cp-huong-dan-luat-chat-luong-san-pham-hang-hoa/dieu-42",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      }
+    ]
+  },
+  {
+    "id": "tap-hoa-minimart-khu-dan-cu",
+    "kind": "model",
+    "section": "2",
+    "title": "Cửa hàng tạp hoá / minimart trong khu dân cư",
+    "summary": "Bỏ 50–300 triệu cho hàng, kệ, tủ mát và tiền cọc mặt bằng để bán hàng tiêu dùng nhanh lãi mỏng. Kênh truyền thống vẫn chiếm phần lớn FMCG nhưng số tiệm giảm khoảng 10% trong hai năm, trong khi Bách Hoá Xanh mở gần 4 cửa hàng/ngày, mỗi cửa hàng bán khoảng 55 triệu/ngày, lãi gộp ~25% và lãi ròng chỉ ~3% doanh thu. Hợp người có mặt bằng sẵn, tự đứng quầy; bẫy lớn nhất là chuỗi mở sát bên và vốn chôn ở hàng tồn, tiền cọc, tiền khách nợ.",
+    "tags": {
+      "capital": "mid",
+      "breakeven": "unknown",
+      "risk": "mid",
+      "legal": "conditional",
+      "time": "full",
+      "evidence": "C"
+    },
+    "capital": {
+      "range": "50 – 300 triệu",
+      "text": "Hai nguồn báo giá (đều là đơn vị bán phần mềm — có lợi ích thương mại) chia 3 cỡ: tận dụng nhà, vài kệ: 30–50 triệu; cửa hàng vừa: 70–150 triệu; 30–50 m² có quầy lạnh, POS, camera: 150–300 triệu trở lên. Thuê mặt bằng thì cộng tiền cọc 1–3 tháng và cải tạo. Một case năm 2015 (VnExpress): đầu tư hơn 600 triệu, phần lớn hàng do nhà phân phối ký gửi — số liệu cũ, chỉ để tham khảo cấu trúc.",
+      "breakdown": [
+        {
+          "item": "Hàng nhập ban đầu",
+          "value": "20–200 triệu tuỳ cỡ",
+          "refs": [
+            9,
+            10
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Kệ, tủ mát, POS, camera (kệ 1,8 m ~600 nghìn/cái, 50 m² cần ~20 cái ≈ 12 triệu)",
+          "value": "5–50 triệu",
+          "refs": [
+            10
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Cọc mặt bằng 1–3 tháng tiền thuê (phố 50 m² ~15–20 triệu/tháng)",
+          "value": "15–60 triệu nếu thuê ở phố",
+          "refs": [
+            10
+          ],
+          "grade": "C"
+        }
+      ],
+      "grade": "C",
+      "refs": [
+        9,
+        10,
+        11
+      ]
+    },
+    "burn": {
+      "range": "6 – 40 triệu/tháng",
+      "text": "Thuê 50 m²: nông thôn 5–7 triệu (Sapo) hoặc 5–10 triệu (MISA), thành phố 15–20 triệu; điện khi chạy tủ lạnh/tủ đông 1–3 triệu; nhân viên 5–8 triệu/người (0–2 người). Tận dụng nhà và tự đứng quầy thì chi cố định gần chỉ còn điện. Chưa tính hao hụt, hàng cận date.",
+      "grade": "C",
+      "refs": [
+        9,
+        10
+      ]
+    },
+    "breakeven": {
+      "range": "Chưa có số liệu đáng tin",
+      "text": "Chưa có số liệu đo thực tế về thời gian hoà vốn của tạp hoá. Doanh thu hoà vốn/tháng = chi cố định ÷ biên lãi gộp. Báo Đầu tư (10/2026) dựng kịch bản giả định: tiệm nhỏ biên gộp 12%, chi vận hành 18 triệu, chi phí vốn 1,7 triệu, dự phòng thuế 1 triệu, công chủ quy đổi 10 triệu/tháng → doanh thu hoà vốn khoảng 256 triệu/tháng (≈ 8,5 triệu/ngày); tiệm bán 250 triệu/tháng vẫn lỗ 0,7 triệu; tiệm lớn 600 triệu/tháng biên gộp 13% còn lãi khoảng 3,4% doanh thu. Các biên gộp 12–16% trong bài là giả định của báo, không phải số đo. Để so sánh: một cửa hàng Bách Hoá Xanh bán bình quân 55,4 triệu/ngày (quý II/2026). Case VnExpress 2015: thu hồi 600 triệu sau gần 2 năm, doanh thu khoảng 10 triệu/ngày (số liệu cũ).",
+      "grade": "C",
+      "refs": [
+        7,
+        11,
+        24
+      ]
+    },
+    "margin": {
+      "gross": "Chưa rõ (BHX ≈ 24,7%, chỉ tham chiếu)",
+      "net": "Chưa rõ (BHX ≈ 3,2 – 3,4%, tham chiếu)",
+      "text": "Chưa có số liệu đáng tin về biên lãi của tiệm tạp hoá. Mốc tham chiếu từ chuỗi lớn nhất: BCTC hợp nhất quý 3/2026 của MWG (thuyết minh 34) ghi bộ phận thực phẩm và hàng tiêu dùng nhanh (chủ yếu Bách Hoá Xanh) có doanh thu bán ra bên ngoài 45.934 tỷ và lợi nhuận gộp bộ phận 11.348 tỷ trong 9 tháng 2026, tức ≈ 24,7% (cùng kỳ 2025 ≈ 24,0%). BCTC không tách lãi ròng theo bộ phận; theo ABS Research, BHX lãi sau thuế 905,9 tỷ trên 28.314 tỷ doanh thu 6 tháng 2026 (≈ 3,2%), riêng quý 2 là 521,5 tỷ trên 15.183 tỷ (≈ 3,4%). Bách Hoá Xanh có lãi gộp cao nhờ hàng tươi và mua số lượng lớn; tiệm tạp hoá nhập lô nhỏ, khó đạt chiết khấu tương đương. Sức mua yếu: FMCG cả nước năm 2025 chỉ tăng 1,7%, chủ yếu do tăng giá, sản lượng giảm 1,1%; 63% người tiêu dùng nói đang thắt chặt chi tiêu.",
+      "grade": "B",
+      "refs": [
+        1,
+        4,
+        20,
+        21,
+        23
+      ]
+    },
+    "risks": [
+      {
+        "title": "Chuỗi minimart mở sát bên",
+        "text": "Bách Hoá Xanh mở hơn 800 cửa hàng trong 7 tháng đầu 2026 (gần 4 cửa hàng/ngày), có 3.904 cửa hàng cuối 9/2026, doanh thu 9 tháng 45,9 nghìn tỷ (+gần 34%) theo công bố của MWG; các cửa hàng mở mới có lãi ở cấp cửa hàng ngay trong năm. Khoảng 70% siêu thị mini mở mới nằm ở các xã — đúng địa bàn của tạp hoá. Một cửa hàng BHX bán 55,4 triệu/ngày, gấp nhiều lần một tiệm nhỏ. Gần 1,4 triệu tiệm tạp hoá vẫn đóng góp khoảng 65% thị trường FMCG, nhưng NielsenIQ ghi nhận số tiệm kênh truyền thống giảm khoảng 10% so với hai năm trước.",
+        "refs": [
+          1,
+          2,
+          3,
+          5,
+          6,
+          7,
+          8,
+          22
+        ]
+      },
+      {
+        "title": "Chôn vốn ở hàng tồn và tiền cọc khi sức mua yếu",
+        "text": "Nhập hàng chiếm phần lớn vốn; mặt bằng phố đòi cọc 1–3 tháng. FMCG 2025 sản lượng giảm 1,1%, người tiêu dùng chọn kênh rẻ và gần. Hàng chậm bán thành hàng cận date phải xả lỗ. Báo Đầu tư (10/2026) gặp một chủ tiệm doanh thu khoảng 500 triệu/tháng nhưng không nói được tiền thực còn lại: hàng nằm trên kệ, trong kho, một phần tiền bán là khách mua chịu, trong khi tiền thuê, nhân công, điện nước vẫn trả đều. Doanh thu cao không đồng nghĩa có lãi.",
+        "refs": [
+          1,
+          9,
+          10,
+          24
+        ]
+      },
+      {
+        "title": "Rượu, thuốc lá, thuế và hoá đơn",
+        "text": "Rượu, thuốc lá là nhóm hàng kéo khách nhưng cần giấy phép riêng; thuốc lá điện tử không được kinh doanh và dự luật 9/2026 đưa lệnh cấm vào luật, kèm cấm trưng bày và cấm bán trong phạm vi 100 m quanh cổng trường, bệnh viện. Từ 2026 hộ kinh doanh tự khai thuế theo doanh thu thực; hộ thuộc diện dùng hoá đơn phải xuất hoá đơn cho từng giao dịch, kể cả gói snack vài nghìn đồng.",
+        "refs": [
+          12,
+          15,
+          17,
+          18
+        ]
+      }
+    ],
+    "legal": [
+      {
+        "title": "Giấy phép bán lẻ rượu",
+        "basis": "NĐ 105/2017/NĐ-CP sửa đổi bởi NĐ 17/2020/NĐ-CP (vẫn áp dụng; Bộ Công Thương lấy ý kiến dự thảo nghị định thay thế từ 08/10/2026)",
+        "text": "Bán lẻ rượu từ 5,5 độ cồn trở lên phải có giấy phép; kinh doanh rượu dưới 5,5 độ phải đăng ký với cơ quan có thẩm quyền (theo Tuổi Trẻ tóm tắt quy định hiện hành). Dự thảo mới đề xuất bỏ giấy phép, chuyển sang hậu kiểm — chưa có hiệu lực. Chính Hiệp hội Bia – Rượu – NGK thừa nhận tạp hoá nhỏ lẻ là nơi khó quản lý nhất. Mức phạt cụ thể chưa đối chiếu được.",
+        "refs": [
+          12,
+          13,
+          19
+        ]
+      },
+      {
+        "title": "Giấy phép bán lẻ thuốc lá; thuốc lá điện tử",
+        "basis": "NĐ 67/2013/NĐ-CP và các NĐ sửa đổi (106/2017, 08/2018, 17/2020 — chưa đối chiếu văn bản gốc); TT 57/2018/TT-BCT, hợp nhất tại VBHN 35/VBHN-BCT ngày 26/5/2026 (còn hiệu lực); lệnh cấm thuốc lá điện tử, nung nóng theo Nghị quyết 173/2024/QH15 ngày 30/11/2024 (hiệu lực từ năm 2025; nội dung đối chiếu qua cổng phổ biến pháp luật của Sở Tư pháp Cần Thơ); dự Luật sửa đổi Luật Phòng, chống tác hại của thuốc lá (UBTVQH cho ý kiến 21/9/2026)",
+        "text": "Bán lẻ thuốc lá điếu cần giấy phép bán lẻ sản phẩm thuốc lá; khung cấp phép vẫn đang được Bộ Công Thương cập nhật năm 2026. Từ năm 2025 cấm sản xuất, kinh doanh, nhập khẩu, chứa chấp, vận chuyển, sử dụng thuốc lá điện tử, thuốc lá nung nóng (Nghị quyết 173/2024/QH15). Dự luật 2026 đề xuất: cấm trưng bày thuốc lá ở điểm bán, cấm bán trong 100 m quanh cổng trường/cơ sở y tế, buộc kiểm tra căn cước khi nghi người mua dưới 18 tuổi — chưa có hiệu lực.",
+        "refs": [
+          14,
+          15,
+          25
+        ]
+      },
+      {
+        "title": "An toàn thực phẩm với thực phẩm bao gói sẵn",
+        "basis": "Luật An toàn thực phẩm 2010; NĐ 15/2018/NĐ-CP (Điều 12 — cơ sở không thuộc diện cấp Giấy chứng nhận đủ điều kiện ATTP; chưa đối chiếu lại văn bản trong đợt này); NĐ 46/2026/NĐ-CP đang tạm ngưng hiệu lực",
+        "text": "Bán thực phẩm bao gói sẵn không phải xin Giấy chứng nhận cơ sở đủ điều kiện ATTP nhưng vẫn phải bán hàng có nguồn gốc, còn hạn, nhãn đúng, bảo quản theo nhãn (tủ mát, tủ đông). Khung pháp lý đang chuyển tiếp: Chính phủ kéo dài tạm ngưng NĐ 46/2026 cho đến khi Luật ATTP sửa đổi và nghị định hướng dẫn có hiệu lực — kiểm tra lại trước khi in. Bán thực phẩm tươi, chế biến tại chỗ thì điều kiện khác.",
+        "refs": [
+          16
+        ]
+      },
+      {
+        "title": "Thuế, hoá đơn hộ kinh doanh",
+        "basis": "NĐ 68/2026/NĐ-CP sửa đổi bởi NĐ 141/2026/NĐ-CP (29/4/2026); NĐ 254/2026/NĐ-CP (hoá đơn, thay NĐ 123/2020 và NĐ 70/2025 từ 1/7/2026)",
+        "text": "Doanh thu năm từ 1 tỷ đồng trở xuống: không nộp GTGT, TNCN nhưng phải thông báo doanh thu thực tế với cơ quan thuế (ngưỡng nâng từ 500 triệu lên 1 tỷ theo NĐ 141/2026, áp dụng cho năm 2026); vượt ngưỡng: khai, nộp thuế từ quý phát sinh doanh thu vượt 1 tỷ. Hộ có doanh thu năm trên 1 tỷ phải dùng hoá đơn điện tử và lập hoá đơn cho từng giao dịch. Chi tiết xem mục thuế phần 0.",
+        "refs": [
+          17,
+          18,
+          26,
+          27
+        ]
+      }
+    ],
+    "seed": null,
+    "notes": "Số liệu thị phần kênh truyền thống lệch nhau theo phạm vi: NielsenIQ ~85% thị phần FMCG (5/2026), NielsenIQ qua Sài Gòn Times 75–83% doanh số thị trường, BSA dự báo bán lẻ truyền thống ~68% năm 2026 (tính trên tổng bán lẻ, không chỉ FMCG). Biên gộp Bách Hoá Xanh đọc thẳng từ BCTC hợp nhất của MWG (mức A); BCTC chỉ ghi lợi nhuận gộp theo bộ phận 'Thực phẩm và hàng tiêu dùng nhanh', không tách lãi ròng — lãi ròng BHX vẫn từ báo cáo công ty chứng khoán (mức B). Doanh thu 55,4 triệu/ngày/cửa hàng là ước tính của Q&Me cho quý II/2026. Vốn và chi phí tạp hoá chỉ có báo giá từ đơn vị bán phần mềm, không dùng số 'lợi nhuận 20–40 triệu/tháng' của họ; biên gộp 12–16% trong bài Báo Đầu tư là giả định của báo, chỉ dùng minh hoạ cách tính hoà vốn.",
+    "sources": [
+      {
+        "id": 1,
+        "org": "NielsenIQ (qua Nhà Đầu Tư)",
+        "year": 2026,
+        "title": "NielsenIQ: '63% người Việt thắt chặt chi tiêu trong năm 2025' (23/05/2026)",
+        "quote": "Hiện kênh bán lẻ truyền thống vẫn chiếm khoảng 85% thị phần FMCG tại Việt Nam, trong khi các kênh hiện đại như siêu thị, minimart hay cửa hàng tiện lợi chiếm khoảng 15% và tiếp tục tăng trưởng.",
+        "url": "https://nhadautu.vn/63-nguoi-viet-that-chat-chi-tieu-trong-nam-2025-d105171.html",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 2,
+        "org": "NielsenIQ (qua Sài Gòn Times)",
+        "year": 2026,
+        "title": "Thay áo mới, tiệm tạp hóa tiếp tục là điểm tựa lớn cho nhà sản xuất (16/07/2026)",
+        "quote": "gần 1,4 triệu cửa hàng tạp hóa tại Việt Nam đóng góp tới 65% cho thị trường hàng tiêu dùng nhanh.",
+        "url": "https://thesaigontimes.vn/saigontimes/thay-ao-moi-tiem-tap-hoa-tiep-tuc-la-diem-tua-lon-cho-nha-san-xuat/",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 3,
+        "org": "VnBusiness",
+        "year": 2026,
+        "title": "Siêu thị mini phủ khu dân cư, tiệm tạp hóa chịu sức ép cạnh tranh (19/10/2026)",
+        "quote": "khoảng 70% địa chỉ siêu thị mini mở mới nằm tại các xã",
+        "url": "https://vnbusiness.vn/sieu-thi-mini-phu-khu-dan-cu-tiem-tap-hoa-chiu-suc-ep-canh-tranh.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 4,
+        "org": "Tuổi Trẻ (dẫn BCTC hợp nhất quý 2/2026 của MWG và lãnh đạo MWG)",
+        "year": 2026,
+        "title": "Bách Hóa Xanh sẽ xóa sạch lỗ lũy kế khoảng 7.000 tỉ trong 2-3 năm tới để lên sàn? (05/08/2026)",
+        "quote": "mảng thực phẩm và hàng tiêu dùng nhanh đóng góp 28.314 tỉ đồng doanh thu sau 6 tháng, chiếm gần 30% tổng doanh thu của công ty. Lợi nhuận gộp là 7.043 tỉ đồng",
+        "url": "https://tuoitre.vn/bach-hoa-xanh-se-xoa-sach-lo-luy-ke-khoang-7000-ti-trong-2-3-nam-toi-de-len-san-100260805164015254.htm",
+        "type": "financials",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 5,
+        "org": "CafeF (dẫn BCTC hợp nhất quý 3/2026 của MWG)",
+        "year": 2026,
+        "title": "Bất ngờ với lợi nhuận Bách Hóa Xanh trong quý 3 (29/10/2026)",
+        "quote": "Lũy kế 9 tháng đầu năm, chuỗi đạt khoảng 45.900 tỷ đồng doanh thu, tăng gần 34% so với cùng kỳ.",
+        "url": "https://cafef.vn/bat-ngo-voi-loi-nhuan-bach-hoa-xanh-trong-quy-3-188261029000206321.chn",
+        "type": "financials",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 6,
+        "org": "Báo Pháp luật Việt Nam – Doanh nhân (dẫn công bố KQKD 9 tháng của MWG)",
+        "year": 2026,
+        "title": "MWG thu gần 148.000 tỷ đồng sau 9 tháng, Bách Hóa Xanh tăng trưởng 34% (15/10/2026)",
+        "quote": "gồm 3.340 cửa hàng thuộc nhóm Điện Máy Xanh (bao gồm Erablue), 3.904 cửa hàng Bách Hóa Xanh",
+        "url": "https://doanhnhan.baophapluat.vn/dau-tu-the-gioi-di-dong-mwg-thu-gan-148-000-ty-dong-sau-9-thang-bach-hoa-xanh-tang-truong-34.html",
+        "type": "financials",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 7,
+        "org": "Q&Me (qua CafeF)",
+        "year": 2026,
+        "title": "Bách Hóa Xanh và WinCommerce: So kè hiệu quả vận hành (05/08/2026)",
+        "quote": "Bình quân, mỗi cửa hàng Bách Hóa Xanh mang về 55,4 triệu đồng/ngày (khoảng 2.090 USD), trong khi con số của WinCommerce là 25,5 triệu đồng/ngày (khoảng 960 USD).",
+        "url": "https://cafef.vn/bach-hoa-xanh-va-wincommerce-so-ke-hieu-qua-van-hanh-va-bai-toan-loi-nhuan-cua-2-ong-lon-nganh-ban-le-188260805174445439.chn",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 8,
+        "org": "CafeF",
+        "year": 2026,
+        "title": "Cứ mở cửa hàng là lãi, lợi nhuận Bách Hóa Xanh lập kỷ lục (30/07/2026)",
+        "quote": "7 tháng đầu năm, Bách Hóa Xanh đã mở mới hơn 800 cửa hàng, tương ứng bình quân gần 4 cửa hàng mỗi ngày.",
+        "url": "https://cafef.vn/cu-mo-cua-hang-la-lai-loi-nhuan-bach-hoa-xanh-lap-ky-luc-188260730154655.chn",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 9,
+        "org": "Sapo (đơn vị bán phần mềm — nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "Mở cửa hàng tạp hóa cần bao nhiêu vốn?",
+        "quote": "Tại vùng nông thôn bạn có thể tận dụng mặt bằng có sẵn của gia đình, nếu phải thuê thì giá dao động từ 5 đến 7 triệu/tháng đối với diện tích 50m2.",
+        "url": "https://www.sapo.vn/blog/mo-cua-hang-tap-hoa-can-bao-nhieu-von/",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 10,
+        "org": "MISA eShop (đơn vị bán phần mềm — nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "Mở cửa hàng tạp hoá cần bao nhiêu vốn? Cách tối ưu chi phí khi kinh doanh",
+        "quote": "Ở thành phố, chi phí thuê mặt bằng diện tích khoảng 50m² thường dao động từ 15 – 20 triệu đồng/tháng.",
+        "url": "https://www.misaeshop.vn/?p=7693",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 11,
+        "org": "VnExpress",
+        "year": 2015,
+        "title": "Cửa hàng tạp hóa vẫn sống khỏe (06/05/2015)",
+        "quote": "Đầu tư hơn 600 triệu để mở một cửa hàng tạp hóa gần khu dân cư, sau gần 2 năm anh Hùng (phường Mễ Trì, Nam Từ Liêm) đã thu hồi lại vốn.",
+        "url": "https://vnexpress.net/cua-hang-tap-hoa-van-song-khoe-3209303.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 12,
+        "org": "Tuổi Trẻ",
+        "year": 2026,
+        "title": "Đề xuất bỏ giấy phép kinh doanh rượu: Chuyển mạnh sang số hóa và hậu kiểm (20/10/2026)",
+        "quote": "Bắt buộc xin giấy phép đối với sản xuất công nghiệp, thủ công nhằm mục đích kinh doanh, phân phối, bán buôn, bán lẻ rượu từ 5,5 độ cồn trở lên.",
+        "url": "https://tuoitre.vn/de-xuat-bo-giay-phep-kinh-doanh-ruou-chuyen-manh-sang-so-hoa-va-hau-kiem-100261020171028813.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 13,
+        "org": "Cục Quản lý và Phát triển thị trường trong nước – Bộ Công Thương (dms.gov.vn)",
+        "year": 2026,
+        "title": "Lấy ý kiến góp ý Dự thảo Nghị định thay thế Nghị định số 105 của Chính phủ về kinh doanh rượu (08/10/2026)",
+        "quote": "Bộ Công Thương xây dựng Dự thảo Nghị định thay thế Nghị định số 105/2017/NĐ-CP ngày 14 tháng 9 năm 2017 của Chính phủ về kinh doanh rượu.",
+        "url": "https://dms.gov.vn/tin-chi-tiet/-/chi-tiet/lay-y-kien-gop-y-du-thao-nghi-dinh-thay-the-nghi-dinh-so-105-cua-chinh-phu-ve-kinh-doanh-ruou-20011-7.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 14,
+        "org": "Cục Quản lý và Phát triển thị trường trong nước – Bộ Công Thương (dms.gov.vn)",
+        "year": 2026,
+        "title": "VBHN 35/VBHN-BCT (26/05/2026) hợp nhất Thông tư 57/2018/TT-BCT về kinh doanh thuốc lá — trạng thái: Văn bản còn hiệu lực",
+        "quote": "Thông tư Quy định chi tiết một số điều của các Nghị định liên quan đến kinh doanh thuốc lá",
+        "url": "https://dms.gov.vn/chi-tiet-vb/chi-tiet-van-ban/thong-tu-quy-dinh-chi-tiet-mot-so-dieu-cua-cac-nghi-dinh-lien-quan-den-kinh-doanh-thuoc-la-12111",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 15,
+        "org": "Tuổi Trẻ",
+        "year": 2026,
+        "title": "Đề xuất cấm trưng bày, bán thuốc lá ngoài cổng trường, bệnh viện trong phạm vi 100m (21/09/2026)",
+        "quote": "Dự luật cũng quy định không được bán thuốc lá phía ngoài cổng cơ sở giáo dục, cơ sở y tế trong phạm vi 100m",
+        "url": "https://tuoitre.vn/de-xuat-cam-trung-bay-ban-thuoc-la-ngoai-cong-truong-benh-vien-trong-pham-vi-100m-100260921093546669.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 16,
+        "org": "Tuổi Trẻ",
+        "year": 2026,
+        "title": "Chính phủ đồng ý kéo dài thời hạn tạm ngưng Nghị định 46 (22/03/2026)",
+        "quote": "kéo dài thời hạn tạm ngưng hiệu lực Nghị định số 46 và Nghị quyết số 66.13",
+        "url": "https://tuoitre.vn/chinh-phu-dong-y-keo-dai-thoi-han-tam-ngung-nghi-dinh-46-20260322124633624.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 17,
+        "org": "Cổng TTĐT tỉnh Hà Tĩnh",
+        "year": 2026,
+        "title": "Nhiều điểm mới đáng chú ý trong chính sách thuế đối với hộ và cá nhân kinh doanh",
+        "quote": "hộ kinh doanh và cá nhân kinh doanh có doanh thu từ hoạt động sản xuất, kinh doanh không quá 500 triệu đồng/năm sẽ không thuộc diện chịu thuế GTGT, đồng thời không phải nộp thuế TNCN.",
+        "url": "https://hatinh.gov.vn/vi/bai-viet/nhieu-diem-moi-dang-chu-y-trong-chinh-sach-thue-doi-voi-ho-va-ca-nhan-kinh-doanh",
+        "type": "press",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 18,
+        "org": "Tuổi Trẻ",
+        "year": 2026,
+        "title": "Bán gói snack vài ngàn đồng phải xuất hóa đơn: Minh bạch nhưng đừng máy móc (03/09/2026)",
+        "quote": "Theo quy định tại Nghị định 70, tất cả doanh nghiệp, hộ kinh doanh buộc phải xuất hóa đơn cho từng giao dịch, bất kể giá trị lớn hay nhỏ.",
+        "url": "https://tuoitre.vn/ban-goi-snack-vai-ngan-dong-phai-xuat-hoa-don-minh-bach-nhung-dung-may-moc-100260903120304819.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 19,
+        "org": "Tuổi Trẻ",
+        "year": 2026,
+        "title": "Đề xuất bỏ giấy phép kinh doanh rượu: Có kiểm soát được rượu bán ở tiệm tạp hóa, quán nhậu? (21/10/2026)",
+        "quote": "Việc triển khai cấp phép bán lẻ hay quản lý tiêu dùng tại chỗ gặp khó khăn do phần lớn điểm bán là tạp hóa nhỏ lẻ, bán kèm lượng ít nên ý thức tuân thủ pháp luật chưa cao",
+        "url": "https://tuoitre.vn/de-xuat-bo-giay-phep-kinh-doanh-ruou-co-kiem-soat-duoc-ruou-ban-o-tiem-tap-hoa-quan-nhau-100261021151213864.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 20,
+        "org": "Công ty CP Đầu tư Thế Giới Di Động (MWG) — BCTC hợp nhất giữa niên độ quý 3/2026, thuyết minh 34",
+        "year": 2026,
+        "title": "Thông tin theo bộ phận, 9 tháng 2026: bộ phận Thực phẩm và hàng tiêu dùng nhanh — doanh thu bán ra bên ngoài 45.934 tỷ, lợi nhuận gộp bộ phận 11.348 tỷ (≈ 24,7%); cùng kỳ 2025: 34.418 tỷ và 8.269 tỷ (≈ 24,0%)",
+        "quote": "Lợi nhuận gộp của bộ phận 11.347.567.133.634",
+        "url": "https://bhxcdn.vn/mwgvn/investorrelations/files/posts/2026/10/5006273/9a/e8/9ae8eac9dbb6c06d31c4ff3349f622d1.pdf",
+        "type": "financials",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 21,
+        "org": "Công ty CP Đầu tư Thế Giới Di Động (MWG) — BCTC hợp nhất giữa niên độ đã soát xét 6 tháng 2026, thuyết minh 34",
+        "year": 2026,
+        "title": "Thông tin theo bộ phận, 6 tháng 2026: Thực phẩm và hàng tiêu dùng nhanh — doanh thu bán ra bên ngoài 28.313.659.724.453 đồng",
+        "quote": "Bán hàng ra bên ngoài 28.313.659.724.453",
+        "url": "https://bhxcdn.vn/mwgvn/investorrelations/files/posts/2026/8/5006094/1d/dc/1ddce6514da9af2bad1b21317825b88d.pdf",
+        "type": "financials",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 22,
+        "org": "Công ty CP Đầu tư Thế Giới Di Động (MWG)",
+        "year": 2026,
+        "title": "Cập nhật tình hình kinh doanh 9 tháng đầu năm 2026 (14/10/2026): BHX 3.904 cửa hàng, doanh thu 45,9 nghìn tỷ",
+        "quote": "Lũy kế 9 tháng 2026, chuỗi BHX ghi nhận doanh thu 45,9 nghìn tỷ đồng, tăng gần 34% so với cùng kỳ.",
+        "url": "https://bhxcdn.vn/mwgvn/investorrelations/files/posts/2026/10/5006191/70/21/70210fec8f257bb9a7af2c4b392fa5d0.pdf",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 23,
+        "org": "ABS Research (Chứng khoán An Bình)",
+        "year": 2026,
+        "title": "MWG — cập nhật KQKD quý 2/2026 (05/08/2026): BHX doanh thu Q2 15.183 tỷ, lợi nhuận gộp 3.816 tỷ, LNST 521,5 tỷ; 6 tháng LNST 905,9 tỷ",
+        "quote": "Bách Hóa Xanh: doanh thu BHX ghi nhận 28.314 tỷ đồng (+25,4% svck). LNST ghi nhận 905,9 tỷ đồng (+357,3% svck).",
+        "url": "https://www.abs.vn/wp-content/uploads/2026/08/MWG_260805_Note.pdf",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 24,
+        "org": "Báo Đầu tư",
+        "year": 2026,
+        "title": "Tạp hóa gia đình: Doanh thu lớn, có sống khỏe? (28/10/2026) — kịch bản giả định của báo",
+        "quote": "Nếu biên lợi nhuận gộp và các khoản chi phí giữ nguyên, doanh thu hòa vốn khoảng 256 triệu đồng/tháng.",
+        "url": "https://baodautu.vn/tap-hoa-gia-dinh-doanh-thu-lon-co-song-khoe-d726767.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 25,
+        "org": "Sở Tư pháp TP Cần Thơ (cổng phổ biến pháp luật) — trích Nghị quyết 173/2024/QH15",
+        "year": 2024,
+        "title": "Chính thức cấm sử dụng thuốc lá điện tử từ năm 2025",
+        "quote": "Quốc hội thống nhất cấm sản xuất, kinh doanh, nhập khẩu, chứa chấp, vận chuyển, sử dụng thuốc lá điện tử, thuốc lá nung nóng, các loại khí, chất gây nghiện, gây tác hại cho sức khỏe con người từ năm 2025",
+        "url": "https://pbgdpl.cantho.gov.vn/chinh-thuc-cam-su-dung-thuoc-la-dien-tu-tu-nam-2025",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 26,
+        "org": "Tạp chí Kinh tế Tài chính (Thuế – Hải quan)",
+        "year": 2026,
+        "title": "Doanh thu đến 1 tỷ đồng: Hộ kinh doanh không phải nộp thuế, nhưng phải thông báo doanh thu (07/09/2026)",
+        "quote": "Theo Nghị định số 141/2026/NĐ-CP, hộ, cá nhân kinh doanh có doanh thu năm từ 1 tỷ đồng trở xuống không phải nộp thuế GTGT và thuế TNCN",
+        "url": "https://thuehaiquan.tapchikinhtetaichinh.vn/doanh-thu-den-1-ty-dong-ho-kinh-doanh-khong-phai-nop-thue-nhung-phai-thong-bao-doanh-thu-166303.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 27,
+        "org": "LuatVietnam (trích CV 4831/CT-CS ngày 15/7/2026 của Cục Thuế)",
+        "year": 2026,
+        "title": "Công văn 4831/CT-CS: Giới thiệu điểm mới tại NĐ 254/2026/NĐ-CP về hóa đơn điện tử",
+        "quote": "có doanh thu năm trên 01 tỷ đồng hoặc hộ kinh doanh, cá nhân kinh doanh bán tài sản phải đăng ký quyền sở hữu, quyền sử dụng thì phải áp dụng hóa đơn điện tử",
+        "url": "https://luatvietnam.vn/tin-van-ban-moi/cong-van-4831-ct-cs-gioi-thieu-diem-moi-tai-nghi-dinh-254-2026-nd-cp-ve-hoa-don-dien-tu-186-110473-article.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      }
+    ]
+  },
+  {
+    "id": "nhap-hang-trung-quoc-ban-online",
+    "kind": "model",
+    "section": "2",
+    "title": "Nhập hàng Trung Quốc (Taobao/1688 qua dịch vụ order) về bán online",
+    "summary": "Đặt hàng Taobao/1688 qua dịch vụ order (phí 1–3% giá trị đơn, cọc 70%, cước lẻ 24–32 nghìn/kg) rồi bán lại trên sàn, mạng xã hội. Từ 18/2/2025 hàng chuyển phát nhanh dưới 1 triệu hết miễn thuế, và từ 5/2026 xưởng Taobao đã mở shop thẳng trên Shopee. Hợp người làm hàng ngách hoặc sỉ, chịu đi chính ngạch có chứng từ; bẫy lớn nhất là hàng 'trọn gói' không chứng từ, bị thu giữ cả kho.",
+    "tags": {
+      "capital": "mid",
+      "breakeven": "unknown",
+      "risk": "high",
+      "legal": "conditional",
+      "time": "part",
+      "evidence": "C"
+    },
+    "capital": {
+      "range": "30 – 200 triệu (ước tính tác giả)",
+      "text": "Chưa có số liệu đáng tin về vốn điển hình. Cấu trúc: dịch vụ order đòi cọc 70% giá trị đơn; hàng về theo đợt; lô một mặt hàng trên 100–150 kg mới được giá cước thấp; đi chính ngạch có phí mở tờ khai 200.000đ/mã hàng và nộp thuế trước. Bán lẻ thử vài mẫu có thể bắt đầu từ vài chục triệu; muốn có chứng từ nhập khẩu và giá cước tốt phải nhập lô, vốn lên hàng trăm triệu.",
+      "breakdown": [
+        {
+          "item": "Cọc đơn order (70% giá trị hàng)",
+          "value": "tuỳ lô, ví dụ lô 50 triệu cọc 35 triệu",
+          "refs": [
+            13
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Phí dịch vụ order",
+          "value": "1–3% giá trị đơn (3% với đơn dưới 2 triệu)",
+          "refs": [
+            12,
+            13
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Cước Trung Quốc – Việt Nam hàng lẻ",
+          "value": "24.000đ/kg (Hà Nội), 30.000–32.000đ/kg (TP.HCM)",
+          "refs": [
+            12,
+            13
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Chính ngạch: phí tờ khai + thuế",
+          "value": "200.000đ/mã hàng + thuế NK theo mã HS + VAT 10%",
+          "refs": [
+            12
+          ],
+          "grade": "C"
+        }
+      ],
+      "grade": "C",
+      "refs": [
+        12,
+        13
+      ]
+    },
+    "burn": {
+      "range": "Chưa có số liệu đáng tin",
+      "text": "Như mô hình bán trên sàn (quảng cáo, đóng gói, 0–1 nhân công) cộng chỗ chứa hàng. Khác biệt: tiền nằm trong hàng đang về 1–2 tuần; hàng lỗi, sai mẫu khó đổi trả với xưởng Trung Quốc.",
+      "grade": "C",
+      "refs": [
+        11
+      ]
+    },
+    "breakeven": {
+      "range": "Chưa có số liệu đáng tin",
+      "text": "Chưa có số liệu đáng tin về thời gian hoà vốn. Ví dụ giá vốn về kho (ước tính tác giả): hàng 100.000đ (giá web đã quy đổi), nặng 0,3 kg, đi lẻ trọn gói: phí dịch vụ 3% (3.000đ) + cước 0,3 kg × 24.000–32.000đ (7.200–9.600đ) + kiểm đếm 2.000–5.000đ + ship nội địa Trung Quốc 0–5.000đ ≈ 12.000–23.000đ, tức 12–23% giá hàng. Bán 200.000đ (giả định) trên Shopee ngành thời trang nữ, người bán thường: phí cố định 16,5% + phí xử lý giao dịch 6% + phí hạ tầng 3.000đ + thuế khấu trừ 1,5% = 51.000đ (25,5%); thêm Voucher Xtra 5,5% và PiShip 2.700đ: 64.700đ (32,4%) → còn khoảng 12.000–37.000đ (6–19% giá bán) trước quảng cáo, đóng gói, hoàn hàng. Đi chính ngạch cộng thêm VAT 10% giá hàng và thuế nhập khẩu → mỏng hơn nữa.",
+      "grade": "C",
+      "refs": [
+        12,
+        13,
+        15,
+        22
+      ]
+    },
+    "margin": {
+      "gross": "Chưa có số liệu đáng tin",
+      "net": "Chưa có số liệu đáng tin",
+      "text": "Không tìm được nguồn đáng tin công bố biên lãi của người bán hàng order. Ví dụ tính ở mục hoà vốn (giả định bán gấp đôi giá web) chỉ còn khoảng 6–19% giá bán trước quảng cáo nếu đi trọn gói, thấp hơn khi đi chính ngạch. Lợi thế giá của mô hình nằm ở chênh lệch giữa giá xưởng Trung Quốc và giá bán ở Việt Nam. Chênh lệch này đang bị ép từ hai phía: thuế (hết miễn thuế hàng chuyển phát nhanh giá trị thấp từ 18/2/2025, VAT thu tự động từ 1/8/2025) và chính xưởng Trung Quốc bán thẳng trên Shopee có COD. Năm 2022 cước gom lẻ chính ngạch được báo chí ghi 33.000đ/kg về Hà Nội, 43.000đ/kg về TP.HCM — báo giá 2026 của dịch vụ order thấp hơn nhưng là giá 'trọn gói', không kèm thuế.",
+      "grade": "C",
+      "refs": [
+        1,
+        2,
+        11,
+        12,
+        13,
+        14,
+        22
+      ]
+    },
+    "risks": [
+      {
+        "title": "Bị thu giữ cả kho vì không chứng minh được nguồn gốc",
+        "text": "QLTT kiểm tra, không xuất trình được hoá đơn, tờ khai là mất hàng. Quảng Ninh 7/2025: kho 47.127 sản phẩm vi phạm (mỹ phẩm nhập lậu, hàng không rõ nguồn gốc) nguồn từ Trung Quốc, bán qua hàng trăm tài khoản TikTok. Đợt cao điểm 6/2025: một cửa hàng của TikToker bị phát hiện hơn 380 loại mỹ phẩm nhập lậu không nhãn phụ, hoá đơn; người chuyên đặt hàng Taobao về bán ở TP.HCM cho biết không nhập được hàng mới. Bảng giá 'trọn gói' của dịch vụ order không liệt kê thuế hay tờ khai — phải hỏi rõ dịch vụ có giao chứng từ nhập khẩu hay không.",
+        "refs": [
+          9,
+          10,
+          12
+        ]
+      },
+      {
+        "title": "Hàng giả, hàng vi phạm sở hữu trí tuệ",
+        "text": "Hàng Taobao/1688 nhiều mẫu nhái thương hiệu. 6/2025 cơ quan chức năng kiểm tra container giày, áo, túi giả MLB, Hugo Boss, Armani Exchange; hàng thật nhưng không chứng minh được nguồn gốc trị giá hơn 17 tỷ. Năm 2025 hơn 13.700 gian hàng online bị gỡ vì hàng giả, hàng cấm, không rõ nguồn gốc. Dịch vụ order cũng ghi rõ không cam kết kiểm tra hàng nhái, thương hiệu.",
+        "refs": [
+          10,
+          12,
+          17
+        ]
+      },
+      {
+        "title": "Xưởng Trung Quốc bán thẳng cho người Việt",
+        "text": "Từ 5/2026 các xưởng Taobao mở gian hàng quốc tế trên Shopee, có tiếng Việt và COD, giao 7–15 ngày. Người mua phổ thông thôi nhờ order hộ; người làm order thừa nhận khách lẻ giảm rõ, chỉ còn khách sỉ và mẫu độc. Bán lại hàng đại trà Trung Quốc không còn lợi thế giá.",
+        "refs": [
+          11
+        ]
+      }
+    ],
+    "legal": [
+      {
+        "title": "Hết miễn thuế hàng nhập giá trị thấp qua chuyển phát nhanh",
+        "basis": "QĐ 01/2025/QĐ-TTg ngày 03/01/2025 bãi bỏ QĐ 78/2010/QĐ-TTg; áp dụng từ 18/02/2025",
+        "text": "Hàng dưới 1 triệu gửi qua chuyển phát nhanh nay chịu thuế nhập khẩu và VAT; hải quan thu VAT tự động với lô dưới 1 triệu từ 1/8/2025. Năm 2025 Bộ Tài chính có dự thảo nghị định hải quan cho hàng TMĐT đề xuất miễn thuế nhập khẩu cho đơn từ 1 triệu trở xuống (VCCI phản đối) — chưa xác minh được đã ban hành hay chưa. Tuổi Trẻ (23/8/2026) đưa tin quy định mới buộc người mua, bán hàng với nước ngoài qua nền tảng TMĐT phải định danh điện tử — chưa xác minh được văn bản và ngày hiệu lực.",
+        "refs": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "title": "Nhãn hàng hoá nhập khẩu (nhãn phụ tiếng Việt)",
+        "basis": "Điều 40, khoản 1–2 Điều 42 NĐ 37/2026/NĐ-CP hướng dẫn Luật Chất lượng sản phẩm, hàng hoá (hiệu lực từ ngày ký 23/01/2026); NĐ 43/2017/NĐ-CP và NĐ 111/2021/NĐ-CP hết hiệu lực từ 23/01/2026 (điểm b, c khoản 4 Điều 97); chuyển tiếp tại khoản 3, 4 Điều 98",
+        "text": "Hàng nhập về có nhãn gốc tiếng nước ngoài: người nhập khẩu phải bổ sung nhãn tiếng Việt (nhãn phụ) trước khi đưa ra lưu thông, gồm tên hàng, tên và địa chỉ tổ chức/cá nhân chịu trách nhiệm, xuất xứ và các nội dung bắt buộc theo nhóm hàng; nhãn phụ không được che nội dung bắt buộc của nhãn gốc. Hàng đã sản xuất, nhập khẩu với nhãn đúng NĐ 43/2017 trước 23/01/2026 được lưu thông đến hết hạn sử dụng; nhãn, bao bì đã in theo quy định cũ dùng tiếp tối đa 2 năm (đến 23/01/2028). 10/2026 QLTT Hưng Yên đã xử phạt vì thiếu tên, địa chỉ người chịu trách nhiệm (CafeF ghi 'Điều 142' — nghị định chỉ có 99 điều; nội dung trùng điểm b khoản 1 Điều 42). Mức phạt riêng cho vi phạm nhãn chưa đối chiếu được.",
+        "refs": [
+          5,
+          6,
+          10,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "title": "Chứng từ nguồn gốc khi QLTT kiểm tra; xử phạt hàng không rõ nguồn gốc",
+        "basis": "NĐ 98/2020/NĐ-CP sửa đổi bởi NĐ 17/2022/NĐ-CP và NĐ 24/2025/NĐ-CP (21/02/2025) — cả hai còn hiệu lực theo cổng Cục QL&PT thị trường trong nước",
+        "text": "Phải xuất trình được hoá đơn, chứng từ chứng minh nguồn gốc (tờ khai hải quan nếu tự nhập, hoá đơn của bên bán nếu mua lại). Không có: cá nhân bị cảnh cáo hoặc phạt 300.000–500.000đ nếu hàng dưới 1 triệu, tăng dần theo giá trị hàng tới 40–50 triệu nếu hàng từ 100 triệu trở lên; tổ chức phạt gấp đôi; người nhập khẩu, hoặc hàng là thực phẩm, mỹ phẩm, hàng thuộc ngành nghề có điều kiện thì phạt gấp đôi nữa; tịch thu tang vật, có thể buộc tiêu huỷ hàng gây hại và nộp lại lợi bất hợp pháp.",
+        "refs": [
+          7,
+          8,
+          9,
+          10,
+          21
+        ]
+      },
+      {
+        "title": "Công khai nguồn gốc khi bán trên sàn",
+        "basis": "Luật Thương mại điện tử số 122/2025/QH15 (hiệu lực 01/7/2026)",
+        "text": "Người bán phải xác thực danh tính và công khai đầy đủ, chính xác nguồn gốc, chất lượng hàng trước khi khách mua; sàn phải chặn hàng lậu, hàng giả trước khi hiển thị.",
+        "refs": [
+          16
+        ]
+      }
+    ],
+    "seed": null,
+    "notes": "Báo giá dịch vụ order lấy từ 2 đơn vị (Thương Đô, Hàng Quảng Châu 24h) — nguồn có lợi ích thương mại, chỉ dùng như báo giá mức C; biểu phí dịch vụ của hai bên trùng khớp (3% / 2,5% / 2% / 1% theo giá trị đơn). Giá 'trọn gói' khác 'chính ngạch': chỉ chính ngạch có tờ khai, thuế NK, VAT 10%. Chưa có nguồn đáng tin cho tỷ giá quy đổi nhân dân tệ của dịch vụ order, thời gian hàng về, tỷ lệ hàng lỗi, chi phí tháng và biên lãi của người bán hàng order. 'Tiểu ngạch' theo nghĩa thông thường (hàng qua biên giới không có chứng từ đứng tên người bán) không cho người bán bộ chứng từ để trình QLTT. Ví dụ chi phí là ước tính tác giả, giả định hàng nhẹ 0,3 kg và bán gấp đôi giá web; phí sàn theo bảng phí cố định chính thức của Shopee từ 23/5/2026.",
+    "sources": [
+      {
+        "id": 1,
+        "org": "Tuổi Trẻ",
+        "year": 2025,
+        "title": "Đánh thuế với hàng nhập khẩu chuyển phát nhanh giá trị dưới một triệu đồng (04/01/2025)",
+        "quote": "Từ ngày 18-2-2025, các loại hàng hóa có giá trị dưới 1 triệu đồng khi gửi qua dịch vụ chuyển phát nhanh sẽ phải chịu thuế nhập khẩu và thuế giá trị gia tăng.",
+        "url": "https://tuoitre.vn/danh-thue-voi-hang-nhap-khau-chuyen-phat-nhanh-gia-tri-duoi-mot-trieu-dong-20250104141248318.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 2,
+        "org": "Tuổi Trẻ",
+        "year": 2025,
+        "title": "Thu thuế VAT tự động với hàng nhập chuyển phát nhanh dưới 1 triệu đồng (11/07/2025)",
+        "quote": "hải quan sẽ áp dụng quy trình thu thuế VAT tự động với các lô hàng nhập khẩu có giá trị dưới 1 triệu đồng được vận chuyển qua chuyển phát nhanh.",
+        "url": "https://tuoitre.vn/thu-thue-vat-tu-dong-voi-hang-nhap-chuyen-phat-nhanh-duoi-1-trieu-dong-20250711102702731.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 3,
+        "org": "Tuổi Trẻ",
+        "year": 2025,
+        "title": "Hàng mua qua sàn chưa đến 50.000 đồng/đơn, VCCI phản đối miễn thuế hàng giá trị nhỏ (26/05/2025)",
+        "quote": "Một trong những điểm gây lo ngại lớn nhất là quy định tại điều 12 dự thảo về việc miễn thuế nhập khẩu với đơn hàng có giá trị nhỏ (từ 1 triệu đồng trở xuống).",
+        "url": "https://tuoitre.vn/hang-mua-qua-san-chua-den-50-000-dong-don-vcci-phan-doi-mien-thue-hang-gia-tri-nho-20250526110238292.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 4,
+        "org": "Tuổi Trẻ",
+        "year": 2026,
+        "title": "Chủ nền tảng thương mại điện tử phải kết nối dữ liệu với hải quan, thực hiện định danh điện tử (23/08/2026)",
+        "quote": "Tổ chức, cá nhân tại Việt Nam khi mua, bán hàng hóa với nước ngoài qua nền tảng thương mại điện tử phải thực hiện định danh, xác thực điện tử.",
+        "url": "https://tuoitre.vn/chu-nen-tang-thuong-mai-dien-tu-phai-ket-noi-du-lieu-voi-hai-quan-thuc-hien-dinh-danh-dien-tu-10026082310385626.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 5,
+        "org": "Cục Quản lý và Phát triển thị trường trong nước – Bộ Công Thương (dms.gov.vn)",
+        "year": 2026,
+        "title": "Nghị định 37/2026/NĐ-CP (23/01/2026) — trạng thái: Văn bản còn hiệu lực",
+        "quote": "Nghị định Quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Chất lượng sản phẩm, hàng hóa",
+        "url": "https://dms.gov.vn/chi-tiet-vb/chi-tiet-van-ban/nghi-dinh-quy-dinh-chi-tiet-mot-so-dieu-va-bien-phap-de-to-chuc-huong-dan-thi-hanh-luat-chat-luong-san-pham-hang-hoa-16622",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 6,
+        "org": "CafeF",
+        "year": 2026,
+        "title": "“Vua Khay-Inox” bị xử phạt vì bán hơn 2.000 sản phẩm vi phạm nhãn hàng hóa (18/10/2026)",
+        "quote": "không thể hiện thông tin về tên và địa chỉ của tổ chức, cá nhân chịu trách nhiệm về hàng hóa theo quy định tại điểm b khoản 1 Điều 142 Nghị định số 37/2026/NĐ-CP",
+        "url": "https://cafef.vn/vua-khay-inox-bi-xu-phat-vi-ban-hon-2000-san-pham-vi-pham-nhan-hang-hoa-188261018081548334.chn",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 7,
+        "org": "Cục Quản lý và Phát triển thị trường trong nước – Bộ Công Thương (dms.gov.vn)",
+        "year": 2020,
+        "title": "Nghị định 98/2020/NĐ-CP — trạng thái: Văn bản còn hiệu lực",
+        "quote": "Quy định xử phạt vi phạm hành chính trong hoạt động thương mại, sản xuất, buôn bán hàng giả, hàng cấm và bảo vệ quyền lợi người tiêu dùng",
+        "url": "https://dms.gov.vn/chi-tiet-vb/chi-tiet-van-ban/quy-dinh-xu-phat-vi-pham-hanh-chinh-trong-hoat-dong-thuong-mai-san-xuat-buon-ban-hang-gia-hang-cam-va-bao-ve-quyen-loi-nguoi-tieu-dung-7507",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 8,
+        "org": "Cục Quản lý và Phát triển thị trường trong nước – Bộ Công Thương (dms.gov.vn)",
+        "year": 2025,
+        "title": "Nghị định 24/2025/NĐ-CP (21/02/2025) — trạng thái: Văn bản còn hiệu lực",
+        "quote": "Nghị định 24/2025 sửa đổi Nghị định 98/2020 xử phạt VPHC trong hoạt động thương mại, buôn bán hàng giả, hàng cấm",
+        "url": "https://dms.gov.vn/chi-tiet-vb/chi-tiet-van-ban/nghi-dinh-242025-sua-doi-nghi-dinh-982020-xu-phat-vphc-trong-hoat-dong-thuong-mai-buon-ban-hang-gia-hang-cam-16299",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 9,
+        "org": "VietnamFinance",
+        "year": 2025,
+        "title": "Phát hiện kho hàng hơn 47.000 sản phẩm nhập lậu, chuyên bán qua TikTok (09/07/2025)",
+        "quote": "Tại thời điểm kiểm tra, lực lượng chức năng đã phát hiện trong kho đang chứa tổng cộng 47.127 sản phẩm vi phạm.",
+        "url": "https://vietnamfinance.vn/phat-hien-kho-hang-hon-47000-san-pham-nhap-lau-chuyen-ban-qua-tiktok-d129458.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 10,
+        "org": "Tuổi Trẻ",
+        "year": 2025,
+        "title": "Phát hiện nhiều vụ kinh doanh hàng giả từ mỹ phẩm đến thời trang, thuốc... (17/06/2025)",
+        "quote": "Chuyên đặt quần áo, giày dép... trên sàn Taobao về bán, chị L.T. (TP.HCM) cho biết những ngày này chị không thể nhập hàng mới",
+        "url": "https://tuoitre.vn/phat-hien-nhieu-vu-kinh-doanh-hang-gia-tu-my-pham-den-thoi-trang-thuoc-20250617075621211.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 11,
+        "org": "CafeF (dẫn Phụ nữ mới)",
+        "year": 2026,
+        "title": "Shop Taobao đã có mặt trên Shopee, nghề order tại Việt Nam bước vào cuộc đại thanh lọc lịch sử (25/05/2026)",
+        "quote": "Việc các xưởng Taobao lớn như Taobao mở gian hàng quốc tế trên Shopee đang khiến mô hình order hộ (đặt hàng hộ - PV) truyền thống bước vào giai đoạn sàng lọc mạnh nhất từ trước đến nay.",
+        "url": "https://cafef.vn/shop-taobao-da-co-mat-tren-shopee-nghe-order-tai-viet-nam-buoc-vao-cuoc-dai-thanh-loc-lich-su-188260525160504255.chn",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 12,
+        "org": "Thương Đô Logistics (dịch vụ order — nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "Bảng giá dịch vụ đặt hàng và vận chuyển Trung Quốc – Việt Nam",
+        "quote": "Thuế VAT = 10% x Giá trị hàng hóa",
+        "url": "https://www.thuongdo.com/bang-gia-dich-vu",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 13,
+        "org": "Hàng Quảng Châu 24h (dịch vụ order — nguồn có lợi ích thương mại)",
+        "year": 2026,
+        "title": "Bảng giá nhập hàng",
+        "quote": "Dưới 50kg 24.000 đ/kg 30.000 đ/kg",
+        "url": "https://hangquangchau24h.vn/bang-gia-nhap-hang/",
+        "type": "quote",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 14,
+        "org": "Tuổi Trẻ",
+        "year": 2022,
+        "title": "Chuyển hàng từ Trung Quốc về Hà Nội còn nhanh và rẻ hơn từ TP.HCM ra (14/11/2022)",
+        "quote": "có công ty đang có giá đơn hàng lẻ từ Trung Quốc - Hà Nội chỉ 33.000 đồng/kg, TP.HCM 43.000 đồng/kg.",
+        "url": "https://tuoitre.vn/chuyen-hang-tu-trung-quoc-ve-ha-noi-con-nhanh-va-re-hon-tu-tp-hcm-ra-20221114223237293.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 15,
+        "org": "VCCI (vcci.com.vn)",
+        "year": 2026,
+        "title": "Sàn thương mại điện tử đua tăng phí, đẩy người bán hàng vào thế khó (23/05/2026)",
+        "quote": "Thậm chí, trên sàn Shopee, theo nhiều chủ shop, sau đợt điều chỉnh mới, tổng phí sàn của một cửa hàng có thể tăng từ 24,5% lên hơn 30,5% doanh thu đơn hàng",
+        "url": "https://vcci.com.vn/tin-tuc/san-thuong-mai-dien-tu-dua-tang-phi-day-nguoi-ban-hang-vao-the-kho",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 16,
+        "org": "Doanh nghiệp & Hội nhập",
+        "year": 2026,
+        "title": "Chính thức bắt buộc sàn thương mại điện tử định danh người bán, đền bù nếu lọt hàng giả (01/07/2026)",
+        "quote": "người bán có trách nhiệm pháp lý phải công khai đầy đủ, chính xác tuyệt đối thông tin về nguồn gốc, chất lượng hàng hóa trước khi người tiêu dùng xuống tiền.",
+        "url": "https://doanhnghiephoinhap.vn/chinh-thuc-bat-buoc-san-thuong-mai-dien-tu-dinh-danh-nguoi-ban-den-bu-neu-lot-hang-gia-141777.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 17,
+        "org": "Viet Nam News (qua Vietstock)",
+        "year": 2026,
+        "title": "E-commerce platforms urged to use automated filters to prevent spread of fakes",
+        "quote": "more than 13,700 online shops were removed last year for selling fake, banned or untraceable products",
+        "url": "https://en.vietstock.vn/2026/01/e-commerce-platforms-urged-to-use-automated-filters-to-prevent-spread-of-fakes-38-628819.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 18,
+        "org": "Chính phủ (toàn văn trên hethongphapluat.com)",
+        "year": 2026,
+        "title": "Nghị định 37/2026/NĐ-CP, Điều 97 — hiệu lực thi hành; NĐ 43/2017 và NĐ 111/2021 hết hiệu lực từ ngày ký (23/01/2026)",
+        "quote": "b) Nghị định số 43/2017/NĐ-CP ngày 14 tháng 4 năm 2017 của Chính phủ về nhãn hàng hóa;",
+        "url": "https://hethongphapluat.com/nghi-dinh-37-2026-nd-cp-huong-dan-luat-chat-luong-san-pham-hang-hoa/dieu-97",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 19,
+        "org": "Chính phủ (toàn văn trên hethongphapluat.com)",
+        "year": 2026,
+        "title": "Nghị định 37/2026/NĐ-CP, Điều 42 — nội dung bắt buộc trên nhãn; hàng nhập khẩu phải bổ sung nhãn tiếng Việt",
+        "quote": "tổ chức, cá nhân nhập khẩu phải thực hiện việc bổ sung nhãn hàng hóa ghi bằng tiếng Việt theo quy định tại khoản 1 Điều này trước khi đưa hàng hóa vào lưu thông tại thị trường Việt Nam.",
+        "url": "https://hethongphapluat.com/nghi-dinh-37-2026-nd-cp-huong-dan-luat-chat-luong-san-pham-hang-hoa/dieu-42",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 20,
+        "org": "Chính phủ (toàn văn trên hethongphapluat.com)",
+        "year": 2026,
+        "title": "Nghị định 37/2026/NĐ-CP, Điều 98 — chuyển tiếp nhãn theo NĐ 43/2017, NĐ 111/2021",
+        "quote": "được tiếp tục sử dụng, nhưng không quá 02 năm kể từ ngày Nghị định này có hiệu lực thi hành.",
+        "url": "https://hethongphapluat.com/nghi-dinh-37-2026-nd-cp-huong-dan-luat-chat-luong-san-pham-hang-hoa/dieu-98",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 21,
+        "org": "Chính phủ (toàn văn hợp nhất trên caselaw.vn)",
+        "year": 2025,
+        "title": "Nghị định 98/2020/NĐ-CP, Điều 17 (bản đã cập nhật sửa đổi bởi NĐ 17/2022 và NĐ 24/2025) — hàng không rõ nguồn gốc",
+        "quote": "Phạt tiền từ 40.000 000 đồng đến 50.000.000 đồng đối với hành vi vi phạm quy định tại khoản 1 Điều này trong trường hợp hàng hóa vi phạm có giá trị từ 100.000.000 đồng trở lên.",
+        "url": "https://caselaw.vn/van-ban-phap-luat/375390-nghi-dinh-so-98-2020-nd-cp-ngay-26-08-2020-cua-chinh-phu-quy-dinh-ve-xu-phat-vi-pham-hanh-chinh-trong-hoat-dong-thuong-mai-san-xuat-buon-ban-hang-gia-hang-cam-va-bao-ve-quyen-loi-nguoi-tieu-dung",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 22,
+        "org": "Shopee Việt Nam (tệp trên máy chủ tệp của Shopee, mms.file.susercontent.com)",
+        "year": 2026,
+        "title": "Biểu phí cố định áp dụng từ 23/05/2026 (đã gồm GTGT 8%) — bảng cho người bán không thuộc Shopee Mall (theo bài dẫn link)",
+        "quote": "562 Thời Trang Nữ Đầm 16.50%",
+        "url": "https://mms.file.susercontent.com/api/v4/11195002/mms/vn-11195002-bmlg7-mo9l5o5t9kaz4f",
+        "type": "policy",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      }
+    ]
+  }
+]

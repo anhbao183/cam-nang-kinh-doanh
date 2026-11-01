@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Cẩm nang mô hình kinh doanh</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Các mô hình kinh doanh nhỏ ở Việt Nam được ép vào cùng một khung: vốn, dòng tiền, hòa vốn, biên lợi nhuận, tử huyệt rủi ro, ranh giới pháp lý. Mọi con số có nguồn và mức chứng cứ.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="assets/app.css?v=mvxx9cpp">
+</head>
+<body>
+<header class="top">
+  <div class="top-in">
+    <button class="icon-btn menu-btn" id="menu" aria-label="Mở bộ lọc và mục lục" aria-expanded="false"><svg viewBox="0 0 24 24"><path d="M4 6h16v2H4zm0 5h16v2H4zm0 5h16v2H4z"/></svg></button>
+    <a class="brand" href="#">
+      <span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M5 5h14M5 10h14M5 15h8M5 20h5"/><path d="m15 18 2 2 4-5"/></svg></span>
+      <span class="brand-text">Cẩm nang mô hình kinh doanh</span>
+    </a>
+    <label class="search">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5" stroke-linecap="round"/></svg>
+      <input id="q" type="search" placeholder="Tìm mô hình, luật, rủi ro… (gõ không dấu cũng được)" autocomplete="off" aria-label="Tìm trong cẩm nang">
+      <kbd>/</kbd>
+    </label>
+    <a class="icon-btn" href="https://github.com/anhbao183/cam-nang-kinh-doanh" target="_blank" rel="noopener" title="Xem dữ liệu và nguồn trên GitHub" aria-label="Repo GitHub"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 .3a12 12 0 0 0-3.8 23.4c.6.1.8-.3.8-.6v-2c-3.3.7-4-1.6-4-1.6-.6-1.4-1.4-1.8-1.4-1.8-1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1.1 1.8 2.8 1.3 3.5 1 .1-.8.4-1.3.8-1.6-2.7-.3-5.5-1.3-5.5-5.9 0-1.3.5-2.4 1.2-3.2-.1-.3-.5-1.5.1-3.2 0 0 1-.3 3.3 1.2a11.5 11.5 0 0 1 6 0C17.3 4.7 18.3 5 18.3 5c.6 1.7.2 2.9.1 3.2.8.8 1.2 1.9 1.2 3.2 0 4.6-2.8 5.6-5.5 5.9.4.4.8 1.1.8 2.2v3.3c0 .3.2.7.8.6A12 12 0 0 0 12 .3"/></svg></a>
+  </div>
+</header>
+
+<div class="shell">
+  <aside class="side" id="side" aria-label="Mục lục và bộ lọc">
+    <div class="grp">
+      <div class="grp-t">Phần</div>
+      <div class="sec-list" id="sec-list"></div>
+    </div>
+    <div id="filters" class="grp" style="gap:18px"></div>
+  </aside>
+  <div class="scrim" id="scrim"></div>
+
+  <main>
+    <section class="intro">
+      <h1>Cẩm nang mô hình kinh doanh</h1>
+      <p class="lede">Mỗi mô hình trả lời bốn câu: bỏ ra bao nhiêu, bao lâu thì hoàn vốn, chết vì đâu, luật cấm gì.</p>
+      <p>Con số nào cũng kèm nguồn và mức chứng cứ, để bạn biết nên tin nó đến đâu. Chỗ nào không tìm được nguồn đáng tin, cẩm nang ghi thẳng là "Chưa có số liệu đáng tin" thay vì đoán. Bấm vào số nhỏ cạnh một nhận định để xem nguồn, kèm câu trích nguyên văn và ngày truy cập.</p>
+      <div class="scale">
+        <div><b><span class="g g-A">A</span>Văn bản gốc</b>Luật, nghị định, thông tư còn hiệu lực; biểu phí và chính sách chính thức của nền tảng; thống kê nhà nước; báo cáo tài chính đã kiểm toán.</div>
+        <div><b><span class="g g-B">B</span>Báo cáo ngành</b>Khảo sát và báo cáo có công bố phương pháp: iPOS, Metric, Big4, công ty chứng khoán, hiệp hội ngành.</div>
+        <div><b><span class="g g-C">C</span>Tham khảo</b>Báo chí phỏng vấn chủ cơ sở, báo giá thị trường, case study đơn lẻ, hoặc ước tính của tác giả có ghi rõ công thức.</div>
+      </div>
+      <p class="disclaim">Đây là tài liệu tham khảo, không thay cho tư vấn của luật sư, kế toán hay cơ quan thuế. Luật kinh doanh Việt Nam đổi rất nhanh, riêng 2025–2026 đã có hàng loạt thay đổi về thuế hộ kinh doanh, thương mại điện tử và quảng cáo. Trước khi bỏ tiền, hãy mở link nguồn và kiểm tra văn bản còn hiệu lực.</p>
+      <div class="meta-line" id="meta-line"></div>
+      <details class="box">
+        <summary>Cẩm nang này được làm thế nào</summary>
+        <div class="box-body">
+          <p>Mỗi mô hình được ép vào cùng một khung: vốn khởi tạo, chi phí cố định hằng tháng, thời gian hòa vốn, biên lợi nhuận, đúng ba tử huyệt rủi ro (xếp từ cái làm sập nhanh nhất), và các ranh giới đỏ pháp lý có ghi số hiệu văn bản cùng điều khoản.</p>
+          <p>Thứ tự ưu tiên nguồn: văn bản pháp luật và biểu phí chính thức, rồi báo cáo ngành có phương pháp, rồi báo chí chính thống. Không dùng blog bán khóa học hay bài PR của bên bán thiết bị, bán nhượng quyền làm nguồn cho số liệu lợi nhuận. Báo giá của các bên đó chỉ được dùng ở mức C và có ghi chú "nguồn có lợi ích thương mại".</p>
+          <p>Mỗi nguồn ghi ngày truy cập và cách đối chiếu. "Đã mở trang" nghĩa là câu trích được đọc thấy trên trang gốc. "Trích đoạn tìm kiếm" nghĩa là trang gốc chặn truy cập tự động, câu trích lấy từ kết quả tìm kiếm, bạn nên tự mở lại để chắc.</p>
+          <p>Ô "Số liệu thực chiến" dành cho số liệu vận hành thật của tác giả và người đóng góp. Ô này được đánh dấu riêng để không lẫn với số liệu có nguồn công khai.</p>
+        </div>
+      </details>
+      <details class="box">
+        <summary>Chữ viết tắt và thuật ngữ</summary>
+        <dl class="gloss" id="gloss"></dl>
+      </details>
+    </section>
+
+    <div class="bar">
+      <span id="count"></span>
+      <div class="seg" role="group" aria-label="Kiểu xem">
+        <button data-view="cards" aria-pressed="true">Thẻ chi tiết</button>
+        <button data-view="table" aria-pressed="false">Bảng so sánh</button>
+      </div>
+    </div>
+
+    <div id="cards"></div>
+    <div id="table" hidden></div>
+    <p class="empty" id="empty" hidden>Không có mục nào khớp. Thử bỏ bớt bộ lọc hoặc đổi từ khóa.</p>
+  </main>
+</div>
+
+<script src="data/data.js?v=mvxx9cpp"></script>
+<script src="assets/app.js?v=mvxx9cpp"></script>
+</body>
+</html>

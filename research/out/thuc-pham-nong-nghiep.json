@@ -1,0 +1,2167 @@
+[
+  {
+    "id": "tinh-che-yen-sao",
+    "kind": "model",
+    "section": "3",
+    "title": "Hộ kinh doanh tinh chế yến sào từ tổ yến thô",
+    "summary": "Mua tổ yến thô, nhặt lông, làm sạch, đóng gói bán lẻ hoặc sỉ. Tiền nằm chủ yếu ở hàng tồn: theo một doanh nghiệp, 1 kg thô hao 30–40% khi làm sạch; giá thô 2025 khoảng 12–18 triệu/kg và từng rơi hơn 40% trong một năm. Hợp với người có nguồn thô ổn định và kênh bán sẵn; bẫy lớn nhất là hàng độn, tẩm, giả – bị tạm giữ cả lô và có thể bị khởi tố.",
+    "tags": {
+      "capital": "mid",
+      "breakeven": "unknown",
+      "risk": "high",
+      "legal": "conditional",
+      "time": "full",
+      "evidence": "C"
+    },
+    "capital": {
+      "range": "≈ 260 – 450 triệu (hàng thô/tháng)",
+      "text": "Chưa có nguồn công bố tổng vốn của một cơ sở tinh chế quy mô hộ. Ước tính được phần lớn nhất là hàng thô: một cơ sở ở Đắk Lắk làm 15 kg thành phẩm/tháng (2022); với hao hụt 30–40% và giá thô 12–18 triệu/kg (2025–2026), riêng tiền mua thô cho 1 tháng là khoảng 257–450 triệu (công thức ở nguồn 25). Cơ sở nhỏ hơn thì vốn hàng tồn giảm theo tỷ lệ. Các khoản còn lại chưa có số liệu: cải tạo khu sơ chế cách xa nguồn ô nhiễm, nước đạt chuẩn nước sinh hoạt (Điều 25 khoản 3 NĐ 13/2020), dụng cụ, máy sấy, bao bì, nhãn. Kiểm nghiệm: bảng giá CDC Quảng Ninh (2025) có độ ẩm 100.000 đồng, Salmonella 600.000 đồng/mẫu, nhưng không có sialic acid, nitrite – hai chỉ tiêu bắt buộc của tổ yến.",
+      "breakdown": [
+        {
+          "item": "Hàng thô cho 1 tháng ở quy mô 15 kg thành phẩm (case Đắk Lắk 2022, giá thô 2025–2026)",
+          "value": "≈ 257–450 triệu (ước tính)",
+          "refs": [
+            22,
+            15,
+            13,
+            14,
+            25
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Cải tạo khu sơ chế, dụng cụ, máy sấy",
+          "value": "Chưa có số liệu đáng tin",
+          "refs": [
+            11
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Phiếu kiểm nghiệm, phí thẩm định GCN",
+          "value": "Một phần: độ ẩm 100.000 đ, Salmonella 600.000 đ/mẫu (CDC Quảng Ninh 2025); chưa có giá sialic acid, nitrite",
+          "refs": [
+            26,
+            7,
+            11
+          ],
+          "grade": "A"
+        }
+      ],
+      "grade": "C",
+      "refs": [
+        22,
+        15,
+        13,
+        14,
+        25,
+        26
+      ]
+    },
+    "burn": {
+      "range": "Chưa có số liệu đáng tin",
+      "text": "Chi phí hàng tháng gồm: công nhặt lông (khoản lớn nhất, vẫn chưa tìm được đơn giá công/kg hay năng suất nhặt của một người), mặt bằng, điện sấy, bao bì, quảng cáo và phí sàn nếu bán online, lãi trên vốn nằm trong hàng tồn. Mốc lương duy nhất tìm được: một công ty yến ở Thanh Hóa trả 5–8 triệu/người/tháng cho 7–10 lao động (2020) – không đủ để quy ra công/kg. Phiếu kiểm nghiệm dùng để tự công bố chỉ được dùng nếu còn trong 12 tháng tính đến ngày nộp hồ sơ, nên phải tính chi phí kiểm nghiệm lặp lại khi công bố sản phẩm mới.",
+      "grade": "C",
+      "refs": [
+        7,
+        27
+      ]
+    },
+    "breakeven": {
+      "range": "Chưa có số liệu đáng tin",
+      "text": "Không tìm được nguồn cho thời gian hoà vốn; mốc 6–9 tháng trong bản nháp không có nguồn. Chưa tính được vì thiếu chi phí nhân công và chi phí cố định. Hoà vốn phụ thuộc vòng quay hàng tồn: lô thô chỉ thành tiền khi đã làm sạch và bán hết. Nếu giá thô rơi khi đang ôm hàng (2020 giảm hơn 40%) thì lô đó có thể lỗ, kéo dài thời gian hoà vốn.",
+      "grade": "C",
+      "refs": [
+        16
+      ]
+    },
+    "margin": {
+      "gross": "≈ 6 – 46% trước nhân công (ước tính)",
+      "net": "Chưa có số hộ; mốc DN yến 4 – 8%",
+      "text": "Biên gộp hộ (C): nguyên liệu cho 1 kg tinh chế = giá thô ÷ (1 − hao hụt). Giá thô 12–18 triệu/kg (2025), hao hụt 30–40% (một doanh nghiệp, 2021) → nguyên liệu 17,1–30 triệu/kg. Bán 32 triệu/kg (tinh chế loại 1, một hộ Gia Lai, 2025) → biên trước nhân công, bao bì, kiểm nghiệm từ 46% xuống 6%; bán 32–36 triệu/kg như cơ sở Đắk Lắk (hộp 100 g giá 3,2–3,6 triệu, 2022) thì cận trên khoảng 52%. Biên ròng của hộ chưa tính được vì thiếu đơn giá công nhặt lông. Mốc doanh nghiệp (không dùng thay cho hộ): CTCP Nước giải khát Yến sào Khánh Hòa (SKV) có biên gộp 18,6% (2023), 21,0% (2024), 18,2% (2025) và LNST/doanh thu 4,9%, 4,0%, 5,1% – chủ yếu là nước yến đóng lon; Công ty Yến sào Khánh Hòa (doanh nghiệp nhà nước) 6 tháng đầu 2026 có lợi nhuận trước thuế/doanh thu khoảng 7,8% (131,7/1.699 tỷ). Biên hộ rất nhạy với hao hụt và giá thô.",
+      "grade": "C",
+      "refs": [
+        13,
+        14,
+        15,
+        22,
+        23,
+        24
+      ]
+    },
+    "risks": [
+      {
+        "title": "Dính hàng độn, tẩm, giả – bị tạm giữ cả lô và khởi tố",
+        "text": "Cơ chế: yến độn tinh bột, tẩm đường để tăng cân, hoặc sản phẩm hàm lượng yến thấp bị giám định là hàng giả; cả lô bị tạm giữ ngay, chủ cơ sở có thể bị truy cứu hình sự. Bằng chứng: Phú Thọ (6/2025) tạm giữ 23.468 sản phẩm yến chưng của Công ty Tuấn Dương, kết luận hàng giả trị giá trên 900 triệu, giám đốc bị khởi tố theo khoản 3 Điều 193 BLHS. Đà Nẵng (9/2025): 5/15 loại nước yến không có acid sialic. Báo chí ghi nhận yến tẩm đường bán dưới tên 'tinh chế ngọt'. Chuẩn tổ yến sơ chế (Phụ lục VII NĐ 13/2020): sialic acid ≥5%, nitrite ≤30 mg/kg, độ ẩm <15%, không có chất tẩy trắng.",
+        "refs": [
+          18,
+          19,
+          20,
+          11
+        ]
+      },
+      {
+        "title": "Chôn vốn ở nguyên liệu thô khi giá rơi",
+        "text": "2020: giá thô giảm hơn 40%, còn 14–18 triệu/kg; một doanh nghiệp ở Tiền Giang nói sức mua 6 tháng đầu năm giảm hơn 50%. 2012: Hội An tồn kho yến khoảng 80 tỷ đồng. 2025: một HTX bán thô 12–14 triệu/kg, thấp hơn các năm trước. Mua thô giá cao, làm sạch xong bán lúc giá xuống là lỗ cả lô. Nguồn cung thô vẫn tăng: cả nước gần 30.000 nhà yến, sản lượng thô năm 2025 ước trên 234 tấn.",
+        "refs": [
+          16,
+          17,
+          14,
+          21
+        ]
+      },
+      {
+        "title": "Hao hụt khi làm sạch ăn hết biên",
+        "text": "Một doanh nghiệp yến cho biết hao hụt sau sơ chế 30–40% mỗi kg thô. Với giá 2025, biên gộp trước nhân công chỉ còn khoảng 6–46%. Sấy không đạt độ ẩm <15% hay ngâm, tẩy sai cách làm hàng không đạt chỉ tiêu. Không tìm được số liệu đáng tin về 'tỷ lệ đắp tổ' hay hư hỏng do bảo quản.",
+        "refs": [
+          15,
+          13,
+          14,
+          11
+        ]
+      }
+    ],
+    "legal": [
+      {
+        "title": "Giấy chứng nhận cơ sở đủ điều kiện ATTP – phụ thuộc 'sơ chế nhỏ lẻ' hay 'chế biến'",
+        "basis": "Điều 34 Luật ATTP 55/2010/QH12; Điều 11, Điều 12 khoản 1 điểm c, Điều 3 khoản 9 và Phụ lục III (mục XVII.3) NĐ 15/2018/NĐ-CP; Điều 18 khoản 2 và Điều 3 khoản 2 NĐ 115/2018/NĐ-CP (sửa đổi bởi NĐ 124/2021/NĐ-CP)",
+        "text": "GCN quy định tại Điều 34 Luật ATTP, không phải Điều 11 (Điều 11 là điều kiện cho thực phẩm tươi sống). Cơ sở sản xuất phải có GCN, trừ các trường hợp tại khoản 1 Điều 12 NĐ 15/2018; trong đó có 'sơ chế nhỏ lẻ' – cơ sở sơ chế ở quy mô hộ gia đình, hộ cá thể. Làm sạch tổ yến được NĐ 13/2020 gọi là 'sơ chế', nên hộ chỉ nhặt lông, làm sạch có thể thuộc diện không cấp GCN nhưng vẫn phải đáp ứng điều kiện ATTP; làm yến chưng, đóng hũ là chế biến và phải có GCN. Cách phân loại do cơ quan địa phương quyết – hỏi trước khi đầu tư. Tổ yến thuộc danh mục Bộ NN&MT quản lý (trừ dạng dược liệu, thực phẩm chức năng). Phạt sản xuất không có GCN: 30–40 triệu – mức này áp cho tổ chức; cá nhân, hộ kinh doanh bị phạt bằng 1/2 (15–20 triệu), kèm buộc thu hồi, tiêu hủy thực phẩm.",
+        "refs": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          8,
+          10
+        ]
+      },
+      {
+        "title": "Tự công bố sản phẩm – vẫn theo NĐ 15/2018 vì NĐ 46/2026 đang tạm ngưng",
+        "basis": "Điều 4, Điều 5 NĐ 15/2018/NĐ-CP; Nghị quyết 15/2026/NQ-CP (06/4/2026); Điều 20 NĐ 115/2018/NĐ-CP (sửa đổi bởi NĐ 124/2021/NĐ-CP)",
+        "text": "Thực phẩm đã qua chế biến bao gói sẵn phải tự công bố, kèm phiếu kiểm nghiệm còn trong 12 tháng, nộp 1 bản cho cơ quan do UBND tỉnh chỉ định. NĐ 46/2026/NĐ-CP (thay NĐ 15/2018 từ 26/01/2026) và NQ 66.13/2026/NQ-CP bị tạm ngưng theo NQ 15/2026/NQ-CP cho đến khi Luật ATTP (sửa đổi) và nghị định hướng dẫn có hiệu lực; trong thời gian đó NĐ 15/2018 tiếp tục có hiệu lực. Tình trạng luật tại 11/2026: Quốc hội mới nghe tờ trình và thảo luận tổ lần đầu ngày 24/10/2026 (kỳ họp thứ 2), dự kiến thông qua ở kỳ họp thứ 3 (tháng 5/2027) – nên ít nhất đến giữa 2027 vẫn làm theo NĐ 15/2018. Phạt (mức cá nhân): không đăng tải hoặc không nộp bản tự công bố 15–20 triệu; dùng phiếu kiểm nghiệm hết hạn, thiếu chỉ tiêu 20–30 triệu; sản xuất sản phẩm thuộc diện tự công bố mà không có bản tự công bố 40–50 triệu, có thể đình chỉ 1–3 tháng; tổ chức gấp đôi.",
+        "refs": [
+          6,
+          7,
+          9,
+          10,
+          28,
+          29
+        ]
+      },
+      {
+        "title": "Yêu cầu kỹ thuật khi khai thác, sơ chế, bảo quản tổ yến",
+        "basis": "Điều 25 khoản 3 và Phụ lục VII NĐ 13/2020/NĐ-CP (Văn bản hợp nhất 23/VBHN-BNNMT năm 2026)",
+        "text": "Phải ban hành và tuân thủ quy trình kỹ thuật khai thác, sơ chế, bảo quản; xưởng cách xa nguồn ô nhiễm; có biện pháp ngăn sinh vật gây hại; nước sơ chế đạt tiêu chuẩn nước sinh hoạt. Tổ yến sau sơ chế phải đạt Phụ lục VII: tạp chất không phát hiện dưới kính phóng đại 5–10 lần, độ ẩm <15%, protein ≥40%, sialic acid ≥5%, nitrite ≤30 mg/kg, không phát hiện Salmonella và H5N1, không có chất tẩy trắng.",
+        "refs": [
+          11
+        ]
+      },
+      {
+        "title": "Nhãn: theo NĐ 37/2026 (NĐ 43/2017 đã hết hiệu lực); tổ yến nguyên chất không bắt buộc ghi bảng dinh dưỡng",
+        "basis": "Điều 42, Điều 97 khoản 4 Nghị định 37/2026/NĐ-CP (ký và hiệu lực 23/01/2026); Điều 1 khoản 2 điểm b Thông tư 30/2026/TT-BYT (hiệu lực 10/7/2026)",
+        "text": "Từ 23/01/2026, NĐ 43/2017 và NĐ 111/2021 về nhãn hết hiệu lực, thay bằng NĐ 37/2026. Nhãn phải có bằng tiếng Việt: tên hàng hóa, tên và địa chỉ tổ chức/cá nhân chịu trách nhiệm, xuất xứ và các nội dung theo nhóm hàng (Phụ lục I NĐ 37/2026). Thực phẩm chỉ có một thành phần nguyên liệu (tổ yến tinh chế nguyên chất) nằm ngoài phạm vi bắt buộc ghi thành phần dinh dưỡng của TT 30/2026/TT-BYT; yến chưng có thêm đường thì phải ghi 5 chỉ tiêu dinh dưỡng và đường tổng số. Mức phạt về nhãn: xem mục đồ ăn vặt đóng gói.",
+        "refs": [
+          30,
+          31,
+          32
+        ]
+      },
+      {
+        "title": "Xuất khẩu chính ngạch sang Trung Quốc – gần như ngoài tầm hộ kinh doanh",
+        "basis": "Nghị định thư Việt Nam – Tổng cục Hải quan Trung Quốc (GACC) ký 15/4/2025, thay Nghị định thư 09/11/2022",
+        "text": "Cơ sở sơ chế tổ yến thô và cơ sở chế biến tổ yến sạch phải đăng ký với GACC; chỉ hàng sản xuất sau ngày đăng ký mới được xuất. Yêu cầu: chứng nhận an toàn dịch bệnh (cúm gia cầm, Newcastle), giới hạn nitrit, nhôm, xử lý nhiệt tâm sản phẩm ≥70°C trong ít nhất 3,6 giây. Đến 2025 mới có 13 doanh nghiệp được Trung Quốc chấp thuận.",
+        "refs": [
+          12
+        ]
+      }
+    ],
+    "seed": null,
+    "notes": "Đọc số liệu: giá thô và giá tinh chế lấy từ phát biểu của từng hộ, HTX, doanh nghiệp (mức C), chênh nhau theo vùng, loại tổ, độ sạch lông; không có bảng giá chính thức của Hiệp hội Yến sào VN. Hao hụt 30–40% là ý kiến của một doanh nghiệp (2021). Vốn hàng thô ước theo quy mô một cơ sở Đắk Lắk (15 kg thành phẩm/tháng, 2022) – cơ sở nhỏ hơn cần ít hơn tương ứng. Mốc biên của SKV và Công ty Yến sào Khánh Hòa là doanh nghiệp lớn, chủ yếu nước yến và có thương hiệu – không dùng thay cho biên của hộ. Tổng giá trị sản xuất 15 nghìn tỷ cho 234 tấn thô (2025) là giá trị cả chuỗi, không dùng để suy ra giá thô. Pháp lý tại 11/2026: NĐ 15/2018 vẫn áp dụng; Luật ATTP (sửa đổi) mới cho ý kiến lần đầu 24/10/2026, dự kiến thông qua 5/2027. Biến thể: chỉ bán thô (không cần làm sạch) đơn giản hơn về ATTP nhưng biên thấp; làm yến chưng đóng hũ là chế biến, bắt buộc GCN và tự công bố.",
+    "sources": [
+      {
+        "id": 1,
+        "org": "Quốc hội",
+        "year": 2010,
+        "title": "Luật An toàn thực phẩm số 55/2010/QH12 – Điều 34 (bản sao văn bản trên hethongphapluat.com)",
+        "quote": "Cơ sở được cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm khi có đủ các điều kiện sau đây",
+        "url": "https://hethongphapluat.com/luat-an-toan-thuc-pham-2010/dieu-34",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 2,
+        "org": "Quốc hội",
+        "year": 2010,
+        "title": "Luật An toàn thực phẩm số 55/2010/QH12 – Điều 11",
+        "quote": "Điều 11. Điều kiện bảo đảm an toàn đối với thực phẩm tươi sống",
+        "url": "https://hethongphapluat.com/luat-an-toan-thuc-pham-2010/dieu-11",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 3,
+        "org": "Chính phủ",
+        "year": 2018,
+        "title": "Nghị định 15/2018/NĐ-CP – Điều 11 (cấp GCN cơ sở đủ điều kiện ATTP)",
+        "quote": "Cơ sở sản xuất, kinh doanh thực phẩm phải có Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm khi hoạt động, trừ trường hợp quy định tại khoản 1 Điều 12 Nghị định này",
+        "url": "https://hethongphapluat.com/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham/dieu-11",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 4,
+        "org": "Chính phủ",
+        "year": 2018,
+        "title": "Nghị định 15/2018/NĐ-CP – Điều 12 (cơ sở không thuộc diện cấp GCN)",
+        "quote": "Các cơ sở sau đây không thuộc diện cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm",
+        "url": "https://hethongphapluat.com/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham/dieu-12",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 5,
+        "org": "Chính phủ",
+        "year": 2018,
+        "title": "Nghị định 15/2018/NĐ-CP – Điều 3 khoản 9 (định nghĩa sơ chế nhỏ lẻ)",
+        "quote": "Cơ sở sơ chế nhỏ lẻ là cơ sở sơ chế thực phẩm ở quy mô hộ gia đình, hộ cá thể có hoặc không có giấy chứng nhận đăng ký doanh nghiệp.",
+        "url": "https://hethongphapluat.com/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham/dieu-3",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 6,
+        "org": "Chính phủ",
+        "year": 2018,
+        "title": "Nghị định 15/2018/NĐ-CP – Điều 4 (tự công bố sản phẩm)",
+        "quote": "Tổ chức, cá nhân sản xuất, kinh doanh thực phẩm thực hiện tự công bố thực phẩm đã qua chế biến bao gói sẵn",
+        "url": "https://hethongphapluat.com/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham/dieu-4",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 7,
+        "org": "Chính phủ",
+        "year": 2018,
+        "title": "Nghị định 15/2018/NĐ-CP – Điều 5 (hồ sơ tự công bố)",
+        "quote": "Phiếu kết quả kiểm nghiệm an toàn thực phẩm của sản phẩm trong thời hạn 12 tháng tính đến ngày nộp hồ sơ",
+        "url": "https://hethongphapluat.com/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham/dieu-5",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 8,
+        "org": "Chính phủ",
+        "year": 2018,
+        "title": "Nghị định 15/2018/NĐ-CP – Phụ lục III: danh mục sản phẩm thuộc Bộ NN&PTNT (nay là Bộ NN&MT) – bản sao phụ lục",
+        "quote": "Tổ yến và các sản phẩm từ tổ yến",
+        "url": "https://docs.google.com/document/d/1OIC5lym5vQLALeGVI9KXItHYYA4wO07K/export?format=pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 9,
+        "org": "Sở Tư pháp TP Cần Thơ",
+        "year": 2026,
+        "title": "Tạm ngưng hiệu lực Nghị định số 46/2026/NĐ-CP đến khi có Luật An toàn thực phẩm (sửa đổi) – về Nghị quyết 15/2026/NQ-CP",
+        "quote": "Nghị định số 15/2018/NĐ-CP của Chính phủ hướng dẫn của Luật An toàn thực phẩm và các văn bản quy định, hướng dẫn thi hành tiếp tục có hiệu lực",
+        "url": "https://pbgdpl.cantho.gov.vn/tam-ngung-hieu-luc-nghi-dinh-so-462026nd-cp-den-khi-co-luat-an-toan-thuc-pham-sua-doi",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 10,
+        "org": "Chính phủ",
+        "year": 2021,
+        "title": "Nghị định 115/2018/NĐ-CP xử phạt VPHC về ATTP, sửa đổi bởi NĐ 124/2021/NĐ-CP (bản hợp nhất trên hethongphapluat.com)",
+        "quote": "Phạt tiền từ 30.000.000 đồng đến 40.000.000 đồng đối với hành vi sản xuất, kinh doanh thực phẩm mà không có Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm",
+        "url": "https://hethongphapluat.com/nghi-dinh-115-2018-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-an-toan-thuc-pham.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 11,
+        "org": "Bộ Nông nghiệp và Môi trường",
+        "year": 2026,
+        "title": "Văn bản hợp nhất 23/VBHN-BNNMT: Nghị định 13/2020/NĐ-CP hướng dẫn Luật Chăn nuôi (sửa đổi bởi NĐ 46/2022, NĐ 32/2026) – Điều 25, Phụ lục VII",
+        "quote": "Tổ yến sau sơ chế phải bảo đảm yêu cầu về kỹ thuật quy định tại Phụ lục VII ban hành kèm theo Nghị định này.",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/23-vbhn-bnnmt.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 12,
+        "org": "Trung tâm WTO – VCCI (nguồn: Tạp chí Doanh nghiệp Kinh tế xanh)",
+        "year": 2025,
+        "title": "Tổ yến thô được xuất khẩu chính ngạch sang Trung Quốc",
+        "quote": "Các cơ sở sơ chế và chế biến phải đăng ký với GACC, chỉ sản phẩm sau ngày đăng ký mới được xuất khẩu",
+        "url": "https://trungtamwto.vn/tin-tuc/29557-to-yen-tho-duoc-xuat-khau-chinh-ngach-sang-trung-quoc-co-hoi-but-pha-cho-doanh-nghiep-va-nguoi-nuoi-yen",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 13,
+        "org": "Mekong ASEAN",
+        "year": 2026,
+        "title": "Từ sinh kế đến triển vọng tỷ USD xuất khẩu của ngành yến Việt Nam (03/01/2026)",
+        "quote": "Giá trung bình dao động từ 18 triệu đồng/kg cho yến thô và 32 triệu đồng cho yến tinh chế loại 1.",
+        "url": "https://mekongasean.vn/tu-sinh-ke-den-trien-vong-ty-usd-xuat-khau-cua-nganh-yen-viet-nam-48667.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 14,
+        "org": "Mekong ASEAN",
+        "year": 2026,
+        "title": "Từ sinh kế đến triển vọng tỷ USD xuất khẩu của ngành yến Việt Nam (03/01/2026) – trích HTX Phố Yến",
+        "quote": "giá yến năm nay dao động từ 12 – 14 triệu đồng/kg yến thô, dù thấp hơn các năm trước",
+        "url": "https://mekongasean.vn/tu-sinh-ke-den-trien-vong-ty-usd-xuat-khau-cua-nganh-yen-viet-nam-48667.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 15,
+        "org": "Báo Sài Gòn Giải Phóng",
+        "year": 2021,
+        "title": "“Ma trận” yến sào (08/04/2021)",
+        "quote": "tỷ lệ hao hụt sau sơ chế trên mỗi ký yến sào thô dao động từ 30%-40%",
+        "url": "https://www.sggp.org.vn/ma-tran-yen-sao-post589750.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 16,
+        "org": "VnExpress",
+        "year": 2020,
+        "title": "Giá tổ yến giảm mạnh (25/7/2020)",
+        "quote": "Giá tổ yến thô đang giảm hơn 40% so với cùng kỳ năm ngoái, xuống còn 14-18 triệu đồng một kg.",
+        "url": "https://vnexpress.net/gia-to-yen-giam-manh-4135527.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 17,
+        "org": "VnExpress",
+        "year": 2012,
+        "title": "Yến sào tồn kho lớn (29/11/2012)",
+        "quote": "Yến sào từ trước đến nay luôn cung không đủ cầu, nhưng giờ lượng tồn kho yến sào đến gần 80 tỷ đồng.",
+        "url": "https://vnexpress.net/yen-sao-ton-kho-lon-2739538.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 18,
+        "org": "Báo Nông nghiệp và Môi trường",
+        "year": 2025,
+        "title": "Khởi tố Giám đốc Công ty Yến sào Tuấn Dương (01/8/2025)",
+        "quote": "Biên bản xác nhận 23.468 sản phẩm yến chưng tạm giữ trước đó của Công ty TNHH Yến sào Tuấn Dương & TKT là hàng giả, trị giá hàng hoá vi phạm được xác định trên 900 triệu đồng.",
+        "url": "https://nongnghiepmoitruong.vn/khoi-to-giam-doc-cong-ty-yen-sao-tuan-duong-d765770.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 19,
+        "org": "Nhà Đầu tư",
+        "year": 2025,
+        "title": "Đà Nẵng triệt phá đường dây lập doanh nghiệp sản xuất yến sào giả (12/9/2025)",
+        "quote": "Kết quả giám định trong 15 loại yến trên có 5 loại nước yến không hề có Acid Sialic",
+        "url": "https://nhadautu.vn/da-nang-triet-pha-duong-day-lap-doanh-nghiep-san-xuat-yen-sao-gia-d99042.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 20,
+        "org": "Tuổi Trẻ",
+        "year": 2022,
+        "title": "Bát nháo yến sào, đủ loại hàng giả (19/4/2022)",
+        "quote": "Không chỉ có yến giả toàn bộ mà cả yến tẩm đường được gán tên gọi: yến tinh chế ngọt, tinh chế lạt, hoặc bị tẩm một góc.",
+        "url": "https://tuoitre.vn/bat-nhao-yen-sao-du-loai-hang-gia-20220419083332487.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 21,
+        "org": "Báo Nông nghiệp và Môi trường (dẫn Phó Cục trưởng Cục Chăn nuôi và Thú y)",
+        "year": 2026,
+        "title": "Thách thức bảo tồn quần thể chim yến (16/7/2026)",
+        "quote": "hiện cả nước có gần 30.000 nhà yến, sản lượng tổ yến thô năm 2025 ước đạt trên 234 tấn",
+        "url": "https://nongnghiepmoitruong.vn/thach-thuc-bao-ton-quan-the-chim-yen-d821574.html",
+        "type": "press",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 22,
+        "org": "Tiền Phong",
+        "year": 2022,
+        "title": "Cô gái vùng sâu khởi nghiệp từ yến (27/8/2022) – cơ sở ở Đắk Lắk",
+        "quote": "Một tháng cơ sở làm ra 15 kg thành phẩm với nhiều mức giá khác nhau, dao động 3,2 - 3,6 triệu đồng/hộp loại 100gram",
+        "url": "https://tienphong.vn/co-gai-vung-sau-khoi-nghiep-tu-yen-post1464606.tpo",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 23,
+        "org": "CTCP Nước giải khát Yến sào Khánh Hòa (SKV, UPCoM) – số liệu BCTC năm do CafeF tổng hợp",
+        "year": 2025,
+        "title": "Kết quả hoạt động kinh doanh SKV 2022–2025",
+        "quote": "18. Lợi nhuận sau thuế thu nhập doanh nghiệp(60=50-51-52) … 68.108.567.644 (năm 2025)",
+        "url": "https://s.cafef.vn/bao-cao-tai-chinh/SKV/IncSta/2025/0/0/0/0/ket-qua-hoat-dong-kinh-doanh-.chn",
+        "type": "financials",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 24,
+        "org": "Tiền Phong",
+        "year": 2026,
+        "title": "Yến sào Khánh Hòa nằm trong 100 doanh nghiệp nhà nước đóng góp ngân sách lớn nhất Việt Nam (08/9/2026)",
+        "quote": "6 tháng đầu năm 2026, công ty sản xuất hơn 130 triệu sản phẩm, doanh thu đạt 1.699 tỷ đồng, lợi nhuận trước thuế hơn 131,7 tỷ đồng",
+        "url": "https://tienphong.vn/yen-sao-khanh-hoa-nam-trong-100-doanh-nghiep-nha-nuoc-dong-gop-ngan-sach-lon-nhat-viet-nam-post1874528.tpo",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 25,
+        "org": "Ước tính của nhóm nghiên cứu",
+        "year": 2026,
+        "title": "Ước tính vốn hàng thô cho 1 tháng sản xuất",
+        "quote": "Thô cần/tháng = 15 kg thành phẩm (nguồn 22) ÷ (1 − 30–40% hao hụt, nguồn 15) = 21,4–25 kg; × giá thô 12–18 triệu/kg (nguồn 13, 14) = 257–450 triệu. Chưa gồm thiết bị, cải tạo, bao bì, lương.",
+        "type": "estimate",
+        "grade": "C",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 26,
+        "org": "Trung tâm Kiểm soát bệnh tật tỉnh Quảng Ninh (Sở Y tế)",
+        "year": 2025,
+        "title": "Thông báo 679/TB-TTKSBT ngày 11/4/2025: giá thu dịch vụ kiểm nghiệm thực phẩm",
+        "quote": "Phát hiện Salmonella spp. trên đĩa thạch Mẫu 600.000",
+        "url": "https://soytequangninh.gov.vn/upload/1002610/20250415/TB_679_signed_42e248e91d.pdf",
+        "type": "price",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 27,
+        "org": "Diễn đàn Doanh nghiệp",
+        "year": 2020,
+        "title": "Chàng trai 8X xây dựng thương hiệu Yến sào xứ Thanh (10/10/2020)",
+        "quote": "Lao động tại công ty luôn duy trì 7-10 người, có mức lương từ 5-8 triệu đồng/tháng.",
+        "url": "https://diendandoanhnghiep.vn/print/10034583.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 28,
+        "org": "Báo Đại biểu Nhân dân (dẫn Phó Chủ nhiệm Ủy ban KH, CN và MT của Quốc hội)",
+        "year": 2026,
+        "title": "Tăng cường tham khảo kinh nghiệm quốc tế trong quản lý an toàn thực phẩm (30/9/2026)",
+        "quote": "dự thảo Luật An toàn thực phẩm (sửa đổi) dự kiến được trình Quốc hội cho ý kiến tại Kỳ họp thứ Hai, Quốc hội khóa XVI (tháng 10/2026) và xem xét thông qua tại Kỳ họp thứ Ba",
+        "url": "https://daibieunhandan.vn/tang-cuong-tham-khao-kinh-nghiem-quoc-te-trong-quan-ly-an-toan-thuc-pham-10432269.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 29,
+        "org": "Báo Đại biểu Nhân dân – Thông cáo báo chí của Quốc hội",
+        "year": 2026,
+        "title": "Thông cáo báo chí số 08, Kỳ họp thứ 2, Quốc hội khóa XVI (24/10/2026)",
+        "quote": "Bộ trưởng Bộ Y tế Đào Hồng Lan, thừa ủy quyền của Thủ tướng Chính phủ trình bày Tờ trình về dự án Luật An toàn thực phẩm (sửa đổi)",
+        "url": "https://daibieunhandan.vn/thong-cao-bao-chi-so-08-ky-hop-thu-2-quoc-hoi-khoa-xvi-10440314.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 30,
+        "org": "Chính phủ",
+        "year": 2026,
+        "title": "Nghị định 37/2026/NĐ-CP hướng dẫn Luật Chất lượng sản phẩm, hàng hóa – Điều 97 (hiệu lực; bãi bỏ NĐ 43/2017, NĐ 111/2021) – bản sao trên hethongphapluat.com",
+        "quote": "Các quy định dưới đây hết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành",
+        "url": "https://hethongphapluat.com/nghi-dinh-37-2026-nd-cp-huong-dan-luat-chat-luong-san-pham-hang-hoa/dieu-97",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 31,
+        "org": "Chính phủ",
+        "year": 2026,
+        "title": "Nghị định 37/2026/NĐ-CP – Điều 42 (nội dung bắt buộc trên nhãn)",
+        "quote": "Nhãn hàng hóa của các loại hàng hóa đang lưu thông tại Việt Nam bắt buộc phải thể hiện các nội dung sau bằng tiếng Việt",
+        "url": "https://hethongphapluat.com/nghi-dinh-37-2026-nd-cp-huong-dan-luat-chat-luong-san-pham-hang-hoa/dieu-42",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 32,
+        "org": "Bộ Y tế",
+        "year": 2026,
+        "title": "Thông tư 30/2026/TT-BYT hướng dẫn ghi thành phần dinh dưỡng trên nhãn thực phẩm (hiệu lực 10/7/2026, thay TT 29/2023) – Điều 1 khoản 2",
+        "quote": "Thực phẩm có một thành phần nguyên liệu duy nhất;",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/30-byt.signed.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      }
+    ]
+  },
+  {
+    "id": "xay-nha-nuoi-chim-yen",
+    "kind": "model",
+    "section": "3",
+    "title": "Xây nhà nuôi chim yến (dẫn dụ yến lấy tổ)",
+    "summary": "Bỏ từ dưới 1 tỷ đến 5 tỷ xây nhà kín, lắp loa và máy tạo ẩm để dụ chim yến hoang về làm tổ, rồi bán tổ thô. Thường mất 1–2 năm mới có vụ đầu, và theo khảo sát của Hiệp hội Yến sào VN chỉ khoảng một nửa số nhà thành công. Hợp với người có đất trong vùng nuôi được tỉnh cho phép và chịu được vốn chôn dài; bẫy lớn nhất là xây xong chim không về.",
+    "tags": {
+      "capital": "high",
+      "breakeven": "slow",
+      "risk": "high",
+      "legal": "conditional",
+      "time": "part",
+      "evidence": "C"
+    },
+    "capital": {
+      "range": "0,6 – 5 tỷ đồng",
+      "text": "Khảo sát chọn mẫu 90 hộ ở An Giang (01/2021): chi phí đầu tư bình quân 1,754 tỷ cho nhà 295 m² (≈ 5,9 triệu/m²), thấp nhất 110 triệu cho nhà 48 m² kê trên mái nhà ở. Báo chí ghi nhận: nhà yến ở Bình Dương hơn 1 tỷ (gồm vật liệu, gỗ làm sàn, máy móc), nhà thứ hai 600 triệu (2021); nhà đầu tiên ở Bình Định gần 1 tỷ; nhà yến \"tiêu chuẩn\" ở Khánh Hòa 2–5 tỷ, phần lớn vay ngân hàng (2026). Sổ tay của Cục Chăn nuôi (2023) khuyên xây nhiều nhà nhỏ nền khoảng 100 m², 2–3 tầng thay vì một nhà rất lớn. Mức 2,5–3 triệu/m² sàn (2012) đã cũ.",
+      "breakdown": [
+        {
+          "item": "Bình quân 90 hộ An Giang (khảo sát 01/2021), nhà 295 m²",
+          "value": "≈ 1,75 tỷ (≈ 5,9 triệu/m²); nhỏ nhất 110 triệu (48 m²)",
+          "refs": [
+            17
+          ],
+          "grade": "B"
+        },
+        {
+          "item": "Nhà yến tiêu chuẩn (Khánh Hòa, 2026)",
+          "value": "2–5 tỷ",
+          "refs": [
+            6
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Nhà yến hộ gia đình (Bình Dương, xây khoảng 2015–2020; Bình Định, khoảng 2010)",
+          "value": "khoảng 0,6–1 tỷ",
+          "refs": [
+            7,
+            8
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Đơn giá xây theo m² sàn (2012, đã cũ)",
+          "value": "2,5–3 triệu/m²",
+          "refs": [
+            15
+          ],
+          "grade": "C"
+        }
+      ],
+      "grade": "C",
+      "refs": [
+        17,
+        6,
+        7,
+        8,
+        15,
+        21
+      ]
+    },
+    "burn": {
+      "range": "Chưa có số liệu đáng tin",
+      "text": "Chi phí vận hành gồm điện cho loa và máy tạo ẩm, vệ sinh phân, bảo vệ, công thu hoạch; một chủ nhà yến mô tả công việc chỉ là \"lâu lâu vào dọn dẹp\". Khảo sát An Giang (2021): bình quân 1,97 lao động tham gia vận hành, khai thác mỗi nhà. Không tìm được nguồn đáng tin về tiền điện, công suất thiết bị âm thanh, tạo ẩm (Sổ tay của Cục Chăn nuôi chỉ hướng dẫn kỹ thuật, không có số tiền). Khoản nặng nhất nếu vay vốn là lãi: lãi tháng = dư nợ × lãi suất năm ÷ 12 (ví dụ giả định: vay 2 tỷ, lãi 8%/năm → khoảng 13 triệu/tháng; lãi suất là giả định, không có nguồn).",
+      "grade": "C",
+      "refs": [
+        7,
+        6,
+        16,
+        21
+      ]
+    },
+    "breakeven": {
+      "range": "≈ 7 – 10 năm (ước tính C)",
+      "text": "Ước tính theo số bình quân khảo sát An Giang (công thức ở nguồn 22): doanh thu 21,25 kg/năm × 12–18 triệu/kg = 255–383 triệu; vốn 1,754 tỷ → 4,6–6,9 năm khai thác, cộng 2–3 năm chờ chim về ≈ 7–10 năm từ khi xây. Chưa trừ điện, công, lãi vay nên thực tế dài hơn; ngược lại sản lượng tăng theo số năm khai thác (bình quân mẫu mới 2,16 năm) nên các năm sau có thể rút ngắn. Case báo chí: Bình Định sau khoảng 1 năm được gần 10 kg thô; Bình Dương mất gần 2 năm mới có vụ đầu; 2 nhà ở Bình Định cho 50–60 kg thô/năm; 4 nhà ở Gia Lai cho 35 kg thô/năm (khoảng 600 triệu). Không áp dụng cho khoảng một nửa số nhà thất bại.",
+      "grade": "C",
+      "refs": [
+        16,
+        17,
+        22,
+        10,
+        7,
+        8
+      ]
+    },
+    "margin": {
+      "gross": "Chưa có số liệu đáng tin",
+      "net": "Chưa có số liệu đáng tin",
+      "text": "Chi phí chủ yếu là cố định (khấu hao nhà, lãi vay), chi phí biến đổi thấp, nên lời hay lỗ gần như chỉ phụ thuộc số tổ thu được và giá thô. Không có nguồn tính biên lợi nhuận theo %. Năng suất theo m² sàn chênh rất lớn: bình quân cả nước khoảng 30 g/m²/năm (hơn 70 tấn trên khoảng 2,35 triệu m² sàn, 2017, Hiệp hội Yến sào VN); bình quân 90 hộ An Giang khoảng 72 g/m²/năm (21,25 kg/295 m², 2021); HTX Gò Công khoảng 167 g/m²/năm (1 kg/6 m², 2019, case tốt). Doanh thu/vốn ở mức bình quân An Giang chỉ khoảng 15–22%/năm trước chi phí. Giá thô: 14–18 triệu/kg (2020), 12–14 triệu/kg ở một HTX và 18 triệu/kg ở một hộ Gia Lai (2025).",
+      "grade": "C",
+      "refs": [
+        10,
+        11,
+        16,
+        18,
+        19,
+        20
+      ]
+    },
+    "risks": [
+      {
+        "title": "Xây xong chim không về, không làm tổ",
+        "text": "Vốn bỏ một lần trước khi biết có chim. Khảo sát của Hiệp hội Yến sào VN: tỷ lệ thành công khoảng 50% (TPHCM 54,6%). TPHCM cuối 2017 còn 513 nhà, giảm 35 nhà so với 2015 do nuôi không hiệu quả. Ở Bình Dương, nhà thứ hai 600 triệu xây khi hàng xóm cũng đua xây thì 'yến đến rất ít'. Cả nước đã có gần 30.000 nhà yến (2025) nên chim bị chia cho nhiều nhà.",
+        "refs": [
+          9,
+          7,
+          13
+        ]
+      },
+      {
+        "title": "Đặt nhà ngoài vùng nuôi hoặc trong khu dân cư – không được dùng loa, không được cơi nới",
+        "text": "Vùng nuôi do HĐND tỉnh quyết định. Nhà yến có trước 05/3/2020 nhưng nằm ngoài vùng nuôi phải giữ nguyên trạng, không được cơi nới; các nhà cũ này, hoặc nằm trong khu dân cư, cách khu dân cư dưới 300 m, không được dùng loa phóng – mà loa là công cụ dẫn dụ chính. Phạt: dùng loa sai 3–5 triệu; vượt mức ồn hoặc phát ngoài giờ 5–10 triệu; cơi nới 10–15 triệu và buộc khôi phục nguyên trạng. Cục Chăn nuôi và Thú y thừa nhận đa số nhà yến chưa được cấp phép xây dựng chính thức.",
+        "refs": [
+          3,
+          4,
+          14
+        ]
+      },
+      {
+        "title": "Giá thô giảm, đàn chim suy giảm trong khi vẫn phải trả nợ",
+        "text": "Giá thô giảm hơn 40% năm 2020; năm 2025 một HTX bán 12–14 triệu/kg, thấp hơn các năm trước. Hiệp hội Yến sào VN (4/2024): đàn yến giảm trung bình 20–40%, có nơi 50%, do khô hạn và săn bắt. Khánh Hòa 2026: một chủ nhà yến nói sản lượng giảm gần 1/3 vì chim bị lưới bẫy, lo vỡ nợ ngân hàng.",
+        "refs": [
+          11,
+          10,
+          12,
+          6
+        ]
+      }
+    ],
+    "legal": [
+      {
+        "title": "Chỉ xây trong vùng nuôi chim yến của tỉnh",
+        "basis": "Điều 64 Luật Chăn nuôi 32/2018/QH14; Điều 25 khoản 1, khoản 2 điểm a NĐ 13/2020/NĐ-CP (Văn bản hợp nhất 23/VBHN-BNNMT năm 2026)",
+        "text": "Vùng nuôi do UBND tỉnh trình HĐND tỉnh quyết định, phải phù hợp tập tính chim và không ảnh hưởng đời sống dân cư. Phải tra nghị quyết vùng nuôi của tỉnh (sau sáp nhập tỉnh từ 7/2025 cần kiểm tra văn bản còn hiệu lực). Nhà có trước khi NĐ 13/2020 có hiệu lực mà nằm ngoài vùng nuôi phải giữ nguyên trạng, không cơi nới. Điều 64 Luật Chăn nuôi (quản lý nuôi chim yến) không bị sửa bởi Luật 146/2025/QH15 và Luật 21/2026/QH16 (theo văn bản hợp nhất 2026).",
+        "refs": [
+          1,
+          3,
+          23
+        ]
+      },
+      {
+        "title": "Loa dẫn dụ: giới hạn tiếng ồn, giờ phát, khoảng cách 300 m",
+        "basis": "Điều 25 khoản 2 điểm d, đ NĐ 13/2020/NĐ-CP; Điều 26 NĐ 211/2026/NĐ-CP (hiệu lực 05/8/2026, thay NĐ 14/2021/NĐ-CP)",
+        "text": "Cường độ đo tại miệng loa ≤70 dBA; chỉ phát 5h–11h30 và 13h30–19h. Nhà yến cũ nằm trong khu dân cư hoặc cách khu dân cư dưới 300 m không được dùng loa phóng. Phạt (cá nhân): 3–5 triệu nếu dùng loa ở nhà thuộc diện cấm; 5–10 triệu nếu vượt mức ồn hoặc phát ngoài giờ (buộc giảm ồn); 10–15 triệu nếu săn bắt, dẫn dụ chim cho mục đích khác hoặc cơi nới nhà cũ trái phép (tịch thu tang vật, buộc thả chim, khôi phục nguyên trạng). Tổ chức gấp đôi.",
+        "refs": [
+          3,
+          4
+        ]
+      },
+      {
+        "title": "Kê khai nhà yến với UBND xã",
+        "basis": "Điều 54 Luật Chăn nuôi; Điều 4 và Phụ lục II Thông tư 23/2019/TT-BNNPTNT (sửa đổi bởi Thông tư 18/2023/TT-BNNPTNT)",
+        "text": "Chim yến nằm trong danh mục phải kê khai, mức tối thiểu 01 nhà. Kê khai định kỳ 2 lần/năm (25–30/6 và 25–31/12) và đột xuất trong 3 ngày khi nhập nuôi mới hoặc khi cơ quan yêu cầu. Chưa xác định được điều khoản phạt riêng cho nhà yến không kê khai trong NĐ 211/2026 (điều khoản phạt không kê khai tại Điều 24 áp cho trang trại quy mô vừa, nhỏ).",
+        "refs": [
+          2,
+          5,
+          4
+        ]
+      },
+      {
+        "title": "Khai thác, sơ chế tổ yến và điều kiện xuất khẩu",
+        "basis": "Điều 25 khoản 3, Phụ lục VII NĐ 13/2020/NĐ-CP; Nghị định thư xuất khẩu tổ yến sang Trung Quốc ký 15/4/2025",
+        "text": "Phải có hồ sơ ghi chép bảo đảm truy xuất nguồn gốc, quy trình khai thác, sơ chế, bảo quản và tổ sau sơ chế đạt Phụ lục VII. Muốn bán vào chuỗi xuất khẩu Trung Quốc, nhà yến phải nằm trong chương trình giám sát an toàn dịch bệnh (đến 2025 hơn 4.000 nhà yến được kiểm tra) và cung cấp cho cơ sở đã đăng ký GACC.",
+        "refs": [
+          3,
+          14
+        ]
+      }
+    ],
+    "seed": null,
+    "notes": "Vốn và sản lượng bình quân có khảo sát chọn mẫu xác suất 90 hộ ở An Giang (01/2021, mức B) – chỉ đại diện cho An Giang; các case khác là báo chí (C). Ước tính hoàn vốn chưa trừ điện, công, lãi vay. Năng suất/m² có 3 mốc (cả nước 2017 ~30 g, An Giang 2021 ~72 g, HTX Gò Công 2019 ~167 g) – không cộng gộp. Số nhà yến: 22.000 (Bộ NN&PTNT, dẫn trong bài 4/2024), 29.300 (Cục Chăn nuôi và Thú y, 10/2025), \"gần 30.000\" (7/2026) – khác thời điểm. Tỷ lệ thành công ~50% là khảo sát năm 2018. Chi phí điện, thiết bị âm thanh, tạo ẩm hằng tháng: chưa có nguồn. Luật Chăn nuôi được sửa đổi bởi Luật 146/2025/QH15 (hiệu lực 01/01/2026) và Luật 21/2026/QH16 (ký 24/8/2026, hiệu lực 01/01/2027); Điều 64 về chim yến giữ nguyên.",
+    "sources": [
+      {
+        "id": 1,
+        "org": "Quốc hội",
+        "year": 2018,
+        "title": "Luật Chăn nuôi số 32/2018/QH14 – Điều 64 Quản lý nuôi chim yến",
+        "quote": "Tổ chức, cá nhân có hoạt động nuôi chim yến trong vùng nuôi chim yến phải bảo đảm môi trường, tiếng ồn, phòng ngừa dịch bệnh và an toàn thực phẩm theo quy định của pháp luật.",
+        "url": "https://hethongphapluat.com/luat-chan-nuoi-2018/dieu-64",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 2,
+        "org": "Quốc hội",
+        "year": 2018,
+        "title": "Luật Chăn nuôi số 32/2018/QH14 – Điều 54 Kê khai hoạt động chăn nuôi",
+        "quote": "Tổ chức, cá nhân chăn nuôi phải kê khai hoạt động chăn nuôi với Ủy ban nhân dân cấp xã.",
+        "url": "https://hethongphapluat.com/luat-chan-nuoi-2018/dieu-54",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 3,
+        "org": "Bộ Nông nghiệp và Môi trường",
+        "year": 2026,
+        "title": "Văn bản hợp nhất 23/VBHN-BNNMT: Nghị định 13/2020/NĐ-CP (sửa đổi bởi NĐ 46/2022, NĐ 32/2026) – Điều 25",
+        "quote": "Vùng nuôi chim yến do Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân cấp tỉnh quyết định",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/23-vbhn-bnnmt.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 4,
+        "org": "Chính phủ",
+        "year": 2026,
+        "title": "Nghị định 211/2026/NĐ-CP xử phạt vi phạm hành chính về chăn nuôi – Điều 26 (hiệu lực 05/8/2026, thay NĐ 14/2021)",
+        "quote": "Cơi nới nhà yến đã hoạt động trước ngày Nghị định số 13/2020/NĐ-CP có hiệu lực thi hành đối với nhà yến nằm trong cộng đồng dân cư hoặc không nằm trong vùng nuôi chim yến.",
+        "url": "https://nhachannuoi.vn/wp-content/uploads/2026/06/211_2026_ND-CP.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 5,
+        "org": "Bộ NN&PTNT (bản hợp nhất do Sở Tư pháp Điện Biên đăng)",
+        "year": 2024,
+        "title": "Thông tư 23/2019/TT-BNNPTNT sửa đổi bởi Thông tư 18/2023/TT-BNNPTNT – Điều 4 và Phụ lục II (kê khai)",
+        "quote": "Kê khai đột xuất trong thời hạn 03 ngày kể từ khi nhập về nuôi mới hoặc theo yêu cầu của cơ quan có thẩm quyền.",
+        "url": "https://qppl.dienbien.gov.vn/qlvb/vbpq.nsf/3d0f058120469ad34725726600365420/61A4EF830C87492947258B5B000362B0/$file/dongdau3377_10-07-2024-07-26-14_V%C4%82N%20B%E1%BA%A2N%20H%E1%BB%A2P%20NH%E1%BA%A4T%20TH%C3%94NG%20T%C6%AF%20S%E1%BB%90%2023%20V%C3%80%20TT%20S%E1%BB%90%2018%20FINER.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 6,
+        "org": "Tiền Phong",
+        "year": 2026,
+        "title": "Không để tổ yến quý chỉ còn là ký ức (30/6/2026)",
+        "quote": "Việc đầu tư một nhà yến tiêu chuẩn tốn kém từ 2 - 5 tỷ đồng, phần lớn là vốn vay ngân hàng.",
+        "url": "https://tienphong.vn/khong-de-to-yen-quy-chi-con-la-ky-uc-post1855465.tpo",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 7,
+        "org": "VietNamNet",
+        "year": 2021,
+        "title": "Lộc trời từ 6 con yến, làng Bình Dương bỏ tiền tỷ xây nhà dụ chim về ở (05/02/2021)",
+        "quote": "Tuy thế, phải mất gần hai năm vợ chồng bà mới bắt đầu thu hoạch tổ yến.",
+        "url": "https://vietnamnet.vn/loc-troi-tu-6-con-yen-lang-binh-duong-bo-tien-ty-xay-nha-du-chim-ve-o-710147.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 8,
+        "org": "Báo Nông nghiệp và Môi trường",
+        "year": 2024,
+        "title": "Giàu nhờ chim trời (05/8/2024)",
+        "quote": "chỉ sau 1 năm nuôi, nhà yến của tôi thu hút gần 1.000 cặp yến về làm tổ và cho tôi khai thác vụ đầu tay gần 10kg yến thô",
+        "url": "https://nongnghiepmoitruong.vn/giau-nho-chim-troi-d395155.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 9,
+        "org": "Báo Sài Gòn Giải Phóng (dẫn khảo sát Hiệp hội Yến sào VN)",
+        "year": 2018,
+        "title": "Nghề nuôi yến “5 ăn - 5 thua” (28/7/2018)",
+        "quote": "Theo khảo sát của Hiệp hội Yến sào Việt Nam, tỷ lệ thành công nghề nuôi yến xấp xỉ 50%, riêng TPHCM là 54,6%.",
+        "url": "https://www.sggp.org.vn/nghe-nuoi-yen-5-an-5-thua-post486744.html",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 10,
+        "org": "Mekong ASEAN",
+        "year": 2026,
+        "title": "Từ sinh kế đến triển vọng tỷ USD xuất khẩu của ngành yến Việt Nam (03/01/2026)",
+        "quote": "giá yến năm nay dao động từ 12 – 14 triệu đồng/kg yến thô, dù thấp hơn các năm trước",
+        "url": "https://mekongasean.vn/tu-sinh-ke-den-trien-vong-ty-usd-xuat-khau-cua-nganh-yen-viet-nam-48667.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 11,
+        "org": "VnExpress",
+        "year": 2020,
+        "title": "Giá tổ yến giảm mạnh (25/7/2020)",
+        "quote": "Giá tổ yến thô đang giảm hơn 40% so với cùng kỳ năm ngoái, xuống còn 14-18 triệu đồng một kg.",
+        "url": "https://vnexpress.net/gia-to-yen-giam-manh-4135527.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 12,
+        "org": "Báo Sài Gòn Giải Phóng (dẫn Chủ tịch Hiệp hội Yến sào VN)",
+        "year": 2024,
+        "title": "Đàn yến nhiều tỉnh thành giảm 20%-40%, có nơi trên 50% (15/4/2024)",
+        "quote": "đàn yến tại các địa phương bị suy giảm đáng kể, trung bình từ 20%-40%, có nơi lên đến 50%",
+        "url": "https://www.sggp.org.vn/dan-yen-nhieu-tinh-thanh-giam-20-40-co-noi-tren-50-post735486.html",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 13,
+        "org": "Báo Nông nghiệp và Môi trường (dẫn Phó Cục trưởng Cục Chăn nuôi và Thú y)",
+        "year": 2026,
+        "title": "Thách thức bảo tồn quần thể chim yến (16/7/2026)",
+        "quote": "hiện cả nước có gần 30.000 nhà yến, sản lượng tổ yến thô năm 2025 ước đạt trên 234 tấn",
+        "url": "https://nongnghiepmoitruong.vn/thach-thuc-bao-ton-quan-the-chim-yen-d821574.html",
+        "type": "press",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 14,
+        "org": "Trung tâm WTO – VCCI (nguồn: Tạp chí Doanh nghiệp Kinh tế xanh)",
+        "year": 2025,
+        "title": "Tổ yến thô được xuất khẩu chính ngạch sang Trung Quốc",
+        "quote": "cần tháo gỡ vướng mắc pháp lý về cấp phép xây dựng nhà yến – hiện đa số chưa được cấp phép chính thức",
+        "url": "https://trungtamwto.vn/tin-tuc/29557-to-yen-tho-duoc-xuat-khau-chinh-ngach-sang-trung-quoc-co-hoi-but-pha-cho-doanh-nghiep-va-nguoi-nuoi-yen",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 15,
+        "org": "VnExpress",
+        "year": 2012,
+        "title": "Yến sào tồn kho lớn (29/11/2012)",
+        "quote": "Mỗi nhà yến đầu tư khá đơn giản, chi phí khoảng 2,5-3 triệu đồng/m2 sàn",
+        "url": "https://vnexpress.net/yen-sao-ton-kho-lon-2739538.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 16,
+        "org": "Trương Văn Tấn (Cục Thống kê tỉnh An Giang) – Tạp chí Khoa học Đại học Văn Hiến 8(1)",
+        "year": 2022,
+        "title": "Nghiên cứu các yếu tố ảnh hưởng đến sản lượng tổ yến khai thác trong nhà dẫn dụ – Trường hợp tại An Giang (khảo sát 90 hộ, chọn mẫu xác suất, 01/2021)",
+        "quote": "Sản lượng tổ yến khai thác trong nhà dẫn dụ chim yến một năm trung bình là 21,25 kg",
+        "url": "https://www.vhu.edu.vn/Resources/Docs/SubDomain/tckh/8.1/8.1_Final_TRUONGVANTAN.pdf",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 17,
+        "org": "Trương Văn Tấn (Cục Thống kê tỉnh An Giang) – Tạp chí Khoa học Đại học Văn Hiến 8(1)",
+        "year": 2022,
+        "title": "Nghiên cứu các yếu tố ảnh hưởng đến sản lượng tổ yến… tại An Giang – Bảng 2 (chi phí đầu tư, diện tích)",
+        "quote": "chi phí đầu tư trung bình là 1.754 triệu đồng (nhà 295 m2), chi phí đầu tư nhỏ nhất là 110 triệu đồng (nhà 48 m2)",
+        "url": "https://www.vhu.edu.vn/Resources/Docs/SubDomain/tckh/8.1/8.1_Final_TRUONGVANTAN.pdf",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 18,
+        "org": "VnBusiness",
+        "year": 2019,
+        "title": "HTX Thương mại dịch vụ thị xã Gò Công hái vàng từ nuôi chim yến (16/7/2019)",
+        "quote": "Hiện, trung bình 6 m2, HTX thu hoạch được khoảng 1 kg tổ trong 1 năm.",
+        "url": "https://vnbusiness.vn/htx-thuong-mai-dich-vu-thi-xa-go-cong-hai-vang-tu-nuoi-chim-yen.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 19,
+        "org": "Báo Sài Gòn Giải Phóng (dẫn số liệu Hiệp hội Yến sào VN)",
+        "year": 2018,
+        "title": "Ngành yến Việt từng bước trưởng thành (27/8/2018) – diện tích sàn",
+        "quote": "Tổng diện tích sàn nuôi ước tính 2.350.000m2.",
+        "url": "https://www.sggp.org.vn/nganh-yen-viet-tung-buoc-truong-thanh-post489946.html",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 20,
+        "org": "Báo Sài Gòn Giải Phóng (dẫn số liệu Hiệp hội Yến sào VN)",
+        "year": 2018,
+        "title": "Ngành yến Việt từng bước trưởng thành (27/8/2018) – sản lượng",
+        "quote": "Hiện nay đàn yến trong nước trên 7,5 triệu con, sản lượng tổ yến khai thác năm 2017 hơn 70 tấn",
+        "url": "https://www.sggp.org.vn/nganh-yen-viet-tung-buoc-truong-thanh-post489946.html",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 21,
+        "org": "Cục Chăn nuôi – Bộ NN&PTNT (bản đăng trên FAOLEX)",
+        "year": 2023,
+        "title": "Sổ tay hướng dẫn kỹ thuật nuôi chim yến (2023)",
+        "quote": "xây nhiều nhà yến chuyên dụng nhỏ với diện tích nền khoảng 100m2, cao từ 2-3 tầng sẽ có hiệu quả kinh tế hơn so với xây dựng một nhà yến cao to gấp nhiều lần",
+        "url": "https://faolex.fao.org/docs/pdf/vie223792.pdf",
+        "type": "report",
+        "grade": "B",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 22,
+        "org": "Ước tính của nhóm nghiên cứu",
+        "year": 2026,
+        "title": "Ước tính hoàn vốn nhà yến theo số bình quân khảo sát An Giang",
+        "quote": "Doanh thu năm = 21,25 kg (nguồn 16) × 12–18 triệu/kg (nguồn 10, giá 2025) = 255–383 triệu. Hoàn vốn giản đơn = 1.754 triệu (nguồn 17) ÷ 255–383 = 4,6–6,9 năm khai thác, cộng 2–3 năm chờ chim (nguồn 16) ≈ 7–10 năm. Chưa trừ điện, công, lãi vay.",
+        "type": "estimate",
+        "grade": "C",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 23,
+        "org": "Văn phòng Quốc hội",
+        "year": 2026,
+        "title": "Văn bản hợp nhất Luật Chăn nuôi (sửa đổi bởi Luật 146/2025/QH15 và Luật 21/2026/QH16) – trang đầu",
+        "quote": "Luật số 21/2026/QH16 ngày 24 tháng 8 năm 2026 của Quốc hội sửa đổi, bổ sung một số điều của 10 luật liên quan đến thủ tục hành chính, điều kiện kinh doanh",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/10/148-vbhn-vpqh.signed.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      }
+    ]
+  },
+  {
+    "id": "do-an-vat-dac-san-dong-goi-online",
+    "kind": "model",
+    "section": "3",
+    "title": "Sản xuất đồ ăn vặt, đặc sản đóng gói bán online (khô gà, bánh tráng, hạt sấy…)",
+    "summary": "Tự chế biến, đóng gói rồi bán qua mạng xã hội, sàn TMĐT. Hai hộ chế biến có máy được báo ngành Công Thương ghi nhận đầu tư thiết bị 264–300 triệu (một nửa do khuyến công hỗ trợ); một hộ báo lãi ròng khoảng 5,6% doanh thu và hoàn vốn thiết bị trong 12 tháng. Tự làm là \"sản xuất\" nên phải có GCN cơ sở đủ điều kiện ATTP, tự công bố sản phẩm có phiếu kiểm nghiệm và ghi nhãn theo NĐ 37/2026; cái bẫy lớn nhất là nguyên liệu bẩn hoặc làm \"chui\" – đã có chủ cơ sở khô gà, thịt sấy bị khởi tố.",
+    "tags": {
+      "capital": "mid",
+      "breakeven": "mid",
+      "risk": "high",
+      "legal": "conditional",
+      "time": "full",
+      "evidence": "C"
+    },
+    "capital": {
+      "range": "≈ 264 – 300 triệu (thiết bị, 2 case)",
+      "text": "Chưa có khảo sát vốn cho mô hình này; có 2 case hộ kinh doanh chế biến được Tạp chí Công Thương ghi nhận: hộ làm bánh phồng tôm ở Sóc Trăng đầu tư lò sấy 50 kg/mẻ, tổng 300 triệu (khuyến công hỗ trợ 145 triệu, 2023); hộ làm bánh tét ở Trà Vinh đầu tư 8 nồi điện, tổng 264 triệu (khuyến công hỗ trợ 130 triệu, 2025). Đây là hộ đã chạy ổn định nâng cấp máy; người mới làm thủ công có thể bỏ ít hơn nhưng chưa có nguồn. Ngoài máy còn có: khu chế biến tách biệt đáp ứng điều kiện ATTP, bao bì in nhãn, nguyên liệu tồn, phiếu kiểm nghiệm cho từng sản phẩm (ví dụ 1,5–2,5 triệu theo bảng giá CDC Quảng Ninh 2025), phí thẩm định GCN. Phí thẩm định GCN theo TT 67/2021/TT-BTC (lĩnh vực Bộ Y tế, Bộ Công Thương): 500.000 đồng/lần với cơ sở sản xuất nhỏ lẻ, 2,5 triệu với cơ sở sản xuất khác; sản phẩm thuộc Bộ NN&MT (khô gà, hạt sấy) theo biểu phí khác – chưa xác minh. Tự công bố: biểu phí TT 67/2021 chỉ có phí thẩm định hồ sơ đăng ký bản công bố (thực phẩm bảo vệ sức khỏe, dinh dưỡng y học…), không thấy dòng phí cho tự công bố.",
+      "breakdown": [
+        {
+          "item": "Phí thẩm định GCN – cơ sở sản xuất nhỏ lẻ (Bộ Y tế/Bộ Công Thương)",
+          "value": "500.000 đồng/lần",
+          "refs": [
+            10
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Phiếu kiểm nghiệm để tự công bố (mỗi sản phẩm)",
+          "value": "≈ 1,5–2,5 triệu (ước tính theo bảng giá CDC Quảng Ninh 2025, gói 6–10 chỉ tiêu)",
+          "refs": [
+            24,
+            25,
+            6
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Thiết bị (lò sấy, nồi điện…) của hộ chế biến đã ổn định",
+          "value": "264–300 triệu (2 case, khuyến công hỗ trợ khoảng một nửa)",
+          "refs": [
+            18,
+            20
+          ],
+          "grade": "C"
+        }
+      ],
+      "grade": "C",
+      "refs": [
+        18,
+        20,
+        24,
+        25,
+        10
+      ]
+    },
+    "burn": {
+      "range": "Riêng lương: 22 – 42 triệu/tháng",
+      "text": "Lương (2 case): Trà Vinh 4 lao động × 5,5 triệu = 22 triệu/tháng (2025); Sóc Trăng 7 lao động × 6 triệu = 42 triệu/tháng (2023). Các khoản khác chưa có số liệu: nguyên liệu (thịt gà, gạo/bột, hạt), dầu, gia vị, bao bì, điện sấy, phí sàn và quảng cáo, vận chuyển hàng hoàn. Phiếu kiểm nghiệm dùng tự công bố phải còn trong 12 tháng tại thời điểm nộp, nên mỗi sản phẩm mới hoặc thay đổi thành phần là thêm một lần kiểm nghiệm và tự công bố lại.",
+      "grade": "C",
+      "refs": [
+        19,
+        23,
+        6
+      ]
+    },
+    "breakeven": {
+      "range": "≈ 12 tháng (1 case, thiết bị)",
+      "text": "Một case duy nhất: hộ làm bánh tét ở Trà Vinh báo hoàn vốn khoản đầu tư máy 264 triệu trong vòng 12 tháng, với lợi nhuận ròng khoảng 269 triệu/năm (2025). Con số này là hoàn vốn thiết bị của một hộ đã có thị trường và được hỗ trợ khoảng một nửa tiền máy, không phải hoà vốn của người mới bắt đầu bán online. Chưa có nguồn cho khô gà, bánh tráng, hạt sấy.",
+      "grade": "C",
+      "refs": [
+        20,
+        21
+      ]
+    },
+    "margin": {
+      "gross": "Mốc Bibica: 33 – 35% (2023–2025)",
+      "net": "≈ 5,6% (1 case); Bibica 6,5 – 7,2%",
+      "text": "Hộ (C): hộ làm bánh tét ở Trà Vinh có doanh thu khoảng 4,8 tỷ/năm, lợi nhuận ròng khoảng 269 triệu → khoảng 5,6% doanh thu (2025, một case). Mốc doanh nghiệp niêm yết (A, BCTC hợp nhất): CTCP Bibica (bánh kẹo) có biên gộp 33,4% (2023), 34,8% (2024), 33,2% (2025) và LNST/doanh thu 6,5%, 6,5%, 7,2%. Bibica sản xuất công nghiệp, có hệ thống phân phối – chỉ dùng làm mốc trần tham khảo. Bán online còn bị trừ phí sàn TMĐT và quảng cáo (xem các mục nền tảng/TMĐT của cẩm nang). Không có case biên lợi nhuận cho khô gà, bánh tráng, hạt sấy.",
+      "grade": "C",
+      "refs": [
+        21,
+        22,
+        26
+      ]
+    },
+    "risks": [
+      {
+        "title": "Ngộ độc từ sản phẩm đóng gói – thu hồi toàn quốc, có người chết",
+        "text": "Pate Minh Chay (2020): sản phẩm chay đóng hộp chứa độc tố botulinum, Cục ATTP cảnh báo khẩn và thu hồi; nhiều người nhập viện, một bệnh nhân 70 tuổi tử vong. Cơ sở này vẫn có GCN do Chi cục QLCL Nông Lâm Thủy sản Hà Nội cấp và đã tự công bố – giấy tờ đủ không thay được kiểm soát quy trình (thanh trùng, bảo quản).",
+        "refs": [
+          13,
+          14
+        ]
+      },
+      {
+        "title": "Nguyên liệu bẩn hoặc làm 'chui' – bị thu giữ và khởi tố",
+        "text": "Phú Thọ (7–10/2026): hộ làm thịt sấy, lạp sườn không có GCN, không tự công bố, hàng không nhãn; thịt nguyên liệu dương tính dịch tả lợn châu Phi, phụ gia có chất màu ngoài danh mục; tạm giữ 225 kg thịt sấy, khởi tố theo Điều 317 BLHS. Thái Bình (6/2025): thu giữ 62.199 gói khô gà, khô bò, heo cháy tỏi (hơn 3 tấn) không có chứng nhận ATTP, khởi tố theo Điều 193 BLHS. Rủi ro từ nhà cung cấp: năm 2025 một doanh nghiệp đồ hộp bị buộc tiêu hủy 130 tấn thịt nhiễm ASF và hơn 14.000 hộp pate.",
+        "refs": [
+          12,
+          11,
+          17
+        ]
+      },
+      {
+        "title": "Siết kiểm tra và luật đang thay đổi – chi phí tuân thủ tăng",
+        "text": "6 tháng đầu 2026, công an xử lý 5.992 tổ chức, cá nhân vi phạm ATTP, khởi tố 123 vụ. NĐ 46/2026 thay NĐ 15/2018 rồi bị tạm ngưng; Luật ATTP (sửa đổi) mới được Quốc hội cho ý kiến lần đầu 24/10/2026, dự kiến thông qua 5/2027; dự thảo nghị định thay NĐ 115/2018 tăng mức phạt 1,5–2 lần. Nhãn đã đổi sang NĐ 37/2026 (từ 23/01/2026) và TT 30/2026/TT-BYT về ghi thành phần dinh dưỡng (từ 10/7/2026). Người bán online phải theo dõi để làm lại nhãn, hồ sơ công bố khi luật mới có hiệu lực.",
+        "refs": [
+          15,
+          7,
+          16,
+          38,
+          27,
+          31
+        ]
+      }
+    ],
+    "legal": [
+      {
+        "title": "Tự sản xuất phải có GCN cơ sở đủ điều kiện ATTP; chỉ bán lại hàng bao gói sẵn mới được miễn",
+        "basis": "Điều 34 Luật ATTP 55/2010/QH12; Điều 11, Điều 12 khoản 1 (điểm a, c, d, đ, k) và Phụ lục III, IV NĐ 15/2018/NĐ-CP; Điều 18 NĐ 115/2018/NĐ-CP (sửa đổi bởi NĐ 124/2021/NĐ-CP)",
+        "text": "Miễn GCN chỉ áp cho các trường hợp tại khoản 1 Điều 12: sản xuất ban đầu nhỏ lẻ, sơ chế nhỏ lẻ, kinh doanh thực phẩm nhỏ lẻ, kinh doanh thực phẩm bao gói sẵn… Rang, sấy, tẩm ướp, đóng gói là chế biến nên không thuộc diện miễn (trừ khi đã có GMP, HACCP, ISO 22000…). Bộ quản lý theo sản phẩm: khô gà (sản phẩm chế biến từ thịt gia cầm, dạng khô) và các loại hạt đã chế biến thuộc Bộ NN&MT (Phụ lục III); sản phẩm từ bột nhào như bánh đa, phở, bún thuộc Bộ Công Thương (Phụ lục IV mục VI.8) – bánh tráng không được ghi đích danh, cần hỏi cơ quan địa phương. Phạt sản xuất không có GCN: 30–40 triệu (mức tổ chức; cá nhân, hộ kinh doanh 15–20 triệu), buộc thu hồi, tiêu hủy.",
+        "refs": [
+          1,
+          2,
+          3,
+          4,
+          8
+        ]
+      },
+      {
+        "title": "Tự công bố sản phẩm kèm phiếu kiểm nghiệm",
+        "basis": "Điều 4, Điều 5 NĐ 15/2018/NĐ-CP; Nghị quyết 15/2026/NQ-CP; Điều 20 NĐ 115/2018/NĐ-CP (sửa đổi bởi NĐ 124/2021/NĐ-CP)",
+        "text": "Thực phẩm đã qua chế biến bao gói sẵn phải tự công bố trước khi bán, kèm phiếu kiểm nghiệm còn trong 12 tháng do phòng kiểm nghiệm được chỉ định hoặc đạt ISO 17025 cấp; công khai bản tự công bố và nộp 1 bản cho cơ quan do UBND tỉnh chỉ định. Đổi tên, xuất xứ, thành phần phải tự công bố lại. Cơ chế \"công bố tiêu chuẩn áp dụng\" của NQ 66.13/2026 đang tạm ngưng nên vẫn làm theo NĐ 15/2018; Luật ATTP (sửa đổi) mới được Quốc hội thảo luận lần đầu ngày 24/10/2026 và dự kiến thông qua tháng 5/2027. Phạt (cá nhân): 15–20 triệu nếu không đăng tải/không nộp bản tự công bố; 20–30 triệu nếu phiếu kiểm nghiệm hết hạn, thiếu chỉ tiêu, không đúng phòng thí nghiệm; 40–50 triệu nếu sản xuất mà không có bản tự công bố, có thể đình chỉ 1–3 tháng.",
+        "refs": [
+          5,
+          6,
+          7,
+          8,
+          38,
+          39
+        ]
+      },
+      {
+        "title": "Nhãn hàng hóa theo NĐ 37/2026 và ghi thành phần dinh dưỡng theo TT 30/2026/TT-BYT",
+        "basis": "Điều 37, 42, 97, 98 Nghị định 37/2026/NĐ-CP (hiệu lực 23/01/2026, thay NĐ 43/2017 và NĐ 111/2021); Điều 1, 5, 8 Thông tư 30/2026/TT-BYT (hiệu lực 10/7/2026, thay TT 29/2023/TT-BYT); Điều 3 khoản 2, Điều 31 Nghị định 119/2017/NĐ-CP (sửa đổi bởi NĐ 126/2021/NĐ-CP)",
+        "text": "NĐ 43/2017 và NĐ 111/2021 về nhãn đã hết hiệu lực từ 23/01/2026; nhãn, bao bì in theo quy định cũ chỉ được dùng tiếp không quá 2 năm. Nhãn phải ghi bằng tiếng Việt tên hàng hóa, tên và địa chỉ tổ chức/cá nhân chịu trách nhiệm, xuất xứ và các nội dung theo nhóm thực phẩm (Phụ lục I NĐ 37/2026). Điều 37 NĐ 37/2026 yêu cầu chữ và số đủ để đọc bằng mắt thường (vòng 1 ghi mức 1,2 mm theo NĐ 43/2017 cũ); bao bì nhỏ không ghi đủ nội dung ở cỡ chữ 0,9 mm thì phải ghi tên hàng, đơn vị chịu trách nhiệm, xuất xứ trên nhãn vật lý, phần còn lại được ghi trong tài liệu kèm theo hoặc nhãn điện tử. Dinh dưỡng: từ 10/7/2026 thực phẩm bao gói sẵn phải ghi năng lượng, chất đạm, carbohydrat, chất béo, natri; có thêm đường thì ghi thêm đường tổng số; đồ chiên rán ghi thêm chất béo bão hòa. Thực phẩm do cơ sở kinh doanh thực phẩm nhỏ lẻ sản xuất (khoản 10 Điều 3 NĐ 15/2018) được miễn. Phạt (mức tổ chức; cá nhân, hộ bằng 1/2): nhãn thiếu hoặc ghi sai nội dung bắt buộc 0,5–1 triệu nếu lô hàng đến 3 triệu, tăng dần đến 25–30 triệu nếu trên 100 triệu; bán hàng phải có nhãn mà không có nhãn 1–3 triệu đến 50–60 triệu tùy giá trị hàng. NĐ 119/2017 vẫn là văn bản xử phạt đang dùng (có dự thảo thay thế năm 2026).",
+        "refs": [
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          9
+        ]
+      },
+      {
+        "title": "Ranh giới hình sự",
+        "basis": "Điều 193 (sản xuất, buôn bán hàng giả là thực phẩm) và Điều 317 (vi phạm quy định về an toàn thực phẩm) Bộ luật Hình sự",
+        "text": "Hai vụ khô gà (Thái Bình 2025) và thịt sấy (Phú Thọ 2026) đều chuyển từ xử phạt hành chính sang khởi tố khi phát hiện hàng giả hoặc nguyên liệu nhiễm bệnh. Mua thịt rẻ không rõ nguồn gốc để làm khô là rủi ro hình sự, không chỉ là bị phạt.",
+        "refs": [
+          11,
+          12
+        ]
+      },
+      {
+        "title": "OCOP: tự nguyện, theo bộ tiêu chí mới QĐ 26/2026/QĐ-TTg",
+        "basis": "Quyết định 26/2026/QĐ-TTg ngày 22/5/2026 (hiệu lực cùng ngày, thay bộ tiêu chí tại QĐ 148/QĐ-TTg năm 2023)",
+        "text": "Chủ thể được đăng ký gồm cả hộ sản xuất, hộ gia đình có đăng ký kinh doanh. Hồ sơ gồm phiếu đăng ký, báo cáo tự đánh giá và 5 sản phẩm mẫu, nộp qua UBND xã; UBND tỉnh chấm ít nhất 2 đợt/năm (hồ sơ xã đề nghị trước 30/4 thì chấm trước 30/6; trước 30/10 thì chấm trước 30/12). Thang 100 điểm: 3 sao 50–<70, 4 sao 70–<90 (tỉnh công nhận), 5 sao 90–100 (Bộ NN&MT); 1–2 sao không cấp giấy. Phần chất lượng có tiêu chí \"công bố chất lượng sản phẩm\" nên phải có tự công bố trước. Giấy chứng nhận 3 sao trở lên có hạn 36 tháng. Chi phí: chưa tìm thấy mức phí đánh giá; chi phí thực tế là kiểm nghiệm, bao bì, nhãn, hồ sơ minh chứng. Một số tỉnh hỗ trợ sau khi đạt sao, ví dụ Lào Cai từ 2026: 50 triệu cho 4 sao, 100 triệu cho 5 sao.",
+        "refs": [
+          35,
+          36,
+          37
+        ]
+      }
+    ],
+    "seed": null,
+    "notes": "Vốn, lương, hoàn vốn và biên ròng của hộ chỉ dựa trên 2 case hộ chế biến do Tạp chí Công Thương đăng (bánh phồng tôm Sóc Trăng 2023, bánh tét Trà Vinh 2025) – đều được khuyến công hỗ trợ khoảng một nửa tiền máy và không phải khô gà, bánh tráng, hạt sấy. Tag capital đổi từ \"low\" sang \"mid\" và breakeven từ \"unknown\" sang \"mid\" theo 2 case này. Bibica là mốc doanh nghiệp niêm yết, không dùng thay cho hộ. Chi phí kiểm nghiệm là ví dụ tính từ bảng giá CDC Quảng Ninh (2025); danh mục chỉ tiêu thật do cơ sở chọn theo quy chuẩn áp dụng, phòng khác có giá khác. Phí 500.000 đồng/2,5 triệu là theo TT 67/2021 (qua báo PLO 2021); TT này đã sửa đổi nhiều lần. Mức phạt Điều 18 NĐ 115/2018 là mức cho tổ chức, cá nhân bằng một nửa; mức Điều 20 là mức cho cá nhân; mức Điều 31 NĐ 119/2017 là mức cho tổ chức. Pháp lý tại 11/2026: NĐ 15/2018 vẫn áp dụng; Luật ATTP (sửa đổi) dự kiến thông qua 5/2027.",
+    "sources": [
+      {
+        "id": 1,
+        "org": "Quốc hội",
+        "year": 2010,
+        "title": "Luật An toàn thực phẩm số 55/2010/QH12 – Điều 34",
+        "quote": "Cơ sở được cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm khi có đủ các điều kiện sau đây",
+        "url": "https://hethongphapluat.com/luat-an-toan-thuc-pham-2010/dieu-34",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 2,
+        "org": "Chính phủ",
+        "year": 2018,
+        "title": "Nghị định 15/2018/NĐ-CP – Điều 11",
+        "quote": "Cơ sở sản xuất, kinh doanh thực phẩm phải có Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm khi hoạt động, trừ trường hợp quy định tại khoản 1 Điều 12 Nghị định này",
+        "url": "https://hethongphapluat.com/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham/dieu-11",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 3,
+        "org": "Chính phủ",
+        "year": 2018,
+        "title": "Nghị định 15/2018/NĐ-CP – Điều 12",
+        "quote": "Các cơ sở sau đây không thuộc diện cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm",
+        "url": "https://hethongphapluat.com/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham/dieu-12",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 4,
+        "org": "Chính phủ",
+        "year": 2018,
+        "title": "Nghị định 15/2018/NĐ-CP – Phụ lục III (Bộ NN&PTNT) và Phụ lục IV (Bộ Công Thương) – bản sao phụ lục",
+        "quote": "Các loại hạt (hướng dương, hạt bí, hạt dưa,...) đã hoặc chưa chế biến",
+        "url": "https://docs.google.com/document/d/1OIC5lym5vQLALeGVI9KXItHYYA4wO07K/export?format=pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 5,
+        "org": "Chính phủ",
+        "year": 2018,
+        "title": "Nghị định 15/2018/NĐ-CP – Điều 4",
+        "quote": "Tổ chức, cá nhân sản xuất, kinh doanh thực phẩm thực hiện tự công bố thực phẩm đã qua chế biến bao gói sẵn",
+        "url": "https://hethongphapluat.com/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham/dieu-4",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 6,
+        "org": "Chính phủ",
+        "year": 2018,
+        "title": "Nghị định 15/2018/NĐ-CP – Điều 5",
+        "quote": "Phiếu kết quả kiểm nghiệm an toàn thực phẩm của sản phẩm trong thời hạn 12 tháng tính đến ngày nộp hồ sơ",
+        "url": "https://hethongphapluat.com/nghi-dinh-15-2018-nd-cp-huong-dan-luat-an-toan-thuc-pham/dieu-5",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 7,
+        "org": "Sở Tư pháp TP Cần Thơ",
+        "year": 2026,
+        "title": "Tạm ngưng hiệu lực Nghị định số 46/2026/NĐ-CP – về Nghị quyết 15/2026/NQ-CP",
+        "quote": "Nghị định số 15/2018/NĐ-CP của Chính phủ hướng dẫn của Luật An toàn thực phẩm và các văn bản quy định, hướng dẫn thi hành tiếp tục có hiệu lực",
+        "url": "https://pbgdpl.cantho.gov.vn/tam-ngung-hieu-luc-nghi-dinh-so-462026nd-cp-den-khi-co-luat-an-toan-thuc-pham-sua-doi",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 8,
+        "org": "Chính phủ",
+        "year": 2021,
+        "title": "Nghị định 115/2018/NĐ-CP sửa đổi bởi NĐ 124/2021/NĐ-CP – Điều 18, Điều 20 (bản hợp nhất)",
+        "quote": "Sản xuất hoặc nhập khẩu sản phẩm thuộc diện tự công bố sản phẩm mà không có bản tự công bố sản phẩm theo quy định của pháp luật",
+        "url": "https://hethongphapluat.com/nghi-dinh-115-2018-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-an-toan-thuc-pham.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 9,
+        "org": "Chính phủ",
+        "year": 2021,
+        "title": "Nghị định 43/2017/NĐ-CP về nhãn hàng hóa, sửa đổi bởi NĐ 111/2021/NĐ-CP (bản hợp nhất trên hethongphapluat.com)",
+        "quote": "thì chiều cao chữ của các nội dung bắt buộc trên nhãn không được thấp hơn 1,2 mm",
+        "url": "https://hethongphapluat.com/nghi-dinh-43-2017-nd-cp-ve-nhan-hang-hoa.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 10,
+        "org": "Pháp Luật TP.HCM (dẫn Thông tư 67/2021/TT-BTC)",
+        "year": 2021,
+        "title": "Mức thu phí người kinh doanh thực phẩm cần biết (21/9/2021)",
+        "quote": "đối với cơ sở sản xuất nhỏ lẻ được cấp giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm là 500.000 đồng/lần/cơ sở",
+        "url": "https://plo.vn/muc-thu-phi-nguoi-kinh-doanh-thuc-pham-can-biet-post648807.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 11,
+        "org": "CafeF",
+        "year": 2025,
+        "title": "Công an thu giữ 3 tấn hàng giả là khô gà, khô bò, heo cháy tỏi (13/6/2025)",
+        "quote": "62.199 gói sản phẩm các loại (tương đương hơn 3 tấn thành phẩm)",
+        "url": "https://cafef.vn/cong-an-thu-giu-3-tan-hang-gia-la-kho-ga-kho-bo-heo-chay-toi-18825061321392499.chn",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 12,
+        "org": "CafeF (theo Đời sống & Pháp luật)",
+        "year": 2026,
+        "title": "Ra quyết định khởi tố người bán thịt lợn Bùi Thị Hiền SN 1976 (17/10/2026)",
+        "quote": "Kết quả xét nghiệm mẫu thịt nguyên liệu cho thấy dương tính với vi rút dịch tả lợn châu Phi.",
+        "url": "https://cafef.vn/ra-quyet-dinh-khoi-to-nguoi-ban-thit-lon-bui-thi-hien-sn-1976-188261016195326483.chn",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 13,
+        "org": "CafeF (theo VOV)",
+        "year": 2020,
+        "title": "Bệnh nhân ngộ độc pate Minh Chay tử vong (28/11/2020)",
+        "quote": "Cuối tháng 8 vừa qua, Cục An toàn thực phẩm, Bộ Y tế, đưa ra cảnh báo khẩn và quyết định thu hồi sản phẩm pate Minh Chay vì có chứa độc tố.",
+        "url": "https://cafef.vn/benh-nhan-ngo-doc-pate-minh-chay-tu-vong-20201128134009738.chn",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 14,
+        "org": "CafeF",
+        "year": 2020,
+        "title": "Cơ quan nhà nước nào chịu trách nhiệm về chất lượng Pate Minh Chay? (04/9/2020)",
+        "quote": "do Chi cục Quản lý Chất lượng Nông - Lâm - Thủy sản Hà Nội, trực thuộc ngành Nông nghiệp và Phát triển Nông thôn cấp giấy chứng nhận đủ điều kiện kinh doanh",
+        "url": "https://cafef.vn/co-quan-nha-nuoc-nao-chiu-trach-nhiem-ve-chat-luong-pate-minh-chay-20200904192430765.chn",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 15,
+        "org": "VTC News",
+        "year": 2026,
+        "title": "Gần 6.000 tổ chức, cá nhân vi phạm an toàn thực phẩm trong 6 tháng đầu năm 2026 (02/7/2026)",
+        "quote": "Trong 6 tháng đầu năm 2026, lực lượng công an phát hiện, xử lý 5.992 tổ chức, cá nhân vi phạm pháp luật về an toàn thực phẩm, khởi tố 123 vụ án với 249 bị can.",
+        "url": "https://vtcnews.vn/gan-6-000-to-chuc-ca-nhan-vi-pham-an-toan-thuc-pham-trong-6-thang-dau-nam-2026-ar1026931.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 16,
+        "org": "Thanh Tra",
+        "year": 2026,
+        "title": "Xây dựng mức phạt tối đa 100 – 200 triệu đối với vi phạm về an toàn thực phẩm (21/4/2026)",
+        "quote": "Bộ Y tế đang hoàn thiện dự thảo Nghị định thay thế Nghị định số 115/2018/NĐ-CP",
+        "url": "https://thanhtra.com.vn/hoan-thien-the-che-D4AD3DB96/xay-dung-muc-phat-toi-da-100-200-trieu-doi-voi-vi-pham-ve-an-toan-thuc-pham-ecbfca47c.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 17,
+        "org": "aviNews Việt Nam",
+        "year": 2026,
+        "title": "Toàn cảnh ngành chăn nuôi Việt Nam 2025 (10/02/2026)",
+        "quote": "cơ quan chức năng đã phát hiện và buộc tiêu hủy 130 tấn nguyên liệu thịt nhiễm virus ASF và hơn 14.000 hộp patê thành phẩm",
+        "url": "https://avinews.com/vi/toan-canh-nganh-chan-nuoi-viet-nam-2025/",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 18,
+        "org": "Tạp chí Công Thương (Bộ Công Thương)",
+        "year": 2023,
+        "title": "Sóc Trăng: Gấp đôi năng suất nhờ kinh phí khuyến công (20/7/2023) – HKD Nguyên Phát, bánh phồng tôm",
+        "quote": "Tổng kinh phí đầu tư là 300 triệu đồng, trong đó nguồn kinh phí khuyến công địa phương năm 2023 hỗ trợ 145 triệu đồng",
+        "url": "https://tapchicongthuong.vn/soc-trang--gap-doi-nang-suat-nho-kinh-phi-khuyen-cong-107832.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 19,
+        "org": "Tạp chí Công Thương (Bộ Công Thương)",
+        "year": 2023,
+        "title": "Sóc Trăng: Gấp đôi năng suất nhờ kinh phí khuyến công (20/7/2023) – lao động",
+        "quote": "giải quyết việc làm cho 7 lao động với mức thu nhập bình quân 6 triệu đồng/tháng/người",
+        "url": "https://tapchicongthuong.vn/soc-trang--gap-doi-nang-suat-nho-kinh-phi-khuyen-cong-107832.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 20,
+        "org": "Tạp chí Công Thương (Bộ Công Thương)",
+        "year": 2025,
+        "title": "Khuyến công tiếp sức làng nghề: Bánh tét Trà Vinh vươn tầm (03/7/2025) – HKD Nguyễn Thị Thu Cẩm",
+        "quote": "đầu tư 08 nồi điện luộc bánh tét với tổng kinh phí 264 triệu đồng, trong đó có 130 triệu đồng từ nguồn khuyến công địa phương năm 2025",
+        "url": "https://tapchicongthuong.vn/khuyen-cong-tiep-suc-lang-nghe--banh-tet-tra-vinh-vuon-tam-142391.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 21,
+        "org": "Tạp chí Công Thương (Bộ Công Thương)",
+        "year": 2025,
+        "title": "Bánh tét Trà Vinh vươn tầm (03/7/2025) – lợi nhuận, hoàn vốn",
+        "quote": "Sau khi trừ chi phí và các khoản thuế, lợi nhuận ròng đạt khoảng 269 triệu đồng/năm. Thời gian hoàn vốn chỉ trong vòng 12 tháng",
+        "url": "https://tapchicongthuong.vn/khuyen-cong-tiep-suc-lang-nghe--banh-tet-tra-vinh-vuon-tam-142391.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 22,
+        "org": "Tạp chí Công Thương (Bộ Công Thương)",
+        "year": 2025,
+        "title": "Bánh tét Trà Vinh vươn tầm (03/7/2025) – doanh thu",
+        "quote": "mang lại doanh thu ước tính hơn 4,8 tỷ đồng/năm",
+        "url": "https://tapchicongthuong.vn/khuyen-cong-tiep-suc-lang-nghe--banh-tet-tra-vinh-vuon-tam-142391.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 23,
+        "org": "Tạp chí Công Thương (Bộ Công Thương)",
+        "year": 2025,
+        "title": "Bánh tét Trà Vinh vươn tầm (03/7/2025) – lao động",
+        "quote": "tạo việc làm ổn định cho 4 lao động nông thôn với mức lương khoảng 5,5 triệu đồng/người/tháng",
+        "url": "https://tapchicongthuong.vn/khuyen-cong-tiep-suc-lang-nghe--banh-tet-tra-vinh-vuon-tam-142391.htm",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 24,
+        "org": "Trung tâm Kiểm soát bệnh tật tỉnh Quảng Ninh (Sở Y tế)",
+        "year": 2025,
+        "title": "Thông báo 679/TB-TTKSBT ngày 11/4/2025: giá thu dịch vụ kiểm nghiệm thực phẩm",
+        "quote": "Phát hiện Salmonella spp. trên đĩa thạch Mẫu 600.000",
+        "url": "https://soytequangninh.gov.vn/upload/1002610/20250415/TB_679_signed_42e248e91d.pdf",
+        "type": "price",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 25,
+        "org": "Ước tính của nhóm nghiên cứu",
+        "year": 2026,
+        "title": "Ước tính chi phí một phiếu kiểm nghiệm để tự công bố",
+        "quote": "Ví dụ gói vi sinh (theo bảng giá nguồn 24): hiếu khí 120.000 + Coliform 180.000 + E. coli 240.000 + S. aureus 240.000 + Salmonella 600.000 + nấm men, mốc 140.000 = 1,52 triệu; thêm Cl. perfringens 240.000, B. cereus 220.000, kim loại nặng 360.000, độ ẩm 100.000 = 2,44 triệu. Danh mục chỉ tiêu thật do cơ sở chọn theo quy chuẩn áp dụng.",
+        "type": "estimate",
+        "grade": "C",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 26,
+        "org": "CTCP Bibica (BBC, HOSE) – số liệu BCTC năm do CafeF tổng hợp",
+        "year": 2025,
+        "title": "Kết quả hoạt động kinh doanh BBC 2022–2025",
+        "quote": "18. Lợi nhuận sau thuế thu nhập doanh nghiệp(60=50-51-52) … 128.662.459.267 (năm 2025)",
+        "url": "https://s.cafef.vn/bao-cao-tai-chinh/BBC/IncSta/2025/0/0/0/0/ket-qua-hoat-dong-kinh-doanh-.chn",
+        "type": "financials",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 27,
+        "org": "Chính phủ",
+        "year": 2026,
+        "title": "Nghị định 37/2026/NĐ-CP hướng dẫn Luật Chất lượng sản phẩm, hàng hóa – Điều 97 (hiệu lực; bãi bỏ NĐ 43/2017, NĐ 111/2021) – bản sao trên hethongphapluat.com",
+        "quote": "Các quy định dưới đây hết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành",
+        "url": "https://hethongphapluat.com/nghi-dinh-37-2026-nd-cp-huong-dan-luat-chat-luong-san-pham-hang-hoa/dieu-97",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 28,
+        "org": "Chính phủ",
+        "year": 2026,
+        "title": "Nghị định 37/2026/NĐ-CP – Điều 42 (nội dung bắt buộc trên nhãn)",
+        "quote": "Nhãn hàng hóa của các loại hàng hóa đang lưu thông tại Việt Nam bắt buộc phải thể hiện các nội dung sau bằng tiếng Việt",
+        "url": "https://hethongphapluat.com/nghi-dinh-37-2026-nd-cp-huong-dan-luat-chat-luong-san-pham-hang-hoa/dieu-42",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 29,
+        "org": "Chính phủ",
+        "year": 2026,
+        "title": "Nghị định 37/2026/NĐ-CP – Điều 37 (kích thước nhãn, cỡ chữ)",
+        "quote": "Hàng hóa có kích thước nhỏ hoặc bao bì có kích thước nhỏ là hàng hóa, bao bì không thể hiện được đầy đủ các nội dung bắt buộc theo cỡ chữ tối thiểu 0,9 mm.",
+        "url": "https://hethongphapluat.com/nghi-dinh-37-2026-nd-cp-huong-dan-luat-chat-luong-san-pham-hang-hoa/dieu-37",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 30,
+        "org": "Chính phủ",
+        "year": 2026,
+        "title": "Nghị định 37/2026/NĐ-CP – Điều 98 (chuyển tiếp nhãn in theo NĐ 43/2017)",
+        "quote": "được tiếp tục sử dụng, nhưng không quá 02 năm kể từ ngày Nghị định này có hiệu lực thi hành",
+        "url": "https://hethongphapluat.com/nghi-dinh-37-2026-nd-cp-huong-dan-luat-chat-luong-san-pham-hang-hoa/dieu-98",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 31,
+        "org": "Bộ Y tế",
+        "year": 2026,
+        "title": "Thông tư 30/2026/TT-BYT – Điều 5 (thành phần dinh dưỡng bắt buộc)",
+        "quote": "Thực phẩm được chế biến dưới hình thức chiên rán: thực hiện ghi 05 thành phần dinh dưỡng quy định tại khoản 1 Điều này và chất béo bão hoà.",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/30-byt.signed.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 32,
+        "org": "Bộ Y tế",
+        "year": 2026,
+        "title": "Thông tư 30/2026/TT-BYT – Điều 1 khoản 2 điểm m (miễn cho cơ sở nhỏ lẻ)",
+        "quote": "Thực phẩm do cơ sở kinh doanh thực phẩm nhỏ lẻ sản xuất quy định tại khoản 10 Điều 3 Nghị định số 15/2018/NĐ-CP.",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/30-byt.signed.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 33,
+        "org": "Chính phủ",
+        "year": 2017,
+        "title": "Nghị định 119/2017/NĐ-CP (sửa đổi bởi NĐ 126/2021/NĐ-CP) xử phạt về tiêu chuẩn, đo lường, chất lượng – Điều 31 (bản hợp nhất trên caselaw.vn)",
+        "quote": "Hàng hóa có nhãn (kể cả tem hoặc nhãn phụ) hoặc tài liệu kèm theo không ghi đủ hoặc ghi không đúng các nội dung bắt buộc trên nhãn hàng hóa",
+        "url": "https://caselaw.vn/van-ban-phap-luat/307373-nghi-dinh-119-2017-nd-cp-quy-dinh-ve-xu-phat-vi-pham-hanh-chinh-trong-linh-vuc-tieu-chuan-do-luong-va-chat-luong-san-pham-hang-hoa",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 34,
+        "org": "Chính phủ",
+        "year": 2017,
+        "title": "Nghị định 119/2017/NĐ-CP (sửa đổi bởi NĐ 126/2021/NĐ-CP) – Điều 3 khoản 2 (mức phạt tổ chức, cá nhân)",
+        "quote": "Mức phạt tiền quy định tại Nghị định này là áp dụng đối với tổ chức. Đối với cá nhân có cùng hành vi vi phạm, mức phạt tiền được giảm đi một nửa",
+        "url": "https://caselaw.vn/van-ban-phap-luat/307373-nghi-dinh-119-2017-nd-cp-quy-dinh-ve-xu-phat-vi-pham-hanh-chinh-trong-linh-vuc-tieu-chuan-do-luong-va-chat-luong-san-pham-hang-hoa",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 35,
+        "org": "Sở Tư pháp TP Cần Thơ",
+        "year": 2026,
+        "title": "Bộ tiêu chí và quy trình đánh giá, phân hạng sản phẩm mỗi xã một sản phẩm – về Quyết định 26/2026/QĐ-TTg ngày 22/5/2026",
+        "quote": "Giấy chứng nhận cho sản phẩm OCOP đạt từ 3 sao trở lên có giá trị trong thời hạn 36 tháng kể từ ngày cơ quan có thẩm quyền ban hành.",
+        "url": "https://pbgdpl.cantho.gov.vn/bo-tieu-chi-va-quy-trinh-danh-gia-phan-hang-san-pham-moi-xa-mot-san-pham",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 36,
+        "org": "Báo Lào Cai",
+        "year": 2026,
+        "title": "Tiêu chí đánh giá, phân hạng sản phẩm OCOP (28/5/2026) – hồ sơ theo QĐ 26/2026/QĐ-TTg",
+        "quote": "Sản phẩm mẫu (do chủ thể OCOP cung cấp): 05 sản phẩm mẫu được gửi kèm theo hồ sơ",
+        "url": "https://baolaocai.vn/tieu-chi-danh-gia-phan-hang-san-pham-ocop-post900527.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 37,
+        "org": "Báo Lào Cai",
+        "year": 2026,
+        "title": "Lào Cai đánh giá, phân hạng 60 sản phẩm OCOP đợt 1 năm 2026 (20/7/2026)",
+        "quote": "mức 50 triệu đồng đối với sản phẩm OCOP 4 sao và 100 triệu đồng đối với sản phẩm OCOP 5 sao",
+        "url": "https://baolaocai.vn/lao-cai-danh-gia-phan-hang-60-san-pham-ocop-dot-1-nam-2026-post904284.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 38,
+        "org": "Báo Đại biểu Nhân dân (dẫn Phó Chủ nhiệm Ủy ban KH, CN và MT của Quốc hội)",
+        "year": 2026,
+        "title": "Tăng cường tham khảo kinh nghiệm quốc tế trong quản lý an toàn thực phẩm (30/9/2026)",
+        "quote": "dự thảo Luật An toàn thực phẩm (sửa đổi) dự kiến được trình Quốc hội cho ý kiến tại Kỳ họp thứ Hai, Quốc hội khóa XVI (tháng 10/2026) và xem xét thông qua tại Kỳ họp thứ Ba",
+        "url": "https://daibieunhandan.vn/tang-cuong-tham-khao-kinh-nghiem-quoc-te-trong-quan-ly-an-toan-thuc-pham-10432269.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 39,
+        "org": "Báo Đại biểu Nhân dân – Thông cáo báo chí của Quốc hội",
+        "year": 2026,
+        "title": "Thông cáo báo chí số 08, Kỳ họp thứ 2, Quốc hội khóa XVI (24/10/2026)",
+        "quote": "Bộ trưởng Bộ Y tế Đào Hồng Lan, thừa ủy quyền của Thủ tướng Chính phủ trình bày Tờ trình về dự án Luật An toàn thực phẩm (sửa đổi)",
+        "url": "https://daibieunhandan.vn/thong-cao-bao-chi-so-08-ky-hop-thu-2-quoc-hoi-khoa-xvi-10440314.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      }
+    ]
+  },
+  {
+    "id": "chan-nuoi-heo-thit-nong-ho",
+    "kind": "model",
+    "section": "3",
+    "title": "Chăn nuôi heo thịt quy mô nông hộ, trang trại nhỏ",
+    "summary": "Mua heo giống, nuôi 4–6 tháng rồi bán heo hơi. Thức ăn chiếm khoảng 60–70% giá thành, giá bán lên xuống mạnh: 74–81 nghìn/kg (3/2025) rồi còn 44–49 nghìn/kg (27/10/2026) trong khi giá thành khoảng 60 nghìn/kg. Hợp với hộ có chuồng xa khu dân cư, tự làm công và chịu được lỗ vài lứa; bẫy lớn nhất là dịch tả heo châu Phi xóa sạch đàn.",
+    "tags": {
+      "capital": "mid",
+      "breakeven": "unknown",
+      "risk": "high",
+      "legal": "conditional",
+      "time": "full",
+      "evidence": "C"
+    },
+    "capital": {
+      "range": "≈ 6 – 7,2 triệu/con (vốn lưu động)",
+      "text": "Không tìm được nguồn đáng tin về suất đầu tư chuồng trại nông hộ. Vốn lưu động mỗi con (C, ước tính): giá thành ~60.000 đồng/kg (10/2026) × trọng lượng xuất chuồng 100–120 kg = khoảng 6–7,2 triệu/con, gồm giống, thức ăn, thú y. Ví dụ giả định một lứa 30 con: khoảng 180–216 triệu chưa kể chuồng, máy móc, hệ thống xử lý chất thải. Mốc trên cho trại lớn: 2 dự án ở Bình Phước (2021) đăng ký vốn khoảng 4,2–10,8 triệu cho mỗi chỗ nuôi heo thịt/lứa, gồm cả đất, hạ tầng, xử lý chất thải – không áp cho nông hộ.",
+      "breakdown": [
+        {
+          "item": "Vốn lưu động/con (giá thành × 100–120 kg)",
+          "value": "≈ 6–7,2 triệu",
+          "refs": [
+            9,
+            10
+          ],
+          "grade": "C"
+        },
+        {
+          "item": "Chuồng trại, xử lý chất thải",
+          "value": "Chưa có số liệu đáng tin cho nông hộ; mốc dự án trại lớn 2021: ≈ 4,2–10,8 triệu/chỗ nuôi (gồm đất, hạ tầng)",
+          "refs": [
+            5,
+            26,
+            27,
+            28
+          ],
+          "grade": "C"
+        }
+      ],
+      "grade": "C",
+      "refs": [
+        9,
+        10,
+        26,
+        27,
+        28
+      ]
+    },
+    "burn": {
+      "range": "Giá thành ≈ 60.000 đ/kg (10/2026)",
+      "text": "Theo chủ trang trại, thức ăn chiếm khoảng 60–70% giá thành; năm 2026 giá thức ăn đã nhiều lần tăng (CafeF: 7 đợt điều chỉnh tăng; VnBusiness: tăng 6 lần, giảm 1 lần, bình quân +1.000–1.200 đồng/kg), đẩy giá thành lên xấp xỉ 60.000 đồng/kg (7/10/2026). Phần còn lại: con giống, thuốc thú y, vắc xin, điện nước, công, lãi vay. Giá thành hộ gia đình thường cao hơn trang trại, tập đoàn (2023: 54–56 nghìn/kg so với 52–54 nghìn/kg). Chưa tìm được số liệu chính thức của Bộ NN&MT hoặc Cục Chăn nuôi và Thú y về cơ cấu giá thành.",
+      "grade": "C",
+      "refs": [
+        8,
+        9,
+        13,
+        22
+      ]
+    },
+    "breakeven": {
+      "range": "Chưa có số liệu đáng tin",
+      "text": "Tiền quay theo lứa: một hộ ở Đông Anh bán heo 90 kg sau gần 6 tháng nuôi. Lứa có lãi hay không phụ thuộc giá bán lúc xuất chuồng so với giá thành; giá hòa vốn của lứa là khoảng 60.000 đồng/kg (10/2026). Ở giá 27/10/2026 (44.000–49.000 đồng/kg) mỗi lứa đều lỗ. Không tìm được nguồn về chi phí chuồng nông hộ nên chưa tính được thời gian hoàn vốn chuồng trại.",
+      "grade": "C",
+      "refs": [
+        13,
+        7,
+        9,
+        21
+      ]
+    },
+    "margin": {
+      "gross": "Âm ≈ 22 – 36% ở giá 27/10/2026",
+      "net": "Nông hộ: chưa rõ; DN: 0,2 – 10,1%",
+      "text": "Nông hộ (C): lãi gộp/kg = giá bán − giá thành. 27/10/2026: 44.000–49.000 − ~60.000 = −11.000 đến −16.000 đồng/kg (≈ −22% đến −36% doanh thu); giá thành ~60.000 là số đầu tháng 10, sau đó thức ăn còn tăng nên lỗ thực có thể lớn hơn. 11/2025 Hiệp hội Chăn nuôi Đồng Nai ước hộ nhỏ lỗ ~5.000 đồng/kg ở giá 46–51 nghìn. Khi giá đỉnh (74–81 nghìn, 3/2025) lãi gộp dương. Mốc doanh nghiệp niêm yết (A, BCTC hợp nhất): DBC biên gộp 10,0% (2023) → 14,2% (2024) → 18,4% (2025), LNST/doanh thu 0,2% → 5,7% → 10,1%; BAF biên gộp 6,6% → 12,7% → 13,5%, LNST/doanh thu 0,6% → 5,7% → 2,5%. Hai doanh nghiệp này làm cả thức ăn, giống, chăn nuôi, chế biến – quy mô và cấu trúc chi phí khác hẳn nông hộ; chỉ dùng để thấy chu kỳ: năm giá thấp (2023) cả doanh nghiệp lớn cũng gần như không có lãi.",
+      "grade": "C",
+      "refs": [
+        7,
+        9,
+        10,
+        11,
+        18,
+        19,
+        21
+      ]
+    },
+    "risks": [
+      {
+        "title": "Dịch tả heo châu Phi xóa sạch đàn",
+        "text": "2025: gần 1.000 ổ dịch tại 34 tỉnh, tiêu hủy hơn 100.000 con (aviNews); tính từ đầu năm đến cuối 7/2025 đã hơn 43.000 con. 10 tháng 2023: 481 ổ dịch tại 22 tỉnh, hơn 18.000 con. Hộ nhỏ còn ngại tiêm vắc xin. Bán tống heo bệnh là rủi ro hình sự: Phú Thọ (10/2026) khởi tố người bán 750 kg thịt lợn nhiễm dịch theo Điều 317 BLHS.",
+        "refs": [
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      {
+        "title": "Giá heo hơi rơi dưới giá thành trong khi thức ăn tăng",
+        "text": "Giá heo hơi 74–81 nghìn/kg (3/2025) → thấp nhất 46 nghìn/kg (11/2025) → 57–60 nghìn (8/2026) → bình quân 48 nghìn/kg (23/10/2026) → 44–49 nghìn/kg (27/10/2026). Cùng lúc giá thức ăn tăng nhiều lần trong năm 2026, giá thành ~60 nghìn/kg; nếu phải mua con giống, mỗi con lỗ khoảng 1 triệu (10/2026).",
+        "refs": [
+          11,
+          10,
+          7,
+          9,
+          21,
+          22
+        ]
+      },
+      {
+        "title": "Lép vế trước chuỗi lớn và thịt nhập khẩu",
+        "text": "Nguồn cung chủ yếu từ các doanh nghiệp lớn (C.P., Japfa, CJ, Dabaco, BaF…), có doanh nghiệp tăng đàn gấp 3; quý III/2025 nhập 75.200 tấn thịt heo đông lạnh, tăng hơn 158% so với cùng kỳ. Hộ nhỏ bán thấp hơn doanh nghiệp (4/2026: 60–70 nghìn so với 68–71 nghìn/kg) và có giá thành cao hơn; chăn nuôi trang trại công nghiệp đã chiếm trên 60% sản lượng thịt hơi.",
+        "refs": [
+          10,
+          12,
+          13,
+          14
+        ]
+      }
+    ],
+    "legal": [
+      {
+        "title": "Kê khai chăn nuôi với UBND xã",
+        "basis": "Điều 54 Luật Chăn nuôi 32/2018/QH14 (sửa đổi bởi Luật 146/2025/QH15); Điều 4, Phụ lục II Thông tư 23/2019/TT-BNNPTNT (sửa đổi bởi Thông tư 18/2023/TT-BNNPTNT); Điều 23 khoản 1, Điều 24 khoản 2 NĐ 211/2026/NĐ-CP",
+        "text": "Phải kê khai khi nuôi từ 05 heo thịt hoặc 01 heo nái, 01 heo đực giống (Phụ lục II TT 23/2019). Kê khai 2 lần/năm (25–30/6 và 25–31/12) và đột xuất trong 3 ngày khi nhập nuôi mới. Từ 01/01/2026, Điều 54 Luật Chăn nuôi giao Bộ trưởng Bộ NN&MT quy định loại, số lượng vật nuôi phải kê khai; chưa xác minh được Thông tư 94/2025/TT-BNNMT có thay Phụ lục II TT 23/2019 hay không – hỏi UBND xã. Phạt (cá nhân): nông hộ gian dối kê khai để trục lợi 1–2 triệu; trang trại quy mô vừa, nhỏ không kê khai 3–5 triệu, gian dối 5–10 triệu, buộc nộp lại số lợi bất hợp pháp.",
+        "refs": [
+          1,
+          2,
+          6,
+          23
+        ]
+      },
+      {
+        "title": "Quy mô, điều kiện chăn nuôi và khu vực cấm",
+        "basis": "Điều 52, 53, 55, 56 Luật Chăn nuôi (sửa đổi bởi Luật 146/2025/QH15, hiệu lực 01/01/2026); Điều 21 NĐ 13/2020/NĐ-CP (sửa đổi bởi NĐ 32/2026/NĐ-CP); Điều 23 khoản 2, Điều 24 khoản 3 NĐ 211/2026/NĐ-CP",
+        "text": "Ngưỡng quy mô (nông hộ / trang trại nhỏ, vừa, lớn): từ 01/01/2026 Điều 52 Luật Chăn nuôi giao Bộ trưởng Bộ NN&MT quy định chi tiết, thay cho Chính phủ; Phụ lục hệ số đơn vị vật nuôi của NĐ 13/2020 bị bãi bỏ từ 21/01/2026. Văn bản cấp Bộ quy định ngưỡng mới: chưa xác minh được (Thông tư 94/2025/TT-BNNMT ký 31/12/2025 hướng dẫn Luật Chăn nuôi, chưa đọc được toàn văn). Luật vẫn giữ định nghĩa 1 đơn vị vật nuôi = 500 kg khối lượng sống. Nông hộ phải có chuồng tách biệt nơi ở, định kỳ vệ sinh, tiêu độc, thu gom xử lý phân, nước thải. Trang trại quy mô vừa, nhỏ phải đáp ứng khoản 1 Điều 55 và khoản 2 Điều 57 Luật Chăn nuôi; bị kiểm tra định kỳ 3 năm/lần, vi phạm phải cam kết khắc phục trong 6 tháng. Luật 21/2026/QH16 (hiệu lực 01/01/2027) sửa tiếp một số điều kiện kinh doanh, chủ yếu với trang trại quy mô lớn. Chăn nuôi ở khu vực không được phép: nông hộ phạt 2–3 triệu, trang trại vừa/nhỏ 10–15 triệu, đều buộc di dời.",
+        "refs": [
+          5,
+          6,
+          23,
+          24,
+          25,
+          20
+        ]
+      },
+      {
+        "title": "Khoảng cách an toàn",
+        "basis": "Điều 5 Thông tư 23/2019/TT-BNNPTNT (sửa đổi bởi Thông tư 18/2023/TT-BNNPTNT, hiệu lực 01/02/2024); Điều 24 khoản 1 điểm b NĐ 211/2026/NĐ-CP",
+        "text": "Trang trại quy mô nhỏ cách khu xử lý chất thải, cộng đồng dân cư ≥100 m, cách trường học, bệnh viện, chợ ≥150 m; quy mô vừa ≥200 m và ≥300 m; giữa hai trang trại của hai chủ ≥50 m. Sở NN&MT Đồng Nai vẫn hướng dẫn áp dụng các mức này (7/2026). Không bảo đảm khoảng cách: phạt 2–3 triệu và buộc giảm quy mô cho phù hợp.",
+        "refs": [
+          2,
+          3,
+          4,
+          6
+        ]
+      },
+      {
+        "title": "Xử lý chất thải",
+        "basis": "Điều 29 NĐ 211/2026/NĐ-CP (hiệu lực 05/8/2026)",
+        "text": "Nông hộ không xử lý phân, nước thải gây ảnh hưởng người xung quanh: phạt 1–2 triệu. Trang trại nhỏ: chất thải rắn không đạt quy chuẩn 2–3 triệu, nước thải không đạt quy chuẩn 3–5 triệu; buộc khắc phục ô nhiễm và báo cáo. Nghĩa vụ môi trường theo Luật Bảo vệ môi trường chưa được đối chiếu trong lần nghiên cứu này.",
+        "refs": [
+          6
+        ]
+      }
+    ],
+    "seed": null,
+    "notes": "Giá heo hơi lấy từ báo chí theo ngày (C), chênh nhau theo vùng 2.000–5.000 đồng/kg; giá thành ~60.000 đồng/kg là con số báo chí đầu 10/2026, không rõ phương pháp. Tỷ trọng thức ăn 60–70% là ý kiến chủ trang trại. Số đợt tăng giá thức ăn 2026 lệch giữa nguồn (CafeF: 7 đợt tăng; VnBusiness: 6 tăng, 1 giảm). Số liệu ASF 2025 lấy từ aviNews và báo chí; chưa có số liệu dịch năm 2026. BCTC DBC, BAF lấy qua bảng tổng hợp CafeF. Mốc 4,2–10,8 triệu/chỗ nuôi là vốn đăng ký của dự án trại lớn năm 2021, không phải giá chuồng nông hộ. Luật Chăn nuôi đã sửa đổi bởi Luật 146/2025/QH15 (01/01/2026) và Luật 21/2026/QH16 (01/01/2027); ngưỡng quy mô mới do Bộ trưởng Bộ NN&MT quy định – chưa xác minh văn bản cụ thể.",
+    "sources": [
+      {
+        "id": 1,
+        "org": "Quốc hội",
+        "year": 2018,
+        "title": "Luật Chăn nuôi số 32/2018/QH14 – Điều 54 Kê khai hoạt động chăn nuôi",
+        "quote": "Tổ chức, cá nhân chăn nuôi phải kê khai hoạt động chăn nuôi với Ủy ban nhân dân cấp xã.",
+        "url": "https://hethongphapluat.com/luat-chan-nuoi-2018/dieu-54",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 2,
+        "org": "Bộ NN&PTNT (bản hợp nhất do Sở Tư pháp Điện Biên đăng)",
+        "year": 2024,
+        "title": "Thông tư 23/2019/TT-BNNPTNT sửa đổi bởi Thông tư 18/2023/TT-BNNPTNT – Điều 4, Điều 5, Phụ lục II",
+        "quote": "a) Kê khai định kỳ 02 lần/năm.",
+        "url": "https://qppl.dienbien.gov.vn/qlvb/vbpq.nsf/3d0f058120469ad34725726600365420/61A4EF830C87492947258B5B000362B0/$file/dongdau3377_10-07-2024-07-26-14_V%C4%82N%20B%E1%BA%A2N%20H%E1%BB%A2P%20NH%E1%BA%A4T%20TH%C3%94NG%20T%C6%AF%20S%E1%BB%90%2023%20V%C3%80%20TT%20S%E1%BB%90%2018%20FINER.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 3,
+        "org": "Sở Tư pháp TP Cần Thơ",
+        "year": 2024,
+        "title": "Quy định mới về khoảng cách an toàn trong chăn nuôi trang trại từ ngày 01/02/2024 (Thông tư 18/2023/TT-BNNPTNT)",
+        "quote": "Khoảng cách từ trang trại chăn nuôi quy mô nhỏ đến khu tập trung xử lý chất thải sinh hoạt, công nghiệp, cộng đồng dân cư tối thiểu là 100 mét",
+        "url": "https://pbgdpl.cantho.gov.vn/quy-dinh-moi-ve-khoang-cach-an-toan-trong-chan-nuoi-trang-trai-tu-ngay-01022024",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 4,
+        "org": "UBND xã Xuân Phú (Đồng Nai), dẫn văn bản 6415/SNNMT ngày 24/7/2026",
+        "year": 2026,
+        "title": "Hướng dẫn khoảng cách an toàn trong chăn nuôi trang trại (30/7/2026)",
+        "quote": "Khoảng cách giữa 02 trang trại chăn nuôi của 02 chủ thể khác nhau tối thiểu là 50 mét.",
+        "url": "https://xuanphu.dongnai.gov.vn/vi/news/kinh-te-moi-truong/huong-dan-khoang-cach-an-toan-trong-chan-nuoi-trang-trai-va-khoang-cach-an-toan-giua-co-so-giet-mo-den-cac-doi-tuong-co-lien-quan-895.html",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 5,
+        "org": "Bộ Nông nghiệp và Môi trường",
+        "year": 2026,
+        "title": "Văn bản hợp nhất 23/VBHN-BNNMT: Nghị định 13/2020/NĐ-CP (sửa đổi bởi NĐ 46/2022, NĐ 32/2026) – Điều 21",
+        "quote": "Chăn nuôi trang trại quy mô vừa, quy mô nhỏ phải đáp ứng các điều kiện quy định tại khoản 1 Điều 55 và khoản 2 Điều 57 Luật Chăn nuôi.",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/23-vbhn-bnnmt.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 6,
+        "org": "Chính phủ",
+        "year": 2026,
+        "title": "Nghị định 211/2026/NĐ-CP xử phạt vi phạm hành chính về chăn nuôi – Điều 23, 24, 29, 42",
+        "quote": "Nghị định này thay thế Nghị định số 14/2021/NĐ-CP ngày 01 tháng 3 năm 2021 của Chính phủ quy định xử phạt vi phạm hành chính về chăn nuôi",
+        "url": "https://nhachannuoi.vn/wp-content/uploads/2026/06/211_2026_ND-CP.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 7,
+        "org": "CafeF",
+        "year": 2026,
+        "title": "Giá lợn hơi chạm đáy mới (23/10/2026)",
+        "quote": "Giá lợn hơi bình quân cả nước hiện còn 48.000 đồng/kg, mức thấp nhất kể từ đầu năm.",
+        "url": "https://cafef.vn/gia-lon-hoi-cham-day-moi-188261023133651276.chn",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 8,
+        "org": "CafeF",
+        "year": 2026,
+        "title": "Giá lợn hơi chạm đáy mới (23/10/2026) – ý kiến chủ trang trại",
+        "quote": "Theo các chủ trang trại, chi phí thức ăn chăn nuôi chiếm khoảng 60 - 70% giá thành sản xuất.",
+        "url": "https://cafef.vn/gia-lon-hoi-cham-day-moi-188261023133651276.chn",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 9,
+        "org": "CafeF",
+        "year": 2026,
+        "title": "Giá lợn hơi tiếp tục giảm mạnh (07/10/2026)",
+        "quote": "giá thức ăn chăn nuôi nhiều lần tăng trong 9 tháng qua, đẩy giá thành chăn nuôi lợn ở mức xấp xỉ 60.000 đồng/kg",
+        "url": "https://cafef.vn/gia-lon-hoi-tiep-tuc-giam-manh-188261007153358942.chn",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 10,
+        "org": "CafeF",
+        "year": 2025,
+        "title": "Giá heo cuối năm khó tăng đột biến (14/11/2025)",
+        "quote": "với mức giá 46.000 - 51.000 đồng/kg hiện nay, người chăn nuôi nhỏ lẻ lỗ khoảng 5.000 đồng/kg",
+        "url": "https://cafef.vn/gia-heo-cuoi-nam-kho-tang-dot-bien-188251114064814408.chn",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 11,
+        "org": "CafeF",
+        "year": 2025,
+        "title": "Giá heo hơi cao ngất, vì sao người chăn nuôi vẫn ngại tái đàn? (16/3/2025)",
+        "quote": "Hơn 2 tháng nay, giá heo hơi tăng mạnh và hiện đang giao dịch ở mức từ từ 74.000 - 81.000 đồng/kg.",
+        "url": "https://cafef.vn/gia-heo-hoi-cao-ngat-vi-sao-nguoi-chan-nuoi-van-ngai-tai-dan-18825031613481682.chn",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 12,
+        "org": "CafeF",
+        "year": 2026,
+        "title": "Giá heo hơi hôm nay, 9-4: Chợ đầu mối có giá mới (09/4/2026)",
+        "quote": "doanh nghiệp chăn nuôi lớn bán ra 68.000 – 71.000 đồng/kg, còn hộ nhỏ lẻ dao động 60.000 – 70.000 đồng/kg",
+        "url": "https://cafef.vn/gia-heo-hoi-hom-nay-9-4-cho-dau-moi-co-gia-moi-188260409094109052.chn",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 13,
+        "org": "CafeF",
+        "year": 2023,
+        "title": "Nghịch lý người nuôi lỗ lớn, giá thịt lợn ở chợ vẫn cao (24/3/2023)",
+        "quote": "giá thành chăn nuôi mô hình hộ gia đình đang ở mức từ 54.000 – 56.000 đồng/kg lợn hơi",
+        "url": "https://cafef.vn/nghich-ly-nguoi-nuoi-lo-lon-gia-thit-lon-o-cho-van-cao-188230324095341102.chn",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 14,
+        "org": "aviNews Việt Nam",
+        "year": 2026,
+        "title": "Toàn cảnh ngành chăn nuôi Việt Nam 2025 (10/02/2026)",
+        "quote": "Vẫn là “bóng ma” ám ảnh ngành lợn với gần 1.000 ổ dịch tại 34 tỉnh thành.",
+        "url": "https://avinews.com/vi/toan-canh-nganh-chan-nuoi-viet-nam-2025/",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 15,
+        "org": "CafeF",
+        "year": 2025,
+        "title": "Dịch tả lợn châu Phi đang diễn biến phức tạp… (28/7/2025)",
+        "quote": "khiến hơn 43.000 con lợn buộc phải tiêu hủy",
+        "url": "https://cafef.vn/dich-ta-lon-chau-phi-dang-dien-bien-phuc-tap-di-cho-thay-thit-co-4-dau-hieu-nay-du-re-beo-cung-khong-mua-188250728093814908.chn",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 16,
+        "org": "CafeF (theo Tiền Phong, dẫn Cục Thú y)",
+        "year": 2023,
+        "title": "Lý do người chăn nuôi 'né' vắc xin dịch tả lợn châu Phi (29/11/2023)",
+        "quote": "trong 10 tháng, cả nước đã xảy ra 481 ổ dịch tại 22 tỉnh, thành phố, phải tiêu hủy hơn 18.000 con lợn",
+        "url": "https://cafef.vn/ly-do-nguoi-chan-nuoi-ne-vac-xin-dich-ta-lon-chau-phi-188231129160855141.chn",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 17,
+        "org": "CafeF (theo Đời sống & Pháp luật)",
+        "year": 2026,
+        "title": "Ra quyết định khởi tố người bán thịt lợn Bùi Thị Hiền SN 1976 (17/10/2026)",
+        "quote": "khởi tố bị can đối với Chu Văn Đoàn và Bùi Thị Hiền về tội Vi phạm quy định về an toàn thực phẩm theo Điều 317 Bộ luật Hình sự",
+        "url": "https://cafef.vn/ra-quyet-dinh-khoi-to-nguoi-ban-thit-lon-bui-thi-hien-sn-1976-188261016195326483.chn",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 18,
+        "org": "CTCP Tập đoàn Dabaco Việt Nam (DBC) – số liệu BCTC hợp nhất năm do CafeF tổng hợp",
+        "year": 2025,
+        "title": "Kết quả hoạt động kinh doanh DBC 2022–2025",
+        "quote": "5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ(20=10-11) … 2.746.567.149.524 (năm 2025)",
+        "url": "https://s.cafef.vn/bao-cao-tai-chinh/DBC/IncSta/2025/0/0/0/0/ket-qua-hoat-dong-kinh-doanh-.chn",
+        "type": "financials",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 19,
+        "org": "CTCP Nông nghiệp BaF Việt Nam (BAF) – số liệu BCTC hợp nhất năm do CafeF tổng hợp",
+        "year": 2025,
+        "title": "Kết quả hoạt động kinh doanh BAF 2022–2025",
+        "quote": "5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ(20=10-11) … 681.851.519.881 (năm 2025)",
+        "url": "https://s.cafef.vn/bao-cao-tai-chinh/BAF/IncSta/2025/0/0/0/0/ket-qua-hoat-dong-kinh-doanh-.chn",
+        "type": "financials",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 20,
+        "org": "Báo Nông nghiệp và Môi trường",
+        "year": 2026,
+        "title": "Những điểm mới định hình ngành chăn nuôi từ năm 2027 (28/8/2026)",
+        "quote": "Từ năm 2027, các quy định về giống, thức ăn và điều kiện chăn nuôi trang trại quy mô lớn sẽ thay đổi",
+        "url": "https://nongnghiepmoitruong.vn/nhung-diem-moi-dinh-hinh-nganh-chan-nuoi-tu-nam-2027-d828358.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 21,
+        "org": "Báo Văn hóa",
+        "year": 2026,
+        "title": "Giá heo hơi hôm nay 28.10.2026: Theo dõi sức mua sau nhịp giảm rộng",
+        "quote": "Giá heo hơi hôm nay 28.10.2026 tham chiếu ngày 27.10 ở mức 44.000–49.000 đồng/kg.",
+        "url": "https://baovanhoa.vn/kinh-te/gia-heo-hoi-hom-nay-28102026-theo-doi-suc-mua-sau-nhip-giam-rong-279657.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 22,
+        "org": "VnBusiness",
+        "year": 2026,
+        "title": "Giá lợn hơi giảm sâu trên cả nước, nhiều nơi xuống 45.000 đồng/kg (26/10/2026)",
+        "quote": "từ đầu năm đến nay, giá thức ăn đã tăng sáu lần và giảm một lần, với mức tăng bình quân khoảng 1.000–1.200 đồng/kg",
+        "url": "https://vnbusiness.vn/gia-lon-hoi-giam-sau-tren-ca-nuoc-nhieu-noi-xuong-45000-dongkg.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 23,
+        "org": "Văn phòng Quốc hội",
+        "year": 2026,
+        "title": "Văn bản hợp nhất Luật Chăn nuôi (sửa đổi bởi Luật 146/2025/QH15 và Luật 21/2026/QH16) – Điều 52 Quy mô chăn nuôi",
+        "quote": "Cụm từ “Chính phủ” được thay thế bởi cụm từ “Bộ trưởng Bộ Nông nghiệp và Môi trường” theo quy định tại điểm b khoản 19 Điều 3 của Luật số 146/2025/QH15",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/10/148-vbhn-vpqh.signed.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 24,
+        "org": "Văn phòng Quốc hội",
+        "year": 2026,
+        "title": "Văn bản hợp nhất Luật Chăn nuôi (sửa đổi bởi Luật 146/2025/QH15 và Luật 21/2026/QH16) – trang đầu",
+        "quote": "Luật số 21/2026/QH16 ngày 24 tháng 8 năm 2026 của Quốc hội sửa đổi, bổ sung một số điều của 10 luật liên quan đến thủ tục hành chính, điều kiện kinh doanh",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/10/148-vbhn-vpqh.signed.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 25,
+        "org": "Văn phòng Quốc hội",
+        "year": 2026,
+        "title": "Văn bản hợp nhất Luật Chăn nuôi – Điều 53 (đơn vị vật nuôi)",
+        "quote": "Mỗi đơn vị vật nuôi tương đương với 500 kg khối lượng vật nuôi sống.",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/10/148-vbhn-vpqh.signed.pdf",
+        "type": "law",
+        "grade": "A",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 26,
+        "org": "Báo Đấu thầu",
+        "year": 2021,
+        "title": "Bình Phước chấp thuận đầu tư dự án trang trại chăn nuôi 100 tỷ đồng (16/6/2021)",
+        "quote": "Dự án có tổng vốn đầu tư dự kiến 100 tỷ đồng (100% vốn góp doanh nghiệp), quy mô 24.000 con/lứa.",
+        "url": "https://baodauthau.vn/binh-phuoc-chap-thuan-dau-tu-du-an-trang-trai-chan-nuoi-100-ty-dong-post108281.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 27,
+        "org": "Báo Đấu thầu",
+        "year": 2021,
+        "title": "Bình Phước chấp thuận nhà đầu tư dự án chăn nuôi 194 tỷ đồng (02/12/2021) – quy mô 18.000 con heo thịt/lứa",
+        "quote": "Dự án có tổng vốn đầu tư 194 tỷ đồng, trong đó vốn góp của nhà đầu tư là 40 tỷ đồng, vốn huy động 125 tỷ đồng",
+        "url": "https://baodauthau.vn/binh-phuoc-chap-thuan-nha-dau-tu-du-an-chan-nuoi-194-ty-dong-post117150.html",
+        "type": "press",
+        "grade": "C",
+        "verified": "page",
+        "accessed": "2026-11-01"
+      },
+      {
+        "id": 28,
+        "org": "Ước tính của nhóm nghiên cứu",
+        "year": 2026,
+        "title": "Vốn đăng ký trên mỗi chỗ nuôi của 2 dự án trại lớn",
+        "quote": "100 tỷ ÷ 24.000 con/lứa ≈ 4,2 triệu/chỗ (nguồn 26); 194 tỷ ÷ 18.000 con/lứa ≈ 10,8 triệu/chỗ (nguồn 27). Vốn dự án gồm đất, xử lý chất thải, hạ tầng – không phải giá chuồng nông hộ.",
+        "type": "estimate",
+        "grade": "C",
+        "accessed": "2026-11-01"
+      }
+    ]
+  }
+]
