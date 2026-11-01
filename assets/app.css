@@ -143,6 +143,7 @@ abbr.term {
 .brand-mark svg { width: 18px; height: 18px; }
 .search {
   flex: 1;
+  min-width: 0;
   max-width: 460px;
   margin-left: auto;
   display: flex;
@@ -384,6 +385,9 @@ main { min-width: 0; max-width: 860px; padding-block: 28px 80px; }
 .badge.risk-mid, .badge.legal-conditional { background: var(--amber-soft); color: var(--amber); font-weight: 600; }
 .badge.risk-low, .badge.legal-simple { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
 .badge.kind-rule { background: var(--ink); color: var(--paper); font-weight: 600; }
+.badge.outcome-rising, .badge.outcome-survived { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.badge.outcome-declining { background: var(--amber-soft); color: var(--amber); font-weight: 600; }
+.badge.outcome-failed { background: var(--seal-soft); color: var(--seal); font-weight: 600; }
 .summary { margin: 0; font-size: var(--step-0); }
 
 /* Dải thông số kiểu term sheet */
@@ -448,7 +452,62 @@ main { min-width: 0; max-width: 860px; padding-block: 28px 80px; }
   place-items: center;
   margin-top: 1px;
 }
-.risks b, .legal b { display: block; font-weight: 600; }
+.risks b, .legal b, .lessons b { display: block; font-weight: 600; }
+.rows .k.k-lesson { color: var(--accent); }
+.lessons { margin: 0; padding: 0; list-style: none; counter-reset: l; display: flex; flex-direction: column; gap: 10px; }
+.lessons li { counter-increment: l; display: grid; grid-template-columns: 24px minmax(0, 1fr); gap: 8px; }
+.lessons li::before {
+  content: counter(l);
+  font-family: var(--font-data);
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--accent-ink);
+  background: var(--accent);
+  border-radius: 50%;
+  width: 22px;
+  height: 22px;
+  display: grid;
+  place-items: center;
+  margin-top: 1px;
+}
+/* Dòng thời gian chuyển đổi: năm bên trái, vạch nối dọc */
+.timeline { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; }
+.timeline li {
+  display: grid;
+  grid-template-columns: 64px minmax(0, 1fr);
+  gap: 12px;
+  padding-bottom: 10px;
+  position: relative;
+}
+.timeline li::before {
+  content: "";
+  position: absolute;
+  left: 70px;
+  top: 8px;
+  bottom: 0;
+  border-left: 1px solid var(--line);
+}
+.timeline li:last-child::before { display: none; }
+.timeline .yr {
+  font-family: var(--font-data);
+  font-size: 12.5px;
+  font-weight: 700;
+  color: var(--accent);
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  padding-top: 1px;
+}
+.timeline li > div { padding-left: 14px; position: relative; }
+.timeline li > div::before {
+  content: "";
+  position: absolute;
+  left: -2px;
+  top: 8px;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--accent);
+}
 .legal { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 12px; }
 .legal li { border-left: 2px solid var(--seal); padding-left: 12px; }
 .basis {

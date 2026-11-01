@@ -1,6 +1,6 @@
 # Báo cáo kiểm tra nguồn
 
-Tổng 642 nguồn có link · câu trích khớp nguyên văn: 572 · gần khớp (≥ 90% từ): 22 · không thấy: 14 · trang chặn/không mở được: 20 · PDF scan phải đọc bằng mắt: 14.
+Tổng 958 nguồn có link · câu trích khớp nguyên văn: 843 · gần khớp (≥ 90% từ): 29 · không thấy: 19 · trang chặn/không mở được: 47 · PDF scan phải đọc bằng mắt: 20.
 
 "Không thấy" chưa chắc là trích sai: trang có thể dựng nội dung bằng JavaScript. Mở tay để kiểm.
 
@@ -44,7 +44,7 @@ Tổng 642 nguồn có link · câu trích khớp nguyên văn: 572 · gần kh�
 | 0.5 bao-ho-nhan-hieu-thuong-hieu-nho | 8 | 200 | page | có | https://caselaw.vn/van-ban-phap-luat/261944-thong-tu-so-263-2016-tt-btc-ngay-14-11-2016-cua-bo-truong-bo-tai-chinh-quy-dinh-muc-thu-che-do-thu-nop-quan-ly-va-su-dung-phi-le-phi-so-huu-cong-nghiep |
 | 0.5 bao-ho-nhan-hieu-thuong-hieu-nho | 9 | 200 | page | có | https://caselaw.vn/van-ban-phap-luat/261944-thong-tu-so-263-2016-tt-btc-ngay-14-11-2016-cua-bo-truong-bo-tai-chinh-quy-dinh-muc-thu-che-do-thu-nop-quan-ly-va-su-dung-phi-le-phi-so-huu-cong-nghiep |
 | 0.5 bao-ho-nhan-hieu-thuong-hieu-nho | 10 | 200 | page | có | https://baochinhphu.vn/xu-ly-dut-diem-don-ton-dong-mo-rong-khong-gian-phat-trien-cho-so-huu-tri-tue-102260206100534007.htm |
-| 0.5 bao-ho-nhan-hieu-thuong-hieu-nho | 11 | 200 | page | KHÔNG THẤY (11% từ) | https://plo.vn/tranh-chap-quanh-cai-ten-pho-hung-post307464.html |
+| 0.5 bao-ho-nhan-hieu-thuong-hieu-nho | 11 | 200 | page | có | https://plo.vn/tranh-chap-quanh-cai-ten-pho-hung-post307464.html |
 | 0.5 bao-ho-nhan-hieu-thuong-hieu-nho | 12 | 200 | page | có | https://vnexpress.net/gao-st25-bi-doanh-nghiep-my-dang-ky-thuong-hieu-4266600.html |
 | 0.5 bao-ho-nhan-hieu-thuong-hieu-nho | 13 | 200 | page | có | https://tuoitre.vn/nhan-hieu-gao-st24-va-st25-cua-ky-su-ho-quang-cua-duoc-bao-ve-tai-uc-20221004174620558.htm |
 | 0.6 pccc-cua-hang-quan-nho | 1 | 200 | page | gần khớp (100% từ) | https://congbao.chinhphu.vn/van-ban/luat-so-55-2024-qh15-43594.htm |
@@ -522,7 +522,7 @@ Tổng 642 nguồn có link · câu trích khớp nguyên văn: 572 · gần kh�
 | 4.4 xe-day-kiot-luu-dong | 26 | 200 | page | có | https://jhebreoxwuimlqwvjdok.supabase.co/storage/v1/object/public/mentee_docs/2025-report__Thi%20truong%20F&B%20nam%202025.pdf |
 | 5.1 giat-say-tu-dong | 1 | 200 | page | có | https://en.evn.com.vn/d/en-US/news/RETAIL%20ELECTRICITY%20TARIFF-60-28-252 |
 | 5.1 giat-say-tu-dong | 2 | 200 | page | có | https://www.evn.com.vn/d/vi-VN/news/Dieu-chinh-gia-ban-le-dien-binh-quan-tu-ngay-01-thang-11-nam-2026-60-142-510169 |
-| 5.1 giat-say-tu-dong | 3 | 200 | page | KHÔNG THẤY (62% từ) | https://tuoitre.vn/gia-dien-giam-2-chi-tiet-muc-gia-5-bac-thang-dien-sinh-hoat-100261101091531402.htm |
+| 5.1 giat-say-tu-dong | 3 | 200 | page | KHÔNG THẤY (66% từ) | https://tuoitre.vn/gia-dien-giam-2-chi-tiet-muc-gia-5-bac-thang-dien-sinh-hoat-100261101091531402.htm |
 | 5.1 giat-say-tu-dong | 4 | 200 | page | có | https://luatvietnam.vn/linh-vuc-khac/gia-dien-gio-cao-diem-la-bao-nhieu-ap-dung-vao-khung-thoi-gian-nao-883-109187-article.html |
 | 5.1 giat-say-tu-dong | 5 | 200 | page | có | https://hawacom.vn/thong-tin-gia-nuoc |
 | 5.1 giat-say-tu-dong | 6 | 200 | page | có | https://www.sggp.org.vn/don-gia-nuoc-sinh-hoat-ho-gia-dinh-tinh-theo-dinh-muc-post787873.html |
@@ -573,7 +573,7 @@ Tổng 642 nguồn có link · câu trích khớp nguyên văn: 572 · gần kh�
 | 5.2 homestay-cho-thue-ngan-han | 25 | 200 | page | có | https://www.airdna.co/vacation-rental-data/app/vn/default/lam-dong/overview |
 | 5.2 homestay-cho-thue-ngan-han | 26 | 200 | page | KHÔNG THẤY (0% từ) | https://www.airbnb.com/help/article/1857 |
 | 5.2 homestay-cho-thue-ngan-han | 27 | 200 | page | có | https://partner.booking.com/en-us/help/commission-invoices-tax/commission/understanding-our-commission |
-| 5.2 homestay-cho-thue-ngan-han | 28 | 200 | page | KHÔNG THẤY (0% từ) | https://portal.vietcombank.com.vn/Usercontrols/TVPortal.TyGia/pXML.aspx |
+| 5.2 homestay-cho-thue-ngan-han | 28 | 200 | page | KHÔNG THẤY (25% từ) | https://portal.vietcombank.com.vn/Usercontrols/TVPortal.TyGia/pXML.aspx |
 | 5.2 homestay-cho-thue-ngan-han | 29 | 200 | page | có | https://thoibaotaichinhvietnam.vn/gia-ban-chung-cu-tai-ha-noi-va-tp-ho-chi-minh-van-tiep-tuc-tang-loi-suat-thue-giam-174381.html |
 | 5.2 homestay-cho-thue-ngan-han | 30 | 200 | page | có | https://www.sggp.org.vn/noi-lo-homestay-post530843.html |
 | 5.2 homestay-cho-thue-ngan-han | 31 | 200 | page | có | https://cafef.vn/cam-cho-thue-chung-cu-ngan-ngay-nha-dau-tu-ngoi-tren-lua-chuyen-gia-danh-gia-loi-suat-cho-thue-o-mo-hinh-nhu-airbnb-se-giam-188250313092300463.chn |
@@ -648,3 +648,319 @@ Tổng 642 nguồn có link · câu trích khớp nguyên văn: 572 · gần kh�
 | 5.4 lop-day-them-trung-tam-ngoai-ngu | 26 | 200 | page | có | https://dantri.com.vn/lao-dong-viec-lam/nhieu-giao-vien-nuoc-ngoai-rai-tram-don-xin-viec-chap-nhan-luong-thap-20240923154137974.htm |
 | 5.4 lop-day-them-trung-tam-ngoai-ngu | 28 | 200 | page | có | https://pbgdpl.cantho.gov.vn/mot-so-quy-dinh-cua-nghi-dinh-so-1412026nd-cp-ngay-2942026-cua-chinh-phu |
 | 5.4 lop-day-them-trung-tam-ngoai-ngu | 29 | 200 | page | có | https://thoibaotaichinhvietnam.vn/nang-nguong-doanh-thu-khong-phai-nop-thue-len-1-ty-dong-dieu-ho-kinh-doanh-mong-cho-da-thanh-hien-thuc-196524.html |
+| 6.1 doanh-nghiep-nho-va-vua | 1 | 200 | page | có | https://vcci.com.vn/legal-document/nghi-dinh-802021nd-cp-huong-dan-luat-ho-tro-doanh-nghiep-nho-va-vua |
+| 6.1 doanh-nghiep-nho-va-vua | 2 | 200 | page | có | https://vcci.com.vn/legal-document/nghi-dinh-802021nd-cp-huong-dan-luat-ho-tro-doanh-nghiep-nho-va-vua |
+| 6.1 doanh-nghiep-nho-va-vua | 3 | 200 | page | có | https://vcci.com.vn/legal-document/nghi-dinh-802021nd-cp-huong-dan-luat-ho-tro-doanh-nghiep-nho-va-vua |
+| 6.1 doanh-nghiep-nho-va-vua | 4 | 200 | page | có | https://portal.mof.gov.vn/hoidapcstc/home/cthoidap/160489 |
+| 6.1 doanh-nghiep-nho-va-vua | 5 | 200 | page | có | https://portal.mof.gov.vn/hoidapcstc/home/cthoidap/165930 |
+| 6.1 doanh-nghiep-nho-va-vua | 6 | 200 | page | có | https://vneconomy.vn/go-vuong-dieu-kien-mien-thue-thu-nhap-3-nam-cho-doanh-nghiep-nho-va-vua.htm |
+| 6.1 doanh-nghiep-nho-va-vua | 7 | 200 | page | có | https://thuehaiquan.tapchikinhtetaichinh.vn/mien-thue-thu-nhap-doanh-nghiep-cho-doanh-nghiep-nho-va-vua-khoi-nghiep-sang-tao-140785.html |
+| 6.1 doanh-nghiep-nho-va-vua | 8 | 200 | page | có | https://luatvietnam.vn/thue/luat-thue-thu-nhap-doanh-nghiep-2025-so-67-2025-qh15-404386-d1.html |
+| 6.1 doanh-nghiep-nho-va-vua | 9 | 200 | page | có | https://luatvietnam.vn/thue/luat-thue-thu-nhap-doanh-nghiep-2025-so-67-2025-qh15-404386-d1.html |
+| 6.1 doanh-nghiep-nho-va-vua | 10 | 200 | page | có | https://pbgdpl.cantho.gov.vn/mot-so-quy-dinh-cua-nghi-dinh-so-1412026nd-cp-ngay-2942026-cua-chinh-phu |
+| 6.1 doanh-nghiep-nho-va-vua | 11 | 200 | page | có | https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-nghi-quyet-so-43-2026-qh16-ve-giam-thue-thu-nhap-ca-nhan-thue-thu-nhap-doanh-nghiep-2796.html |
+| 6.1 doanh-nghiep-nho-va-vua | 12 | 200 | page | có | https://thoibaotaichinhvietnam.vn/thay-doi-lon-de-tao-dong-luc-tang-truong-200693.html |
+| 6.2 chuyen-ho-len-cong-ty | 1 | 200 | page | có | https://luatvietnam.vn/thue/luat-thue-gia-tri-gia-tang-2024-so-48-2024-qh15-379409-d1.html |
+| 6.2 chuyen-ho-len-cong-ty | 2 | 200 | page | có | https://pbgdpl.cantho.gov.vn/mot-so-quy-dinh-cua-nghi-dinh-so-1412026nd-cp-ngay-2942026-cua-chinh-phu |
+| 6.2 chuyen-ho-len-cong-ty | 3 | 200 | page | có | https://xaydungchinhsach.chinhphu.vn/noi-dung-chinh-cua-luat-thue-thu-nhap-ca-nhan-so-109-2025-qh15-119260123144204743.htm |
+| 6.2 chuyen-ho-len-cong-ty | 4 | 200 | page | có | https://luatvietnam.vn/thue/luat-thue-thu-nhap-doanh-nghiep-2025-so-67-2025-qh15-404386-d1.html |
+| 6.2 chuyen-ho-len-cong-ty | 5 | 200 | page | có | https://hethongphapluat.com/nghi-dinh-168-2025-nd-cp-ve-dang-ky-doanh-nghiep/dieu-82 |
+| 6.2 chuyen-ho-len-cong-ty | 6 | 200 | page | có | https://luatvietnam.vn/doanh-nghiep/luat-doanh-nghiep-2020-so-59-2020-qh14-186272-d1.html |
+| 6.2 chuyen-ho-len-cong-ty | 7 | 200 | page | có | https://hethongphapluat.com/nghi-dinh-168-2025-nd-cp-ve-dang-ky-doanh-nghiep/dieu-27 |
+| 6.2 chuyen-ho-len-cong-ty | 8 | 200 | page | có | https://hethongphapluat.com/nghi-dinh-168-2025-nd-cp-ve-dang-ky-doanh-nghiep/dieu-27 |
+| 6.2 chuyen-ho-len-cong-ty | 9 | 200 | page | có | https://vcci.com.vn/legal-document/nghi-dinh-802021nd-cp-huong-dan-luat-ho-tro-doanh-nghiep-nho-va-vua |
+| 6.2 chuyen-ho-len-cong-ty | 10 | 200 | page | có | https://vcci.com.vn/legal-document/nghi-dinh-802021nd-cp-huong-dan-luat-ho-tro-doanh-nghiep-nho-va-vua |
+| 6.2 chuyen-ho-len-cong-ty | 11 | 200 | page | có | https://vpubnd.daklak.gov.vn/CMS/Content/VanBan/2026/8.2026/2473_Q%C4%90_UBND%20PL.pdf |
+| 6.2 chuyen-ho-len-cong-ty | 12 | 200 | page | có | https://thoibaotaichinhvietnam.vn/doanh-nghiep-sieu-nho-duoc-su-dung-nguoi-than-lam-ke-toan-198139.html |
+| 6.2 chuyen-ho-len-cong-ty | 13 | 200 | page | có | https://ketoananpha.vn/dich-vu-ke-toan-tron-goi.html |
+| 6.2 chuyen-ho-len-cong-ty | 14 | 200 | page | có | https://thue.man.net.vn/bao-gia-dich-vu-ke-toan-thue/ |
+| 6.2 chuyen-ho-len-cong-ty | 16 | 200 | page | có | https://xaydungchinhsach.chinhphu.vn/tu-thang-1-2026-nguoi-nop-thue-khong-phai-nop-le-phi-mon-bai-119260126110926562.htm |
+| 6.2 chuyen-ho-len-cong-ty | 17 | 200 | page | có | https://luatvietnam.vn/thue/luat-thue-thu-nhap-doanh-nghiep-2025-so-67-2025-qh15-404386-d1.html |
+| 6.2 chuyen-ho-len-cong-ty | 18 | 200 | page | có | https://portal.mof.gov.vn/hoidapcstc/home/cthoidap/166540 |
+| 6.2 chuyen-ho-len-cong-ty | 19 | 200 | page | có | https://portal.mof.gov.vn/hoidapcstc/home/cthoidap/165930 |
+| 6.2 chuyen-ho-len-cong-ty | 20 | 200 | page | có | https://vcci.com.vn/legal-document/nghi-dinh-802021nd-cp-huong-dan-luat-ho-tro-doanh-nghiep-nho-va-vua |
+| 6.2 chuyen-ho-len-cong-ty | 21 | 200 | page | có | https://thoibaotaichinhvietnam.vn/thay-doi-lon-de-tao-dong-luc-tang-truong-200693.html |
+| 6.2 chuyen-ho-len-cong-ty | 22 | 200 | page | có | https://vcci.com.vn/legal-document/nghi-dinh-802021nd-cp-huong-dan-luat-ho-tro-doanh-nghiep-nho-va-vua |
+| 6.2 chuyen-ho-len-cong-ty | 23 | 200 | page | có | https://vcci.com.vn/legal-document/nghi-dinh-802021nd-cp-huong-dan-luat-ho-tro-doanh-nghiep-nho-va-vua |
+| 6.3 goi-von-tnhh-co-phan | 1 | 200 | page | có | https://luatvietnam.vn/doanh-nghiep/luat-doanh-nghiep-2020-so-59-2020-qh14-186272-d1.html |
+| 6.3 goi-von-tnhh-co-phan | 2 | 200 | page | có | https://luatvietnam.vn/doanh-nghiep/luat-doanh-nghiep-2020-so-59-2020-qh14-186272-d1.html |
+| 6.3 goi-von-tnhh-co-phan | 3 | 200 | page | có | https://luatvietnam.vn/doanh-nghiep/luat-doanh-nghiep-2020-so-59-2020-qh14-186272-d1.html |
+| 6.3 goi-von-tnhh-co-phan | 4 | 200 | page | có | https://luatvietnam.vn/doanh-nghiep/luat-doanh-nghiep-2020-so-59-2020-qh14-186272-d1.html |
+| 6.3 goi-von-tnhh-co-phan | 5 | 200 | page | có | https://luatvietnam.vn/doanh-nghiep/luat-doanh-nghiep-2020-so-59-2020-qh14-186272-d1.html |
+| 6.3 goi-von-tnhh-co-phan | 6 | 200 | page | có | https://luatvietnam.vn/doanh-nghiep/luat-doanh-nghiep-2020-so-59-2020-qh14-186272-d1.html |
+| 6.3 goi-von-tnhh-co-phan | 7 | 200 | page | có | https://luatvietnam.vn/doanh-nghiep/luat-doanh-nghiep-2020-so-59-2020-qh14-186272-d1.html |
+| 6.3 goi-von-tnhh-co-phan | 8 | 200 | page | có | https://luatvietnam.vn/doanh-nghiep/luat-doanh-nghiep-2020-so-59-2020-qh14-186272-d1.html |
+| 6.3 goi-von-tnhh-co-phan | 9 | 200 | page | có | https://luatvietnam.vn/doanh-nghiep/luat-doanh-nghiep-2020-so-59-2020-qh14-186272-d1.html |
+| 6.3 goi-von-tnhh-co-phan | 10 | 200 | page | có | https://legalzone.vn/wp-content/uploads/legal-sources/securities/vbhn-102-vbhn-vpqh-luat-chung-khoan.pdf |
+| 6.3 goi-von-tnhh-co-phan | 11 | 0 | page | không mở được | https://vjol.info.vn/nhanuocphapluat/vi/article/view/130037 |
+| 6.3 goi-von-tnhh-co-phan | 12 | 200 | page | có | https://baodauthau.vn/de-xuat-quy-dinh-ve-huy-dong-von-cong-dong-cho-startup-trong-trung-tam-tai-chinh-quoc-te-post185099.html |
+| 6.3 goi-von-tnhh-co-phan | 13 | 200 | page | có | https://mbs.com.vn/files/uploads/2025/04/156_2020_nd-cp_xu-phat-hc-trong-linh-vuc-ck.pdf |
+| 6.3 goi-von-tnhh-co-phan | 14 | 200 | page | có | https://mbs.com.vn/files/uploads/2025/04/156_2020_nd-cp_xu-phat-hc-trong-linh-vuc-ck.pdf |
+| 6.3 goi-von-tnhh-co-phan | 15 | 200 | page | có | https://doanhnhan.baophapluat.vn/vi-pham-phat-hanh-co-phieu-rieng-le-bi-phat-toi-15-ty-dong-theo-nghi-dinh-moi-co-hieu-luc-tu-dau-nam-2026-89214.html |
+| 6.3 goi-von-tnhh-co-phan | 16 | 200 | page | có | https://hethongphapluat.com/bo-luat-hinh-su-2015/dieu-174 |
+| 6.3 goi-von-tnhh-co-phan | 17 | 200 | page | có | https://vietnamnet.vn/chu-tich-alibaba-nguyen-thai-luyen-lanh-an-tu-chung-than-2095487.html |
+| 6.3 goi-von-tnhh-co-phan | 18 | 200 | page | có | https://www.sggp.org.vn/y-an-tu-chung-than-voi-nguyen-thai-luyen-chu-tich-hdqt-cong-ty-alibaba-post690361.html |
+| 6.3 goi-von-tnhh-co-phan | 19 | 200 | page | có | https://hethongphapluat.com/luat-kiem-toan-doc-lap-2011/dieu-37 |
+| 6.3 goi-von-tnhh-co-phan | 20 | 200 | page | có | https://portal.mof.gov.vn/hoidapcstc/home/cthoidap/157710 |
+| 6.3 goi-von-tnhh-co-phan | 21 | 200 | page | có | https://www.grantthornton.com.vn/globalassets/__shared__/media/thay-i-lut-kim-toan-c-lp-va-cac-vn--lien-quan-i-vi-i-tng-c-kim-toan.pdf |
+| 6.3 goi-von-tnhh-co-phan | 22 | 200 | page | có | https://luatvietnam.vn/thue-phi-le-phi/vi-pham-khi-thue-cong-ty-kiem-toan-565-103758-article.html |
+| 6.3 goi-von-tnhh-co-phan | 23 | 200 | page | có | https://kiemtoan.man.net.vn/gia-kiem-toan-bao-cao-tai-chinh/ |
+| 6.3 goi-von-tnhh-co-phan | 24 | 200 | page | có | https://luatvietnam.vn/doanh-nghiep/luat-doanh-nghiep-2020-so-59-2020-qh14-186272-d1.html |
+| 6.4 dai-chung-hoa-niem-yet | 1 | 200 | page | có | https://legalzone.vn/wp-content/uploads/legal-sources/securities/vbhn-102-vbhn-vpqh-luat-chung-khoan.pdf |
+| 6.4 dai-chung-hoa-niem-yet | 2 | 200 | page | có | https://legalzone.vn/wp-content/uploads/legal-sources/securities/vbhn-102-vbhn-vpqh-luat-chung-khoan.pdf |
+| 6.4 dai-chung-hoa-niem-yet | 3 | 200 | page | có | https://hethongphapluat.com/nghi-dinh-155-2020-nd-cp-huong-dan-luat-chung-khoan/dieu-109 |
+| 6.4 dai-chung-hoa-niem-yet | 4 | 200 | page | có | https://baolamdong.vn/toan-van-nghi-dinh-245-2025-nd-cp-sua-doi-bo-sung-nghi-dinh-155-2020-nd-cp-quy-dinh-chi-tiet-thi-hanh-mot-so-dieu-cua-luat-chung-khoan-391344.html |
+| 6.4 dai-chung-hoa-niem-yet | 5 | 200 | page | có | https://thoibaotaichinhvietnam.vn/cuoi-nam-2026-hoan-tat-chuyen-co-phieu-tren-hnx-sang-hose-142418.html |
+| 6.4 dai-chung-hoa-niem-yet | 6 | 200 | page | có | https://doanhnhan.baophapluat.vn/hon-300-co-phieu-roi-hnx-sang-hose-bai-toan-thanh-khoan-va-suc-ep-tieu-chuan-niem-yet-moi.html |
+| 6.4 dai-chung-hoa-niem-yet | 7 | 200 | page | có | https://legalzone.vn/wp-content/uploads/legal-sources/securities/vbhn-102-vbhn-vpqh-luat-chung-khoan.pdf |
+| 6.4 dai-chung-hoa-niem-yet | 8 | 200 | page | có | https://hethongphapluat.com/nghi-dinh-155-2020-nd-cp-huong-dan-luat-chung-khoan/dieu-109 |
+| 6.4 dai-chung-hoa-niem-yet | 9 | 200 | page | có | https://mbs.com.vn/files/uploads/2025/04/25_2022_tt-btc_quy-dinh-muc-thu-trong-linh-vuc-ck.pdf |
+| 6.4 dai-chung-hoa-niem-yet | 10 | 200 | page | có | https://luatvietnam.vn/chinh-sach/thong-tu-64-2025-tt-btc-quy-dinh-muc-thu-mien-phi-ho-tro-doanh-nghiep-nguoi-dan-404202-d1.html |
+| 6.4 dai-chung-hoa-niem-yet | 11 | 200 | page | có | https://luatvietnam.vn/chung-khoan/thong-tu-101-2021-tt-btc-bo-tai-chinh-213137-d1.html |
+| 6.4 dai-chung-hoa-niem-yet | 12 | 200 | page | có | https://mbs.com.vn/files/uploads/2025/04/156_2020_nd-cp_xu-phat-hc-trong-linh-vuc-ck.pdf |
+| 6.4 dai-chung-hoa-niem-yet | 13 | 200 | page | có | https://doanhnhan.baophapluat.vn/vi-pham-phat-hanh-co-phieu-rieng-le-bi-phat-toi-15-ty-dong-theo-nghi-dinh-moi-co-hieu-luc-tu-dau-nam-2026-89214.html |
+| 6.4 dai-chung-hoa-niem-yet | 14 | 200 | page | có | https://legalzone.vn/wp-content/uploads/legal-sources/securities/vbhn-102-vbhn-vpqh-luat-chung-khoan.pdf |
+| 6.4 dai-chung-hoa-niem-yet | 15 | 200 | page | có | https://hethongphapluat.com/bo-luat-hinh-su-2015/dieu-209 |
+| 6.4 dai-chung-hoa-niem-yet | 16 | 200 | page | có | https://theleader.vn/tcbs-se-ipo-hon-231-trieu-co-phieu-vao-ngay-19-8-d41647.html |
+| 6.4 dai-chung-hoa-niem-yet | 17 | 200 | page | có | https://thoibaotaichinhvietnam.vn/dot-ipo-cua-tcbs-thu-hut-luong-dang-ky-mua-gap-25-lan-chao-ban-183550.html |
+| 6.4 dai-chung-hoa-niem-yet | 18 | 200 | page | có | https://theleader.vn/tcbs-chinh-thuc-niem-yet-von-hoa-gan-45-ty-usd-d42600.html |
+| 6.5 nhom-cong-ty-dau-tu-ra-nuoc-ngoai | 1 | 200 | page | có | https://luatvietnam.vn/doanh-nghiep/luat-doanh-nghiep-2020-so-59-2020-qh14-186272-d1.html |
+| 6.5 nhom-cong-ty-dau-tu-ra-nuoc-ngoai | 2 | 200 | page | có | https://luatvietnam.vn/doanh-nghiep/luat-doanh-nghiep-2020-so-59-2020-qh14-186272-d1.html |
+| 6.5 nhom-cong-ty-dau-tu-ra-nuoc-ngoai | 3 | 200 | page | có | https://luatvietnam.vn/doanh-nghiep/luat-doanh-nghiep-2020-so-59-2020-qh14-186272-d1.html |
+| 6.5 nhom-cong-ty-dau-tu-ra-nuoc-ngoai | 4 | 200 | page | có | https://luatvietnam.vn/doanh-nghiep/luat-doanh-nghiep-2020-so-59-2020-qh14-186272-d1.html |
+| 6.5 nhom-cong-ty-dau-tu-ra-nuoc-ngoai | 5 | 200 | page | có | https://luatvietnam.vn/doanh-nghiep/luat-doanh-nghiep-2020-so-59-2020-qh14-186272-d1.html |
+| 6.5 nhom-cong-ty-dau-tu-ra-nuoc-ngoai | 6 | 200 | page | có | https://hethongphapluat.com/luat-dau-tu-2025/dieu-41 |
+| 6.5 nhom-cong-ty-dau-tu-ra-nuoc-ngoai | 7 | 200 | page | có | https://hethongphapluat.com/luat-dau-tu-2025/dieu-42 |
+| 6.5 nhom-cong-ty-dau-tu-ra-nuoc-ngoai | 8 | 200 | page | có | https://apolatlegal.com/wp-content/uploads/2026/07/Nghi-dinh-103-2026-ND-CP.pdf |
+| 6.5 nhom-cong-ty-dau-tu-ra-nuoc-ngoai | 9 | 200 | page | có | https://apolatlegal.com/wp-content/uploads/2026/07/Nghi-dinh-103-2026-ND-CP.pdf |
+| 6.5 nhom-cong-ty-dau-tu-ra-nuoc-ngoai | 10 | 200 | page | có | https://apolatlegal.com/wp-content/uploads/2026/07/Nghi-dinh-103-2026-ND-CP.pdf |
+| 6.5 nhom-cong-ty-dau-tu-ra-nuoc-ngoai | 11 | 200 | page | có | https://apolatlegal.com/wp-content/uploads/2026/07/Nghi-dinh-103-2026-ND-CP.pdf |
+| 6.5 nhom-cong-ty-dau-tu-ra-nuoc-ngoai | 12 | 200 | page | có | https://luatvietnam.vn/thue/luat-thue-thu-nhap-doanh-nghiep-2025-so-67-2025-qh15-404386-d1.html |
+| 6.5 nhom-cong-ty-dau-tu-ra-nuoc-ngoai | 13 | 200 | page | có | https://doanhnhan.baophapluat.vn/truoc-them-dhdcd-2026-viettel-global-vgi-len-ke-hoach-doanh-thu-ky-luc-co-tuc-33-nhung-van-chim-trong-an-canh-bao-vi-diem-mu-cameroon.html |
+| 6.5 nhom-cong-ty-dau-tu-ra-nuoc-ngoai | 14 | 200 | page | có | https://doanhnhan.baophapluat.vn/truoc-them-dhdcd-2026-viettel-global-vgi-len-ke-hoach-doanh-thu-ky-luc-co-tuc-33-nhung-van-chim-trong-an-canh-bao-vi-diem-mu-cameroon.html |
+| 6.5 nhom-cong-ty-dau-tu-ra-nuoc-ngoai | 15 | 200 | page | có | https://baoquocte.vn/kinh-te-viet-nam-nam-2025-von-dau-tu-ra-nuoc-ngoai-tang-887-346265.html |
+| 6.5 nhom-cong-ty-dau-tu-ra-nuoc-ngoai | 16 | 200 | page | có | https://nhadautu.vn/doanh-thu-tang-truong-16-quy-khong-ngung-viettel-global-lap-ky-luc-loi-nhuan-ca-nam-hon-11000-ty-d102674.html |
+| 6.5 nhom-cong-ty-dau-tu-ra-nuoc-ngoai | 17 | 200 | page | có | https://luatvietnam.vn/thue/luat-thue-thu-nhap-doanh-nghiep-2025-so-67-2025-qh15-404386-d1.html |
+| 7.1 viettel | 1 | 200 | page | có | https://static2.vietstock.vn/data/OTC/2019/BCTN/VN/Viettel_Baocaothuongnien_2019.pdf |
+| 7.1 viettel | 2 | 200 | page | có | https://static2.vietstock.vn/data/OTC/2021/BCTN/VN/Viettel_Baocaothuongnien_2021.pdf |
+| 7.1 viettel | 3 | 200 | page | có | https://vneconomy.vn/viettel-nop-409-nghin-ty-dong-vao-ngan-sach-nha-nuoc-nam-2025.htm |
+| 7.1 viettel | 4 | 200 | page | có | https://doanhnhan.baophapluat.vn/viettel-bao-lai-gan-57-000-ty-dong-nam-2025-doanh-thu-quoc-te-dat-ky-luc-3-3-ty-usd-ha-tang-5g-phu-rong.html |
+| 7.1 viettel | 5 | 200 | page | có | https://plo.vn/viettel-30-nam-lich-su-post527212.html |
+| 7.1 viettel | 6 | 200 | page | có | https://baodautu.vn/810-thi-truong-quoc-te-cua-viettel-da-kinh-doanh-co-lai-d84356.html |
+| 7.1 viettel | 7 | 200 | page | có | https://bbw.vn/viettel-global-bao-lai-tang-57-nam-2025-56990.html |
+| 7.1 viettel | 8 | 200 | page | có | https://doanhnhan.baophapluat.vn/truoc-them-dhdcd-2026-viettel-global-vgi-len-ke-hoach-doanh-thu-ky-luc-co-tuc-33-nhung-van-chim-trong-an-canh-bao-vi-diem-mu-cameroon.html |
+| 7.1 viettel | 9 | 200 | page | có | https://vietnamfinance.vn/viettel-global-dat-muc-tieu-doanh-thu-50000-ty-dong-nam-2026-d143882.html |
+| 7.1 viettel | 10 | 200 | page | có | https://www.billionaires.africa/2026/10/02/cameroonian-billionaire-baba-danpullo-at-war-with-vietnams-viettel-over-nexttel/ |
+| 7.1 viettel | 11 | 200 | page | có | https://itweb.africa/content/lLn14MmQaXpMJ6Aa |
+| 7.1 viettel | 12 | 200 | page | KHÔNG THẤY (33% từ) | https://www.federalregister.gov/documents/2025/01/06/2024-31468/revisions-to-the-entity-list |
+| 7.1 viettel | 13 | 200 | page | có | https://www.usasean.org/article/us-department-commerce-adds-mytel-bis-entities-list |
+| 7.1 viettel | 14 | 200 | page | có | https://vietnamfinance.vn/viettel-lay-tien-o-dau-de-lam-vu-khi-d132570.html |
+| 7.1 viettel | 15 | 200 | page | có | https://mekongasean.vn/nam-2025-viettel-dat-doanh-thu-ky-luc-hon-220000-ty-dong-50652.html |
+| 7.2 petrovietnam | 1 | 0 | page | không mở được | https://petrovietnam.vn/DataStore/2026/files/pdf/BCPTBV%20PVN%202025%20VN.pdf |
+| 7.2 petrovietnam | 2 | 200 | page | có | https://doanhnhan.baophapluat.vn/lai-rong-petrovietnam-pvn-vuot-52-000-ty-dong-nam-2025.html |
+| 7.2 petrovietnam | 3 | 200 | page | có | https://nhadautu.vn/loat-doanh-nghiep-dau-khi-bao-lai-ky-luc-trong-nam-2025-d102040.html |
+| 7.2 petrovietnam | 4 | 200 | page | có | https://www.sggp.org.vn/vu-an-pvn-thiet-hai-800-ty-dong-o-oceanbank-nghi-an-keo-dai-vi-tinh-chat-phuc-tap-post471390.html |
+| 7.2 petrovietnam | 5 | 200 | page | có | https://baodautu.vn/tinh-hinh-kinh-doanh-cua-pvtex-d108198.html |
+| 7.2 petrovietnam | 6 | 200 | page | có | https://www.sggp.org.vn/du-an-pvtex-thua-lo-that-thoat-lon-post360741.html |
+| 7.2 petrovietnam | 7 | 200 | page | có | https://vietnamnet.vn/en/once-a-green-fuel-hope-87m-ethanol-plant-now-sits-abandoned-2422290.html |
+| 7.2 petrovietnam | 8 | 200 | page | có | https://baophapluat.vn/vu-ethanol-phu-tho-dinh-la-thang-linh-11-nam-tu-trinh-xuan-thanh-18-nam-tu-post385248.html |
+| 7.2 petrovietnam | 9 | 200 | page | có | https://en.vietnamplus.vn/vietnam-races-to-restart-idle-ethanol-plants-to-meet-surging-demand-post339987.vnp |
+| 7.2 petrovietnam | 10 | 200 | page | có | https://theinvestor.vn/petrovietnam-copenhagen-infrastructure-partners-shake-hands-to-develop-offshore-wind-power-in-central-vietnam-d16798.html |
+| 7.2 petrovietnam | 11 | 200 | page | có | https://doanhnhan.baophapluat.vn/petrolimex-plx-du-chi-hon-1-500-ty-dong-de-tra-co-tuc-nam-2025.html |
+| 7.2 petrovietnam | 12 | 200 | page | có | https://vneconomy.vn/tap-doan-dau-khi-viet-nam-doi-ten-thanh-tap-doan-cong-nghiep-nang-luong-quoc-gia-viet-nam.htm |
+| 7.2 petrovietnam | 13 | 200 | page | có | https://vietnamfinance.vn/petrovietnam-co-gan-15-ty-usd-dau-tu-tai-chinh-ngan-han-d146258.html |
+| 7.3 vingroup | 1 | 200 | page | gần khớp (100% từ) | https://static2.vietstock.vn/data/HOSE/2025/BCTN/VN/VIC_Baocaothuongnien_2025.pdf |
+| 7.3 vingroup | 2 | 403 | page | trang chặn truy cập tự động | https://www.sec.gov/Archives/edgar/data/1913510/000110465926052266/vfs-20251231x20f.htm |
+| 7.3 vingroup | 3 | 200 | page | có | https://archive.kyivpost.com/article/content/business/nestle-continues-ukraine-expansion-with-culinary-p-61032.html |
+| 7.3 vingroup | 4 | 200 | page | có | https://vneconomy.vn/thuong-vu-bat-ngo-vingroup-ban-vinmart-vineco-cho-masan.htm |
+| 7.3 vingroup | 5 | 200 | page | có | https://bizhub.vietnamnews.vn/vingroup-quits-retailing-to-drive-tech-industrial-development-post311941.html |
+| 7.3 vingroup | 6 | 200 | page | có | https://www.theregister.com/2021/05/11/vingroup_quits_electronics_chases_evs/ |
+| 7.4 hoa-phat | 1 | 200 | page | pdf dạng ảnh scan, cần đọc bằng mắt | https://static2.vietstock.vn/data/HOSE/2025/BCTC/VN/NAM/HPG_Baocaotaichinh_2025_Kiemtoan_Hopnhat.pdf |
+| 7.4 hoa-phat | 2 | 200 | page | có | https://file.hoaphat.com.vn/hoaphat-com-vn/2026/05/bao-cao-thuong-nien-nam-2025.pdf |
+| 7.4 hoa-phat | 3 | 200 | page | pdf dạng ảnh scan, cần đọc bằng mắt | https://static2.vietstock.vn/data/HOSE/2023/BCTC/VN/NAM/HPG_Baocaotaichinh_2023_Kiemtoan_Hopnhat.pdf |
+| 7.4 hoa-phat | 4 | 200 | page | pdf dạng ảnh scan, cần đọc bằng mắt | https://static2.vietstock.vn/data/HOSE/2021/BCTC/VN/NAM/HPG_Baocaotaichinh_2021_Kiemtoan_Hopnhat.pdf |
+| 7.4 hoa-phat | 5 | 200 | page | pdf dạng ảnh scan, cần đọc bằng mắt | https://static2.vietstock.vn/data/HOSE/2019/BCTC/VN/NAM/HPG_Baocaotaichinh_2019_Kiemtoan_Hopnhat.pdf |
+| 7.4 hoa-phat | 6 | 200 | page | có | https://vneconomy.vn/hoa-phat-tiep-tuc-bao-lo-tang-manh-gan-2-000-ty-dong-trong-quy-4-2022.htm |
+| 7.4 hoa-phat | 7 | 200 | page | có | https://diendandoanhnghiep.vn/hoa-phat-phai-chi-bao-tien-de-dung-hoat-dong-04-lo-thep-234036.html |
+| 7.4 hoa-phat | 8 | 200 | page | có | https://moit.gov.vn/tin-tuc/ap-dung-thue-chong-ban-pha-gia-chinh-thuc-doi-voi-mot-so-san-pham-thep-can-nong-co-xuat-xu-tu-cong-hoa-nhan-dan-trung-ho.html |
+| 7.5 fpt | 1 | 200 | page | có | https://fpt.com/api/media/BCTN_FPT_2025_fcf66a214c.pdf |
+| 7.5 fpt | 2 | 200 | page | có | https://fpt.com/api/media/FPT_BC_KQKD_12_M2025_2_9f8412e256.pdf |
+| 7.5 fpt | 3 | 200 | page | có | https://fpt.com/api/media/FPT_BC_KQKD_9_M2026_1_357286c0de.pdf |
+| 7.5 fpt | 4 | 200 | page | có | https://fpt.com/api/media/FPT_BC_KQKD_12_M2024_05bbb8b4af.pdf |
+| 7.5 fpt | 5 | 200 | page | có | https://fpt.com/vi/ve-fpt/lich-su |
+| 7.5 fpt | 6 | 200 | page | có | https://baodautu.vn/pho-thu-tuong-nguyen-thien-nhan-tang-ten-moi-cho-fpt-d3964.html |
+| 7.5 fpt | 7 | 200 | page | có | https://special.nhandan.vn/25-nam-FPT-xuat-khau-phan-mem/index.html |
+| 7.5 fpt | 8 | 200 | page | có | https://fpt.com/api/media/bao_cao_thuong_nien_2018_7000bb1ec9.pdf |
+| 7.5 fpt | 9 | 200 | page | có | https://vneconomy.vn/fpt-dieu-chinh-phuong-phap-hop-nhat-bao-cao-tai-chinh-fpt-telecom.htm |
+| 7.5 fpt | 10 | 200 | page | có | https://acbs.com.vn/acbsmedia/2026/08/FPT_by_ACBS_Update-VN-_07.08.2026.pdf |
+| 7.5 fpt | 11 | 200 | page | có | https://doanhnhan.baophapluat.vn/fpt-rot-khoi-top-10-von-hoa-khoi-ngoai-ban-rong-ky-luc-du-loi-nhuan-tang-truong.html |
+| 7.6 vinamilk | 1 | 200 | page | có | https://d8um25gjecm9v.cloudfront.net/cms/20260319_VNM_Bao_cao_thuong_nien_2025_eae619d5f6.pdf |
+| 7.6 vinamilk | 2 | 200 | page | có | https://d8um25gjecm9v.cloudfront.net/cms/20260811_VNM_Corporate_Presentation_VN_445658bf92.pdf |
+| 7.6 vinamilk | 3 | 200 | page | có | https://d8um25gjecm9v.cloudfront.net/cms/20261030_VNM_Ban_tin_NDT_Q3_2026_c03806a2aa.pdf |
+| 7.6 vinamilk | 4 | 200 | page | có | https://www.vinamilk.com.vn/bao-cao-thuong-nien/bao-cao/2023/_astro/Vinamilk%20BCTN%202023.nwYxiaAn.pdf |
+| 7.6 vinamilk | 5 | 200 | page | có | https://d8um25gjecm9v.cloudfront.net/cms/1650451537_b3efd46d2f003afce29e7e0aaab1521241f779cb82f0b211a34af53b17adfb09_1261da94e5.pdf |
+| 7.6 vinamilk | 6 | 200 | page | có | https://vnexpress.net/the-kho-cua-vinamilk-4442659.html |
+| 7.6 vinamilk | 7 | 200 | page | có | https://mekongasean.vn/ceo-mai-kieu-lien-aposphai-mot-nam-nua-vinamilk-moi-ve-lai-bien-loi-nhuan-truoc-dichapos-23124.html |
+| 7.6 vinamilk | 8 | 200 | page | có | https://tapchicongthuong.vn/vinamilk--vnm-da-chot-gia-sua-bot-den-cuoi-nam--du-kien-lai-quy-2-tang-truong-2-chu-so-121434.htm |
+| 7.6 vinamilk | 9 | 200 | page | có | https://thitruongtaichinhtiente.vn/vuot-gio-nguoc-vinamilk-khoi-phuc-thi-phan-noi-dia-52014.html |
+| 7.6 vinamilk | 10 | 200 | page | có | https://baophapluat.vn/ba-mai-kieu-lien-toi-khong-bi-quan-ve-nganh-sua-thi-phan-vinamilk-hien-da-chiem-58-59-post290940.html |
+| 7.6 vinamilk | 11 | 200 | page | có | https://vir.com.vn/dairy-market-remains-ripe-for-new-expansion-135306.html |
+| 7.6 vinamilk | 12 | 200 | page | có | https://theleader.vn/scic-sap-cham-moc-thu-40000-ty-dong-co-tuc-tu-vinamilk-d46836.html |
+| 7.7 the-gioi-di-dong | 1 | 200 | page | có | https://cdnv2.tgdd.vn/mwgvn/investorrelations/files/posts/2026/3/0/48/8a/488ab752e1224bcbd9dd5413be04179f.pdf |
+| 7.7 the-gioi-di-dong | 2 | 200 | page | pdf dạng ảnh scan, cần đọc bằng mắt | https://cdnv2.tgdd.vn/mwgvn/investorrelations/files/posts/2026/3/0/8d/2c/8d2c28cb4822955f98e31dcfe587f1d7.pdf |
+| 7.7 the-gioi-di-dong | 3 | 200 | page | có | https://cdnv2.tgdd.vn/mwgvn/investorrelations/files/posts/2026/1/5547/dd/0d/dd0da3558bf8b2b2ec32771c3261c00d.pdf |
+| 7.7 the-gioi-di-dong | 4 | 200 | page | KHÔNG THẤY (70% từ) | https://bhxcdn.vn/mwgvn/investorrelations/files/posts/2026/10/5006191/70/21/70210fec8f257bb9a7af2c4b392fa5d0.pdf |
+| 7.7 the-gioi-di-dong | 5 | 200 | page | có | https://cdnv2-tmdt.tgdd.vn/mwgvn/ir/2024/4/mwg---bao-cao-thuong-nien-2023.pdf |
+| 7.7 the-gioi-di-dong | 6 | 200 | page | pdf dạng ảnh scan, cần đọc bằng mắt | https://cdnv2-tmdt.tgdd.vn/mwgvn/ir/2024/3/20240320---mwg---bctc-hop-nhat-kiem-toan-nam-2023.pdf |
+| 7.7 the-gioi-di-dong | 7 | 200 | page | có | https://cdnv2.tgdd.vn/mwgvn/investorrelations/files/posts/2025/4/0/0f/a3/0fa382bf41923f80607007ebcf9500ed.pdf |
+| 7.7 the-gioi-di-dong | 8 | 200 | page | có | https://baodautu.vn/mwg-va-van-cuoc-mao-hiem-7-nam-o-bach-hoa-xanh-d179550.html |
+| 7.7 the-gioi-di-dong | 9 | 200 | page | có | https://extgw.dsc.com.vn/eback/uploads/MWG_Q4_25_d33bfc1417.pdf |
+| 7.7 the-gioi-di-dong | 10 | 200 | page | có | https://mekongasean.vn/ssi-mwg-thu-ve-gan-1800-ty-dong-tu-ban-co-phan-bach-hoa-xanh-28196.html |
+| 7.7 the-gioi-di-dong | 11 | 200 | page | có | https://theinvestor.vn/chinas-cdh-investments-acquires-5-stake-in-vietnam-grocery-chain-d9482.html |
+| 7.7 the-gioi-di-dong | 12 | 200 | page | có | https://cdnv2.tgdd.vn/mwgvn/investorrelations/files/posts/2026/2/0/bb/e9/bbe92784cbb4637d0ee1b00005e8ac96.pdf |
+| 8.1 fujifilm | 1 | 200 | page | có | https://ir.fujifilm.com/en/investors/ir-materials/earnings-presentations/main/01113/teaserItems5/00/linkList/0/link/ff_fy2025q4_001e.pdf |
+| 8.1 fujifilm | 2 | 200 | page | có | https://holdings.fujifilm.com/en/news/list/2127 |
+| 8.1 fujifilm | 3 | 200 | page | có | https://ir.fujifilm.com/en/investors/ir-materials/earnings-presentations/main/01113/teaserItems5/00/linkList/00/link/ff_fy2025q4_002e.pdf |
+| 8.1 fujifilm | 4 | 200 | page | có | https://holdings.fujifilm.com/en/about/history |
+| 8.1 fujifilm | 5 | 0 | page | không mở được | https://fujifilm.com/id/en/consumer/skincare/astalift |
+| 8.1 fujifilm | 6 | 200 | page | có | https://dc.watch.impress.co.jp/cda/other/2006/02/01/3130.html |
+| 8.1 fujifilm | 7 | 200 | page | có | https://president.jp/articles/-/18011 |
+| 8.1 fujifilm | 8 | 200 | page | có | https://bunshun.jp/bungeishunju/articles/h1846 |
+| 8.1 fujifilm | 9 | 200 | page | có | https://www.theregister.com/2017/06/14/fuji_xeroxs_chairman_resigns_over_improper_accounting/ |
+| 8.1 fujifilm | 10 | 200 | page | có | https://www.fujifilm.com/ffhc/ja/about/history |
+| 8.2 kodak | 1 | 200 | page | có | https://www.kodak.com/en/company/press-release/fourth-quarter-full-year-2025-financial-results/ |
+| 8.2 kodak | 2 | 403 | page | trang chặn truy cập tự động | https://www.sec.gov/Archives/edgar/data/31235/000119312526104214/kodk-20251231.htm |
+| 8.2 kodak | 3 | 403 | page | trang chặn truy cập tự động | https://www.sec.gov/Archives/edgar/data/31235/000095017025106568/kodk-20250630.htm |
+| 8.2 kodak | 4 | 200 | page | có | https://www.kodak.com/en/company/page/milestones |
+| 8.2 kodak | 5 | 200 | page | có | https://archive.nytimes.com/lens.blogs.nytimes.com/2015/08/12/kodaks-first-digital-moment/ |
+| 8.2 kodak | 6 | 403 | page | trang chặn truy cập tự động | https://www.sec.gov/Archives/edgar/data/0000031235/000003123512000036/ek2011_10k.htm |
+| 8.2 kodak | 7 | 403 | page | trang chặn truy cập tự động | https://www.sec.gov/Archives/edgar/data/0000031235/000119312512021891/d287269dex991.htm |
+| 8.2 kodak | 8 | 200 | page | có | https://www.popphoto.com/news/2012/01/kodak-files-bankruptcy-protection |
+| 8.2 kodak | 9 | 200 | page | có | https://ipwatchdog.com/2012/12/19/kodak-sells-patents-to-intellectual-ventures-rpx-for-525-million/ |
+| 8.2 kodak | 10 | 200 | page | có | https://holdings.fujifilm.com/en/about/history |
+| 8.3 nokia | 1 | 200 | page | có | https://ml-eu.globenewswire.com/Resource/Download/6d20b239-e920-447e-ae8d-3807f9b3e08b |
+| 8.3 nokia | 2 | 200 | page | có | https://www.nokia.com/system/files/2026-03/nokia-annual-report-2025.pdf |
+| 8.3 nokia | 3 | 200 | page | có | https://www.nokia.com/fi_fi/tietoa-nokiasta/yritys/historiamme/ |
+| 8.3 nokia | 4 | 200 | page | có | https://www.investegate.co.uk/announcement/rns/nokia-oyj--0haf/nokia-corporation-q4-and-full-year-2012-interim-/2862578 |
+| 8.3 nokia | 5 | 200 | page | có | https://news.microsoft.com/source/2013/09/03/microsoft-to-acquire-nokias-devices-services-business-license-nokias-patents-and-mapping-services/ |
+| 8.3 nokia | 6 | 403 | page | trang chặn truy cập tự động | https://www.sec.gov/Archives/edgar/data/0000789019/000119312515247530/d54167dex991.htm |
+| 8.3 nokia | 7 | 403 | page | trang chặn truy cập tự động | https://www.sec.gov/Archives/edgar/data/0000924613/000119312517093200/d283248d20f.htm |
+| 8.4 ibm | 1 | 200 | page | có | https://newsroom.ibm.com/2026-01-28-IBM-RELEASES-FOURTH-QUARTER-RESULTS |
+| 8.4 ibm | 2 | 403 | page | trang chặn truy cập tự động | https://www.sec.gov/Archives/edgar/data/51143/000005114326000010/ibm-20251231_d2.htm |
+| 8.4 ibm | 3 | 200 | page | có | https://www.ibm.com/history/ctr-and-ibm |
+| 8.4 ibm | 4 | 200 | page | có | https://www.ibm.com/history/system-360 |
+| 8.4 ibm | 5 | 200 | page | có | https://www.ibm.com/history/personal-computer |
+| 8.4 ibm | 6 | 200 | page | có | https://www.ibm.com/history/louis-gerstner |
+| 8.4 ibm | 7 | 200 | page | có | https://www.spokesman.com/stories/1995/jan/24/ibm-earns-12-billion-in-years-final-quarter-big/ |
+| 8.4 ibm | 8 | 200 | page | có | https://www.fortune.com/2025/12/28/louis-gerstner-obituary-ibm-ceo-turnaround |
+| 8.4 ibm | 9 | 0 | page | không mở được | https://fortune.com/2018/01/18/ibm-wall-street-quarter-earnings |
+| 8.4 ibm | 10 | 403 | page | trang chặn truy cập tự động | https://www.sec.gov/Archives/edgar/data/51143/000095014219001515/eh1900893_ex9901.htm |
+| 8.4 ibm | 11 | 403 | page | trang chặn truy cập tự động | https://www.sec.gov/Archives/edgar/data/51143/000110465920113260/tm2032661d1_ex99-1.htm |
+| 8.4 ibm | 12 | 200 | page | có | https://bostonglobe.com/2025/12/29/metro/louis-v-gerstner-who-revived-faltering-ibm-90s-dies-83/ |
+| 8.5 procter-gamble | 1 | 403 | page | trang chặn truy cập tự động | https://www.sec.gov/Archives/edgar/data/0000080424/000008042426000103/pg-20260630.htm |
+| 8.5 procter-gamble | 2 | 200 | page | có | https://us.pg.com/innovation/ |
+| 8.5 procter-gamble | 3 | 200 | page | có | https://it.pg.com/blogs/brand-management-definizione-importanza/ |
+| 8.5 procter-gamble | 4 | 403 | page | trang chặn truy cập tự động | https://www.sec.gov/Archives/edgar/data/80424/000008042423000059/fy2223q4amj8-kexhibit991.htm |
+| 8.5 procter-gamble | 5 | 200 | page | có | https://www.irishtimes.com/opinion/an-irish-diary/2026/06/07/as-the-world-turns-the-story-of-james-gamble-and-the-invention-of-the-soap-opera/ |
+| 8.5 procter-gamble | 6 | 200 | page | có | https://us.pg.com/pg-history/ |
+| 8.5 procter-gamble | 7 | 200 | page | có | https://time.com/archive/6772347/radio-p-g-to-market |
+| 8.5 procter-gamble | 8 | 403 | page | trang chặn truy cập tự động | https://www.sec.gov/Archives/edgar/data/80424/000091412105000257/pr705153-ex99_1.txt |
+| 8.5 procter-gamble | 9 | 403 | page | trang chặn truy cập tự động | https://www.sec.gov/Archives/edgar/data/80424/000008042415000010/pgpressreleaseex991-ond2014.htm |
+| 8.5 procter-gamble | 10 | 200 | page | có | https://s204.q4cdn.com/332108499/files/doc_financials/2016/ar/fc1729d2-68f7-8950-0821-4d2747e04f39.pdf |
+| 8.5 procter-gamble | 11 | 403 | page | trang chặn truy cập tự động | https://www.sec.gov/Archives/edgar/data/80424/000119312517260625/d444564ddefa14a.htm |
+| 8.5 procter-gamble | 12 | 200 | page | có | https://archives.starbulletin.com/2000/03/07/business/market.html |
+| 8.5 procter-gamble | 13 | 403 | page | trang chặn truy cập tự động | https://www.sec.gov/Archives/edgar/data/80424/000008042400000005/0000080424-00-000005.txt |
+| 8.5 procter-gamble | 14 | 406 | page | không mở được | https://www.cbsnews.com/news/clean-sweep-at-procter-gamble |
+| 8.5 procter-gamble | 15 | 200 | page | có | https://www.irishtimes.com/business/procter-gamble-chief-steps-down-1.280285 |
+| 8.5 procter-gamble | 16 | 403 | page | trang chặn truy cập tự động | https://www.sec.gov/Archives/edgar/data/0000080424/000119312517370870/d438518dex991.htm |
+| 8.5 procter-gamble | 17 | 200 | page | có | https://baodautu.vn/tap-doan-pg-dau-tu-them-100-trieu-usd-mo-rong-nha-may-tai-binh-duong-d188469.html |
+| 8.5 procter-gamble | 18 | 403 | page | trang chặn truy cập tự động | https://www.sec.gov/Archives/edgar/data/80424/000119312517289208/d449900ddefa14a.htm |
+| 8.5 procter-gamble | 19 | 403 | page | trang chặn truy cập tự động | https://www.sec.gov/Archives/edgar/data/0000080424/000008042426000093/fy2526q4amj8-kexhibit991.htm |
+| 8.6 lego | 1 | 200 | page | có | https://www.lego.com/cdn/cs/aboutus/assets/blte543dd46714c9226/The_LEGO_Group_2025_Annual_Report.pdf |
+| 8.6 lego | 2 | 200 | page | có | https://www.lego.com/en-us/aboutus/news/2026/august/strong-demand-and-brand-relevance-drive-lego-group-revenue-up-21-operating-profit-up-22-in-h1-2026 |
+| 8.6 lego | 3 | 200 | page | KHÔNG THẤY (35% từ) | https://www.lego.com/en-us/lego-history |
+| 8.6 lego | 4 | 200 | page | có | https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf |
+| 8.6 lego | 5 | 200 | page | gần khớp (100% từ) | https://www.lego.com/cdn/cs/aboutus/assets/blte6c97bc4718a1848/Annual_Report_2003_ENG.pdf |
+| 8.6 lego | 6 | 200 | page | có | https://www.lego.com/cdn/cs/aboutus/assets/blt6eacf5a8b7af1359/Annual_Report_2005_ENG.pdf |
+| 8.6 lego | 7 | 200 | page | có | https://www.nbcnews.com/id/wbna11367083 |
+| 8.6 lego | 8 | 200 | page | có | https://www.lego.com/cdn/cs/aboutus/assets/blta425337e673c7461/Annual_Report_2014_ENG.pdf |
+| 8.6 lego | 9 | 200 | page | có | https://www.lego.com/cdn/cs/aboutus/assets/blta16e10a1e275b5f9/Annual_Report_2017_ENG.pdf |
+| 8.6 lego | 10 | 200 | page | có | https://moit.gov.vn/tin-tuc/phat-trien-cong-nghiep/binh-duong-trao-giay-chung-nhan-dau-tu-du-an-hon-1-ty-do-la-my.html |
+| 8.6 lego | 11 | 200 | page | có | https://vneconomy.vn/lego-khoi-cong-xay-dung-nha-may-1-ty-usd-tai-viet-nam.htm |
+| 8.6 lego | 12 | 200 | page | có | https://en.vietnamplus.vn/lego-opens-13-billion-usd-green-factory-in-binh-duong-post313118.vnp |
+| 8.6 lego | 13 | 200 | page | có | https://vietnamnews.vn/politics-laws/1719423/na-passes-resolution-to-cut-provinces-and-centrally-run-cities-from-63-to-34.html |
+| 8.6 lego | 14 | 403 | page | trang chặn truy cập tự động | https://knowledge.wharton.upenn.edu/article/how-lego-stopped-thinking-outside-the-box-and-innovated-inside-the-brick/ |
+| 8.6 lego | 15 | 200 | snippet | có | https://www.worldtrademarkreview.com/article/brick-held-consist-exclusively-of-shape-necessary-obtain-technical-result |
+| 8.7 kongo-gumi | 1 | 200 | page | có | https://www.kongogumi.co.jp/about_history.html |
+| 8.7 kongo-gumi | 2 | 200 | page | có | https://www.kongogumi.co.jp/profile.html |
+| 8.7 kongo-gumi | 3 | 200 | page | có | https://www.kongogumi.co.jp/takumi_miyadaiku.html |
+| 8.7 kongo-gumi | 4 | 403 | page | trang chặn truy cập tự động | https://www.bloomberg.com/news/articles/2007-04-16/the-end-of-a-1-400-year-old-businessbusinessweek-business-news-stock-market-and-financial-advice |
+| 8.7 kongo-gumi | 5 | 200 | page | KHÔNG THẤY (19% từ) | https://www.chosun.com/english/industry-en/2005/12/15/O5F77MYKZ4XO34KDMV4IL5D7CU/ |
+| 8.7 kongo-gumi | 6 | 200 | page | có | https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100YDDS.pdf |
+| 8.7 kongo-gumi | 7 | 200 | page | có | https://corpgov.law.harvard.edu/2013/04/16/adoptive-expectations-rising-sons-in-japanese-family-firms |
+| 8.7 kongo-gumi | 8 | 200 | page | có | https://www.logi-today.com/930041 |
+| 8.7 kongo-gumi | 9 | 200 | page | có | https://www.irishtimes.com/japan-s-buddhist-temples-in-danger-of-going-out-of-business-1.2424404 |
+| 8.7 kongo-gumi | 10 | 200 | page | có | https://asia.nikkei.com/Business/Companies/Japan-s-oldest-company-defies-time-with-merit-based-succession |
+| 8.7 kongo-gumi | 11 | 200 | page | có | https://www.kongogumi.co.jp/recruit/ |
+| 8.8 nintendo | 1 | 200 | page | có | https://www.nintendo.co.jp/ir/pdf/2026/260508e.pdf |
+| 8.8 nintendo | 2 | 200 | page | có | https://www.nintendo.co.jp/ir/pdf/2026/260508_4e.pdf |
+| 8.8 nintendo | 3 | 200 | page | có | https://www.nintendo.co.jp/ir/pdf/2026/annual2603e.pdf |
+| 8.8 nintendo | 4 | 200 | page | có | https://www.nintendo.co.jp/corporate/en/history/index.html |
+| 8.8 nintendo | 5 | 200 | page | có | https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html |
+| 8.8 nintendo | 6 | 200 | page | có | https://www.nintendo.co.jp/ir/pdf/2014/140507e.pdf |
+| 8.8 nintendo | 7 | 200 | page | gần khớp (100% từ) | https://www.nintendo.co.jp/ir/pdf/2012/120426e.pdf |
+| 8.8 nintendo | 8 | 200 | page | có | https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-16-nintendo-switch-2-part-2/ |
+| 8.8 nintendo | 9 | 200 | page | có | https://theweek.com/articles/459566/hiroshi-yamauchi-19272013 |
+| 8.8 nintendo | 10 | 200 | page | có | https://www.3djuegos.com/varios/noticias/sexo-hoteles-nintendo-fue-real-este-famoso-negocio-elaborada-leyenda-urbana |
+| 8.8 nintendo | 11 | 200 | page | có | https://www.thestar.com.my/tech/tech-news/2026/05/11/nintendo-shares-slump-as-price-hikes-games-shortfall-spook-market |
+| 8.8 nintendo | 12 | 200 | page | có | https://www.nintendo.co.jp/ir/pdf/2026/260806e.pdf |
+| 8.9 toyota | 1 | 200 | page | có | https://global.toyota/pages/global_toyota/ir/financial-results/2026_4q_summary_en.pdf |
+| 8.9 toyota | 2 | 200 | page | có | https://pressroom.toyota.com/tmc-announces-april-through-march-2026-financial-results/ |
+| 8.9 toyota | 3 | 200 | page | có | https://global.toyota/pages/global_toyota/ir/financial-results/2026_4q_presentation_en.pdf |
+| 8.9 toyota | 4 | 200 | page | có | https://global.toyota/en/company/profile/overview/ |
+| 8.9 toyota | 5 | 200 | page | có | https://www.toyota-industries.com/company/history/ |
+| 8.9 toyota | 6 | 200 | page | có | https://global.toyota/en/company/trajectory-of-toyota/history/01/ |
+| 8.9 toyota | 7 | 200 | page | có | https://www.toyota-global.com/company/history_of_toyota/75years/text/taking_on_the_automotive_business/chapter2/section6/item6_d.html |
+| 8.9 toyota | 8 | 200 | page | có | https://global.toyota/en/company/vision-and-philosophy/production-system/ |
+| 8.9 toyota | 9 | 200 | page | có | https://global.toyota/en/company/trajectory-of-toyota/history/02/ |
+| 8.9 toyota | 10 | 200 | page | gần khớp (100% từ) | https://global.toyota/pages/global_toyota/ir/financial-results/archives/en/May_8_2009_presentation.pdf |
+| 8.9 toyota | 11 | 200 | page | có | https://www.pbs.org/newshour/nation/toyotas-president-apologizes-to-customers-for-recall-worries |
+| 8.9 toyota | 12 | 200 | page | có | https://www.nbcnews.com/business/autos/toyota-reaches-1-billion-settlement-over-acceleration-issues-n56621 |
+| 8.9 toyota | 13 | 200 | page | gần khớp (100% từ) | https://global.toyota/pages/global_toyota/ir/financial-results/archives/en/November_8_2011_presentation.pdf |
+| 8.9 toyota | 14 | 200 | page | gần khớp (100% từ) | https://global.toyota/pages/global_toyota/ir/financial-results/archives/en/May_9_2012_presentation.pdf |
+| 8.9 toyota | 15 | 200 | page | có | https://www.automotivelogistics.media/oems/a-stronger-supply-chain-since-fukushima/189342 |
+| 8.9 toyota | 16 | 200 | page | có | https://global.toyota/pages/global_toyota/sustainability/esg/environmental/climate_public_policies_2025_en.pdf |
+| 8.9 toyota | 17 | 200 | page | có | https://www.tcmit.org/vgt/car/english/scene-06-iframe/target-05/ |
+| 8.9 toyota | 18 | 200 | page | có | https://global.toyota/pages/global_toyota/ir/financial-results/2027_1q_summary_en.pdf |
+| 8.10 samsung | 1 | 200 | page | có | https://news.samsung.com/global/samsung-electronics-announces-fourth-quarter-and-fy-2025-results |
+| 8.10 samsung | 2 | 200 | page | có | https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2025_4Q_conference_eng.pdf |
+| 8.10 samsung | 3 | 200 | page | có | https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2025_4Q_Interim_Report.pdf |
+| 8.10 samsung | 4 | 200 | page | KHÔNG THẤY (89% từ) | https://images.samsung.com/is/content/samsung/assets/global/ir/docs/Samsung_Electronics_Sustainability_Report_2026_ENG.pdf |
+| 8.10 samsung | 5 | 200 | page | KHÔNG THẤY (57% từ) | https://semiconductor.samsung.com/about-us/history/ |
+| 8.10 samsung | 6 | 200 | page | có | https://www.koreajoongangdaily.com/business/a-pioneer-who-put-people-first/10837028 |
+| 8.10 samsung | 7 | 200 | page | gần khớp (100% từ) | https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2023_4Q_conference_eng.pdf |
+| 8.10 samsung | 8 | 200 | page | có | https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2026_3Q_conference_eng.pdf |
+| 8.10 samsung | 9 | 200 | page | có | https://www.business-standard.com/technology/tech-news/samsung-s-hbm-chips-failing-nvidia-tests-due-to-heat-power-problems-124052400242_1.html |
+| 8.10 samsung | 10 | 200 | page | có | https://www.thestar.com.my/tech/tech-news/2024/10/08/samsung-issues-rare-apology-for-poor-results-in-tech-crisis |
+| 8.10 samsung | 11 | 200 | page | có | https://www.koreatimes.co.kr/business/tech-science/20260128/sk-hynix-posts-record-2025-profit-on-ai-memory-boom |
+| 8.10 samsung | 12 | 200 | page | có | https://www.design-reuse.com/news/202529413-samsung-s-share-in-hbm-market-projected-to-surpass-30-in-2026/ |
+| 8.10 samsung | 13 | 200 | page | có | https://www.bostonglobe.com/2025/07/17/business/south-korea-court-upholds-acquittal-samsung-merger |
+| 8.10 samsung | 14 | 200 | page | có | https://www.malaymail.com/news/money---international/2021/04/28/samsung-heirs-to-pay-billions-in-tax-donate-monet-picasso-works/1970175 |
+| 8.11 tata-group | 1 | 200 | page | có | https://www.tata.com/about-us |
+| 8.11 tata-group | 2 | 200 | page | có | https://www.tata.com/business/tata-sons |
+| 8.11 tata-group | 3 | 200 | page | có | https://www.tata.com/about-us/tata-group-our-heritage/Our-Timeline-The-Early-Years-1868-1917 |
+| 8.11 tata-group | 4 | 200 | page | có | https://www.tata.com/about-us/tata-group-our-heritage/Our-Timeline-The-Growth-Years-1918-1968 |
+| 8.11 tata-group | 5 | 200 | page | có | https://www.tata.com/about-us/tata-group-our-heritage/Our-Timeline-The-Expansion-Years-1969-2017 |
+| 8.11 tata-group | 6 | 200 | page | có | https://www.tata.com/content/dam/tata/pdf/fy26/Tata-Sons-Annual-Report-FY26v1.pdf |
+| 8.11 tata-group | 7 | 200 | page | có | https://www.business-standard.com/amp/article/press-releases/tata-steel-acquires-corus-group-plc-uk-107013101006_1.html |
+| 8.11 tata-group | 8 | 200 | page | có | https://media.jaguarlandrover.com/node/4917 |
+| 8.11 tata-group | 9 | 200 | page | có | https://www.business-standard.com/article/companies/is-the-tata-nano-in-the-last-leg-of-its-journey-117041400542_1.html |
+| 8.11 tata-group | 10 | 0 | page | không mở được | http://economictimes.indiatimes.com/news/company/corporate-trends/big-rejig-ratan-tata-to-replace-cyrus-mistry-as-tata-sons-chairman/articleshow/55031245.cms |
+| 8.11 tata-group | 11 | 200 | page | có | https://www.business-standard.com/article/companies/tata-vs-mistry-nclat-restores-cyrus-mistry-as-tata-sons-executive-chairman-119121800705_1.html |
+| 8.11 tata-group | 12 | 200 | page | có | https://timesofindia.indiatimes.com/business/india-business/tatas-making-cyrus-chairman-wrong-decision-of-lifetime-sc/articleshow/81715818.cms |
+| 8.11 tata-group | 13 | 200 | page | có | https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1792950&reg=48&lang=2 |
+| 8.11 tata-group | 14 | 200 | page | có | https://www.gov.uk/government/news/welsh-steels-future-secured-as-uk-government-and-tata-steel-announce-port-talbot-green-transition-proposal |
+| 8.11 tata-group | 15 | 200 | page | có | https://media.jaguarlandrover.com/news/2026/05/jlr-delivers-significantly-improved-q4-performance-challenging-year |
+| 8.11 tata-group | 16 | 200 | page | có | https://www.gov.uk/government/news/government-backs-jaguar-land-rover-with-15-billion-loan-guarantee |
+| 8.11 tata-group | 17 | 200 | page | có | https://aaib.gov.in/What%27s%20New%20Assets/Preliminary%20Report%20VT-ANB.pdf |
+| 8.11 tata-group | 18 | 200 | page | có | https://www.businesstoday.in/latest/corporate/story/why-tata-sons-got-rs28291-cr-from-tcs-in-fy26-down-from-rs32184-cr-in-fy25-545722-2026-07-28 |

@@ -1,6 +1,6 @@
 # Cẩm nang mô hình kinh doanh
 
-Các mô hình kinh doanh nhỏ ở Việt Nam, mỗi mô hình được ép vào cùng một khung: vốn khởi tạo, chi phí cố định hằng tháng, thời gian hòa vốn, biên lợi nhuận, ba tử huyệt rủi ro và các ranh giới đỏ pháp lý. Con số nào cũng có nguồn, kèm mức chứng cứ A/B/C.
+Các mô hình kinh doanh nhỏ ở Việt Nam, mỗi mô hình được ép vào cùng một khung: vốn khởi tạo, chi phí cố định hằng tháng, thời gian hòa vốn, biên lợi nhuận, ba tử huyệt rủi ro và các ranh giới đỏ pháp lý. Tiếp theo là các nấc quy mô từ hộ kinh doanh lên tập đoàn, rồi các tập đoàn Việt Nam, tập đoàn đa quốc gia và doanh nghiệp trăm năm: kiếm tiền từ đâu, vì sao đứng vững, đã chuyển đổi ra sao. Con số nào cũng có nguồn, kèm mức chứng cứ A/B/C.
 
 Xem trực tuyến: https://anhbao183.github.io/cam-nang-kinh-doanh/
 
@@ -29,10 +29,10 @@ tools/check_sources.py    mở lại từng link nguồn (cả PDF Công báo), 
 node tools/build.mjs
 ```
 
-`check_sources.py` cần thư viện đọc PDF:
+`check_sources.py` cần thư viện đọc PDF (cryptography để mở PDF mã hóa):
 
 ```bash
-pip install pypdf
+pip install pypdf cryptography
 ```
 
 ```bash

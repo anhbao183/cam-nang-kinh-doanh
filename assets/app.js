@@ -14,6 +14,10 @@
     legal: { label: "Pháp lý", opts: { simple: "Đơn giản", conditional: "Có điều kiện", heavy: "Nhiều giấy phép" } },
     time: { label: "Thời gian chủ bỏ ra", opts: { part: "Làm thêm được", full: "Toàn thời gian" } },
     evidence: { label: "Chứng cứ", hint: "văn bản gốc · báo cáo ngành · báo chí/ước tính", opts: { A: "Mức A", B: "Mức B", C: "Mức C" } },
+    outcome: { label: "Tập đoàn: kết cục", opts: { rising: "Đang vươn lên", survived: "Trụ vững qua chuyển đổi", declining: "Đang suy yếu", failed: "Sụp đổ / bị thâu tóm" } },
+    age: { label: "Tập đoàn: tuổi đời", opts: { century: "Trên 100 năm", old: "50–99 năm", young: "Dưới 50 năm" } },
+    owner: { label: "Tập đoàn: sở hữu", opts: { state: "Nhà nước", family: "Gia đình", founder: "Nhà sáng lập", public: "Cổ đông phân tán" } },
+    reach: { label: "Tập đoàn: phạm vi", opts: { domestic: "Chủ yếu trong nước", multi: "Đa quốc gia" } },
   };
   const GRADE_TIP = {
     A: "Mức A: văn bản pháp luật, biểu phí/chính sách chính thức của nền tảng, thống kê nhà nước hoặc báo cáo tài chính đã kiểm toán",
@@ -28,6 +32,7 @@
   const ORDER = {
     capital: ["low", "mid", "high"], breakeven: ["fast", "mid", "slow", "unknown"], risk: ["low", "mid", "high"],
     legal: ["simple", "conditional", "heavy"], evidence: ["A", "B", "C"],
+    outcome: ["rising", "survived", "declining", "failed"], age: ["century", "old", "young"],
   };
 
   // ---------- Thuật ngữ: bọc chữ viết tắt lần đầu xuất hiện trong mỗi thẻ ----------
@@ -61,6 +66,11 @@
     const t = it.tags || {};
     const out = [];
     if (it.kind === "rule") out.push(`<span class="badge kind-rule">Quy định chung</span>`);
+    if (it.kind === "stage") out.push(`<span class="badge kind-rule">Nấc quy mô</span>`);
+    if (t.outcome) out.push(`<span class="badge outcome-${t.outcome}">${DIMS.outcome.opts[t.outcome]}</span>`);
+    if (t.age) out.push(`<span class="badge">${DIMS.age.opts[t.age]}</span>`);
+    if (t.owner) out.push(`<span class="badge">Sở hữu: ${DIMS.owner.opts[t.owner].toLowerCase()}</span>`);
+    if (t.reach) out.push(`<span class="badge">${DIMS.reach.opts[t.reach]}</span>`);
     if (t.risk) out.push(`<span class="badge risk-${t.risk}">Rủi ro ${DIMS.risk.opts[t.risk].toLowerCase()}</span>`);
     if (t.legal) out.push(`<span class="badge legal-${t.legal}">Pháp lý: ${DIMS.legal.opts[t.legal].toLowerCase()}</span>`);
     if (t.capital) out.push(`<span class="badge">Vốn ${DIMS.capital.opts[t.capital].toLowerCase()}</span>`);
@@ -152,9 +162,48 @@
     </div>`;
   }
 
+  function stageCard(it) {
+    return `<div class="rows">
+      ${row("Khi nào lên nấc", block(it, it.who))}
+      ${row("Điều kiện pháp lý", block(it, it.rule))}
+      ${row("Chi phí, nghĩa vụ thêm", block(it, it.cost), "k-risk")}
+      ${row("Được gì", block(it, it.gain))}
+      ${row("Căn cứ", it.effective ? `<p>${txt(it.effective)}</p>` : "")}
+      ${row("Ghi chú", it.notes ? paras(it.notes) : "")}
+    </div>`;
+  }
+
+  function caseCard(it) {
+    const f = it.facts || {};
+    const fact = (label, v) => (isNone(v) ? `<div><dt>${label}</dt><dd class="none">Chưa có số liệu đáng tin</dd></div>` : `<div><dt>${label}</dt><dd${String(v).length > 40 ? ' class="long"' : ""}><span>${esc(v)}</span>${label === "Thành lập" ? "" : grade(f.grade)}</dd></div>`);
+    const specs = `<dl class="specs">${fact("Thành lập", f.founded)}${fact("Doanh thu", f.revenue)}${fact("Lợi nhuận", f.profit)}${fact("Nhân sự", f.people)}</dl>`;
+    const seg = (it.engine?.segments || []).length
+      ? `<table class="mini"><tbody>${it.engine.segments.map((s) => `<tr><td>${txt(s.item)}</td><td>${esc(s.value)}</td><td>${grade(s.grade)}${refs(it, s.refs)}</td></tr>`).join("")}</tbody></table>`
+      : "";
+    const timeline = (it.timeline || []).length
+      ? `<ol class="timeline">${it.timeline.map((e) => `<li><span class="yr">${esc(e.year)}</span><div>${txt(e.event)}${refs(it, e.refs)}</div></li>`).join("")}</ol>`
+      : "";
+    const crises = (it.crises || []).length
+      ? `<ol class="risks">${it.crises.map((r) => `<li><div><b>${txt(r.title)}</b>${txt(r.text)}${refs(it, r.refs)}</div></li>`).join("")}</ol>`
+      : "";
+    const lessons = (it.lessons || []).length
+      ? `<ol class="lessons">${it.lessons.map((r) => `<li><div><b>${txt(r.title)}</b>${txt(r.text)}${refs(it, r.refs)}</div></li>`).join("")}</ol>`
+      : "";
+    return `${specs}<div class="rows">
+      ${row("Số liệu", block(it, f))}
+      ${row("Cách kiếm tiền", `${block(it, it.engine)}${seg}`)}
+      ${row("Vì sao đứng vững", block(it, it.moat))}
+      ${row("Các lần chuyển đổi", timeline)}
+      ${row("Suýt chết vì", crises, "k-risk")}
+      ${row("Bài học cho người làm nhỏ", lessons, "k-lesson")}
+      ${row("Điểm yếu hiện nay", block(it, it.weak), "k-risk")}
+      ${row("Ghi chú", it.notes ? paras(it.notes) : "")}
+    </div>`;
+  }
+
   function card(it) {
     seen = new Set();
-    const body = it.kind === "rule" ? ruleCard(it) : modelCard(it);
+    const body = { rule: ruleCard, stage: stageCard, case: caseCard }[it.kind]?.(it) ?? modelCard(it);
     return `<article class="card" id="m-${it.id}" data-id="${it.id}">
       <div class="card-h"><span class="idx">${it.no}</span><h3>${esc(it.title)}</h3><a class="anchor" href="#m-${it.id}" aria-label="Link tới mục này">#</a></div>
       ${badges(it)}
@@ -167,7 +216,7 @@
   // ---------- Dựng trang ----------
   const items = D.items;
   const byId = new Map(items.map((it) => [it.id, it]));
-  const hay = new Map(items.map((it) => [it.id, fold(JSON.stringify([it.title, it.summary, it.capital, it.burn, it.breakeven, it.margin, it.risks, it.legal, it.notes, it.who, it.rule, it.cost, it.penalty, it.effective]))]));
+  const hay = new Map(items.map((it) => [it.id, fold(JSON.stringify([it.title, it.summary, it.capital, it.burn, it.breakeven, it.margin, it.risks, it.legal, it.notes, it.who, it.rule, it.cost, it.penalty, it.gain, it.effective, it.facts, it.engine, it.moat, it.timeline, it.crises, it.lessons, it.weak]))]));
 
   const cardsEl = $("#cards");
   cardsEl.innerHTML = D.sections.map((sec) => {
@@ -197,10 +246,16 @@
   if (gl) gl.innerHTML = (D.glossary || []).map((g) => `<dt>${esc(g.term)}</dt><dd>${esc(g.def)}</dd>`).join("");
 
   // Dòng thông tin
-  const nModel = items.filter((i) => i.kind === "model").length;
-  const nRule = items.filter((i) => i.kind === "rule").length;
+  const nKind = (k) => items.filter((i) => i.kind === k).length;
   const nSrc = items.reduce((a, i) => a + (i.sources || []).length, 0);
-  $("#meta-line").innerHTML = `<span>Cập nhật ${esc(D.meta?.updated || "")}</span><span>${nModel} mô hình</span><span>${nRule} quy định chung</span><span>${nSrc} nguồn trích dẫn</span>`;
+  $("#meta-line").innerHTML = [
+    `Cập nhật ${esc(D.meta?.updated || "")}`,
+    `${nKind("model")} mô hình`,
+    `${nKind("rule")} quy định chung`,
+    nKind("stage") ? `${nKind("stage")} nấc quy mô` : "",
+    nKind("case") ? `${nKind("case")} tập đoàn` : "",
+    `${nSrc} nguồn trích dẫn`,
+  ].filter(Boolean).map((s) => `<span>${s}</span>`).join("");
 
   // ---------- Trạng thái lọc ----------
   const state = { sec: "", q: "", f: Object.fromEntries(Object.keys(DIMS).map((k) => [k, new Set()])), view: "cards", sort: null };
@@ -260,17 +315,35 @@
     { k: "legal", label: "Pháp lý", sortTag: "legal" },
     { k: "evidence", label: "Chứng cứ", sortTag: "evidence" },
   ];
+  const CASE_COLS = [
+    { k: "no", label: "#", num: true },
+    { k: "title", label: "Tập đoàn" },
+    { k: "founded", label: "Thành lập", num: true, val: (it) => it.facts?.founded },
+    { k: "revenue", label: "Doanh thu", num: true, val: (it) => it.facts?.revenue },
+    { k: "profit", label: "Lợi nhuận", num: true, val: (it) => it.facts?.profit },
+    { k: "outcome", label: "Kết cục", sortTag: "outcome" },
+    { k: "age", label: "Tuổi đời", sortTag: "age" },
+    { k: "evidence", label: "Chứng cứ", sortTag: "evidence" },
+  ];
   function renderTable() {
-    let rows = items.filter((it) => it.kind === "model" && visible(it));
+    const html = [
+      tableFor(items.filter((it) => it.kind === "model" && visible(it)), COLS),
+      tableFor(items.filter((it) => it.kind === "case" && visible(it)), CASE_COLS),
+    ].filter(Boolean).join("");
+    $("#table").innerHTML = html;
+  }
+  function tableFor(rows, COLS) {
+    if (!rows.length) return "";
     const head = `<tr>${COLS.map((c) => `<th>${c.sortTag ? `<button data-sort="${c.sortTag}">${c.label}</button>` : c.label}</th>`).join("")}</tr>`;
-    if (state.sort) {
+    const sortable = state.sort && COLS.some((c) => c.sortTag === state.sort);
+    if (sortable) {
       const o = ORDER[state.sort];
       rows = [...rows].sort((a, b) => o.indexOf(a.tags?.[state.sort]) - o.indexOf(b.tags?.[state.sort]));
     }
     let lastSec = null;
     const body = rows.map((it) => {
       let pre = "";
-      if (!state.sort && it.section !== lastSec) {
+      if (!sortable && it.section !== lastSec) {
         lastSec = it.section;
         const s = D.sections.find((x) => x.id === it.section);
         pre = `<tr class="sec-row"><td colspan="${COLS.length}">${esc(s.id)}. ${esc(s.title)}</td></tr>`;
@@ -282,14 +355,14 @@
         if (c.k === "risk") return `<td><span class="badge risk-${t.risk}">${DIMS.risk.opts[t.risk] || "—"}</span></td>`;
         if (c.k === "legal") return `<td><span class="badge legal-${t.legal}">${DIMS.legal.opts[t.legal] || "—"}</span></td>`;
         if (c.k === "evidence") return `<td>${grade(t.evidence)}</td>`;
+        if (c.k === "outcome") return `<td><span class="badge outcome-${t.outcome}">${DIMS.outcome.opts[t.outcome] || "—"}</span></td>`;
+        if (c.k === "age") return `<td>${DIMS.age.opts[t.age] || "—"}</td>`;
         const v = c.val(it);
         return `<td class="num">${isNone(v) ? "—" : esc(v)}</td>`;
       };
       return pre + `<tr>${COLS.map(cell).join("")}</tr>`;
     }).join("");
-    $("#table").innerHTML = rows.length
-      ? `<div class="table-wrap"><table class="cmp"><thead>${head}</thead><tbody>${body}</tbody></table></div>`
-      : "";
+    return `<div class="table-wrap"><table class="cmp"><thead>${head}</thead><tbody>${body}</tbody></table></div>`;
   }
 
   // ---------- Sự kiện ----------

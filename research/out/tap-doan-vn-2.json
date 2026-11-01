@@ -1,0 +1,1047 @@
+[
+ {
+  "id": "fpt",
+  "kind": "case",
+  "section": "7",
+  "title": "FPT: tự cắt nửa doanh thu biên mỏng để sống bằng dịch vụ phần mềm cho nước ngoài",
+  "summary": "Tập đoàn công nghệ niêm yết, cổ đông phân tán: người sáng lập Trương Gia Bình là cổ đông lớn nhất nhưng chỉ giữ 6,89%. Năm 2025 doanh thu 70.113 tỷ đồng, một nửa từ dịch vụ CNTT cho khách nước ngoài, riêng Nhật Bản chiếm 44% mảng này. Điều đáng học: năm 2017 FPT chủ động tách mảng phân phối, bán lẻ chiếm khoảng 55% doanh thu để dồn sức vào mảng lãi cao hơn. Rủi ro hiện nay: đồng yên, AI làm giảm nhu cầu thuê lập trình, và cạnh tranh giữ kỹ sư.",
+  "tags": {
+   "reach": "multi",
+   "age": "young",
+   "outcome": "rising",
+   "owner": "public",
+   "evidence": "A"
+  },
+  "facts": {
+   "founded": "13/9/1988",
+   "revenue": "70.113 tỷ đồng (2025)",
+   "profit": "LNTT 13.044 tỷ đồng (2025)",
+   "people": "54.110 nhân sự (cuối 2025)",
+   "text": "Số từ Báo cáo thường niên 2025, trích BCTC hợp nhất đã kiểm toán, đơn vị VNĐ. Lợi nhuận sau thuế 11.232 tỷ đồng, phần thuộc cổ đông công ty mẹ 9.376 tỷ đồng; biên LNTT 18,6%; ROE 28,1%. Từ năm 2026 FPT Telecom chuyển sang hạch toán theo phương pháp vốn chủ sở hữu, nên doanh thu hợp nhất 2026 không so trực tiếp được với 2025: kế hoạch 2026 là 58.580 tỷ đồng doanh thu và 11.629 tỷ đồng LNTT.",
+   "grade": "A",
+   "refs": [
+    1,
+    9
+   ]
+  },
+  "engine": {
+   "text": "Một nửa doanh thu (35.382 tỷ đồng, 50,5%) là dịch vụ CNTT cho khách nước ngoài: viết, bảo trì, hiện đại hóa hệ thống phần mềm, chuyển lên đám mây, AI và dữ liệu cho doanh nghiệp Nhật, Mỹ, châu Âu, châu Á. Khách trả theo nhân lực hoặc theo gói; FPT đang chuyển dần sang hợp đồng dài hạn quản trị trọn gói. Mảng này lãi trước thuế 5.467 tỷ đồng, biên 15,5%. Viễn thông (Internet, trung tâm dữ liệu) có biên cao nhất: LNTT 4.167 tỷ trên 18.702 tỷ doanh thu (22%). CNTT trong nước doanh thu 9.093 tỷ nhưng LNTT chỉ 416 tỷ (4,6%, giảm 9,7%). Khối Giáo dục, Đầu tư và Khác doanh thu 6.132 tỷ nhưng LNTT 2.792 tỷ, vì gồm cả phần lãi từ công ty liên kết như FPT Retail (theo ACBS). Doanh thu CNTT nước ngoài theo thị trường 2025: Nhật 15.452 tỷ (44%, tăng 25,4%), Mỹ và châu Á – Thái Bình Dương mỗi nơi khoảng 8.170 tỷ (23%), châu Âu 3.593 tỷ (10%). Doanh thu ký mới 40.636 tỷ (tăng 23,2%), 26 hợp đồng trên 10 triệu USD.",
+   "segments": [
+    {
+     "item": "Dịch vụ CNTT nước ngoài",
+     "value": "35.382 tỷ DT (50,5%); LNTT 5.467 tỷ",
+     "grade": "A",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "item": "Viễn thông (FPT Telecom) + quảng cáo số",
+     "value": "19.507 tỷ DT (27,8%); LNTT 4.364 tỷ",
+     "grade": "A",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "item": "Dịch vụ CNTT trong nước",
+     "value": "9.093 tỷ DT (13%); LNTT 416 tỷ",
+     "grade": "A",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "item": "Giáo dục, Đầu tư và Khác",
+     "value": "6.132 tỷ DT (8,8%); LNTT 2.792 tỷ",
+     "grade": "A",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "item": "Riêng thị trường Nhật (trong CNTT nước ngoài)",
+     "value": "15.452 tỷ (44% mảng; ≈ 22% tập đoàn)",
+     "grade": "A",
+     "refs": [
+      2
+     ]
+    }
+   ],
+   "refs": [
+    1,
+    2,
+    10
+   ]
+  },
+  "moat": {
+   "text": "Ba thứ có số đo được: (1) quy mô nhân lực 54.110 người, trong đó 4.124 người nước ngoài, hiện diện hơn 30 quốc gia; (2) quan hệ lâu năm với khách Nhật: là công ty CNTT Việt Nam đầu tiên lập pháp nhân tại Nhật (2005), năm 2025 ký hợp đồng trên 100 triệu USD đầu tiên ở Nhật và 26 hợp đồng trên 10 triệu USD, gấp đôi 2024; (3) tự đào tạo nguồn kỹ sư: lập Đại học FPT năm 2006 vì thiếu nhân lực (theo công ty tự công bố), nay có hệ thống trường từ phổ thông tới sau đại học. FPT cũng tự công bố hơn 1.100 khách hàng, trong đó hơn 130 thuộc Fortune Global 500. Các lợi thế này không loại trừ cạnh tranh: chính FPT ghi rủi ro 'cạnh tranh thu hút nhân sự' trong báo cáo thường niên.",
+   "refs": [
+    1,
+    2,
+    5
+   ]
+  },
+  "timeline": [
+   {
+    "year": "1988",
+    "event": "Thành lập ngày 13/9/1988 với 13 nhà khoa học, không vốn, không tài sản. Tên gốc Food Processing Technology (Công ty Công nghệ Thực phẩm).",
+    "refs": [
+     5,
+     6
+    ]
+   },
+   {
+    "year": "1990",
+    "event": "Chuyển sang tin học: hợp đồng cung cấp máy tính cho Viện Hàn lâm Khoa học Liên Xô, đổi tên thành Công ty Phát triển và Đầu tư Công nghệ (giữ chữ FPT); cuối năm ký hợp đồng phần mềm đầu tiên, hệ thống đặt chỗ cho Hàng không Việt Nam.",
+    "refs": [
+     5
+    ]
+   },
+   {
+    "year": "1994–1997",
+    "event": "Làm phân phối máy tính, trở thành đối tác đầu tiên của IBM tại Việt Nam sau khi Mỹ bỏ cấm vận (1994); năm 1997 là một trong bốn nhà cung cấp Internet đầu tiên được cấp phép.",
+    "refs": [
+     5
+    ]
+   },
+   {
+    "year": "1999–2005",
+    "event": "Lập FPT Software, thử xuất khẩu phần mềm ở Ấn Độ (1999) và Mỹ (2000) nhưng phải đóng văn phòng; chuyển sang Nhật, năm 2005 lập pháp nhân tại Nhật.",
+    "refs": [
+     7,
+     1
+    ]
+   },
+   {
+    "year": "2006",
+    "event": "Lập Đại học FPT; niêm yết trên HoSE ngày 13/12/2006.",
+    "refs": [
+     5,
+     1
+    ]
+   },
+   {
+    "year": "2017",
+    "event": "Giảm sở hữu tại FPT Retail xuống 47% và Synnex FPT xuống 48%; hai công ty thôi là công ty con từ 18/12/2017. Doanh thu hợp nhất 2018 giảm 47,1% so với 2017.",
+    "refs": [
+     8,
+     5
+    ]
+   },
+   {
+    "year": "2022–2025",
+    "event": "Doanh thu CNTT nước ngoài vượt 1 tỷ USD (2022); hợp tác NVIDIA xây hai nhà máy AI ở Việt Nam và Nhật (2024); ký hợp đồng 5 năm 256 triệu USD, lớn nhất lịch sử FPT (2025).",
+    "refs": [
+     1,
+     2
+    ]
+   },
+   {
+    "year": "2026",
+    "event": "Thôi hợp nhất FPT Telecom: từ 11/11/2025 quyền đại diện 50,16% vốn Nhà nước tại đây chuyển từ SCIC sang Bộ Công an; FPT chỉ nắm 45,66% nên từ 2026 ghi nhận lãi theo tỷ lệ sở hữu.",
+    "refs": [
+     1,
+     9
+    ]
+   }
+  ],
+  "crises": [
+   {
+    "title": "Xuất khẩu phần mềm thất bại ở Ấn Độ và Mỹ (1999–2000)",
+    "text": "Văn phòng ở Bangalore mở năm 1999 không ký được hợp đồng phần mềm nào; năm 2000 chuyển thành văn phòng đại diện rồi đóng. Văn phòng ở Silicon Valley mở năm 2000 cũng đóng nhanh, theo ông Trương Gia Bình vì không ai muốn giao việc. FPT quay sang Nhật, học tiếng Nhật để đàm phán, lập pháp nhân tại Nhật năm 2005. Năm 2025 thị trường Nhật mang về 15.452 tỷ đồng, 44% doanh thu CNTT nước ngoài.",
+    "refs": [
+     7,
+     2
+    ]
+   },
+   {
+    "title": "Đồng yên làm hụt tăng trưởng khi quy ra VNĐ (2024, 2026)",
+    "text": "Doanh thu từ Nhật năm 2024 tăng 36,3% tính bằng yên nhưng chỉ 32,2% tính bằng đồng; 9 tháng 2026 là 25,2% so với 17,2%. Năm 2025 chiều ngược lại (21,9% theo yên, 25,4% theo VNĐ). Tăng trưởng toàn mảng CNTT nước ngoài 9 tháng 2026 chậm lại còn 11,6% (cả năm 2025: 14,3%). FPT ghi trong báo cáo thường niên là áp dụng chính sách phòng ngừa tỷ giá, đặc biệt với yên.",
+    "refs": [
+     4,
+     2,
+     3,
+     1
+    ]
+   },
+   {
+    "title": "Mất quyền kiểm soát FPT Telecom (2025–2026)",
+    "text": "FPT chỉ sở hữu 45,66% FPT Telecom nhưng trước đây vẫn hợp nhất toàn bộ nhờ quyền chi phối HĐQT. Khi quyền đại diện 50,16% vốn Nhà nước chuyển sang Bộ Công an (11/11/2025), theo công văn 1906 ngày 18/3/2026 FPT chỉ hợp nhất đến hết 2025. Từ 2026 khoảng 18.700 tỷ đồng doanh thu viễn thông ra khỏi báo cáo hợp nhất; FPT chỉ ghi nhận phần lãi theo tỷ lệ sở hữu. FPT nói thay đổi kế toán này không làm đổi lợi ích cổ đông; nhưng quyền của công ty mẹ ở mảng có biên lợi nhuận cao nhất nay thuộc chủ sở hữu mới.",
+    "refs": [
+     1,
+     9,
+     2
+    ]
+   }
+  ],
+  "lessons": [
+   {
+    "title": "Thị trường đầu tiên không mua thì đổi thị trường, không vội đổi nghề",
+    "text": "FPT không ký được hợp đồng nào ở Ấn Độ và phải đóng văn phòng ở Mỹ, nhưng giữ nghề phần mềm và chuyển sang Nhật, nơi đòi hỏi khác biệt (tiếng Nhật, chất lượng) mà họ chịu đầu tư để đáp ứng. Người làm nhỏ: thử bán ở vài thị trường hoặc kênh với chi phí giới hạn và hạn chót rõ (ví dụ 6–12 tháng không có đơn thì rút), dồn lực vào nơi khách chịu trả cho thứ mình làm được mà đối thủ ngại làm.",
+    "refs": [
+     7,
+     2
+    ]
+   },
+   {
+    "title": "Nhìn lãi theo từng mảng, đừng nhìn tổng doanh thu",
+    "text": "Năm 2017 FPT tách mảng phân phối, bán lẻ đang đóng góp 24.067 tỷ đồng doanh thu hợp nhất. Doanh thu 2018 giảm 47,1% nhưng LNTT chỉ giảm 9,3%, và nếu so cùng phạm vi thì LNTT tăng 30,6%; tỷ trọng doanh thu nước ngoài tăng từ 16,4% lên 39,2%. Người làm nhỏ: tách sổ lãi lỗ cho từng dòng hàng, kênh hoặc cửa hàng; mảng chiếm nhiều doanh thu mà ít lãi, lại giữ nhiều vốn và công sức, là ứng viên để thu hẹp hoặc bán.",
+    "refs": [
+     8
+    ]
+   },
+   {
+    "title": "Bán bằng ngoại tệ thì lãi phụ thuộc tỷ giá",
+    "text": "Cùng một lượng việc cho khách Nhật, năm 2024 FPT tăng 36,3% theo yên nhưng chỉ 32,2% theo đồng; 9 tháng 2026 chênh 8 điểm phần trăm. Người làm nhỏ có bán hàng ra nước ngoài: theo dõi doanh thu bằng cả ngoại tệ và VNĐ, đưa điều khoản điều chỉnh giá theo tỷ giá vào hợp đồng dài, và khi một đồng tiền chiếm phần lớn doanh thu thì hỏi ngân hàng về hợp đồng kỳ hạn để chốt tỷ giá.",
+    "refs": [
+     4,
+     3,
+     1
+    ]
+   }
+  ],
+  "weak": {
+   "text": "Năm 2025 FPT đạt 93% kế hoạch doanh thu và 97% kế hoạch LNTT; báo cáo thường niên nhắc tác động từ chính sách thuế quan của Mỹ. Rủi ro 2025–2026: (1) AI có thể làm khách cần ít giờ lập trình thuê ngoài hơn; ACBS (8/2026) ghi nhận lo ngại này, hạ giá mục tiêu 17% và cho rằng mức tăng LNTT trên 20%/năm chưa quay lại trong 1–2 năm; cổ phiếu FPT cuối tháng 7/2026 giao dịch quanh 62.900 đồng, vùng thấp nhất từ tháng 11/2023. (2) Tỷ giá yên: Nhật chiếm 44% doanh thu CNTT nước ngoài. (3) Nhân lực: tỷ lệ nghỉ việc chủ động 15,4% năm 2025; FPT tự liệt kê rủi ro 'cạnh tranh thu hút nhân sự; số lượng, chất lượng không bắt kịp nhu cầu tăng trưởng'. (4) CNTT trong nước biên mỏng: LNTT 416 tỷ trên 9.093 tỷ doanh thu.",
+   "refs": [
+    1,
+    10,
+    11,
+    2
+   ]
+  },
+  "notes": "Tên gốc năm 1988: Báo Đầu tư ghi 'Công ty Công nghệ Thực phẩm (Food Processing Technology)'; một số báo khác ghi 'Chế biến thực phẩm'. Trang lịch sử chính thức của FPT không nêu tên gốc. LNTT 2025: báo cáo KQKD tháng 1/2026 (chưa kiểm toán) ghi 13.039 tỷ, BCTN (đã kiểm toán) ghi 13.044 tỷ; dùng số kiểm toán. Doanh thu riêng mảng Giáo dục theo báo cáo KQKD là 7.009 tỷ (giảm 1,1%), cao hơn doanh thu cả khối Giáo dục, Đầu tư và Khác (6.132 tỷ); FPT không giải thích chênh lệch, có thể do loại trừ nội bộ. Phân bổ Mỹ/châu Á – Thái Bình Dương: biểu đồ của FPT chỉ ghi hai số 8.173 và 8.163 tỷ, nên mục này ghi gộp 'mỗi nơi khoảng 8.170 tỷ'. Giá cổ phiếu dẫn trong mục điểm yếu là giá tháng 7/2026, trước đợt phát hành cổ phiếu tăng vốn tháng 9/2026. Không quy đổi USD; FPT tự quy đổi doanh thu ký mới 40.636 tỷ ≈ 1,5 tỷ USD.",
+  "sources": [
+   {
+    "id": 1,
+    "org": "FPT",
+    "year": 2026,
+    "title": "Báo cáo thường niên 2025 (kèm BCTC hợp nhất đã kiểm toán)",
+    "quote": "Kết thúc năm 2025, doanh thu của Tập đoàn đạt 70.113 tỷ đồng, tăng 11,6%; lợi nhuận trước thuế đạt 13.044 tỷ đồng, tăng 17,8%",
+    "url": "https://fpt.com/api/media/BCTN_FPT_2025_fcf66a214c.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 2,
+    "org": "FPT",
+    "year": 2026,
+    "title": "Báo cáo kết quả kinh doanh tháng 12/2025",
+    "quote": "Động lực tăng trưởng chính đến từ thị trường Nhật Bản (+25.4%)",
+    "url": "https://fpt.com/api/media/FPT_BC_KQKD_12_M2025_2_9f8412e256.pdf",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 3,
+    "org": "FPT",
+    "year": 2026,
+    "title": "Báo cáo kết quả kinh doanh tháng 9/2026",
+    "quote": "Động lực tăng trưởng chính đến từ thị trường Nhật Bản (+25.2% theo Yên Nhật)",
+    "url": "https://fpt.com/api/media/FPT_BC_KQKD_9_M2026_1_357286c0de.pdf",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 4,
+    "org": "FPT",
+    "year": 2025,
+    "title": "Báo cáo kết quả kinh doanh tháng 12/2024",
+    "quote": "(+36.3% theo Yên Nhật)",
+    "url": "https://fpt.com/api/media/FPT_BC_KQKD_12_M2024_05bbb8b4af.pdf",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 5,
+    "org": "FPT",
+    "year": 2026,
+    "title": "Lịch sử FPT (trang chính thức)",
+    "quote": "Khởi đầu với 13 nhà khoa học, không vốn, không tài sản, năm 1988, FPT được thành lập",
+    "url": "https://fpt.com/vi/ve-fpt/lich-su",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 6,
+    "org": "Báo Đầu tư",
+    "year": 2013,
+    "title": "Phó Thủ tướng Nguyễn Thiện Nhân tặng tên mới cho FPT",
+    "quote": "FPT ban đầu có tên gốc là Food Processing Technology (Công ty Công nghệ Thực phẩm)",
+    "url": "https://baodautu.vn/pho-thu-tuong-nguyen-thien-nhan-tang-ten-moi-cho-fpt-d3964.html",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 7,
+    "org": "Báo Nhân Dân",
+    "year": 2024,
+    "title": "Dấu chân công nghệ Việt đi ra biển lớn (25 năm FPT xuất khẩu phần mềm)",
+    "quote": "chi nhánh FPT India chuyển thành văn phòng đại diện và đóng cửa một thời gian ngắn sau đó vì không ghi nhận được bất cứ hợp đồng phần mềm nào",
+    "url": "https://special.nhandan.vn/25-nam-FPT-xuat-khau-phan-mem/index.html",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 8,
+    "org": "FPT",
+    "year": 2019,
+    "title": "Báo cáo thường niên 2018",
+    "quote": "Tỷ trọng doanh thu thị trường nước ngoài tăng từ 16,4% năm 2017 lên 39,2% trong năm 2018.",
+    "url": "https://fpt.com/api/media/bao_cao_thuong_nien_2018_7000bb1ec9.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 9,
+    "org": "VnEconomy",
+    "year": 2026,
+    "title": "FPT điều chỉnh phương pháp hợp nhất báo cáo tài chính FPT Telecom",
+    "quote": "FPT sẽ chỉ ghi nhận phần lợi nhuận tại FPT Telecom tương ứng với tỷ lệ sở hữu thực tế của công ty",
+    "url": "https://vneconomy.vn/fpt-dieu-chinh-phuong-phap-hop-nhat-bao-cao-tai-chinh-fpt-telecom.htm",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 10,
+    "org": "Chứng khoán ACB (ACBS)",
+    "year": 2026,
+    "title": "Cập nhật FPT – MUA, 07/08/2026",
+    "quote": "Mặc dù vẫn còn những lo ngại về việc AI đe dọa công việc của các công ty cung cấp dịch vụ CNTT",
+    "url": "https://acbs.com.vn/acbsmedia/2026/08/FPT_by_ACBS_Update-VN-_07.08.2026.pdf",
+    "type": "report",
+    "grade": "B",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 11,
+    "org": "Báo Pháp Luật Việt Nam (Doanh nhân)",
+    "year": 2026,
+    "title": "FPT rớt khỏi top 10 vốn hóa, khối ngoại bán ròng kỷ lục dù lợi nhuận tăng trưởng",
+    "quote": "giao dịch quanh mức 62.900 đồng/cổ phiếu, tương đương vùng giá thấp nhất kể từ tháng 11/2023",
+    "url": "https://doanhnhan.baophapluat.vn/fpt-rot-khoi-top-10-von-hoa-khoi-ngoai-ban-rong-ky-luc-du-loi-nhuan-tang-truong.html",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   }
+  ]
+ },
+ {
+  "id": "vinamilk",
+  "kind": "case",
+  "section": "7",
+  "title": "Vinamilk: dẫn đầu ngành sữa nhưng doanh thu trong nước đứng yên 5 năm",
+  "summary": "Doanh nghiệp sữa lớn nhất Việt Nam, khởi đầu từ 3 nhà máy tiếp quản năm 1976, cổ phần hóa năm 2003; SCIC vẫn là cổ đông lớn nhất với 36%. Năm 2025 tổng doanh thu 63.724 tỷ đồng, 80% bán trong nước, biên lãi gộp 41,2%. Điều đáng học: doanh thu nội địa gần như không tăng từ 2021 đến 2025, tăng trưởng phải đến từ xuất khẩu; cú sốc giá sữa bột năm 2022 cho thấy biên lợi nhuận phụ thuộc nguyên liệu nhập.",
+  "tags": {
+   "reach": "multi",
+   "age": "old",
+   "outcome": "survived",
+   "owner": "state",
+   "evidence": "A"
+  },
+  "facts": {
+   "founded": "1976",
+   "revenue": "63.724 tỷ đồng (tổng DT 2025)",
+   "profit": "LNST 9.414 tỷ đồng (2025)",
+   "people": "9.906 người lao động (cuối 2025)",
+   "text": "Số từ Báo cáo thường niên 2025 (BCTC hợp nhất theo chuẩn mực kế toán Việt Nam, KPMG kiểm toán), đơn vị VNĐ. Doanh thu thuần 63.646 tỷ đồng; LNTT 11.650 tỷ đồng (tăng 0,4%); LNST giảm 0,4%. Biên lãi gộp 41,2%, biên LNST 14,8% (tài liệu giới thiệu doanh nghiệp 8/2026). Kế hoạch 2026: tổng doanh thu 66.477 tỷ, LNST 9.828 tỷ đồng.",
+   "grade": "A",
+   "refs": [
+    1,
+    2
+   ]
+  },
+  "engine": {
+   "text": "Bán sữa nước, sữa chua, sữa đặc, sữa bột, kem và đồ uống cho gần như mọi nhóm tuổi; kênh chính là tạp hóa qua gần 200 nhà phân phối độc quyền (2021), cộng siêu thị, sàn thương mại điện tử và hơn 1.000 cửa hàng riêng (9/2026). Nguyên liệu: khoảng 45% sữa tươi tự cung cấp từ trang trại lớn (khoảng 42.000 bò thuần chủng, gồm Mộc Châu), khoảng 55% mua của hộ chăn nuôi (90.500 bò), cộng sữa bột nhập khẩu. Năm 2025: doanh thu thuần trong nước 50.964 tỷ (tăng 0,3%), trong đó Sữa Mộc Châu 2.835 tỷ; nước ngoài 12.682 tỷ (tăng 15,5%), gồm xuất khẩu thương mại 6.546 tỷ (tăng 16,5%, khoảng 4.200 container) và các công ty con ở Mỹ (Driftwood), Campuchia (Angkormilk). Biên lãi gộp qua các năm: 43,1% (2021), 39,9% (2022), 40,7% (2023), 41,4% (2024), 41,2% (2025); 9 tháng 2026: 42,5%. Thị phần: công ty không công bố số chuẩn hằng năm; các mốc có nguồn là 58–59% (Tổng giám đốc nói năm 2018) và 'gần một nửa' thị trường cuối 2024 (VIRAC, dẫn qua VIR). Hai số khác nguồn và phương pháp nên không ghép thành xu hướng được.",
+   "segments": [
+    {
+     "item": "Nội địa (gồm Sữa Mộc Châu)",
+     "value": "50.964 tỷ (80%), +0,3%",
+     "grade": "A",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "item": "Nước ngoài (xuất khẩu + công ty con)",
+     "value": "12.682 tỷ (20%), +15,5%",
+     "grade": "A",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "item": "Trong đó xuất khẩu thương mại",
+     "value": "6.546 tỷ, +16,5%",
+     "grade": "A",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "item": "Doanh thu nội địa 2021 → 2025",
+     "value": "51.202 → 50.964 tỷ",
+     "grade": "A",
+     "refs": [
+      2
+     ]
+    }
+   ],
+   "refs": [
+    1,
+    2,
+    3,
+    5,
+    10,
+    11
+   ]
+  },
+  "moat": {
+   "text": "Quy mô và chuỗi khép kín: 15 trang trại, trên 130.000 bò do công ty quản lý và liên kết, khoảng 410.000 tấn sữa tươi/năm, 17 nhà máy (gồm Mỹ và Campuchia), xuất đi 65 quốc gia. Độ phủ: công ty dẫn số liệu Kantar rằng 9/10 hộ gia đình Việt dùng sản phẩm Vinamilk. Tài chính: tiền và đầu tư tài chính ngắn hạn chiếm 43,4% tổng tài sản cuối 2025. Công ty tự mô tả lợi thế quy mô là 'rào cản gia nhập cao và khó bị sao chép'. Rào cản này không tuyệt đối: theo VIRAC, TH true MILK chiếm khoảng 30–45% phân khúc sữa tươi đóng gói.",
+   "refs": [
+    1,
+    2,
+    11
+   ]
+  },
+  "timeline": [
+   {
+    "year": "1976",
+    "event": "Thành lập với tên Công ty Sữa – Cà phê Miền Nam, tiếp quản 3 nhà máy sữa Thống Nhất, Trường Thọ và sữa bột Dielac.",
+    "refs": [
+     1
+    ]
+   },
+   {
+    "year": "2003",
+    "event": "Cổ phần hóa, đổi tên thành Công ty Cổ phần Sữa Việt Nam.",
+    "refs": [
+     1
+    ]
+   },
+   {
+    "year": "2005–2006",
+    "event": "Xây trang trại bò sữa đầu tiên (2005); niêm yết trên HoSE ngày 19/01/2006 và lập Công ty Bò Sữa Việt Nam.",
+    "refs": [
+     2,
+     1
+    ]
+   },
+   {
+    "year": "2010–2017",
+    "event": "Ra nước ngoài: góp 10 triệu USD vào Miraka (New Zealand, 2010), mua 70% Driftwood (Mỹ, 2013, lên 100% năm 2016), góp 51% Angkor Dairy (Campuchia, 2014, lên 100% năm 2017).",
+    "refs": [
+     1
+    ]
+   },
+   {
+    "year": "2019",
+    "event": "Mua 75% GTNFoods, qua đó điều hành Sữa Mộc Châu.",
+    "refs": [
+     1
+    ]
+   },
+   {
+    "year": "2023",
+    "event": "Tháng 7 ra bộ nhận diện thương hiệu mới, sau đó thay bao bì toàn bộ ngành hàng; ưu tiên số một là lấy lại thị phần.",
+    "refs": [
+     4
+    ]
+   },
+   {
+    "year": "2025–2026",
+    "event": "Doanh thu 63.724 tỷ, cao nhất lịch sử; liên doanh thịt bò JVL với Sojitz đi vào hoạt động. 9 tháng 2026 doanh thu thuần tăng 14,5%, LNST tăng 30,6%.",
+    "refs": [
+     1,
+     2,
+     3
+    ]
+   }
+  ],
+  "crises": [
+   {
+    "title": "Kế hoạch 2017–2021 hụt xa, doanh thu trong nước đứng yên",
+    "text": "Tổng doanh thu 2021 hơn 61.000 tỷ đồng, tăng hơn 19% so với 2016 nhưng cách xa mục tiêu 80.000 tỷ đề ra từ đầu kế hoạch 2017–2021 (VnExpress, 3/2022). Doanh thu thuần trong nước 51.202 tỷ (2021), 50.704 tỷ (2022), 50.617 tỷ (2023), 50.799 tỷ (2024), 50.964 tỷ (2025). Cách xử lý: đẩy thị trường nước ngoài (9.252 tỷ năm 2022 lên 12.682 tỷ năm 2025) và cao cấp hóa danh mục; nhóm sản phẩm cao cấp năm 2025 tiến sát 10% doanh thu nội địa.",
+    "refs": [
+     6,
+     2,
+     1
+    ]
+   },
+   {
+    "title": "Cú sốc giá nguyên liệu 2022",
+    "text": "LNST giảm từ 10.633 tỷ (2021) xuống 8.578 tỷ (2022), tức giảm 19%; biên lãi gộp từ 43,1% xuống 39,9%. Tại ĐHĐCĐ 4/2023, Tổng giám đốc Mai Kiều Liên nói có nguyên liệu tăng 30–50%, cước vận chuyển tăng 5–6 lần và công ty không chuyển hết chênh lệch vào giá bán. Biên gộp hồi lên 41,4% năm 2024 khi giá nguyên liệu hạ; quý 1/2024 công ty cho biết đã chốt giá sữa bột nhập khẩu đến quý 4/2024.",
+    "refs": [
+     2,
+     7,
+     8
+    ]
+   },
+   {
+    "title": "Mất thị phần sữa nước, sữa bột (2022–2023)",
+    "text": "Năm 2023 toàn ngành sữa giảm; riêng quý 3/2023 giảm 4% về giá trị (AC Nielsen, dẫn qua Tạp chí Thị trường Tài chính Tiền tệ). Báo cáo thường niên 2023 thừa nhận gián tiếp: sữa nước và sữa bột 'đã chấm dứt đà giảm thị phần' sau tái định vị thương hiệu và đa dạng kênh. Doanh thu nội địa vẫn đi ngang đến 2025; 9 tháng 2026 mới tăng 11,1%, công ty quy cho đổi mới danh mục và thương hiệu (theo công ty tự công bố).",
+    "refs": [
+     9,
+     4,
+     3
+    ]
+   }
+  ],
+  "lessons": [
+   {
+    "title": "Thị trường quen đã bão hòa thì phải có kế hoạch tìm khách ở nơi khác",
+    "text": "Vinamilk giữ vị trí dẫn đầu nhưng doanh thu trong nước gần như không đổi suốt 2021–2025; phần tăng thêm đến từ nước ngoài (tăng 37% từ 2022 đến 2025, nay chiếm 20%). Người làm nhỏ: theo dõi doanh thu của cửa hàng, khu vực hoặc tệp khách cũ theo từng năm; khi tăng thấp hơn lạm phát hai, ba năm liền, hãy mở kênh hoặc vùng mới có chủ đích thay vì chỉ giảm giá để giành khách cũ.",
+    "refs": [
+     2,
+     1
+    ]
+   },
+   {
+    "title": "Chốt giá đầu vào khi có thể",
+    "text": "Năm 2022 nguyên liệu nhập tăng 30–50%, Vinamilk không tăng giá bán đủ, LNST giảm 19% và biên gộp mất hơn 3 điểm phần trăm. Đến 2024, khi giá thuận lợi, công ty chốt giá sữa bột nhập khẩu cho gần hết năm. Người làm nhỏ dùng nguyên liệu biến động giá (sữa, cà phê, đường, bột...): ký hợp đồng giá cố định theo quý hoặc mùa vụ với nhà cung cấp, giữ tồn kho đệm khi giá thấp, và tính trước giá bán cần tăng bao nhiêu nếu đầu vào tăng 20–30%.",
+    "refs": [
+     7,
+     8,
+     2
+    ]
+   },
+   {
+    "title": "Mất khách thì làm mới sản phẩm và nhận diện, rồi đo bằng số",
+    "text": "Khi sữa nước và sữa bột mất thị phần, Vinamilk đổi nhận diện thương hiệu (7/2023), thay bao bì toàn bộ, ra hơn 100 sản phẩm mới và tái tung trong năm 2025; kết quả được đo bằng thị phần và doanh thu nội địa chứ không bằng cảm nhận. Người làm nhỏ: khi khách quen giảm, làm mới bao bì, công thức hoặc cách bán theo từng nhóm khách, và đặt sẵn chỉ số để đo sau 3–6 tháng (doanh thu cửa hàng cũ, tỷ lệ khách quay lại).",
+    "refs": [
+     4,
+     1,
+     3
+    ]
+   }
+  ],
+  "weak": {
+   "text": "(1) Thị trường sữa trong nước co lại: theo NielsenIQ (dẫn trong báo cáo thường niên 2025) ngành sữa năm 2025 giảm 2,4%; sữa công thức trẻ em giảm 20% trong quý 1/2024 (AC Nielsen, dẫn qua Tạp chí Công Thương). (2) Biên lợi nhuận phụ thuộc giá sữa bột thế giới: khoảng 55% sữa tươi phải mua ngoài, cộng nguyên liệu nhập; năm 2022 cho thấy biên gộp có thể mất hơn 3 điểm phần trăm trong một năm. (3) Chia cổ tức vượt lợi nhuận: tỷ lệ chi trả 101–108% LNST giai đoạn 2022–2025, ít tiền giữ lại để đầu tư; SCIC đã nhận gần 40.000 tỷ đồng cổ tức lũy kế. (4) Cơ cấu sở hữu tập trung: SCIC 36%, nhóm F&N khoảng 25% (cuối 2025). Năm 2026 kết quả phục hồi rõ (9 tháng doanh thu +14,5%, LNST +30,6%), nên rủi ro (1) đang giảm nhưng chưa có số cả năm.",
+   "refs": [
+    1,
+    8,
+    2,
+    12,
+    3
+   ]
+  },
+  "notes": "Chủ sở hữu: gắn nhãn 'state' vì SCIC (đại diện vốn Nhà nước) là cổ đông lớn nhất với 36%; Nhà nước không nắm quá bán. Nhóm F&N (Singapore) nắm 22,29% + 2,70% cuối 2025; Platinum Victory giảm từ 6,02% xuống 2,51% (giữa 2026). Báo cáo thường niên 2025 có hai bộ BCTC: theo VAS (doanh thu thuần 63.646 tỷ) và theo IFRS (doanh thu 54.249 tỷ, do cách phân loại khác); mục này dùng VAS. Thị phần: không tìm được chuỗi số thị phần gốc NielsenIQ theo năm; Vinamilk từ 2021 chỉ công bố mức thay đổi (2021: tăng 0,9 điểm về giá trị) chứ không công bố mức. Các con số 58–59% (2018, công ty tự nói) và 'gần một nửa' (VIRAC, 2024) không cùng phương pháp. Số 9.906 lao động lấy từ BCTN 2025; tài liệu giới thiệu doanh nghiệp ghi '~10K'. Tỷ lệ 45%/55% nguồn sữa tươi là số công ty ghi trong tài liệu giới thiệu 8/2026 (gồm cả Mộc Châu).",
+  "sources": [
+   {
+    "id": 1,
+    "org": "Vinamilk",
+    "year": 2026,
+    "title": "Báo cáo thường niên 2025",
+    "quote": "Doanh thu thuần trong nước năm 2025 đạt 50.964 tỷ đồng, ghi nhận tăng trưởng 0,3% so với cùng kỳ năm trước",
+    "url": "https://d8um25gjecm9v.cloudfront.net/cms/20260319_VNM_Bao_cao_thuong_nien_2025_eae619d5f6.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 2,
+    "org": "Vinamilk",
+    "year": 2026,
+    "title": "Giới thiệu doanh nghiệp (Corporate Presentation), cập nhật 11/08/2026",
+    "quote": "Lợi thế từ quy mô vượt trội thiết lập rào cản gia nhập cao và khó bị sao chép",
+    "url": "https://d8um25gjecm9v.cloudfront.net/cms/20260811_VNM_Corporate_Presentation_VN_445658bf92.pdf",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 3,
+    "org": "Vinamilk",
+    "year": 2026,
+    "title": "Bản tin nhà đầu tư quý 3/2026",
+    "quote": "Lũy kế 9 tháng năm 2026, doanh thu thuần hợp nhất và LNST hợp nhất duy trì mức tăng trưởng hai chữ số, lần lượt đạt 14,5% và 30,6% so với cùng kỳ.",
+    "url": "https://d8um25gjecm9v.cloudfront.net/cms/20261030_VNM_Ban_tin_NDT_Q3_2026_c03806a2aa.pdf",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 4,
+    "org": "Vinamilk",
+    "year": 2024,
+    "title": "Báo cáo thường niên 2023",
+    "quote": "Các ngành hàng sữa nước và sữa bột đã chấm dứt đà giảm thị phần",
+    "url": "https://www.vinamilk.com.vn/bao-cao-thuong-nien/bao-cao/2023/_astro/Vinamilk%20BCTN%202023.nwYxiaAn.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 5,
+    "org": "Vinamilk",
+    "year": 2022,
+    "title": "Báo cáo thường niên 2021",
+    "quote": "Kênh truyền thống tiếp tục là kênh phân phối chính của Vinamilk với gần 200 nhà phân phối độc quyền",
+    "url": "https://d8um25gjecm9v.cloudfront.net/cms/1650451537_b3efd46d2f003afce29e7e0aaab1521241f779cb82f0b211a34af53b17adfb09_1261da94e5.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 6,
+    "org": "VnExpress",
+    "year": 2022,
+    "title": "Thế lưỡng nan của doanh nghiệp đứng đầu ngành sữa",
+    "quote": "Tổng doanh thu đến cuối năm 2021 đạt hơn 61.000 tỷ đồng, tăng hơn 19% so với năm 2016 nhưng cách xa con số mục tiêu 80.000 tỷ",
+    "url": "https://vnexpress.net/the-kho-cua-vinamilk-4442659.html",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 7,
+    "org": "Mekong ASEAN",
+    "year": 2023,
+    "title": "CEO Mai Kiều Liên: 'Phải một năm nữa Vinamilk mới về lại biên lợi nhuận trước dịch'",
+    "quote": "chưa bao giờ giá nguyên liệu tăng cao từ 30%, thậm chí có nguyên liệu tăng 50%",
+    "url": "https://mekongasean.vn/ceo-mai-kieu-lien-aposphai-mot-nam-nua-vinamilk-moi-ve-lai-bien-loi-nhuan-truoc-dichapos-23124.html",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 8,
+    "org": "Tạp chí Công Thương",
+    "year": 2024,
+    "title": "Vinamilk (VNM): Đã chốt giá sữa bột đến cuối năm, dự kiến lãi quý 2 tăng trưởng 2 chữ số",
+    "quote": "công ty đã chốt giá sữa bột nguyên kem (WMP) và sữa bột tách kem (SMP) nhập khẩu đến quý 4/2024",
+    "url": "https://tapchicongthuong.vn/vinamilk--vnm-da-chot-gia-sua-bot-den-cuoi-nam--du-kien-lai-quy-2-tang-truong-2-chu-so-121434.htm",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 9,
+    "org": "Tạp chí Thị trường Tài chính Tiền tệ",
+    "year": 2023,
+    "title": "Vượt 'gió ngược', Vinamilk khôi phục thị phần nội địa",
+    "quote": "Toàn ngành sữa cũng ghi nhận giảm 4%.",
+    "url": "https://thitruongtaichinhtiente.vn/vuot-gio-nguoc-vinamilk-khoi-phuc-thi-phan-noi-dia-52014.html",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 10,
+    "org": "Báo Pháp Luật Việt Nam",
+    "year": 2018,
+    "title": "Bà Mai Kiều Liên: 'Tôi không bi quan về ngành sữa, thị phần Vinamilk hiện đã chiếm 58-59%'",
+    "quote": "thị phần Vinamilk hiện đã chiếm 58-59%",
+    "url": "https://baophapluat.vn/ba-mai-kieu-lien-toi-khong-bi-quan-ve-nganh-sua-thi-phan-vinamilk-hien-da-chiem-58-59-post290940.html",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 11,
+    "org": "Vietnam Investment Review (VIR)",
+    "year": 2025,
+    "title": "Dairy market remains ripe for new expansion",
+    "quote": "holding nearly half of the industry’s total market share as of the end of 2024, according to Data Factory VIRAC",
+    "url": "https://vir.com.vn/dairy-market-remains-ripe-for-new-expansion-135306.html",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 12,
+    "org": "TheLEADER",
+    "year": 2026,
+    "title": "SCIC sắp chạm mốc thu 40.000 tỷ đồng cổ tức từ Vinamilk",
+    "quote": "Tổng giá trị đầu tư và lợi ích kinh tế mà SCIC nhận được từ Vinamilk đã tăng gần 71 lần so với thời điểm cổ phần hóa.",
+    "url": "https://theleader.vn/scic-sap-cham-moc-thu-40000-ty-dong-co-tuc-tu-vinamilk-d46836.html",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   }
+  ]
+ },
+ {
+  "id": "the-gioi-di-dong",
+  "kind": "case",
+  "section": "7",
+  "title": "Thế Giới Di Động: lớn lên nhờ mở cửa hàng, sống sót nhờ dám đóng cửa hàng",
+  "summary": "Chuỗi bán lẻ điện thoại, điện máy, bách hóa do nhóm sáng lập của ông Nguyễn Đức Tài dẫn dắt từ một cửa hàng điện thoại năm 2004. Năm 2025 doanh thu thuần 155.928 tỷ đồng, LNST 7.073 tỷ đồng; điện thoại – điện máy vẫn là nguồn lãi chính, Bách Hóa Xanh chỉ có lãi từ 2024 sau nhiều năm lỗ. Điều đáng học: năm 2023 lãi gần về 0 (168 tỷ), công ty giảm hơn 8.500 nhân viên và đóng hàng trăm cửa hàng; sau đó doanh thu trên mỗi cửa hàng, chứ không phải số cửa hàng, kéo lợi nhuận trở lại.",
+  "tags": {
+   "reach": "domestic",
+   "age": "young",
+   "outcome": "survived",
+   "owner": "founder",
+   "evidence": "A"
+  },
+  "facts": {
+   "founded": "3/2004",
+   "revenue": "155.928 tỷ đồng (DTT 2025)",
+   "profit": "LNST 7.073 tỷ đồng (2025)",
+   "people": "64.727 nhân viên (31/12/2025)",
+   "text": "Số từ BCTC hợp nhất năm 2025 đã kiểm toán (Ernst & Young Việt Nam), đơn vị VNĐ. Lợi nhuận gộp 31.002 tỷ (biên 19,9%), LNTT 8.633 tỷ, LNST thuộc cổ đông công ty mẹ 7.034 tỷ; biên ròng 4,5%. Chi phí bán hàng 19.331 tỷ, bằng 12,4% doanh thu thuần. Kế hoạch 2026: doanh thu 185.000 tỷ, LNST 9.200 tỷ đồng.",
+   "grade": "A",
+   "refs": [
+    2,
+    1
+   ]
+  },
+  "engine": {
+   "text": "Bán lẻ qua cửa hàng và online (online 9,2 nghìn tỷ, 5,9% doanh thu 2025). Theo chuỗi 2025: Điện Máy Xanh khoảng 68,4 nghìn tỷ (43,8%), thegioididong.com gồm TopZone khoảng 37,3 nghìn tỷ (23,9%), hai chuỗi tăng 18%; Bách Hóa Xanh gần 46,9 nghìn tỷ (30%, tăng 14%); An Khang gần 2,2 nghìn tỷ và AVAKids gần 1,4 nghìn tỷ. Theo ngành hàng: điện thoại – thiết bị di động 38,2%, điện máy 26%, thực phẩm tươi và hàng tiêu dùng nhanh 30%. Lãi chủ yếu từ điện thoại – điện máy: kế hoạch 2026 giao Công ty Điện Máy Xanh (vận hành TGDĐ, ĐMX, TopZone, Erablue) khoảng 80% lợi nhuận tập đoàn, Bách Hóa Xanh gần 20%. MWG không công bố LNST riêng của Bách Hóa Xanh năm 2025; DSC ước 755 tỷ đồng. Cuối 2025 có 6.225 cửa hàng: ĐMX 2.008, TGDĐ 1.012, BHX 2.559, An Khang 382, AVAKids 83, Erablue 181 (Indonesia, MWG sở hữu 45%, hạch toán như liên doanh). Bán trả chậm chiếm 38% doanh thu Công ty Điện Máy Xanh trong 9 tháng 2026.",
+   "segments": [
+    {
+     "item": "Điện Máy Xanh",
+     "value": "≈ 68.400 tỷ (43,8%)",
+     "grade": "A",
+     "refs": [
+      3
+     ]
+    },
+    {
+     "item": "thegioididong.com + TopZone",
+     "value": "≈ 37.300 tỷ (23,9%)",
+     "grade": "A",
+     "refs": [
+      3
+     ]
+    },
+    {
+     "item": "Bách Hóa Xanh",
+     "value": "≈ 46.900 tỷ (30%); LNST ≈ 755 tỷ (DSC ước)",
+     "grade": "B",
+     "refs": [
+      3,
+      9
+     ]
+    },
+    {
+     "item": "An Khang, AVAKids, khác",
+     "value": "≈ 3.600 tỷ (2,3%)",
+     "grade": "A",
+     "refs": [
+      3
+     ]
+    }
+   ],
+   "refs": [
+    1,
+    3,
+    4,
+    9,
+    12
+   ]
+  },
+  "moat": {
+   "text": "Mạng lưới 6.225 cửa hàng trên cả nước cùng kho vận và đội giao – lắp – sửa riêng (Thợ Điện Máy Xanh), cho phép giao lắp nhanh và mua hàng số lượng lớn từ hãng. MWG tự công bố thị phần điện thoại Apple của mình tăng từ 25–30% lên khoảng 50% cuối 2023. Năng lực vận hành đo được: năm 2025 Công ty Điện Máy Xanh chạy ít hơn khoảng 100 cửa hàng so với bình quân 2024 nhưng doanh thu mỗi cửa hàng hiện hữu tăng trên 20%; Bách Hóa Xanh mở 789 cửa hàng, công ty cho biết gần 70% có EBIT dương ngay năm đầu. Người sáng lập kiểm soát qua HĐQT và đội điều hành lâu năm: ông Nguyễn Đức Tài giữ 2,21% trực tiếp và công ty liên quan Thế giới Bán lẻ giữ 10,44%; Tổng giám đốc Vũ Đăng Linh làm ở MWG từ 2008.",
+   "refs": [
+    1,
+    5,
+    12
+   ]
+  },
+  "timeline": [
+   {
+    "year": "2004",
+    "event": "3/2004 lập Công ty TNHH Thế Giới Di Động; 10/2004 mở siêu thị điện thoại đầu tiên tại 89A Nguyễn Đình Chiểu, TP.HCM.",
+    "refs": [
+     1
+    ]
+   },
+   {
+    "year": "2007",
+    "event": "Nhận vốn của quỹ Mekong Capital, chuyển thành công ty cổ phần.",
+    "refs": [
+     1
+    ]
+   },
+   {
+    "year": "2010–2016",
+    "event": "Cuối 2010 ra chuỗi điện máy dienmay.com (đổi tên Điện Máy Xanh tháng 5/2015); 3/2012 thegioididong.com có mặt ở 63 tỉnh; 7/2016 Điện Máy Xanh phủ 63 tỉnh với hơn 250 siêu thị. Niêm yết HoSE ngày 14/7/2014.",
+    "refs": [
+     1,
+     5
+    ]
+   },
+   {
+    "year": "2015–2021",
+    "event": "Cuối 2015 thử nghiệm Bách Hóa Xanh (40 siêu thị cuối 2016, 1.008 cửa hàng cuối 2019); năm 2021 doanh thu BHX vượt 1 tỷ USD với hơn 2.000 điểm bán, hòa vốn EBITDA cấp công ty.",
+    "refs": [
+     5
+    ]
+   },
+   {
+    "year": "2018–2022",
+    "event": "Mua chuỗi điện máy Trần Anh và 49% nhà thuốc An Khang (2018, hợp nhất An Khang cuối 2021); ra AVAKids (2022); vào Indonesia với 5 cửa hàng Erablue, liên doanh với Erajaya (2022).",
+    "refs": [
+     1,
+     5
+    ]
+   },
+   {
+    "year": "2022–2024",
+    "event": "Tái cấu trúc 'Giảm lượng – Tăng chất': BHX đóng khoảng 19% cửa hàng (2022); năm 2023 LNST còn 168 tỷ; năm 2024 BHX lần đầu có lãi cả năm và bán 5% cổ phần cho quỹ CDH với giá khoảng 1.800 tỷ đồng.",
+    "refs": [
+     8,
+     5,
+     7,
+     11
+    ]
+   },
+   {
+    "year": "2025–2026",
+    "event": "Doanh thu và lợi nhuận kỷ lục (155.928 tỷ; 7.073 tỷ); BHX vào miền Bắc tháng 11/2025; kế hoạch đưa Công ty Điện Máy Xanh lên sàn riêng trong năm 2026. Sau 9 tháng 2026 có 7.777 cửa hàng, BHX lên 3.904.",
+    "refs": [
+     2,
+     12,
+     4
+    ]
+   }
+  ],
+  "crises": [
+   {
+    "title": "Bách Hóa Xanh lỗ nhiều năm (2016–2023)",
+    "text": "Chuỗi thử nghiệm từ cuối 2015, mở rộng lên hơn 2.000 điểm bán năm 2021. Riêng 9 tháng 2022 công ty con Bách Hóa Xanh lỗ (theo số liệu thuế) 2.246 tỷ đồng, lớn nhất từ khi hoạt động; trong nửa năm 2022 chuỗi đóng khoảng 19% số cửa hàng (Báo Đầu tư). Năm 2023 không mở cửa hàng mới, SSI ước lỗ khoảng 1.200 tỷ. Tháng 12/2023 chuỗi hòa vốn sau mọi chi phí khi doanh thu bình quân đạt 1,8 tỷ đồng/cửa hàng; năm 2024 có lãi cả năm lần đầu.",
+    "refs": [
+     8,
+     10,
+     5,
+     7
+    ]
+   },
+   {
+    "title": "Sức mua giảm, lãi về gần 0 (2023)",
+    "text": "Doanh thu thuần từ 133.405 tỷ (2022) xuống 118.280 tỷ (2023), giảm 11%; LNST từ 4.102 tỷ xuống 168 tỷ, giảm 96%. Nhân viên từ 74.008 người (31/12/2022) còn 65.414 (31/12/2023), giảm 8.594 người. Quý 4/2023 đóng gần 200 cửa hàng thegioididong.com và Điện Máy Xanh kém hiệu quả; tổng số siêu thị từ hơn 5.700 còn hơn 5.500. Công ty chọn giữ doanh thu và thị phần, chấp nhận hy sinh lợi nhuận, đưa tồn kho về ngưỡng an toàn và giảm nợ ròng. Năm 2024 hai chuỗi chạy ít hơn 221 cửa hàng so với cuối 2023.",
+    "refs": [
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "title": "Các mảng thử nghiệm phải đóng hoặc thu hẹp",
+    "text": "Chuỗi Bluetronics ở Campuchia (37 cửa hàng năm 2020) ngừng hoạt động cuối 2023; 4K Farm (rau an toàn) ngừng cuối 2023 'do kết quả kinh doanh không đạt kỳ vọng'; công ty Trần Anh mua năm 2018 đang giải thể. Nhà thuốc An Khang năm 2025 chạy ít hơn khoảng 100 cửa hàng (giảm 22%) so với 2024, doanh thu gần 2,2 nghìn tỷ và vẫn đang hướng tới hòa vốn.",
+    "refs": [
+     5,
+     1,
+     3
+    ]
+   }
+  ],
+  "lessons": [
+   {
+    "title": "Biết doanh thu hòa vốn của một điểm bán trước khi nhân bản",
+    "text": "Bách Hóa Xanh mở rộng lên hơn 2.000 điểm khi mỗi cửa hàng chưa tự nuôi được mình, lỗ hàng nghìn tỷ, phải đóng khoảng 19% cửa hàng và ngừng mở mới cả năm 2023; chỉ khi đạt khoảng 1,8 tỷ đồng doanh thu/cửa hàng thì chuỗi mới hòa vốn và quay lại mở rộng. Người làm nhỏ có 2–3 điểm bán: tính doanh thu hòa vốn từng điểm (gồm thuê, lương, khấu hao, chi phí kho và giao hàng), chỉ mở thêm khi phần lớn điểm hiện có đã vượt mức đó vài tháng liền.",
+    "refs": [
+     8,
+     5
+    ]
+   },
+   {
+    "title": "Khi sức mua giảm, cắt điểm lỗ và chi phí cố định để giữ tiền",
+    "text": "Năm 2023 MWG đóng gần 200 cửa hàng điện thoại – điện máy, giảm 8.594 nhân viên, kéo tồn kho và nợ ròng xuống; lãi năm đó chỉ còn 168 tỷ nhưng công ty vẫn thanh toán đúng hạn cho nhà cung cấp và đến 2025 đạt lãi kỷ lục. Người làm nhỏ: khi doanh số giảm vài tháng liền, xếp các điểm bán, dòng hàng theo lãi gộp trừ chi phí trực tiếp, đóng hoặc thu hẹp nhóm cuối trước khi phải vay thêm để trả tiền thuê và lương.",
+    "refs": [
+     5,
+     6,
+     2
+    ]
+   },
+   {
+    "title": "Doanh thu trên mỗi điểm bán quan trọng hơn số điểm bán",
+    "text": "Năm 2025 Công ty Điện Máy Xanh chạy ít hơn khoảng 100 cửa hàng so với bình quân 2024 nhưng doanh thu cửa hàng hiện hữu tăng trên 20%; An Khang giảm 22% số cửa hàng bình quân, doanh thu gần như giữ nguyên và doanh thu mỗi cửa hàng tăng 17% lên khoảng 550 triệu đồng/tháng. Người làm nhỏ: theo dõi doanh thu và lãi theo từng điểm bán mỗi tháng; tăng doanh thu ở điểm cũ (hàng hóa, trưng bày, tư vấn) thường rẻ hơn mở điểm mới.",
+    "refs": [
+     1,
+     3
+    ]
+   }
+  ],
+  "weak": {
+   "text": "(1) Bách Hóa Xanh lại mở nhanh: từ 2.559 cửa hàng cuối 2025 lên 3.904 sau 9 tháng 2026; DSC ghi doanh thu bình quân mỗi cửa hàng BHX năm 2025 còn khoảng 1,54 tỷ đồng/tháng (giảm 21%) vì cửa hàng mới ở vùng mới kéo xuống. (2) Phụ thuộc bán trả chậm: chiếm 38% doanh thu Công ty Điện Máy Xanh 9 tháng 2026 và tăng 50%, nên doanh số điện thoại – điện máy gắn với điều kiện cho vay tiêu dùng của đối tác tài chính. (3) Biên ròng mỏng 4,5% (2025): một năm sức mua giảm như 2023 có thể xóa gần hết lợi nhuận. (4) An Khang chưa có lãi; phần lãi MWG nhận từ liên doanh Erablue năm 2025 chỉ khoảng 24 tỷ đồng.",
+   "refs": [
+    3,
+    4,
+    9,
+    1,
+    2
+   ]
+  },
+  "notes": "Doanh thu 2025 có ba con số: 155.928 tỷ (doanh thu thuần, BCTC kiểm toán và BCTN), 156.166 tỷ (bản tóm tắt KQKD 1/2026) và 156.458 tỷ (tài liệu họp nhà đầu tư 2/2026, chưa kiểm toán); dùng số kiểm toán. LNST: 7.073 tỷ (kiểm toán) so với 7.075 tỷ (tài liệu họp). Lợi nhuận riêng của Bách Hóa Xanh 2025 không có trong tài liệu công ty đọc được (biểu đồ trong tài liệu họp nhà đầu tư dạng hình vẽ, không bóc được số): DSC ghi 755 tỷ; một bài tổng hợp dẫn VCBS ghi 812 tỷ (chỉ đọc được tiêu đề, không dùng). Số lỗ 1.200 tỷ năm 2023 là ước tính của SSI dẫn qua báo, không phải số công ty công bố. Số cửa hàng 5 năm trong BCTN 2025 (5.316; 5.306; 5.762; 5.491; 6.225) không ghi rõ năm cho từng số nên không dùng; dùng mốc 'hơn 5.700' (2022) và 'hơn 5.500' (2023) từ BCTN 2023. Doanh thu bình quân 1,8 tỷ/cửa hàng (12/2023) và 1,54 tỷ/cửa hàng/tháng (DSC, 2025) có thể khác cách tính nên không so trực tiếp. Phần lãi liên doanh 24,35 tỷ trên BCTC là tổng 'phần lãi trong công ty liên doanh', Erablue là liên doanh chính. Nhãn 'founder': nhóm sáng lập nắm khoảng 12,6% (ông Tài và công ty liên quan) nhưng giữ Chủ tịch HĐQT và đội điều hành; 46,7% cổ phần thuộc nhà đầu tư nước ngoài cuối 2025.",
+  "sources": [
+   {
+    "id": 1,
+    "org": "Thế Giới Di Động (MWG)",
+    "year": 2026,
+    "title": "Báo cáo thường niên năm 2025",
+    "quote": "MWG ghi nhận doanh thu thuần hợp nhất đạt mức kỷ lục là 155.928 tỷ đồng, tăng 16% so với năm 2024.",
+    "url": "https://cdnv2.tgdd.vn/mwgvn/investorrelations/files/posts/2026/3/0/48/8a/488ab752e1224bcbd9dd5413be04179f.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 2,
+    "org": "Thế Giới Di Động (MWG)",
+    "year": 2026,
+    "title": "Báo cáo tài chính hợp nhất kiểm toán năm 2025 (ký 23/03/2026)",
+    "quote": "Số lượng nhân viên của Nhóm Công ty tại ngày 31 tháng 12 năm 2025 là 64.727 (ngày 31 tháng 12 năm 2024 là 63.132).",
+    "url": "https://cdnv2.tgdd.vn/mwgvn/investorrelations/files/posts/2026/3/0/8d/2c/8d2c28cb4822955f98e31dcfe587f1d7.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 3,
+    "org": "Thế Giới Di Động (MWG)",
+    "year": 2026,
+    "title": "Tóm tắt tình hình kinh doanh cả năm 2025",
+    "quote": "Năm 2025, doanh thu của hai chuỗi TGDĐ và ĐMX lần lượt đạt 37,3 nghìn tỷ đồng và 68,4 nghìn tỷ đồng",
+    "url": "https://cdnv2.tgdd.vn/mwgvn/investorrelations/files/posts/2026/1/5547/dd/0d/dd0da3558bf8b2b2ec32771c3261c00d.pdf",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 4,
+    "org": "Thế Giới Di Động (MWG)",
+    "year": 2026,
+    "title": "Cập nhật tình hình kinh doanh 9 tháng đầu năm 2026",
+    "quote": "Doanh thu từ mua trả chậm tăng 50% YoY, và tỷ trọng doanh thu này chiếm 38% tổng doanh thu",
+    "url": "https://bhxcdn.vn/mwgvn/investorrelations/files/posts/2026/10/5006191/70/21/70210fec8f257bb9a7af2c4b392fa5d0.pdf",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 5,
+    "org": "Thế Giới Di Động (MWG)",
+    "year": 2024,
+    "title": "Báo cáo thường niên năm 2023",
+    "quote": "Về lợi nhuận sau thuế, MWG ghi nhận 168 tỷ đồng, giảm 96% so với cùng kỳ.",
+    "url": "https://cdnv2-tmdt.tgdd.vn/mwgvn/ir/2024/4/mwg---bao-cao-thuong-nien-2023.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 6,
+    "org": "Thế Giới Di Động (MWG)",
+    "year": 2024,
+    "title": "Báo cáo tài chính hợp nhất kiểm toán năm 2023 (ký 19/03/2024)",
+    "quote": "Số lượng nhân viên của Nhóm Công ty tại ngày 31 tháng 12 năm 2023 là 65.414 (ngày 31 tháng 12 năm 2022 là 74.008).",
+    "url": "https://cdnv2-tmdt.tgdd.vn/mwgvn/ir/2024/3/20240320---mwg---bctc-hop-nhat-kiem-toan-nam-2023.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 7,
+    "org": "Thế Giới Di Động (MWG)",
+    "year": 2025,
+    "title": "Báo cáo thường niên năm 2024",
+    "quote": "Mức tăng trưởng cao hơn thị trường dù hoạt động ít hơn 221 cửa hàng so với cuối 2023",
+    "url": "https://cdnv2.tgdd.vn/mwgvn/investorrelations/files/posts/2025/4/0/0f/a3/0fa382bf41923f80607007ebcf9500ed.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 8,
+    "org": "Báo Đầu tư",
+    "year": 2022,
+    "title": "MWG và 'ván cược' mạo hiểm 7 năm ở Bách hóa xanh",
+    "quote": "lỗ thuế của Công ty xổ phần Thương mại Bách hóa xanh trong 9 tháng đầu năm 2022 là 2.246 tỷ đồng",
+    "url": "https://baodautu.vn/mwg-va-van-cuoc-mao-hiem-7-nam-o-bach-hoa-xanh-d179550.html",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 9,
+    "org": "Chứng khoán DSC",
+    "year": 2026,
+    "title": "Báo cáo cập nhật MWG Q4/2025",
+    "quote": "LNST đạt 755 tỷ đồng (+677% YoY) nhờ vào số lượng cửa hàng tăng mạnh",
+    "url": "https://extgw.dsc.com.vn/eback/uploads/MWG_Q4_25_d33bfc1417.pdf",
+    "type": "report",
+    "grade": "B",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 10,
+    "org": "Mekong ASEAN (dẫn SSI Research)",
+    "year": 2024,
+    "title": "SSI: MWG thu về gần 1.800 tỷ đồng từ bán cổ phần Bách hóa Xanh",
+    "quote": "(so với khoản lỗ 1.200 tỷ đồng trong năm 2023)",
+    "url": "https://mekongasean.vn/ssi-mwg-thu-ve-gan-1800-ty-dong-tu-ban-co-phan-bach-hoa-xanh-28196.html",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 11,
+    "org": "The Investor (dẫn Reuters)",
+    "year": 2024,
+    "title": "China's CDH Investments acquires 5% stake in Vietnam grocery chain",
+    "quote": "the deal was valued at VND1.8 trillion ($72 million)",
+    "url": "https://theinvestor.vn/chinas-cdh-investments-acquires-5-stake-in-vietnam-grocery-chain-d9482.html",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 12,
+    "org": "Thế Giới Di Động (MWG)",
+    "year": 2026,
+    "title": "Tài liệu họp nhà đầu tư quý 4/2025 và định hướng 2026",
+    "quote": "Đóng góp lợi nhuận: ~80% lợi nhuận cho Tập đoàn",
+    "url": "https://cdnv2.tgdd.vn/mwgvn/investorrelations/files/posts/2026/2/0/bb/e9/bbe92784cbb4637d0ee1b00005e8ac96.pdf",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   }
+  ]
+ }
+]

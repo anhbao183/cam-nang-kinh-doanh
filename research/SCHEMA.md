@@ -100,6 +100,77 @@ Quy tắc cứng:
 }
 ```
 
+## 3b. Khung một NẤC QUY MÔ (`kind: "stage"`): lớn lên từ hộ kinh doanh tới tập đoàn
+
+Dùng lại các trường của `rule`, nhưng hiển thị với nhãn khác:
+
+```jsonc
+{
+  "id": "chuyen-ho-len-cong-ty",
+  "kind": "stage",
+  "section": "6",
+  "title": "Từ hộ kinh doanh lên công ty: khi nào nên chuyển, chuyển thế nào",
+  "summary": "2–3 câu thẳng.",
+  "tags": { "evidence": "A" },
+  "who":     { "text": "Khi nào nên lên nấc này: ngưỡng doanh thu, lao động, nhu cầu vốn, đối tác đòi hóa đơn…", "refs": [] },
+  "rule":    { "text": "Điều kiện và thủ tục pháp lý cụ thể (điều, khoản).", "refs": [] },
+  "cost":    { "text": "Chi phí và nghĩa vụ tăng thêm: kế toán, kiểm toán, công bố thông tin, thuế TNDN…", "refs": [] },
+  "gain":    { "text": "Được gì: ưu đãi thuế, tiếp cận vốn, hợp đồng lớn, trách nhiệm hữu hạn…", "refs": [] },
+  "effective": "Căn cứ đang hiệu lực đến 11/2026",
+  "notes": "...",
+  "sources": []
+}
+```
+
+## 3c. Khung một TẬP ĐOÀN / DOANH NGHIỆP LÂU ĐỜI (`kind: "case"`)
+
+Mục đích: cho người làm nhỏ thấy doanh nghiệp lớn **kiếm tiền từ đâu, vì sao đứng vững, đã chuyển đổi thế nào, suýt chết vì gì**. Không viết tiểu sử ca ngợi.
+
+```jsonc
+{
+  "id": "fujifilm",
+  "kind": "case",
+  "section": "8",
+  "title": "Fujifilm: mất thị trường phim ảnh mà vẫn lớn hơn trước",   // tiêu đề nói thẳng điểm đáng học
+  "summary": "2–3 câu: doanh nghiệp này là gì, cỗ máy kiếm tiền hiện nay, điều đáng học nhất.",
+  "tags": {
+    "reach": "multi",      // domestic (chủ yếu trong nước) | multi (hoạt động ở nhiều nước)
+    "age": "century",      // century (≥ 100 năm) | old (50–99 năm) | young (< 50 năm)
+    "outcome": "survived", // rising (đang vươn lên) | survived (trụ vững qua chuyển đổi lớn) | declining (đang suy yếu) | failed (phá sản / bị thâu tóm / giải thể)
+    "owner": "public",     // state (nhà nước) | family (gia đình) | founder (nhà sáng lập kiểm soát) | public (cổ đông phân tán)
+    "evidence": "A"
+  },
+  "facts": {                 // dải thông số: số của năm tài chính gần nhất có báo cáo, ghi rõ năm
+    "founded": "1934",
+    "revenue": "≈ 3.200 tỷ yên (FY3/2026)",   // ≤ 40 ký tự; quy đổi VNĐ/USD thì ghi tỷ giá trong text
+    "profit": "...",                            // lợi nhuận ròng hoặc lợi nhuận hoạt động, ghi rõ loại
+    "people": "≈ 70.000 nhân viên (2026)",
+    "text": "Giải thích ngắn: số lấy từ báo cáo nào, loại lợi nhuận nào.",
+    "grade": "A", "refs": []
+  },
+  "engine": {                // CÁCH KHAI THÁC: tiền đến từ đâu
+    "text": "Mô tả cỗ máy kiếm tiền: khách là ai, bán gì, biên lợi nhuận mảng nào cao.",
+    "segments": [ { "item": "Healthcare", "value": "≈ 30% doanh thu", "grade": "A", "refs": [] } ],
+    "refs": []
+  },
+  "moat":     { "text": "VÌ SAO ĐỨNG VỮNG: lợi thế khó sao chép (quy mô, công nghệ, thương hiệu, mạng lưới, giấy phép, chi phí chuyển đổi…), có bằng chứng.", "refs": [] },
+  "timeline": [              // CÁC LẦN CHUYỂN ĐỔI: 4–8 mốc, theo thời gian
+    { "year": "1934", "event": "Thành lập để sản xuất phim ảnh.", "refs": [] }
+  ],
+  "crises": [                // SUÝT CHẾT / KHỦNG HOẢNG: 2–3 lần, mỗi lần: chuyện gì, làm gì để qua (hoặc vì sao không qua)
+    { "title": "Phim ảnh sụp đổ 2000–2010", "text": "...", "refs": [] }
+  ],
+  "lessons": [               // BÀI HỌC CHO NGƯỜI LÀM NHỎ: đúng 3, mỗi bài phải rút ra từ sự kiện đã dẫn nguồn ở trên (refs trỏ về nguồn đó)
+    { "title": "...", "text": "...", "refs": [] }
+  ],
+  "weak":     { "text": "Điểm yếu / rủi ro hiện nay (2025–2026), có nguồn.", "refs": [] },
+  "notes": "...",
+  "sources": []
+}
+```
+
+Nguồn ưu tiên cho `case`: báo cáo thường niên, báo cáo tài chính đã kiểm toán, tài liệu nhà đầu tư (A); trang lịch sử chính thức của công ty (A cho mốc thời gian, nhưng ghi rõ "tự công bố" khi nói về lý do thành công); sách, nghiên cứu học thuật, case study trường kinh doanh, báo chí kinh tế lớn (Reuters, Nikkei, Bloomberg, FT, VnExpress, VnEconomy, CafeF…) (B/C). Không dùng blog tổng hợp vô danh.
+
 ## 4. Danh sách phần
 
 - `0` — Nền pháp lý & thuế chung (áp dụng cho mọi mô hình)
@@ -108,6 +179,9 @@ Quy tắc cứng:
 - `3` — Chế biến thực phẩm, đặc sản & nông nghiệp
 - `4` — Ăn uống (F&B)
 - `5` — Dịch vụ & lưu trú
+- `6` — Các nấc lớn lên: từ hộ kinh doanh tới tập đoàn (`kind: "stage"`)
+- `7` — Tập đoàn Việt Nam (`kind: "case"`)
+- `8` — Tập đoàn đa quốc gia & doanh nghiệp trăm năm (`kind: "case"`)
 
 ## 5. Định dạng nộp
 

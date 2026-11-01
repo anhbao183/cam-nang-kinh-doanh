@@ -1,6 +1,7 @@
 """Mở lại từng link nguồn, ghi mã HTTP và kiểm tra câu trích nguyên văn có trên trang không.
 
-Đọc được cả PDF (cần `pip install pypdf`) và trang Công báo (tự lấy file PDF đã ký).
+Đọc được cả PDF (cần `pip install pypdf cryptography`; cryptography để mở PDF mã hóa AES như báo cáo của Nintendo)
+và trang Công báo (tự lấy file PDF đã ký).
 So khớp bỏ dấu, bỏ dấu câu, nên "hoá/hóa", ngoặc cong/thẳng không làm lệch kết quả.
 
 Chạy:  python tools/check_sources.py

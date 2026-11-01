@@ -1,0 +1,371 @@
+[
+  {
+    "id": "fujifilm",
+    "kind": "case",
+    "section": "8",
+    "title": "Fujifilm: mất gần hết thị trường phim mà vẫn lớn hơn trước",
+    "summary": "Hãng phim ảnh Nhật lập năm 1934, nay kiếm tiền từ bốn mảng gần ngang nhau: máy văn phòng và in (tiền thân Fuji Xerox), y tế và gia công thuốc sinh học, ảnh (instax, máy ảnh số), vật liệu bán dẫn. Năm tài chính kết thúc 3/2026 doanh thu kỷ lục 3.357 tỷ yên. Điều đáng học: đem bí quyết hóa học và phủ lớp mỏng của nghề phim sang ngành khác, cắt mạnh mảng phim từ 2006, và có sẵn một mảng photocopy lớn làm đệm khi phim sụp.",
+    "tags": {
+      "reach": "multi",
+      "age": "old",
+      "outcome": "survived",
+      "owner": "public",
+      "evidence": "A"
+    },
+    "facts": {
+      "founded": "1/1934",
+      "revenue": "3.357,0 tỷ yên (FY3/2026)",
+      "profit": "LN ròng 276,7 tỷ yên (FY3/2026)",
+      "people": "73.526 nhân viên (31/3/2026)",
+      "text": "Số lấy từ tài liệu trình bày kết quả năm tài chính 1/4/2025–31/3/2026 (Fujifilm gọi là FY2025, cẩm nang ghi FY3/2026) và thông cáo ngày 12/5/2026. Lợi nhuận hoạt động 350,2 tỷ yên (+6,1%); lợi nhuận ròng thuộc cổ đông công ty mẹ 276,7 tỷ yên (+6,0%). Tỷ giá bình quân năm công ty dùng: 151 yên/USD, 175 yên/euro; cẩm nang không quy đổi sang VNĐ. Nhân sự hợp nhất tính tại 3/2026. Doanh thu tại Nhật chiếm 34,8%, phần còn lại ở nước ngoài.",
+      "grade": "A",
+      "refs": [1, 2]
+    },
+    "engine": {
+      "text": "Không còn một cỗ máy chính. Bốn mảng có doanh thu gần nhau nhưng biên lợi nhuận rất khác nhau. Business Innovation (máy văn phòng, in ấn, dịch vụ số, tiền thân Fuji Xerox) lớn nhất về doanh thu nhưng biên mỏng. Healthcare (máy nội soi, X-quang, siêu âm, phim y tế; gia công sản xuất thuốc sinh học Bio CDMO; môi trường nuôi cấy tế bào) đang nhận phần lớn vốn đầu tư nhưng biên lợi nhuận hoạt động chỉ 5,8%. Lãi nhất lại là Imaging, phần còn lại của nghề ảnh: máy ảnh lấy liền instax (bán cả máy lẫn phim in liền) và máy ảnh số, biên 25,5%, đóng góp khoảng 41% tổng lợi nhuận các mảng (160,0 trên 388,2 tỷ yên, chưa trừ 38,0 tỷ chi phí chung). Electronics (vật liệu bán dẫn như dung dịch đánh bóng CMP cho chip AI, vật liệu chức năng, băng lưu trữ dữ liệu) đạt biên 22,1%. Số mảng con do tác giả cộng 4 quý từ bảng của công ty: thiết bị y tế ≈ 701,6 tỷ yên, Bio CDMO ≈ 254,2 tỷ yên, vật liệu bán dẫn ≈ 294,7 tỷ yên. Mỹ phẩm Astalift không được công bố số riêng.",
+      "segments": [
+        { "item": "Business Innovation (máy văn phòng, in, giải pháp số)", "value": "1.174,8 tỷ yên ≈ 35,0%; LN HĐ 63,7 tỷ (biên 5,4%)", "grade": "A", "refs": [1] },
+        { "item": "Healthcare (thiết bị y tế, Bio CDMO, môi trường nuôi cấy)", "value": "1.098,9 tỷ yên ≈ 32,7%; LN HĐ 63,6 tỷ (biên 5,8%)", "grade": "A", "refs": [1] },
+        { "item": "Imaging (instax, máy ảnh số)", "value": "627,1 tỷ yên ≈ 18,7%; LN HĐ 160,0 tỷ (biên 25,5%)", "grade": "A", "refs": [1] },
+        { "item": "Electronics (vật liệu bán dẫn, vật liệu chức năng)", "value": "456,2 tỷ yên ≈ 13,6%; LN HĐ 100,9 tỷ (biên 22,1%)", "grade": "A", "refs": [1] }
+      ],
+      "refs": [1]
+    },
+    "moat": {
+      "text": "Lợi thế nằm ở bí quyết hóa học và phủ lớp mỏng tích lũy từ nghề phim, đem dùng ở nhiều thị trường, chứ không ở một sản phẩm. Bằng chứng: (1) Mỹ phẩm Astalift, theo công ty tự công bố, dựa trên hiểu biết về collagen (một thành phần chính của phim) và chất chống oxy hóa học được khi chống phai ảnh. (2) Electronics đạt biên 22,1% nhờ vật liệu bán dẫn cho chip AI. (3) Phim y tế khô không dùng bạc: theo CEO Teiichi Goto, trên thế giới chỉ Fujifilm và Lucky Film (Trung Quốc) có công nghệ này (công ty tự công bố). (4) Fuji Xerox, liên doanh từ 1962, là một mảng lớn không phụ thuộc phim: quý 10–12/2005, mảng tài liệu có doanh thu 265,1 tỷ yên, lớn hơn mảng ảnh (194,9 tỷ yên). Đây là tấm đệm mà Kodak không có.",
+      "refs": [5, 1, 3, 6, 4]
+    },
+    "timeline": [
+      { "year": "1934", "event": "Fuji Photo Film thành lập theo kế hoạch của chính phủ Nhật nhằm tự sản xuất phim ảnh trong nước.", "refs": [4] },
+      { "year": "1962", "event": "Lập liên doanh Fuji Xerox với Rank Xerox (Anh) để làm máy photocopy; năm 2001 nâng sở hữu lên 75%.", "refs": [4] },
+      { "year": "2000", "event": "Shigetaka Komori lên làm tổng giám đốc (shachō). Theo lời ông, khi đó vật liệu ảnh chiếm 60% doanh thu và 2/3 lợi nhuận; sau đó thị trường phim mất 20–30% mỗi năm.", "refs": [7, 8] },
+      { "year": "2006", "event": "Tái cấu trúc mảng ảnh: chi 165 tỷ yên, cắt khoảng 5.000 người. Tháng 9 vào thị trường mỹ phẩm (bắt đầu bằng bán hàng từ xa); tháng 10 chuyển sang mô hình công ty mẹ FUJIFILM Holdings.", "refs": [6, 10, 4] },
+      { "year": "2007–2008", "event": "9/2007 ra dòng dưỡng da Astalift; 3/2008 mua Toyama Chemical để vào ngành dược.", "refs": [10, 4] },
+      { "year": "2011", "event": "Mua Diosynth RTP (Mỹ) và MSD Biologics (Anh), mở mảng gia công phát triển và sản xuất thuốc sinh học (CDMO).", "refs": [4] },
+      { "year": "2019–2021", "event": "11/2019 sở hữu 100% Fuji Xerox; 3/2021 mua mảng chẩn đoán hình ảnh của Hitachi; 4/2021 đổi tên Fuji Xerox thành FUJIFILM Business Innovation.", "refs": [4] },
+      { "year": "FY3/2026", "event": "Doanh thu, lợi nhuận hoạt động và lãi ròng cùng lập kỷ lục; doanh thu Healthcare 1.098,9 tỷ yên, gấp 1,75 lần mảng ảnh.", "refs": [1, 2] }
+    ],
+    "crises": [
+      {
+        "title": "Phim ảnh sụp đổ 2000–2010",
+        "text": "Năm 2000, theo Komori, vật liệu ảnh chiếm 60% doanh thu và 2/3 lợi nhuận. Nhu cầu phim sau đó mất 20–30% mỗi năm, nhanh hơn dự báo. Ngày 31/1/2006, công ty công bố chi 165 tỷ yên tái cấu trúc toàn bộ nghiên cứu, sản xuất, phân phối của mảng ảnh, cắt khoảng 5.000 người trong mảng này và hạ dự báo lãi ròng năm tài chính 3/2006 thêm 65 tỷ yên, xuống 20 tỷ yên. Fujifilm qua được vì ba lẽ có bằng chứng: có sẵn mảng Fuji Xerox lớn hơn mảng ảnh; cắt chi phí cố định khi còn lãi; dùng tiền mua năng lực mới gần với công nghệ sẵn có (mỹ phẩm 2007, dược Toyama 2008, CDMO 2011). Lời giải thích của Komori về nguyên nhân là tự công bố.",
+        "refs": [7, 8, 6, 4, 10]
+      },
+      {
+        "title": "Bê bối kế toán ở Fuji Xerox 2017",
+        "text": "Năm 2017, ủy ban điều tra độc lập kết luận công ty con của Fuji Xerox ở New Zealand và Úc đã ghi nhận doanh thu sớm hơn thực tế. Theo The Register, khoản điều chỉnh là 37,5 tỷ yên (341 triệu USD) trên lợi nhuận ròng sáu năm; chủ tịch Fuji Xerox từ chức. Mảng từng làm đệm cho Fujifilm qua khủng hoảng phim cũng là nơi phát sinh rủi ro khi công ty mẹ kiểm soát lỏng. Báo chí khác đưa con số khác (xem ghi chú).",
+        "refs": [9]
+      }
+    ],
+    "lessons": [
+      {
+        "title": "Kiểm kê năng lực, đừng chỉ kiểm kê sản phẩm",
+        "text": "Fujifilm không bán phim cho người làm đẹp; họ bán hiểu biết về collagen và chống oxy hóa học được khi làm phim, ra dòng Astalift năm 2007. Áp dụng: liệt kê thứ cơ sở của bạn làm giỏi (pha chế, bảo quản lạnh, giao nhanh, chăm khách quen) rồi hỏi ngành nào khác cần đúng thứ đó, thay vì chỉ hỏi bán thêm món gì.",
+        "refs": [5, 10]
+      },
+      {
+        "title": "Khi đường cầu gãy, cắt chi phí cố định sớm và dứt khoát",
+        "text": "Fujifilm cắt khoảng 5.000 người và chi 165 tỷ yên tái cấu trúc khi nhu cầu phim mất 20–30% mỗi năm, lúc công ty vẫn còn lãi. Áp dụng: nếu doanh thu mảng chính giảm nhiều quý liền vì đổi công nghệ hay thói quen khách (không phải do mùa vụ), trả bớt mặt bằng, máy móc và nhân sự gắn với mảng đó ngay khi còn tiền, đừng chờ phục hồi.",
+        "refs": [6, 8]
+      },
+      {
+        "title": "Giữ lại phần còn lãi của nghề cũ",
+        "text": "Nghề ảnh không biến mất hẳn: năm tài chính 3/2026, mảng Imaging (instax, máy ảnh số) lãi hoạt động 160,0 tỷ yên, nhiều nhất trong bốn mảng, biên 25,5%, trong khi Healthcare nhận nhiều vốn nhất chỉ đạt 5,8%. Áp dụng: khi chuyển hướng, giữ nhóm khách trung thành của sản phẩm cũ và bán cho họ với giá tốt; đó thường là nguồn tiền nuôi mảng mới.",
+        "refs": [1]
+      }
+    ],
+    "weak": {
+      "text": "Ván cược lớn nhất đang chậm có lãi. Năm tài chính 3/2026, ROIC giảm 0,4 điểm xuống 5,5%; công ty nêu lý do là tiếp tục đầu tư cho Healthcare và chậm cải thiện lợi nhuận. Dòng tiền tự do điều chỉnh (không tính mua bán doanh nghiệp) âm 142,3 tỷ yên. Giám đốc tài chính dự kiến lợi nhuận Bio CDMO giảm khoảng 10 tỷ yên trong năm tài chính 3/2027, không tính yếu tố một lần, vì nhà máy ở North Carolina phát sinh chi phí cố định trước khi có doanh thu. Ở mức giá bạc khoảng 400.000 yên/kg, mảng phim y tế chịu thiệt khoảng 21 tỷ yên (ước tính của công ty). Business Innovation giảm doanh thu 2,0%. CEO thừa nhận hệ số giá trên giá trị sổ sách quanh 1 lần là vấn đề quan trọng.",
+      "refs": [3, 1]
+    },
+    "notes": "age = old vì 1934–2026 là 92 năm, dưới ngưỡng 100 năm. Fujifilm gọi năm tài chính 4/2025–3/2026 là FY2025; cẩm nang ghi FY3/2026 để tránh nhầm. Số mảng con (Bio CDMO, thiết bị y tế, vật liệu bán dẫn) là tác giả cộng 4 quý từ bảng doanh thu theo quý của công ty, sai số làm tròn ±0,1 tỷ yên. Kể từ năm tài chính này mảng thuốc thử hóa học được chuyển từ Electronics sang Healthcare, số năm trước đã được công ty điều chỉnh lại. Lời giải thích nguyên nhân thành công lấy từ phỏng vấn chính Komori (tự công bố); chưa tìm được nguồn độc lập định lượng mức suy giảm nhu cầu phim toàn cầu.",
+    "sources": [
+      { "id": 1, "org": "FUJIFILM Holdings", "year": 2026, "title": "Earnings Presentation – Financial Results for Q4 FY2025 (năm tài chính kết thúc 3/2026)", "quote": "Revenue, operating income and net income attributable to FUJIFILM Holdings all posted record highs", "url": "https://ir.fujifilm.com/en/investors/ir-materials/earnings-presentations/main/01113/teaserItems5/00/linkList/0/link/ff_fy2025q4_001e.pdf", "type": "financials", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 2, "org": "FUJIFILM Holdings", "year": 2026, "title": "Fujifilm Announces Financial Results for the Fiscal Year Ended March 31, 2026 (thông cáo 12/5/2026)", "quote": "Revenue was JPY3,357.0 billion and increased 5.0% year-over-year.", "url": "https://holdings.fujifilm.com/en/news/list/2127", "type": "financials", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 3, "org": "FUJIFILM Holdings", "year": 2026, "title": "Earnings Presentation for the Fiscal Year Ended March 2026 – bản ghi phát biểu và hỏi đáp", "quote": "As a result, adjusted free cash flow excluding business acquisitions was negative JPY142.3 billion.", "url": "https://ir.fujifilm.com/en/investors/ir-materials/earnings-presentations/main/01113/teaserItems5/00/linkList/00/link/ff_fy2025q4_002e.pdf", "type": "report", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 4, "org": "FUJIFILM Holdings", "year": 2026, "title": "History of Fujifilm Group (trang lịch sử chính thức)", "quote": "Fuji Photo Film Co., Ltd., established, based on a government plan to establish a domestic photographic film manufacturing industry.", "url": "https://holdings.fujifilm.com/en/about/history", "type": "report", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 5, "org": "FUJIFILM (Indonesia)", "year": 2026, "title": "ASTALIFT – trang giới thiệu thương hiệu (công ty tự công bố)", "quote": "Just like skin, one of the main components of photographic film is collagen.", "url": "https://fujifilm.com/id/en/consumer/skincare/astalift", "type": "report", "grade": "B", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 6, "org": "Impress Digital Camera Watch", "year": 2006, "title": "富士フイルム、イメージング事業で総額1,650億円の構造改革 ～5,000人の人員削減も", "quote": "同時に同部門の人員約5,000人を削減し、固定費の大幅削減、安定収益の確保を図る。", "url": "https://dc.watch.impress.co.jp/cda/other/2006/02/01/3130.html", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 7, "org": "President Online", "year": 2016, "title": "Bài viết của Komori Shigetaka (chủ tịch, CEO FUJIFILM Holdings) về quản trị bằng con số", "quote": "当時、売り上げ全体に占める割合は6割、利益の3分の2を占める稼ぎ頭だった。", "url": "https://president.jp/articles/-/18011", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 8, "org": "Bungeishunju (bunshun.jp)", "year": 2020, "title": "Phỏng vấn Komori Shigetaka về khủng hoảng “mất nghề chính” và mảng dược", "quote": "その市場は、デジタル化に伴い、毎年20～30％という予想をはるかに超えたスピードで消失していきました。", "url": "https://bunshun.jp/bungeishunju/articles/h1846", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 9, "org": "The Register", "year": 2017, "title": "Fuji Xerox's chairman resigns over 'improper accounting'", "quote": "The result is a ¥37.5 billion (US$341m) adjustment to six years' net profits.", "url": "https://www.theregister.com/2017/06/14/fuji_xeroxs_chairman_resigns_over_improper_accounting/", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 10, "org": "FUJIFILM Healthcare Laboratory", "year": 2026, "title": "沿革・歴史 (lịch sử mảng mỹ phẩm, thực phẩm chức năng)", "quote": "スキンケアシリーズ「ASTALIFT（アスタリフト）」発売 店頭セルフ販売スタート", "url": "https://www.fujifilm.com/ffhc/ja/about/history", "type": "report", "grade": "A", "verified": "page", "accessed": "2026-11-01" }
+    ]
+  },
+  {
+    "id": "kodak",
+    "kind": "case",
+    "section": "8",
+    "title": "Kodak: làm ra máy ảnh số đầu tiên rồi phá sản vì phim",
+    "summary": "Hãng phim ảnh Mỹ có từ 1881; năm 1975 một kỹ sư của chính hãng làm ra máy ảnh số đầu tiên. Vì lãi nằm ở phim, giấy ảnh, hóa chất tráng rửa, máy ảnh số bị nội bộ coi là mối đe dọa. Kodak phá sản năm 2012; nay doanh thu khoảng 1 tỷ USD, sống chủ yếu nhờ bản kẽm in offset và hóa chất, năm 2025 vẫn lỗ ròng. Đối chiếu với Fujifilm: cùng mất phim, nhưng Kodak không có mảng đệm lớn và chậm cắt chi phí.",
+    "tags": {
+      "reach": "multi",
+      "age": "century",
+      "outcome": "failed",
+      "owner": "public",
+      "evidence": "A"
+    },
+    "facts": {
+      "founded": "1888 (tiền thân từ 1881)",
+      "revenue": "1,069 tỷ USD (2025)",
+      "profit": "Lỗ ròng 128 triệu USD (2025)",
+      "people": "≈ 3.500 nhân viên (cuối 2025)",
+      "text": "Số từ thông cáo kết quả năm 2025 (12/3/2026) và báo cáo 10-K năm 2025 nộp Ủy ban Chứng khoán Mỹ (SEC). Lỗ ròng theo chuẩn GAAP chủ yếu do chi phí chấm dứt quỹ hưu trí KRIP và thuế tiêu thụ đặc biệt trên phần tài sản quỹ hoàn về công ty; EBITDA hoạt động (chỉ tiêu ngoài GAAP) là 62 triệu USD. Để thấy quy mô đã mất: năm 1973 Kodak có hơn 120.000 nhân viên; năm 2007 doanh thu 10,3 tỷ USD với 26.900 nhân viên.",
+      "grade": "A",
+      "refs": [1, 2, 4, 6]
+    },
+    "engine": {
+      "text": "Trước đây: bán máy ảnh và kiếm tiền ở mọi khâu phía sau (phim, giấy, hóa chất, tráng rửa); theo New York Times, Kodak gần như độc quyền thị trường ảnh ở Mỹ. Hiện nay: khách chính là nhà in thương mại và in bao bì. Bản kẽm offset và vật tư chế bản (Prepress Solutions) chiếm 52% doanh thu năm 2025, tức Kodak vẫn sống bằng vật tư tiêu hao, nhưng của ngành in đang thu hẹp. Mảng vật liệu và hóa chất (phim công nghiệp, phim điện ảnh, gia công phủ) tăng 17% và có EBITDA lớn nhất. Cấp phép thương hiệu Kodak chỉ 23 triệu USD doanh thu nhưng EBITDA hoạt động tới 20 triệu. Ba mảng cộng lại 1,054 tỷ USD; phần chênh với tổng 1,069 tỷ là khu công nghiệp Eastman Business Park (không phải mảng báo cáo).",
+      "segments": [
+        { "item": "Print (bản kẽm offset, máy in phun, mực)", "value": "715 triệu USD ≈ 67%; EBITDA HĐ 3 triệu", "grade": "A", "refs": [1] },
+        { "item": "Advanced Materials & Chemicals (phim công nghiệp, phim điện ảnh, hóa chất)", "value": "316 triệu USD ≈ 30%; EBITDA HĐ 39 triệu", "grade": "A", "refs": [1] },
+        { "item": "Brand (cấp phép thương hiệu Kodak)", "value": "23 triệu USD ≈ 2%; EBITDA HĐ 20 triệu", "grade": "A", "refs": [1] }
+      ],
+      "refs": [1, 2, 5]
+    },
+    "moat": {
+      "text": "Hẹp. Phần còn lại: (1) tệp khách in thương mại dùng bản kẽm của Kodak, nguồn của 52% doanh thu; (2) bí quyết phủ hóa chất lên phim, chuyển sang phim công nghiệp và phim điện ảnh; (3) thương hiệu, cho thuê lấy phí. Kodak nêu có 79.000 bằng sáng chế toàn cầu qua 130 năm (tự công bố), nhưng năm 2012 danh mục bằng sáng chế ảnh số chỉ bán được khoảng 525 triệu USD, trong khi một số chuyên gia từng ước 2–3 tỷ USD. Chính 10-K năm 2025 thừa nhận cả ngành in lẫn ngành phim đang bị kỹ thuật số thay thế.",
+      "refs": [2, 1, 9]
+    },
+    "timeline": [
+      { "year": "1881–1888", "event": "George Eastman cùng Henry Strong lập Eastman Dry Plate Company (1881); năm 1888 ra đời tên Kodak và máy ảnh với khẩu hiệu “You press the button – we do the rest”.", "refs": [4] },
+      { "year": "1975", "event": "Kodak làm ra máy ảnh số đầu tiên: to bằng lò nướng bánh mì, ảnh đen trắng 0,01 megapixel; người làm là kỹ sư Steve Sasson. Hai năm trước đó Kodak vượt 120.000 nhân viên.", "refs": [4, 5] },
+      { "year": "1988–1994", "event": "Mua Sterling Drug (1988) để vào ngành dược; cuối 1993 tách Eastman Chemical; 1994 bán các mảng y tế để dồn toàn lực cho mảng hình ảnh cốt lõi.", "refs": [4] },
+      { "year": "2007–2011", "event": "Doanh thu giảm từ 10,3 xuống 6,0 tỷ USD, nhân sự từ 26.900 xuống 17.100; năm 2011 lỗ ròng 764 triệu USD.", "refs": [6] },
+      { "year": "2012", "event": "19/1 nộp đơn phá sản theo Chương 11; trong năm ngừng mảng máy ảnh số và bán danh mục bằng sáng chế ảnh số khoảng 525 triệu USD.", "refs": [7, 4, 9] },
+      { "year": "2013", "event": "3/9 ra khỏi phá sản, chuyển thành công ty hình ảnh cho doanh nghiệp; bán bằng sáng chế ảnh tiêu dùng, tách mảng ảnh cá nhân và xử lý tài liệu.", "refs": [4] },
+      { "year": "2025", "event": "Tháng 8 cảnh báo khả năng hoạt động liên tục; chấm dứt quỹ hưu trí KRIP, dùng tiền hoàn về trả trước 303 triệu USD nợ vay; doanh thu cả năm 1,069 tỷ USD.", "refs": [3, 2, 1] }
+    ],
+    "crises": [
+      {
+        "title": "Phim sụp nhanh hơn kế hoạch, phá sản năm 2012",
+        "text": "Từ 2003 đến 2011, Kodak đóng 13 nhà máy, 130 phòng tráng rửa và cắt 47.000 người (Popular Photography). Doanh thu 2007–2011 giảm 42%. Tiền bản quyền và phí cấp phép, nguồn bù lỗ chính, giảm từ 904 triệu USD (2010) xuống 128 triệu (2011). Ngày 19/1/2012 Kodak nộp đơn phá sản và xin vay tới 950 triệu USD để duy trì hoạt động; theo Reuters (dẫn qua Popular Photography), tài sản khoảng 5,1 tỷ USD so với nợ 6,75 tỷ USD. Công ty tự nêu nguyên nhân: mảng truyền thống giảm nhanh hơn dự kiến, không cắt chi phí kịp, phải đầu tư cho mảng số, chậm thu tiền từ bằng sáng chế. Khác Fujifilm: Kodak đã bán các mảng ngoài ảnh từ 1994 nên không có tấm đệm lớn như Fuji Xerox.",
+        "refs": [8, 6, 7, 4, 10]
+      },
+      {
+        "title": "Cảnh báo hoạt động liên tục năm 2025",
+        "text": "Báo cáo quý 2/2025 cho biết khoản vay có giá trị ghi sổ khoảng 477 triệu USD bị đẩy ngày đáo hạn lên 22/5/2026, cùng 99 triệu USD cổ phiếu ưu đãi phải mua lại, trong khi công ty không có nguồn tài trợ cam kết. Kodak qua được nhờ chấm dứt quỹ hưu trí KRIP: chuyển khoảng 1,8 tỷ USD nghĩa vụ trả lương hưu cho một công ty bảo hiểm, lấy phần thặng dư về và ngày 28/11/2025 trả trước 303 triệu USD nợ vay, đưa dư nợ xuống 200 triệu USD.",
+        "refs": [3, 2]
+      }
+    ],
+    "lessons": [
+      {
+        "title": "Đừng để mảng lãi nhất làm trọng tài cho sản phẩm thay thế nó",
+        "text": "Người làm ra máy ảnh số kể: mỗi máy ảnh số bán ra lấy mất một máy ảnh phim, và ai trong công ty cũng biết phim lãi bao nhiêu. Kodak bán máy rẻ, lãi ở vật tư tiêu hao, nên sản phẩm không cần vật tư bị chặn từ bên trong. Áp dụng: nếu bạn lãi chủ yếu nhờ hàng tiêu hao hoặc dịch vụ đi kèm (mực in, nạp ga, bảo trì), hãy tự thử bán phương án thay thế với ngân sách và chỉ tiêu riêng, trước khi đối thủ bán nó cho khách của bạn.",
+        "refs": [5]
+      },
+      {
+        "title": "“Tập trung vào cốt lõi” chỉ đúng khi cốt lõi còn tương lai",
+        "text": "Năm 1994 Kodak bán các mảng y tế để dồn lực cho mảng hình ảnh; từ 2007 đến 2011 doanh thu rơi từ 10,3 xuống 6,0 tỷ USD. Fujifilm làm ngược lại: giữ và nâng sở hữu Fuji Xerox lên 75% năm 2001, mua thêm dược và y tế. Áp dụng: trước khi đóng hay bán một mảng phụ, hỏi xem mảng chính có thể mất một nửa khách trong 5–10 năm tới không; nếu có, mảng phụ có thể là chỗ trú.",
+        "refs": [4, 6, 10]
+      },
+      {
+        "title": "Bán tài sản để bù lỗ là tín hiệu phải đổi mô hình, không phải lời giải",
+        "text": "Kodak bù lỗ nhiều năm bằng tiền bằng sáng chế (904 triệu USD năm 2010, 128 triệu năm 2011), rồi bằng tiền thặng dư quỹ hưu trí (2025). 10-K năm 2025 thừa nhận nhiều năm qua công ty không thường xuyên tạo được dòng tiền hoạt động dương nếu không có các giao dịch tài chính và bán tài sản. Áp dụng: nếu phải bán xe, thanh lý máy hay vay người quen để trả lương nhiều tháng liền, hãy coi đó là hạn chót để đổi sản phẩm hoặc thu hẹp, đừng coi là cách vận hành.",
+        "refs": [6, 2]
+      }
+    ],
+    "weak": {
+      "text": "Doanh thu năm 2025 chỉ tăng 2%; mảng Print giảm 3% vì khách giảm mua bản kẽm. 10-K năm 2025 viết rằng các phân khúc của ngành in và ngành phim đều chịu cạnh tranh từ thay thế kỹ thuật số, trong khi bản kẽm và vật tư chế bản vẫn là 52% doanh thu. Mảng Print gần như không có lãi trước khấu hao (EBITDA hoạt động 3 triệu USD trên 715 triệu USD doanh thu). Lỗ ròng 128 triệu USD. Công ty cũng thừa nhận chưa thường xuyên tạo được dòng tiền hoạt động dương nếu không bán tài sản hay huy động tài chính. Cuối 2025 vẫn còn 200 triệu USD nợ vay và cổ phiếu ưu đãi phải xử lý.",
+      "refs": [1, 2]
+    },
+    "notes": "outcome = failed vì Kodak đã phá sản theo Chương 11 năm 2012 và mất hẳn mảng chính (ảnh tiêu dùng, máy ảnh số). Pháp nhân vẫn tồn tại, niêm yết lại trên NYSE (mã KODK), nên có thể xếp declining; chọn failed theo định nghĩa của khung (phá sản). Năm thành lập: Kodak tự ghi Eastman Dry Plate Company lập 1881, tên Kodak có từ 1888. Số tài sản/nợ khi phá sản (5,1 và 6,75 tỷ USD) là của Reuters dẫn qua Popular Photography, chưa đọc được bài gốc của Reuters. Chưa tìm được nguồn mở được cho đỉnh nhân sự 145.300 người (1988) và doanh thu đỉnh thập niên 1990 nên không dùng.",
+    "sources": [
+      { "id": 1, "org": "Eastman Kodak Company", "year": 2026, "title": "Kodak Reports Fourth-Quarter and Full-Year 2025 Financial Results (12/3/2026)", "quote": "For the full year ended December 31, 2025, revenues were $1.069 billion, an increase of $26 million or 2 percent compared to the same period in 2024.", "url": "https://www.kodak.com/en/company/press-release/fourth-quarter-full-year-2025-financial-results/", "type": "financials", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 2, "org": "Eastman Kodak Company (SEC)", "year": 2026, "title": "Form 10-K cho năm tài chính 2025", "quote": "Net sales for the Prepress Solutions business accounted for 52%, 54% and 56% of Kodak’s total net revenue for the years ended December 31, 2025, 2024 and 2023, respectively.", "url": "https://www.sec.gov/Archives/edgar/data/31235/000119312526104214/kodk-20251231.htm", "type": "financials", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 3, "org": "Eastman Kodak Company (SEC)", "year": 2025, "title": "Form 10-Q quý kết thúc 30/6/2025", "quote": "These conditions raise substantial doubt about Kodak’s ability to continue as a going concern.", "url": "https://www.sec.gov/Archives/edgar/data/31235/000095017025106568/kodk-20250630.htm", "type": "financials", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 4, "org": "Eastman Kodak Company", "year": 2026, "title": "Kodak Milestones (trang lịch sử chính thức)", "quote": "1975 - Kodak invented the world's first digital camera.", "url": "https://www.kodak.com/en/company/page/milestones", "type": "report", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 5, "org": "The New York Times (Lens)", "year": 2015, "title": "Kodak’s First Digital Moment", "quote": "“Every digital camera that was sold took away from a film camera and we knew how much money we made on film,” Mr. Sasson said.", "url": "https://archive.nytimes.com/lens.blogs.nytimes.com/2015/08/12/kodaks-first-digital-moment/", "type": "press", "grade": "B", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 6, "org": "Eastman Kodak Company (SEC)", "year": 2012, "title": "Form 10-K cho năm tài chính 2011", "quote": "At the end of 2011, the Company employed the full time equivalent of approximately 17,100 people", "url": "https://www.sec.gov/Archives/edgar/data/0000031235/000003123512000036/ek2011_10k.htm", "type": "financials", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 7, "org": "Eastman Kodak Company (SEC)", "year": 2012, "title": "Form 8-K, Exhibit 99.1 – Public Lender Presentation (1/2012)", "quote": "More rapid decline than expected in traditional businesses and challenges reducing corporate costs as quickly", "url": "https://www.sec.gov/Archives/edgar/data/0000031235/000119312512021891/d287269dex991.htm", "type": "financials", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 8, "org": "Popular Photography", "year": 2012, "title": "Kodak Files For Bankruptcy Protection", "quote": "who has closed 13 manufacturing plants and 130 processing labs, and laid off 47,000 employees since 2003.", "url": "https://www.popphoto.com/news/2012/01/kodak-files-bankruptcy-protection", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 9, "org": "IPWatchdog", "year": 2012, "title": "Kodak Sells Patents to Intellectual Ventures, RPX for $525 Million", "quote": "Some experts had initially estimated that the portfolio might be sold for somewhere between $2 billion to $3 billion", "url": "https://ipwatchdog.com/2012/12/19/kodak-sells-patents-to-intellectual-ventures-rpx-for-525-million/", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 10, "org": "FUJIFILM Holdings", "year": 2026, "title": "History of Fujifilm Group (dùng để đối chiếu)", "quote": "Acquired additional 25% of Fuji Xerox's outstanding shares, increasing the shareholding in that company to 75%", "url": "https://holdings.fujifilm.com/en/about/history", "type": "report", "grade": "A", "verified": "page", "accessed": "2026-11-01" }
+    ]
+  },
+  {
+    "id": "nokia",
+    "kind": "case",
+    "section": "8",
+    "title": "Nokia: mất điện thoại, sống bằng thiết bị mạng và bằng sáng chế",
+    "summary": "Doanh nghiệp Phần Lan đi từ nhà máy bột gỗ năm 1865, qua cao su, cáp, tới hãng điện thoại di động số 1 thế giới từ 1998. Mất thị trường điện thoại thông minh, bán mảng điện thoại cho Microsoft năm 2014, nay bán thiết bị mạng cho nhà mạng và trung tâm dữ liệu. Mảng cấp phép bằng sáng chế chỉ chiếm 7,5% doanh thu nhưng mang về khoảng một nửa lợi nhuận hoạt động so sánh được.",
+    "tags": {
+      "reach": "multi",
+      "age": "century",
+      "outcome": "survived",
+      "owner": "public",
+      "evidence": "A"
+    },
+    "facts": {
+      "founded": "1865",
+      "revenue": "19,89 tỷ euro (2025)",
+      "profit": "LN ròng 660 triệu euro (2025)",
+      "people": "≈ 78.000 nhân viên (bình quân 2025)",
+      "text": "Số từ báo cáo tài chính quý 4 và cả năm 2025 (29/1/2026) và báo cáo thường niên 2025. Doanh thu 19.889 triệu euro (+3%). Lợi nhuận hoạt động theo IFRS 885 triệu euro (biên 4,4%); theo cách tính “so sánh được” của Nokia (loại chi phí tái cấu trúc, khấu hao tài sản mua lại và các khoản một lần) là 2.024 triệu euro (biên 10,2%). Lợi nhuận kỳ theo IFRS 660 triệu euro. Nhân sự là số bình quân năm; nếu không mua Infinera, số nhân viên cuối 2025 là 74.100.",
+      "grade": "A",
+      "refs": [1, 2]
+    },
+    "engine": {
+      "text": "Khách chính là nhà mạng viễn thông, doanh nghiệp, và ngày càng nhiều nhà cung cấp đám mây, trung tâm dữ liệu AI (đơn hàng từ nhóm này năm 2025 hơn 2,4 tỷ euro). Hai mảng lớn nhất bán thiết bị: hạ tầng mạng (định tuyến IP, truyền dẫn quang, mạng cáp quang thuê bao) và trạm phát sóng di động; biên mỏng, Mobile Networks chỉ 2,8%. Mảng nhỏ nhất, Nokia Technologies, thu phí cấp phép bằng sáng chế, chủ yếu từ các hãng điện thoại, biên 70,6%, mang về 1.059 trong 2.024 triệu euro lợi nhuận hoạt động so sánh được. Số mảng dưới đây theo cách tính so sánh được. Từ 1/1/2026 Nokia gộp lại thành hai mảng Network Infrastructure và Mobile Infrastructure.",
+      "segments": [
+        { "item": "Network Infrastructure (IP, quang, mạng cố định; gồm Infinera)", "value": "7.986 triệu € ≈ 40%; LN HĐ 780 triệu (9,8%)", "grade": "A", "refs": [1] },
+        { "item": "Mobile Networks (thiết bị vô tuyến, trạm phát sóng)", "value": "7.806 triệu € ≈ 39%; LN HĐ 220 triệu (2,8%)", "grade": "A", "refs": [1] },
+        { "item": "Cloud and Network Services (mạng lõi, phần mềm)", "value": "2.606 triệu € ≈ 13%; LN HĐ 338 triệu (13,0%)", "grade": "A", "refs": [1] },
+        { "item": "Nokia Technologies (cấp phép bằng sáng chế)", "value": "1.501 triệu € ≈ 7,5%; LN HĐ 1.059 triệu (70,6%)", "grade": "A", "refs": [1] }
+      ],
+      "refs": [1, 2]
+    },
+    "moat": {
+      "text": "(1) Kho bằng sáng chế cho chuẩn di động: Nokia cho biết đã chi khoảng 50 tỷ euro cho nghiên cứu phát triển trong hai thập kỷ tính đến 2012; mảng cấp phép duy trì doanh thu theo hợp đồng khoảng 1,4 tỷ euro/năm. (2) Quan hệ lâu năm với nhà mạng: 408 hợp đồng 5G thương mại đến cuối 2025; theo Dell'Oro và Omdia, Nokia đứng thứ ba thế giới về thị phần thiết bị vô tuyến trong ba quý đầu 2025. (3) Năng lực quang học sau thương vụ Infinera (2,5 tỷ euro), gồm xưởng chế tạo linh kiện bán dẫn InP ở California. Phòng thí nghiệm Bell Labs có được từ thương vụ Alcatel-Lucent.",
+      "refs": [4, 1, 2, 3]
+    },
+    "timeline": [
+      { "year": "1865", "event": "Kỹ sư mỏ Fredrik Idestam lập nhà máy bột gỗ đầu tiên ở miền nam Phần Lan; nhà máy thứ hai bên dòng Nokianvirta cho công ty cái tên Nokia.", "refs": [3] },
+      { "year": "Thập niên 1960", "event": "Thành tập đoàn đa ngành: cao su, cáp, lâm sản, điện tử, phát điện, sau khi Nokia Ab hợp nhất với Công ty Cáp Phần Lan (Suomen Kaapelitehdas, lập năm 1912) và các công ty khác.", "refs": [3] },
+      { "year": "1991–1998", "event": "Cuộc gọi GSM đầu tiên (1991) qua thiết bị Nokia; quyết định chỉ làm viễn thông, bán dần các mảng nhôm, cáp, hóa chất, giấy, cao su, điện, TV. Năm 1998 thành hãng điện thoại di động số 1 thế giới, giữ vị trí này hơn 10 năm.", "refs": [3] },
+      { "year": "2007", "event": "Gộp mảng hạ tầng mạng với Siemens thành liên doanh Nokia Siemens Networks; năm 2013 mua lại phần của Siemens.", "refs": [3] },
+      { "year": "2011–2012", "event": "Liên minh với Microsoft (Windows Phone). Năm 2012 số điện thoại thông minh bán ra giảm 55%, lỗ thuộc cổ đông 3,1 tỷ euro.", "refs": [3, 4] },
+      { "year": "2013–2014", "event": "Bán mảng Devices & Services cho Microsoft giá 5,44 tỷ euro (3,79 tỷ cho mảng kinh doanh, 1,65 tỷ cho giấy phép bằng sáng chế); hoàn tất 4/2014, khoảng 32.000 người chuyển sang Microsoft.", "refs": [5, 3] },
+      { "year": "2015–2016", "event": "Mua Alcatel-Lucent bằng cổ phiếu, trị giá 15,6 tỷ euro, nắm quyền kiểm soát đầu 2016; bán mảng bản đồ HERE (12/2015).", "refs": [7, 3] },
+      { "year": "2025", "event": "Hoàn tất mua Infinera (2/2025, 2,5 tỷ euro); NVIDIA đầu tư 1 tỷ USD (10/2025); từ 1/2026 tổ chức lại thành hai mảng.", "refs": [2] }
+    ],
+    "crises": [
+      {
+        "title": "Mất thị trường điện thoại thông minh 2011–2013",
+        "text": "Năm 2012, doanh thu tập đoàn giảm 22% còn 30,2 tỷ euro; mảng thiết bị giảm 34% còn 15,7 tỷ euro; điện thoại thông minh bán ra giảm từ 77,3 triệu xuống 35,1 triệu chiếc; lỗ thuộc cổ đông công ty mẹ 3,1 tỷ euro. Nokia không cố cứu mảng này mà bán cho Microsoft năm 2013 lấy 5,44 tỷ euro tiền mặt, giữ lại mạng lưới (NSN) và quyền sở hữu bằng sáng chế. Tháng 7/2015, Microsoft ghi giảm khoảng 7,6 tỷ USD tài sản gắn với thương vụ và cắt tới 7.800 vị trí, chủ yếu ở mảng điện thoại.",
+        "refs": [4, 5, 6, 3]
+      },
+      {
+        "title": "Thị trường thiết bị mạng đi xuống 2023–2025",
+        "text": "Tháng 10/2023, Nokia công bố cắt 800 triệu – 1,2 tỷ euro chi phí đến cuối 2026, giảm từ 86.000 xuống 72.000–77.000 nhân viên. Năm 2025, lợi nhuận hoạt động theo IFRS giảm 1.085 triệu euro còn 885 triệu (biên 4,4%) vì mảng bằng sáng chế không còn khoản thu bù hơn 400 triệu euro như năm 2024, chi phí liên quan thương vụ Infinera và một khoản dự phòng tranh chấp hợp đồng. Hướng ra: dồn vốn vào quang học và IP cho trung tâm dữ liệu AI.",
+        "refs": [2, 1]
+      }
+    ],
+    "lessons": [
+      {
+        "title": "Số 1 về thị phần không bảo vệ bạn khi tiêu chí mua thay đổi",
+        "text": "Nokia dẫn đầu điện thoại di động từ 1998 suốt hơn 10 năm, nhưng chỉ riêng năm 2012 số điện thoại thông minh bán ra giảm 55%. Áp dụng: định kỳ hỏi những khách vừa bỏ đi rằng họ chuyển sang đâu và vì sao. Nếu câu trả lời là một kiểu sản phẩm khác (không phải một đối thủ cùng kiểu bán rẻ hơn), đó là tín hiệu phải đổi hướng, dù doanh số hiện tại vẫn đứng đầu khu vực.",
+        "refs": [3, 4]
+      },
+      {
+        "title": "Bán mảng đang đi xuống khi người mua còn trả giá",
+        "text": "Nokia bán mảng điện thoại năm 2013 lấy 5,44 tỷ euro tiền mặt; hai năm sau bên mua ghi giảm khoảng 7,6 tỷ USD tài sản của chính thương vụ này. Áp dụng: khi một cửa hàng, chi nhánh hay dòng hàng đi xuống kéo dài, sang nhượng sớm lúc còn khách và còn người muốn mua, thay vì giữ đến khi chỉ còn bán thanh lý.",
+        "refs": [5, 6]
+      },
+      {
+        "title": "Khi bán mảng, giữ lại tài sản không cần nhà máy",
+        "text": "Trong thương vụ với Microsoft, 1,65 tỷ euro là tiền mua giấy phép dùng bằng sáng chế; Nokia vẫn giữ quyền sở hữu. Năm 2025 mảng cấp phép có doanh thu 1,5 tỷ euro, biên lợi nhuận hoạt động 70,6%. Áp dụng: khi sang nhượng cơ sở, cân nhắc giữ công thức, thương hiệu, trang mạng xã hội và cho bên mua thuê hoặc thu phí theo doanh số.",
+        "refs": [5, 1]
+      }
+    ],
+    "weak": {
+      "text": "Hai mảng lớn có biên thấp: Mobile Networks 2,8%, Network Infrastructure 9,8% (2025). Lợi nhuận dựa nhiều vào bằng sáng chế, và chính Nokia nêu rủi ro: phần đáng kể thu nhập cấp phép đến từ thị trường điện thoại thông minh vốn thay đổi nhanh và chỉ có ít hãng lớn. Quý 4/2025 doanh thu mảng này giảm 17%. Lợi nhuận hoạt động theo IFRS năm 2025 chỉ bằng 4,4% doanh thu. Mục tiêu 2026 là 2,0–2,5 tỷ euro lợi nhuận hoạt động so sánh được, cận dưới gần như bằng năm 2025.",
+      "refs": [1, 2]
+    },
+    "notes": "Mốc lịch sử lấy từ trang lịch sử tiếng Phần Lan của Nokia (tự công bố). Đề bài ghi “nhà máy giấy”; trang của Nokia viết puusellutehdas (nhà máy bột gỗ), cẩm nang theo nguồn công ty. Số mảng năm 2025 theo cách tính so sánh được, cộng lại lệch nhẹ với doanh thu IFRS do loại trừ nội bộ. Nhân sự dùng số bình quân năm theo báo cáo thường niên; không dùng con số 78.005 người cuối 2025 của trang tổng hợp thứ ba. Khoản ghi giảm 7,6 tỷ USD của Microsoft bằng USD, không quy đổi.",
+    "sources": [
+      { "id": 1, "org": "Nokia Oyj", "year": 2026, "title": "Nokia Corporation Financial Report for Q4 and full year 2025 (29/1/2026)", "quote": "Comparable operating profit was EUR 2.0 billion and free cash flow was EUR 1.5 billion, equating to FCF conversion of 72%.", "url": "https://ml-eu.globenewswire.com/Resource/Download/6d20b239-e920-447e-ae8d-3807f9b3e08b", "type": "financials", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 2, "org": "Nokia Oyj", "year": 2026, "title": "Nokia Annual Report 2025", "quote": "A proportionally significant share of the current patent licensing income is generated from the smartphone market, which is rapidly changing and features a limited number of large vendors.", "url": "https://www.nokia.com/system/files/2026-03/nokia-annual-report-2025.pdf", "type": "financials", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 3, "org": "Nokia Oyj", "year": 2026, "title": "Historiamme (lịch sử Nokia, tiếng Phần Lan)", "quote": "Vuoteen 1998 mennessä Nokia oli maailman johtava matkapuhelinvalmistaja, ja yhtiö piti kiinni tästä johtoasemastaan yli 10 vuoden ajan.", "url": "https://www.nokia.com/fi_fi/tietoa-nokiasta/yritys/historiamme/", "type": "report", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 4, "org": "Nokia Oyj", "year": 2013, "title": "Nokia Corporation Q4 and full year 2012 interim report", "quote": "Net sales of Devices & Services decreased 34% to EUR 15.7 billion (EUR 23.9 billion).", "url": "https://www.investegate.co.uk/announcement/rns/nokia-oyj--0haf/nokia-corporation-q4-and-full-year-2012-interim-/2862578", "type": "financials", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 5, "org": "Microsoft", "year": 2013, "title": "Microsoft to acquire Nokia’s devices & services business, license Nokia’s patents and mapping services", "quote": "for a total transaction price of EUR 5.44 billion in cash.", "url": "https://news.microsoft.com/source/2013/09/03/microsoft-to-acquire-nokias-devices-services-business-license-nokias-patents-and-mapping-services/", "type": "report", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 6, "org": "Microsoft (SEC)", "year": 2015, "title": "Form 8-K, Exhibit 99.1 – tái cấu trúc mảng phần cứng điện thoại (8/7/2015)", "quote": "the company will record an impairment charge of approximately $7.6 billion related to assets associated with the acquisition of the Nokia Devices and Services (NDS) business", "url": "https://www.sec.gov/Archives/edgar/data/0000789019/000119312515247530/d54167dex991.htm", "type": "financials", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 7, "org": "Nokia Oyj (SEC)", "year": 2017, "title": "Form 20-F cho năm tài chính 2016", "quote": "a transaction valued at EUR 15.6 billion on a fully diluted basis.", "url": "https://www.sec.gov/Archives/edgar/data/0000924613/000119312517093200/d283248d20f.htm", "type": "financials", "grade": "A", "verified": "page", "accessed": "2026-11-01" }
+    ]
+  },
+  {
+    "id": "ibm",
+    "kind": "case",
+    "section": "8",
+    "title": "IBM: ba lần bỏ mảng chính mà không bỏ khách hàng lớn",
+    "summary": "Ra đời năm 1911 từ vụ sáp nhập các công ty máy lập bảng, đồng hồ chấm công và cân, IBM chuyển từ máy lập bảng sang máy tính lớn, suýt bị chia nhỏ năm 1993, bán mảng PC năm 2005 và tách mảng dịch vụ hạ tầng năm 2021. Năm 2025 doanh thu 67,5 tỷ USD; phần mềm chiếm 44% doanh thu và khoảng 60% lợi nhuận các mảng. Điều đáng học: rời sản phẩm đã thành hàng phổ thông, giữ và bán thêm cho nhóm khách doanh nghiệp lớn.",
+    "tags": {
+      "reach": "multi",
+      "age": "century",
+      "outcome": "survived",
+      "owner": "public",
+      "evidence": "A"
+    },
+    "facts": {
+      "founded": "1911 (CTR; tên IBM từ 1924)",
+      "revenue": "67,5 tỷ USD (2025)",
+      "profit": "LN ròng 10,6 tỷ USD (2025)",
+      "people": "264.300 nhân viên (31/12/2025)",
+      "text": "Số từ thông cáo kết quả quý 4/2025 (28/1/2026) và báo cáo thường niên 2025 đi kèm 10-K. Lợi nhuận ròng theo GAAP 10.593 triệu USD, có khoản lợi thuế do giải quyết một số cuộc thanh tra thuế; lợi nhuận trước thuế từ hoạt động liên tục 10,3 tỷ USD. Nhân sự là IBM và các công ty con sở hữu 100%; ngoài ra có 8.700 người ở công ty con không sở hữu toàn bộ và khoảng 13.800 lao động bổ sung (quy đổi toàn thời gian).",
+      "grade": "A",
+      "refs": [1, 2]
+    },
+    "engine": {
+      "text": "Khách là doanh nghiệp và cơ quan nhà nước lớn. Phần mềm (Red Hat cho đám mây lai, tự động hóa, dữ liệu, phần mềm xử lý giao dịch trên máy chủ lớn) là cỗ máy lãi chính: 44% doanh thu, biên lợi nhuận mảng 33,1%, khoảng 60% tổng lợi nhuận các mảng (9.920 trên 16.363 triệu USD); doanh thu định kỳ quy năm (ARR) 23,6 tỷ USD cuối 2025. Tư vấn lớn thứ hai về doanh thu nhưng biên chỉ 11,7%. Hạ tầng (máy chủ lớn IBM Z, Power, lưu trữ, dịch vụ hỗ trợ) đi theo chu kỳ máy mới: năm 2025 doanh thu IBM Z tăng 51,7% nhờ dòng z17 ra mắt 6/2025. Mảng tài chính cấp vốn cho khách mua, thuê sản phẩm của IBM.",
+      "segments": [
+        { "item": "Software (Red Hat, tự động hóa, dữ liệu, xử lý giao dịch)", "value": "29.962 triệu USD ≈ 44%; LN mảng 9.920 triệu (33,1%)", "grade": "A", "refs": [1] },
+        { "item": "Consulting (tư vấn, triển khai)", "value": "21.055 triệu USD ≈ 31%; LN mảng 2.464 triệu (11,7%)", "grade": "A", "refs": [1] },
+        { "item": "Infrastructure (máy chủ lớn IBM Z, Power, lưu trữ)", "value": "15.718 triệu USD ≈ 23%; LN mảng 3.458 triệu (22,0%)", "grade": "A", "refs": [1] },
+        { "item": "Financing (tài chính cho khách hàng)", "value": "737 triệu USD ≈ 1%; LN mảng 521 triệu", "grade": "A", "refs": [1] }
+      ],
+      "refs": [1, 2]
+    },
+    "moat": {
+      "text": "(1) Chi phí chuyển đổi: nhiều hệ thống lõi của doanh nghiệp lớn chạy trên máy chủ lớn IBM Z; IBM gọi đây là “xương sống” của công nghệ thông tin doanh nghiệp (tự công bố), và doanh thu dòng này tăng 51,7% năm 2025. (2) Doanh thu định kỳ: ARR phần mềm 23,6 tỷ USD; riêng OpenShift 1,9 tỷ USD, tăng hơn 30%. (3) Quan hệ với khách lớn: lúc tách ra năm 2021, mảng dịch vụ hạ tầng phục vụ hơn 4.600 khách, gồm hơn 75% nhóm Fortune 100. Lợi thế không còn nằm ở phần cứng phổ thông: thị phần PC của IBM từ khoảng 80% (1982–1983) xuống 20% một thập kỷ sau.",
+      "refs": [2, 11, 5]
+    },
+    "timeline": [
+      { "year": "1911", "event": "Charles Flint gộp ba công ty (đồng hồ chấm công, cân tính tiền, máy lập bảng Hollerith) thành Computing-Tabulating-Recording (C-T-R), thành lập 16/6/1911; Thomas Watson Sr. đổi tên thành IBM năm 1924.", "refs": [3] },
+      { "year": "1964", "event": "Ra dòng máy tính lớn System/360 thay toàn bộ dòng máy cũ, chi 5 tỷ USD trong bốn năm.", "refs": [4] },
+      { "year": "1981", "event": "Ra IBM PC kiến trúc mở; máy tương thích tràn ra, thị phần PC của IBM từ khoảng 80% (1982–1983) xuống 20% một thập kỷ sau.", "refs": [5] },
+      { "year": "1993", "event": "Lỗ 8,1 tỷ USD. Louis Gerstner, người ngoài ngành, làm CEO từ 4/1993, bỏ kế hoạch chia công ty, chuyển trọng tâm sang dịch vụ.", "refs": [7, 6, 8] },
+      { "year": "2005", "event": "Hoàn tất bán mảng PC cho Lenovo với 1,75 tỷ USD gồm tiền mặt, cổ phiếu và nợ.", "refs": [5] },
+      { "year": "2012–2017", "event": "Doanh thu giảm 22 quý liên tiếp, đến quý 4/2017 mới tăng lại.", "refs": [9] },
+      { "year": "2019–2021", "event": "Mua Red Hat với 34 tỷ USD (7/2019); tách mảng dịch vụ quản lý hạ tầng thành Kyndryl (hoàn tất 3/11/2021).", "refs": [10, 11, 2] },
+      { "year": "2025", "event": "Ra máy chủ lớn z17, mua HashiCorp, công bố mua Confluent (giá trị doanh nghiệp khoảng 11 tỷ USD, dự kiến hoàn tất giữa 2026).", "refs": [2] }
+    ],
+    "crises": [
+      {
+        "title": "Lỗ 8,1 tỷ USD và suýt bị chia nhỏ (1993)",
+        "text": "Năm 1993 IBM lỗ 8,1 tỷ USD sau khoản chi tái cấu trúc gần 8 tỷ USD, và mất khoảng 45.000 việc làm trong năm (AP). Hội đồng quản trị đưa Louis Gerstner, từng lãnh đạo American Express và RJR Nabisco, về làm CEO từ 4/1993. Ông bỏ kế hoạch chia IBM thành hàng chục đơn vị bán tự trị (“Baby Blues”), cắt chi phí, bán bớt tài sản, ổn định mảng máy chủ lớn bằng chip rẻ hơn và dồn lực vào dịch vụ: doanh thu dịch vụ tăng từ 7,4 tỷ USD (1992) lên 30 tỷ USD (2001). Năm 1994 IBM lãi lại 2,88 tỷ USD.",
+        "refs": [7, 8, 12, 6]
+      },
+      {
+        "title": "22 quý doanh thu giảm liên tiếp (2012–2017)",
+        "text": "Doanh thu IBM giảm 22 quý liền, đến quý 4/2017 mới tăng lại. Lần này lời giải là mua và tách: mua Red Hat 34 tỷ USD năm 2019, rồi tách mảng dịch vụ quản lý hạ tầng (hơn 4.600 khách, lượng hợp đồng chưa thực hiện 60 tỷ USD) thành Kyndryl năm 2021 để tập trung vào phần mềm và đám mây lai.",
+        "refs": [9, 10, 11, 2]
+      }
+    ],
+    "lessons": [
+      {
+        "title": "Rời mảng đã thành hàng phổ thông",
+        "text": "IBM đặt ra chuẩn PC nhưng thị phần rơi từ khoảng 80% xuống 20% trong một thập kỷ vì ai cũng làm được máy tương thích; năm 2005 IBM bán mảng này cho Lenovo với 1,75 tỷ USD. Áp dụng: khi sản phẩm của bạn bị bắt chước và chỉ còn cạnh tranh bằng giá, hãy bán hoặc thu nhỏ nó, dồn vốn vào phần việc khách còn chịu trả thêm.",
+        "refs": [5]
+      },
+      {
+        "title": "Bán cách dùng, không chỉ bán món hàng",
+        "text": "Gerstner đưa IBM sang giúp khách dùng công nghệ thay vì chỉ bán thiết bị; doanh thu dịch vụ tăng từ 7,4 tỷ USD (1992) lên 30 tỷ USD (2001). Năm 2025, mảng phần mềm có 23,6 tỷ USD doanh thu định kỳ quy năm. Áp dụng: cửa hàng bán máy lọc nước, điều hòa hay phần mềm bán hàng có thể bán gói lắp đặt, bảo trì, thay lõi theo tháng; nguồn thu đều đặn này giữ doanh nghiệp khi doanh số máy chững lại.",
+        "refs": [8, 2]
+      },
+      {
+        "title": "Đừng vứt sản phẩm cũ mà khách lớn vẫn cần, hãy làm mới nó",
+        "text": "Năm 1993 có kế hoạch chia nhỏ IBM; Gerstner giữ nguyên khối và ổn định mảng máy chủ lớn bằng cách chuyển sang chip rẻ hơn. Hơn 30 năm sau, dòng z17 vẫn kéo doanh thu IBM Z tăng 51,7% năm 2025. Áp dụng: món truyền thống mà khách quen vẫn đặt đều là tài sản; đổi cách đóng gói, cách giao, cách thanh toán thay vì bỏ hẳn để chạy theo món mới.",
+        "refs": [8, 12, 2]
+      }
+    ],
+    "weak": {
+      "text": "Tư vấn gần như đứng yên: doanh thu 2025 tăng 1,8%, chỉ 0,4% nếu loại ảnh hưởng tỷ giá. Mảng hạ tầng tăng mạnh nhờ chu kỳ máy mới z17 (6/2025); chính IBM viết doanh thu hạ tầng phân tán và dịch vụ hỗ trợ hạ tầng phản ánh “động lực chu kỳ sản phẩm”. Nợ cuối 2025 là 61,3 tỷ USD, tăng 6,3 tỷ trong năm (gồm 15,1 tỷ nợ của mảng tài chính), trong khi IBM tiếp tục mua lớn (HashiCorp 2025, Confluent khoảng 11 tỷ USD). Lợi nhuận ròng 2025 được đẩy lên bởi khoản lợi thuế: riêng quý 4 ghi nhận lợi ích thuế 1.435 triệu USD.",
+      "refs": [2, 1]
+    },
+    "notes": "Mốc lịch sử lấy từ trang IBM Heritage (tự công bố). Số người mất việc năm 1993 lệch giữa nguồn: AP (1995) ghi khoảng 45.000 trong năm 1993 và 35.000 năm 1994; Fortune/Bloomberg (2025) ghi Gerstner cho nghỉ 35.000 trên 300.000 nhân viên. Cẩm nang dùng số AP cho năm 1993. Không gọi khoản lỗ 1993 là “kỷ lục” vì chưa mở được nguồn gốc khẳng định điều đó. Con số 19 tỷ USD doanh thu của Kyndryl chỉ thấy ở nguồn thứ cấp, không có trong thông cáo gốc đã mở, nên không dùng; dùng 4.600 khách và 60 tỷ USD hợp đồng chưa thực hiện từ thông cáo gốc. Tỷ lệ 60% lợi nhuận mảng do tác giả tính: 9.920 / (9.920 + 2.464 + 3.458 + 521).",
+    "sources": [
+      { "id": 1, "org": "IBM", "year": 2026, "title": "IBM Releases Fourth-Quarter Results (28/1/2026)", "quote": "Revenue of $67.5 billion, up 8 percent, up 6 percent at constant currency", "url": "https://newsroom.ibm.com/2026-01-28-IBM-RELEASES-FOURTH-QUARTER-RESULTS", "type": "financials", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 2, "org": "IBM (SEC)", "year": 2026, "title": "IBM 2025 Annual Report to Stockholders (phụ lục 10-K năm 2025)", "quote": "Within Hybrid Infrastructure, IBM Z revenue increased 51.7 percent as reported (48.4 percent adjusted for currency), reflecting the strong performance of z17.", "url": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000010/ibm-20251231_d2.htm", "type": "financials", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 3, "org": "IBM Heritage", "year": 2026, "title": "The origins of IBM", "quote": "Talks continued for four years, until June 16, 1911, when C-T-R was officially incorporated as a holding company to control the three separate firms.", "url": "https://www.ibm.com/history/ctr-and-ibm", "type": "report", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 4, "org": "IBM Heritage", "year": 2026, "title": "The IBM System/360", "quote": "The new line would replace all existing IBM computer products and cost USD 5 billion over four years.", "url": "https://www.ibm.com/history/system-360", "type": "report", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 5, "org": "IBM Heritage", "year": 2026, "title": "The IBM PC", "quote": "IBM completed the sale of its PC division to Lenovo for USD 1.75 billion in cash, stock and debt.", "url": "https://www.ibm.com/history/personal-computer", "type": "report", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 6, "org": "IBM Heritage", "year": 2026, "title": "Louis V. Gerstner Jr.", "quote": "Louis V. Gerstner Jr. served as chief executive officer and chairman of the board of IBM Corporation from April 1993 to March 2002", "url": "https://www.ibm.com/history/louis-gerstner", "type": "report", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 7, "org": "Associated Press (đăng lại trên The Spokesman-Review)", "year": 1995, "title": "IBM earns $1.2 billion in year's final quarter", "quote": "It lost $8.1 billion in 1993, or $14.02 per share, after taking a nearly $8 billion restructuring charge in the second quarter.", "url": "https://www.spokesman.com/stories/1995/jan/24/ibm-earns-12-billion-in-years-final-quarter-big/", "type": "press", "grade": "B", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 8, "org": "Fortune (Bloomberg)", "year": 2025, "title": "Louis Gerstner obituary: IBM CEO turnaround", "quote": "The switch in focus from hardware to services resulted in an increase in services revenue from $7.4 billion in 1992 to $30 billion in 2001.", "url": "https://www.fortune.com/2025/12/28/louis-gerstner-obituary-ibm-ceo-turnaround", "type": "press", "grade": "B", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 9, "org": "Fortune", "year": 2018, "title": "IBM Ends 22 Straight Quarters of Declining Revenue. But Wall Street Is Unimpressed", "quote": "finally reporting a sales increase after an ignominious 22 straight quarters of declines.", "url": "https://fortune.com/2018/01/18/ibm-wall-street-quarter-earnings", "type": "press", "grade": "B", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 10, "org": "IBM (SEC)", "year": 2019, "title": "Form 8-K, Exhibit 99.1 – IBM Closes Landmark Acquisition of Red Hat for $34 Billion", "quote": "for $190.00 per share in cash, representing a total equity value of approximately $34 billion.", "url": "https://www.sec.gov/Archives/edgar/data/51143/000095014219001515/eh1900893_ex9901.htm", "type": "financials", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 11, "org": "IBM (SEC)", "year": 2020, "title": "Form 8-K, Exhibit 99.1 – IBM to accelerate hybrid cloud growth strategy and execute spin-off of managed infrastructure services unit (8/10/2020)", "quote": "It has relationships with more than 4,600 technology-intensive, highly regulated clients in 115 countries, including more than 75% of the Fortune 100, a backlog of $60 billion", "url": "https://www.sec.gov/Archives/edgar/data/51143/000110465920113260/tm2032661d1_ex99-1.htm", "type": "financials", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 12, "org": "The Boston Globe", "year": 2025, "title": "Louis V. Gerstner, who revived faltering IBM in the ’90s, dies at 83", "quote": "He oversaw the overhaul of its mainframes to run on lower-cost chip technology, stabilizing that crucial business.", "url": "https://bostonglobe.com/2025/12/29/metro/louis-v-gerstner-who-revived-faltering-ibm-90s-dies-83/", "type": "press", "grade": "B", "verified": "page", "accessed": "2026-11-01" }
+    ]
+  }
+]

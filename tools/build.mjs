@@ -22,6 +22,15 @@ const ENUM = {
   legal: ["simple", "conditional", "heavy"],
   time: ["part", "full"],
   evidence: ["A", "B", "C"],
+  reach: ["domestic", "multi"],
+  age: ["century", "old", "young"],
+  outcome: ["rising", "survived", "declining", "failed"],
+  owner: ["state", "family", "founder", "public"],
+};
+const KINDS = ["model", "rule", "stage", "case"];
+const REQUIRED_TAGS = {
+  model: ["capital", "breakeven", "risk", "legal", "time", "evidence"],
+  case: ["reach", "age", "outcome", "owner", "evidence"],
 };
 const GRADES = ["A", "B", "C"];
 const TYPES = ["law", "policy", "price", "stats", "report", "financials", "press", "quote", "estimate"];
@@ -57,7 +66,7 @@ for (const it of items) {
   if (!it.id || !/^[a-z0-9-]+$/.test(it.id)) w("id phải là slug a-z0-9-");
   if (ids.has(it.id)) w("trùng id");
   ids.add(it.id);
-  if (!["model", "rule"].includes(it.kind)) w(`kind không hợp lệ: ${it.kind}`);
+  if (!KINDS.includes(it.kind)) w(`kind không hợp lệ: ${it.kind}`);
   if (!secIds.has(String(it.section))) w(`section không có: ${it.section}`);
   it.section = String(it.section);
   if (!it.title) w("thiếu title");
@@ -65,8 +74,17 @@ for (const it of items) {
   for (const [k, v] of Object.entries(t)) {
     if (ENUM[k] && !ENUM[k].includes(v)) w(`tags.${k} = ${v} không hợp lệ`);
   }
-  if (it.kind === "model") for (const k of ["capital", "breakeven", "risk", "legal", "time", "evidence"]) if (!t[k]) w(`thiếu tags.${k}`);
+  for (const k of REQUIRED_TAGS[it.kind] || []) if (!t[k]) w(`thiếu tags.${k}`);
   if (it.kind === "model" && (it.risks || []).length !== 3) warns.push(`${it.id}: có ${(it.risks || []).length} tử huyệt (chuẩn là 3)`);
+  if (it.kind === "case") {
+    if ((it.lessons || []).length !== 3) warns.push(`${it.id}: có ${(it.lessons || []).length} bài học (chuẩn là 3)`);
+    if (!(it.timeline || []).length) w("thiếu timeline");
+    if (!it.facts) w("thiếu facts");
+    for (const k of ["founded", "revenue", "profit", "people"]) {
+      const v = it.facts?.[k];
+      if (v && String(v).length > 40) warns.push(`${it.id}: facts.${k} dài ${String(v).length} ký tự (chuẩn ≤ 40)`);
+    }
+  }
 
   const src = it.sources || [];
   if (!src.length) w("không có nguồn nào");
@@ -143,7 +161,8 @@ mkdirSync(p("dist"), { recursive: true });
 writeFileSync(p("dist", "cam-nang.html"), single);
 
 const nSrc = items.reduce((a, i) => a + (i.sources || []).length, 0);
-console.log(`Mục: ${items.length} (${items.filter((i) => i.kind === "model").length} mô hình, ${items.filter((i) => i.kind === "rule").length} quy định) · nguồn: ${nSrc} · file: ${files.join(", ") || "(chưa có)"}`);
+const nKind = (k) => items.filter((i) => i.kind === k).length;
+console.log(`Mục: ${items.length} (${nKind("model")} mô hình, ${nKind("rule")} quy định, ${nKind("stage")} nấc quy mô, ${nKind("case")} tập đoàn) · nguồn: ${nSrc} · file: ${files.join(", ") || "(chưa có)"}`);
 if (warns.length) console.log(`\nCẢNH BÁO (${warns.length}):\n- ` + warns.join("\n- "));
 if (errors.length) {
   console.log(`\nLỖI (${errors.length}):\n- ` + errors.join("\n- "));

@@ -20,6 +20,12 @@ Chưa kiểm tay: help.openai.com (giá ChatGPT Plus), docs.midjourney.com, inte
 - Đồng bộ ngưỡng thuế: 4 mục dịch vụ (giặt sấy, homestay, spa, dạy thêm) còn dùng ngưỡng 500 triệu theo bản gốc NĐ 68/2026. Đã sửa thành 1 tỷ theo NĐ 141/2026, có thêm nguồn.
 - Mục tạp hóa còn dẫn NĐ 70/2025 về hóa đơn. Đã đổi sang NĐ 254/2026, văn bản thay thế từ 1/7/2026.
 
+## Vòng 3 (01/11/2026): nấc quy mô và tập đoàn
+
+- Báo cáo kết quả kinh doanh của Nintendo (nintendo.co.jp/ir/pdf/…) là PDF mã hóa AES, cần thư viện `cryptography` mới đọc được. Người điều phối đã đối chiếu nguồn 1 của mục Nintendo: "overall sales of 2,313.0 billion yen … operating profit of 360.1 billion yen". Kết quả: có.
+- Tên gốc của FPT năm 1988 là "Công ty Công nghệ Thực phẩm" (Food Processing Technology Company), không phải "Công nghệ Chế biến Thực phẩm". Đã đối chiếu thêm qua tìm kiếm.
+- Các trang chặn truy cập tự động ở vòng này gồm sec.gov, tcs.com và justice.gov. Nhóm nghiên cứu đọc các trang này qua bản lưu hoặc trích đoạn, xem notes.md của từng nhóm.
+
 ## Nguồn hạ mức
 
 - Mục 1.3, các nguồn trỏ tới `affiliate.shopee.vn`: câu chữ lấy từ mã giao diện trang sau đăng nhập, không phải văn bản chính sách công khai. Hạ từ A xuống B, đánh dấu `verified: "ui"`, bỏ các biến giữ chỗ kiểu `{total}` trong câu trích.

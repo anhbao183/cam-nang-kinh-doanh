@@ -1,0 +1,383 @@
+[
+  {
+    "id": "viettel",
+    "kind": "case",
+    "section": "7",
+    "title": "Viettel: từ đơn vị viễn thông quân đội thành nhà mạng số 1 ở 7 nước, nhưng mất quyền kiểm soát ở Cameroon",
+    "summary": "Doanh nghiệp quốc phòng, an ninh 100% vốn nhà nước thuộc Bộ Quốc phòng. Năm 2025 Viettel công bố doanh thu hợp nhất 220,4 nghìn tỷ đồng, lãi trước thuế 56,8 nghìn tỷ, nộp ngân sách 40,9 nghìn tỷ; không có BCTC công khai để đối chiếu. Đáng học: vào chỗ đối thủ lớn bỏ trống bằng giá rẻ và phủ sóng rộng. Đáng tránh: góp 70% vốn ở Cameroon mà vẫn mất quyền xem sổ sách suốt 7 năm.",
+    "tags": {
+      "reach": "multi",
+      "age": "young",
+      "outcome": "rising",
+      "owner": "state",
+      "evidence": "C"
+    },
+    "facts": {
+      "founded": "1989",
+      "revenue": "220,4 nghìn tỷ đ DT hợp nhất (2025)",
+      "profit": "LNTT 56,8 nghìn tỷ đ (2025)",
+      "people": "40.590 lao động bình quân (2021)",
+      "text": "Số năm 2025 do Viettel công bố tại hội nghị tổng kết ngày 9/1/2026, báo chí đưa tin; Viettel không đăng BCTC hợp nhất ra công chúng. Từ năm 2022 Viettel là doanh nghiệp quốc phòng, an ninh (QĐ 13/QĐ-TTg) nên chỉ công bố vài chỉ tiêu tổng hợp theo văn bản 2820/BQP-KTe. Số lao động mới nhất tìm được là bình quân hợp nhất năm 2021: 40.590 người, lương bình quân 24,14 triệu đồng/tháng. Để so sánh, năm 2021 Viettel công bố tổng doanh thu hợp nhất 149.494 tỷ, LNTT 36.908 tỷ, LNST 28.978 tỷ, nộp ngân sách 31.690 tỷ. Báo chí ghi mức tăng LNTT 2025 lệch nhau (gần 5% hoặc khoảng 10%); chưa đối chiếu được.",
+      "grade": "C",
+      "refs": [2, 3, 4, 15]
+    },
+    "engine": {
+      "text": "Tiền chủ yếu từ viễn thông và dịch vụ số trong nước. Phần nước ngoài đi qua Viettel Global (VGI, niêm yết UPCoM) ở 10 nước; riêng Bitel (Peru) do Viettel nắm trực tiếp và không hợp nhất vào VGI vì quy định của Peru. Mảng công nghiệp quốc phòng, công nghệ cao bán vũ khí, thiết bị cho Bộ Quốc phòng; năm 2025 Viettel nói đã sản xuất hàng loạt nhiều loại vũ khí trọng điểm, nhưng không công bố doanh thu mảng này. Theo báo chí, Viettel được giữ lại tới 30% lợi nhuận sau thuế để chi cho nghiên cứu, phát triển. Cơ cấu doanh thu theo mảng: Chưa có số liệu đáng tin.",
+      "segments": [
+        { "item": "Doanh thu ở 10 thị trường nước ngoài (do Viettel Global quản lý)", "value": "≈ 3,3 tỷ USD, tăng gần 24% (2025)", "grade": "C", "refs": [4, 3] },
+        { "item": "Viettel Global (VGI), BCTC hợp nhất đã kiểm toán", "value": "DT thuần 44.271 tỷ; LNST 11.250 tỷ (2025)", "grade": "C", "refs": [7, 9] },
+        { "item": "Công nghiệp quốc phòng, công nghệ cao", "value": "Chưa có số liệu đáng tin", "grade": "C", "refs": [3] }
+      ],
+      "refs": [1, 3, 4, 5, 6, 7, 14]
+    },
+    "moat": {
+      "text": "Ba lợi thế có bằng chứng. Một, đi trước bằng giá và độ phủ: dịch vụ gọi đường dài 178 công nghệ VoIP (2000) rẻ hơn nhiều so với cước cũ; mạng di động 098 khai trương 15/10/2004, chưa đầy một năm đạt 1 triệu thuê bao. Hai, ở nước ngoài chọn nước nghèo, ít đối thủ và phủ sóng vùng nông thôn: đến 2025 Viettel là nhà mạng lớn nhất ở 7/10 nước (Lào, Campuchia, Myanmar, Đông Timor, Burundi, Haiti, Mozambique). Ba, tự làm nhiều thiết bị và phần mềm lõi (tính cước thời gian thực, trạm 4G), theo công ty tự công bố. Ngoài ra là lợi thế thể chế: doanh nghiệp quân đội, được giữ lại phần lớn lợi nhuận cho nghiên cứu; doanh nghiệp tư nhân không sao chép được điểm này.",
+      "refs": [3, 4, 5, 14]
+    },
+    "timeline": [
+      { "year": "1989", "event": "1/6/1989 thành lập Tổng Công ty Điện tử thiết bị thông tin thuộc Bộ Tư lệnh Thông tin liên lạc. 1995 đổi tên thành Công ty Điện tử – Viễn thông Quân đội.", "refs": [1] },
+      { "year": "2000", "event": "Khai trương dịch vụ điện thoại đường dài 178 công nghệ VoIP, cạnh tranh trực tiếp với cước đường dài của VNPT.", "refs": [1, 5] },
+      { "year": "2004", "event": "15/10/2004 khai trương mạng di động 098; chưa đầy một năm đạt 1 triệu thuê bao.", "refs": [5] },
+      { "year": "2009", "event": "Lập Tập đoàn Viễn thông Quân đội (QĐ 2079/QĐ-TTg ngày 14/12/2009). Cùng năm khai trương hai mạng di động đầu tiên ở nước ngoài: Metfone (Campuchia) và Unitel (Lào).", "refs": [1] },
+      { "year": "2011–2018", "event": "Mở mạng ở Haiti, Mozambique, Đông Timor, Peru, Cameroon, Burundi, Tanzania và Myanmar (Mytel, 6/2018). Giữa năm 2018 Viettel nói 8/10 thị trường có lãi; Tanzania và Myanmar còn trong giai đoạn lỗ theo kế hoạch.", "refs": [1, 6] },
+      { "year": "2018", "event": "NĐ 05/2018/NĐ-CP ban hành điều lệ Tập đoàn Công nghiệp – Viễn thông Quân đội, đưa công nghiệp quốc phòng thành một trụ cột.", "refs": [1] },
+      { "year": "2022", "event": "Được công nhận là doanh nghiệp quốc phòng, an ninh (QĐ 13/QĐ-TTg ngày 28/2/2022); phạm vi công bố thông tin thu hẹp.", "refs": [2] },
+      { "year": "2025", "event": "Doanh thu 220,4 nghìn tỷ (+13,8%); doanh thu nước ngoài tăng 23,9%, mức cao nhất 9 năm; công bố sản xuất hàng loạt nhiều loại vũ khí trọng điểm cho Bộ Quốc phòng.", "refs": [3] }
+    ],
+    "crises": [
+      {
+        "title": "Cameroon: góp 70% vốn nhưng mất quyền kiểm soát từ 2018",
+        "text": "Viettel (70%) và Bestinver của tỷ phú Baba Danpullo (30%) lập mạng Nexttel, khai trương 2014, có khoảng 4,5 triệu thuê bao năm 2017; Viettel đã bỏ vào gần 201 tỷ franc CFA. Từ 2018 hai bên tranh chấp quyền điều hành, kiện ở tòa Cameroon, trọng tài Singapore và tòa OHADA. Thuê bao giảm còn khoảng 2,8 triệu (2021), nợ khoảng 60 tỷ CFA; 5/2023 bị phạt 1,6 tỷ CFA vì chất lượng mạng. Năm 2023 báo chí châu Phi đưa tin Viettel đã rời Nexttel. Kiểm toán BCTC Viettel Global xác nhận không thu thập được số liệu của Viettel Cameroon từ 1/11/2018 đến 31/12/2025, không hợp nhất; ý kiến ngoại trừ 3 năm liền khiến HNX giữ cổ phiếu VGI trong diện cảnh báo (18/3/2026). Đến 8/2026 Viettel vẫn gửi thư cho Tổng thống Cameroon khẳng định sở hữu 70%; giấy phép Nexttel hết hạn 12/2027. Chưa có phán quyết cuối cùng.",
+        "refs": [7, 8, 10, 11]
+      },
+      {
+        "title": "Myanmar: đối tác là tập đoàn quân đội, Mytel bị Mỹ đưa vào danh sách hạn chế",
+        "text": "Mytel là liên doanh giữa Viettel và công ty thuộc tập đoàn kinh tế quân đội Myanmar, khai trương 6/2018 và năm đó còn lỗ theo kế hoạch. Sau đảo chính 2021, ngày 6/1/2025 Bộ Thương mại Mỹ (BIS) đưa Telecom International Myanmar (Mytel) vào Entity List: muốn mua hàng, công nghệ có nguồn gốc Mỹ phải xin giấy phép. Năm 2025 lãi riêng của công ty mẹ VGI tăng 212% chủ yếu nhờ giảm mạnh chi phí dự phòng và tăng cổ tức, trong bối cảnh các đơn vị liên kết, đặc biệt ở Myanmar, trả nợ nhiều hơn. Suy luận của tác giả: các khoản phải thu ở Myanmar từng phải trích lập dự phòng lớn; quy mô cụ thể chưa có số liệu đáng tin từ nguồn đã mở được.",
+        "refs": [6, 7, 12, 13]
+      }
+    ],
+    "lessons": [
+      {
+        "title": "Vào chỗ đối thủ lớn bỏ trống, với giá rẻ hơn hẳn",
+        "text": "Viettel bắt đầu bằng cước đường dài VoIP rẻ hơn cước cũ, rồi di động phủ rộng; ở nước ngoài, Viettel đứng số 1 chủ yếu ở các nước nghèo, và ở Cameroon cũng giành khách nhờ phủ sóng vùng hai nhà mạng lớn phục vụ kém. Với cửa hàng nhỏ: tìm khu vực, khung giờ hoặc nhóm khách mà chuỗi lớn không phục vụ, đặt giá thấp hơn rõ rệt nhưng vẫn phải tính đủ chi phí để không bán lỗ kéo dài.",
+        "refs": [3, 5, 10]
+      },
+      {
+        "title": "Hùn vốn thì phải giữ quyền xem sổ và đường rút",
+        "text": "Nắm 70% nhưng Viettel không xem được số liệu của công ty con ở Cameroon suốt 7 năm, tiền đã bỏ vào bị kẹt trong tranh chấp. Khi hùn vốn mở quán hay xưởng, ghi rõ trong thỏa thuận: quyền xem sổ sách và tài khoản ngân hàng hằng tháng, ai được ký chi, cách định giá và mua lại phần vốn khi bất đồng, nơi giải quyết tranh chấp.",
+        "refs": [8, 10]
+      },
+      {
+        "title": "Mở chi nhánh xa thì tính hoàn vốn bằng năm",
+        "text": "Năm 2018 Viettel nói đặt mục tiêu mỗi thị trường mới có lãi sau 3 năm; nhưng đến cuối 2025, hơn 16 năm sau khi mở mạng di động đầu tiên ở nước ngoài (2009), tỷ lệ thu hồi vốn toàn bộ các dự án của Viettel Global mới đạt 91% (86% cuối 2024). Mở cơ sở mới ở nơi xa, hãy chắc rằng cơ sở cũ đủ tiền nuôi nhiều năm và đặt trước mức lỗ tối đa chấp nhận được.",
+        "refs": [1, 6, 9]
+      }
+    ],
+    "weak": {
+      "text": "Thiếu minh bạch: tập đoàn chỉ công bố vài chỉ tiêu tổng hợp; công ty con niêm yết VGI bị kiểm toán ngoại trừ 3 năm liền vì Cameroon và nằm trong diện cảnh báo của HNX từ 3/2026. Rủi ro chính trị và trừng phạt: Mytel nằm trong Entity List của Mỹ từ 1/2025; ở Cameroon, tài sản 70% vẫn trong tranh chấp và giấy phép hết hạn 12/2027. Số liệu nước ngoài khó đối chiếu: báo chí ghi Viettel Global có doanh thu khoảng 3,3 tỷ USD, trong khi doanh thu thuần hợp nhất đã kiểm toán của VGI là 44.271 tỷ đồng (khoảng 1,76 tỷ USD theo tỷ giá 25.121 đồng/USD). Suy luận của tác giả: con số 3,3 tỷ USD có thể gồm cả các thị trường không hợp nhất như Peru, Myanmar; chưa có nguồn xác nhận.",
+      "refs": [4, 7, 8, 10, 12, 13]
+    },
+    "notes": "Viettel không công bố BCTC hợp nhất; số 2025 là số công bố tại hội nghị, báo chí đưa lại (mức C). Lợi nhuận từng thị trường nước ngoài năm 2025: Chưa có số liệu đáng tin; nguồn công khai gần nhất có phân loại lãi/lỗ là phát biểu giữa năm 2018 (8/10 có lãi). Peru (Bitel) không nằm trong số hợp nhất của VGI.",
+    "sources": [
+      { "id": 1, "org": "Tập đoàn Công nghiệp – Viễn thông Quân đội (Viettel)", "year": 2020, "title": "Công bố thông tin hoạt động sản xuất kinh doanh năm 2019 (bản lưu trên Vietstock)", "quote": "Thành lập Tổng Công ty Điện tử thiết bị thông tin trực thuộc Bộ Tư lệnh Thông tin liên lạc, Bộ Quốc phòng.", "url": "https://static2.vietstock.vn/data/OTC/2019/BCTN/VN/Viettel_Baocaothuongnien_2019.pdf", "type": "report", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 2, "org": "Tập đoàn Công nghiệp – Viễn thông Quân đội (Viettel)", "year": 2022, "title": "Công bố thông tin hoạt động sản xuất kinh doanh năm 2021 (bản lưu trên Vietstock)", "quote": "Hiện nay, Viettel đã được công nhận là doanh nghiệp quốc phòng, an ninh theo Quyết định số 13/QĐ-TTg của Thủ tướng Chính phủ ngày 28/2/2022.", "url": "https://static2.vietstock.vn/data/OTC/2021/BCTN/VN/Viettel_Baocaothuongnien_2021.pdf", "type": "report", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 3, "org": "VnEconomy", "year": 2026, "title": "Viettel nộp 40,9 nghìn tỷ đồng vào ngân sách Nhà nước năm 2025", "quote": "Kết thúc năm 2025, doanh thu hợp nhất của Viettel đạt 220,4 nghìn tỷ đồng, tăng trưởng 13,8%, đóng góp vào mục tiêu tăng trưởng GDP cao của Việt Nam.", "url": "https://vneconomy.vn/viettel-nop-409-nghin-ty-dong-vao-ngan-sach-nha-nuoc-nam-2025.htm", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 4, "org": "Báo Pháp luật Việt Nam (Doanh nhân)", "year": 2026, "title": "Viettel báo lãi gần 57.000 tỷ đồng năm 2025: Doanh thu quốc tế đạt kỷ lục 3,3 tỷ USD, hạ tầng 5G phủ rộng", "quote": "Viettel Global - đơn vị phụ trách hoạt động đầu tư tại 10 thị trường quốc tế - ghi nhận doanh thu đạt khoảng 3,3 tỷ USD, tăng gần 24% so với năm trước", "url": "https://doanhnhan.baophapluat.vn/viettel-bao-lai-gan-57-000-ty-dong-nam-2025-doanh-thu-quoc-te-dat-ky-luc-3-3-ty-usd-ha-tang-5g-phu-rong.html", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 5, "org": "Báo Pháp Luật TP.HCM (PLO)", "year": 2019, "title": "Viettel: 30 năm lịch sử", "quote": "Ngày 15-10-2004, Viettel chính thức khai trương mạng di động, với đầu số 098.", "url": "https://plo.vn/viettel-30-nam-lich-su-post527212.html", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 6, "org": "Báo Đầu tư", "year": 2018, "title": "8/10 thị trường quốc tế của Viettel đã kinh doanh có lãi", "quote": "Hai thị trường còn lỗ kế hoạch là Tanzania (mới kinh doanh 2 năm) và Myanmar (khai trương hôm 9/6/2018).", "url": "https://baodautu.vn/810-thi-truong-quoc-te-cua-viettel-da-kinh-doanh-co-lai-d84356.html", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 7, "org": "Bloomberg Businessweek Việt Nam (BBW)", "year": 2026, "title": "Viettel Global báo lãi năm 2025 tăng 57%", "quote": "báo cáo tài chính sau kiểm toán ghi nhận ý kiến ngoại trừ do chưa hợp nhất số liệu của Viettel Cameroon.", "url": "https://bbw.vn/viettel-global-bao-lai-tang-57-nam-2025-56990.html", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 8, "org": "Báo Pháp luật Việt Nam (Doanh nhân)", "year": 2026, "title": "Trước thềm ĐHĐCĐ 2026: Viettel Global (VGI) lên kế hoạch doanh thu kỷ lục, cổ tức 33% nhưng vẫn chìm trong 'án' cảnh báo vì 'điểm mù' Cameroon", "quote": "từ ngày 01/11/2018 đến ngày 31/12/2025, Viettel Global hoàn toàn \"mất liên lạc\" với các số liệu tài chính của VCR.", "url": "https://doanhnhan.baophapluat.vn/truoc-them-dhdcd-2026-viettel-global-vgi-len-ke-hoach-doanh-thu-ky-luc-co-tuc-33-nhung-van-chim-trong-an-canh-bao-vi-diem-mu-cameroon.html", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 9, "org": "VietnamFinance", "year": 2026, "title": "Viettel Global đặt mục tiêu doanh thu 50.000 tỷ đồng năm 2026", "quote": "Kết quả kinh doanh tốt giúp tỷ lệ thu hồi vốn toàn bộ dự án đạt 91% (hết năm 2024 đạt 86%).", "url": "https://vietnamfinance.vn/viettel-global-dat-muc-tieu-doanh-thu-50000-ty-dong-nam-2026-d143882.html", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 10, "org": "Billionaires.Africa", "year": 2026, "title": "Viettel asks Paul Biya to protect its 70% Nexttel stake", "quote": "Viettel held 70% and Bestinver held 30%.", "url": "https://www.billionaires.africa/2026/10/02/cameroonian-billionaire-baba-danpullo-at-war-with-vietnams-viettel-over-nexttel/", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 11, "org": "ITWeb Africa", "year": 2023, "title": "Cameroon’s Nexttel searching for new investors", "quote": "Nexttel Cameroon is searching for new ‘strategic partners’ after its international investor Viettel exited the business.", "url": "https://itweb.africa/content/lLn14MmQaXpMJ6Aa", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 12, "org": "U.S. Department of Commerce, Bureau of Industry and Security (Federal Register)", "year": 2025, "title": "Revisions to the Entity List, FR Doc. 2024-31468, công bố ngày 6/1/2025", "quote": "These entries are listed on the Entity List under the destinations of Burma (1), China, People's Republic of (China) (11), and Pakistan (1).", "url": "https://www.federalregister.gov/documents/2025/01/06/2024-31468/revisions-to-the-entity-list", "type": "law", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 13, "org": "US-ASEAN Business Council", "year": 2025, "title": "U.S. Department of Commerce Adds Mytel to BIS Entities List", "quote": "On January 6, the United States Department of Commerce’s Bureau of Industry and Security (BIS) imposed restrictions on Telecom International Myanmar Company Limited (MyTel)", "url": "https://www.usasean.org/article/us-department-commerce-adds-mytel-bis-entities-list", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 14, "org": "VietnamFinance", "year": 2025, "title": "Viettel lấy tiền ở đâu để làm vũ khí?", "quote": "Viettel được trích tới 30% lợi nhuận sau thuế để tái đầu tư cho R&D, đặc biệt trong các lĩnh vực công nghệ lõi và quốc phòng.", "url": "https://vietnamfinance.vn/viettel-lay-tien-o-dau-de-lam-vu-khi-d132570.html", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 15, "org": "Mekong ASEAN", "year": 2026, "title": "Năm 2025 Viettel đạt doanh thu kỷ lục hơn 220.000 tỷ đồng", "quote": "Lợi nhuận trước thuế đạt 56.800 tỷ đồng, tăng khoảng 10% YoY, đồng thời đánh dấu năm thứ hai liên tiếp Viettel đạt lợi nhuận trên 50.000 tỷ đồng.", "url": "https://mekongasean.vn/nam-2025-viettel-dat-doanh-thu-ky-luc-hon-220000-ty-dong-50652.html", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" }
+    ]
+  },
+  {
+    "id": "petrovietnam",
+    "kind": "case",
+    "section": "7",
+    "title": "Petrovietnam: cỗ máy dầu khí nộp khoảng 9% ngân sách, vẫn mang theo các dự án ngoài ngành thua lỗ",
+    "summary": "Tập đoàn 100% vốn nhà nước, từ 9/4/2025 đổi tên thành Tập đoàn Công nghiệp – Năng lượng Quốc gia Việt Nam (QĐ 733/QĐ-TTg), vẫn giữ tên giao dịch Petrovietnam (PVN). Năm 2025 doanh thu thuần hợp nhất 632.209 tỷ đồng, LNST 52.379 tỷ, toàn tập đoàn nộp ngân sách khoảng 165,9 nghìn tỷ. Bài học lớn nhất: các khoản đầu tư ngoài thế mạnh (ngân hàng, xơ sợi, ethanol, đóng tàu) bắt đầu từ cuối những năm 2000 vẫn còn nằm trong ý kiến ngoại trừ của kiểm toán năm 2025.",
+    "tags": {
+      "reach": "multi",
+      "age": "old",
+      "outcome": "survived",
+      "owner": "state",
+      "evidence": "B"
+    },
+    "facts": {
+      "founded": "1975",
+      "revenue": "632.209 tỷ đ DT thuần hợp nhất (2025)",
+      "profit": "LNST hợp nhất 52.379 tỷ đ (2025)",
+      "people": "53.749 lao động (2025)",
+      "text": "Doanh thu thuần 632.209 tỷ, LNTT 66.602 tỷ (+29%), LNST 52.379 tỷ (+39%) lấy từ BCTC hợp nhất 2025 đã kiểm toán do báo chí trích; PVN chưa đăng bản này lên trang công bố thông tin (bản mới nhất trên trang là BCTC riêng giữa niên độ 2024). LNTT và LNST trùng với Báo cáo Phát triển bền vững 2025 của PVN. Báo cáo này còn ghi 'doanh thu hợp nhất' 665,1 nghìn tỷ (cách tính rộng hơn doanh thu thuần) và 'doanh thu toàn tập đoàn chưa hợp nhất' 1.105,2 nghìn tỷ; con số sau hay được báo chí dẫn nhưng cộng trùng doanh thu giữa các đơn vị. Nộp ngân sách 165,9 nghìn tỷ là số chưa hợp nhất, phần hợp nhất 90,991 nghìn tỷ. Lao động 53.749 người gồm PVN và các đơn vị thành viên.",
+      "grade": "B",
+      "refs": [1, 2]
+    },
+    "engine": {
+      "text": "Chuỗi giá trị dầu khí gần như khép kín, mỗi khâu là một công ty con: khai thác (PVEP 100%, Vietsovpetro 51%), khí (PV GAS 95,76%), điện (PV Power 79,94%), lọc hóa dầu (BSR – Dung Quất 92,13%; Nghi Sơn 25,1%), phân phối xăng dầu (PV OIL 80,52%), phân bón (Đạm Phú Mỹ 59,58%, Đạm Cà Mau 75,56%), dịch vụ kỹ thuật (PTSC 51,38%, PV Drilling 50,4%, PVTrans 51%), cùng ngân hàng PVcomBank (52%). Petrolimex (PLX) không thuộc PVN: cuối 2025 cổ đông nhà nước nắm 75,87% PLX qua kênh khác. Khâu khai thác và khí bán theo giá dầu thế giới; lọc dầu dao động mạnh theo chênh lệch giá dầu thô và xăng dầu (BSR lãi trước thuế 736 tỷ năm 2024, ước 4.700 tỷ năm 2025). PVN không công bố công khai cơ cấu doanh thu hợp nhất theo mảng; các dòng dưới đây là sản lượng hoặc doanh thu riêng của từng đơn vị, không cộng lại được.",
+      "segments": [
+        { "item": "Khai thác dầu thô và khí", "value": "9,98 triệu tấn dầu; 5,94 tỷ m³ khí (2025)", "grade": "A", "refs": [1] },
+        { "item": "Điện (PV Power và các nhà máy của PVN)", "value": "31,33 tỷ kWh, ≈ 9% điện quốc gia (2025)", "grade": "A", "refs": [1] },
+        { "item": "Lọc dầu BSR (Dung Quất), số ước", "value": "DT ≈ 142.298 tỷ; LNTT ≈ 4.700 tỷ (2025)", "grade": "C", "refs": [3] },
+        { "item": "Khí PV GAS, số ước", "value": "DT ≈ 134.000 tỷ; LNTT ≈ 14.500 tỷ (2025)", "grade": "C", "refs": [3] },
+        { "item": "Dịch vụ kỹ thuật (11 đơn vị)", "value": "DT 155,5 nghìn tỷ, +34% (2025)", "grade": "A", "refs": [1] },
+        { "item": "Doanh thu quốc tế", "value": "144,7 nghìn tỷ, 22% DT hợp nhất (2025)", "grade": "A", "refs": [1] }
+      ],
+      "refs": [1, 3, 11]
+    },
+    "moat": {
+      "text": "Lợi thế đến từ vị thế nhà nước giao chứ không phải từ cạnh tranh: PVN nắm hạ tầng khó xây lại (đường ống khí, nhà máy lọc dầu, nhiệt điện khí, đội giàn khoan và tàu dịch vụ), sở hữu cổ phần chi phối ở hầu hết khâu trong chuỗi, và theo PVN tự công bố có quan hệ với hơn 50 đối tác dầu khí quốc tế (Petronas, ExxonMobil, Chevron, TotalEnergies...). Quy mô tài sản 1.178,2 nghìn tỷ đồng, vốn chủ sở hữu 594 nghìn tỷ. Mặt trái của vị thế này là các quyết định đầu tư ngoài ngành trước đây không bị thị trường sàng lọc.",
+      "refs": [1]
+    },
+    "timeline": [
+      { "year": "1975", "event": "3/9/1975 thành lập Tổng cục Dầu khí Việt Nam.", "refs": [1] },
+      { "year": "1981–1986", "event": "Thành lập liên doanh Vietsovpetro (1981); khai thác dòng dầu thương mại đầu tiên từ mỏ Bạch Hổ (1986).", "refs": [1] },
+      { "year": "2006", "event": "Hoạt động theo mô hình Tập đoàn Dầu khí Quốc gia Việt Nam.", "refs": [1] },
+      { "year": "2007–2009", "event": "Quyết định chủ trương 3 dự án ethanol ở Phú Thọ, Quảng Ngãi, Bình Phước, vốn cổ đông 30%, vay thương mại 70%; cùng thời kỳ đầu tư xơ sợi Đình Vũ (khoảng 7.000 tỷ) và góp 800 tỷ vào OceanBank.", "refs": [4, 6] },
+      { "year": "2009", "event": "Nhà máy lọc dầu Dung Quất vận hành.", "refs": [1] },
+      { "year": "2015", "event": "Các dự án ngoài ngành đổ vỡ: Ethanol Dung Quất dừng 4/2015, Xơ sợi Đình Vũ dừng 17/9/2015; Ethanol Phú Thọ đã dừng thi công từ 11/2011.", "refs": [5, 6, 7] },
+      { "year": "2025", "event": "9/4/2025 đổi tên thành Tập đoàn Công nghiệp – Năng lượng Quốc gia Việt Nam (QĐ 733/QĐ-TTg). 22/8/2025 trao thỏa thuận phát triển chung một dự án điện gió ngoài khơi 1–2 GW với quỹ của Copenhagen Infrastructure Partners (Đan Mạch).", "refs": [1, 10, 12] },
+      { "year": "2026", "event": "BCTC hợp nhất 2025 công bố với 3 ý kiến ngoại trừ: PVcomBank, VNPoly và PetroCons, Công ty Đóng tàu và Cơ khí Dầu khí (PVSM).", "refs": [2] }
+    ],
+    "crises": [
+      {
+        "title": "Đầu tư ngoài ngành: ngân hàng, xơ sợi, ethanol (2007–2015)",
+        "text": "PVN góp 800 tỷ vào OceanBank; tòa xác định PVN thiệt hại 800 tỷ, cựu Chủ tịch Đinh La Thăng bị tuyên 18 năm tù và bồi thường 600 tỷ (phúc thẩm 2018). Nhà máy Xơ sợi Đình Vũ (PVTex) vốn khoảng 7.000 tỷ, chạy thương mại 5/2014, dừng 17/9/2015, lỗ lũy kế 4.748 tỷ cuối 2018. Ba dự án ethanol (Phú Thọ, Dung Quất, Bình Phước) có tổng mức đầu tư tăng từ hơn 4.300 tỷ lên gần 5.400 tỷ, vốn 30% cổ đông và 70% vay; Ethanol Dung Quất (2.219 tỷ) chạy từ 2014 rồi dừng 4/2015; vụ Ethanol Phú Thọ gây thiệt hại hơn 543 tỷ tiền lãi vay, tòa sơ thẩm tuyên án năm 2021. Đến 2026, khi Chính phủ đẩy nhanh chuyển sang xăng E10, nhà máy Ethanol Dung Quất mới chạy lại, khoảng 6.000 m³/tháng.",
+        "refs": [4, 5, 6, 7, 8, 9]
+      },
+      {
+        "title": "Di sản vẫn nằm trong BCTC 2025",
+        "text": "Kiểm toán đưa 3 ý kiến ngoại trừ vào BCTC hợp nhất 2025 của PVN: PVcomBank (tổng tài sản 263.437 tỷ) đang áp dụng chính sách đặc thù theo phương án cơ cấu lại gắn với xử lý nợ xấu; VNPoly và PetroCons khó khăn tài chính, chưa đủ bằng chứng về giá trị tài sản; PVSM đang thực hiện phương án tái cơ cấu giai đoạn 2026–2040. Năm 2025 PVN trích dự phòng phải thu khó đòi 7.167 tỷ; thu nhập khác 8.690 tỷ, trong đó 2.711 tỷ là PVcomBank thu hồi nợ đã xóa sổ.",
+        "refs": [2, 13]
+      }
+    ],
+    "lessons": [
+      {
+        "title": "Có tiền dư từ việc chính không phải lý do làm việc mình không rành",
+        "text": "Đang lãi lớn từ dầu khí, PVN rót vốn vào ngân hàng, xơ sợi, ethanol, đóng tàu; nhiều khoản mất trắng hoặc treo hơn 10 năm. Chủ hộ đang có lãi từ quán chính nên thử ngành mới ở quy mô nhỏ, đặt trần số vốn rót vào, và hỏi trước: mình có lợi thế gì ở ngành đó ngoài việc có tiền?",
+        "refs": [2, 4, 6]
+      },
+      {
+        "title": "Vay 70% cho tài sản chỉ dùng được một việc thì không có đường lùi",
+        "text": "Ba dự án ethanol dùng 70% vốn vay và đội vốn khoảng 25%; khi giá thành cao hơn giá bán, nhà máy đắp chiếu nhưng lãi vay vẫn chạy (riêng Phú Thọ hơn 543 tỷ tiền lãi). Trước khi vay để mua máy móc chuyên dụng hay xây xưởng, hãy tính kịch bản giá bán thấp hơn giá vốn trong 1–2 năm: tiền ở đâu để trả lãi?",
+        "refs": [6, 8]
+      },
+      {
+        "title": "Nguồn thu chính đang cạn thì chuẩn bị nguồn mới sớm",
+        "text": "Sản lượng dầu trong nước của PVN giảm 11 năm liền, đến 2025 mới tăng lại 0,8%; trong khi điện gió ngoài khơi vẫn ở giai đoạn nghiên cứu, khảo sát. Phần năng lượng mới đang có doanh thu thật là dịch vụ: PTSC chế tạo chân đế điện gió cho dự án ở Đài Loan, Ba Lan. Nếu doanh thu của bạn dựa vào một nguồn đang co lại (một mặt bằng sắp hết hợp đồng, một khách sỉ, một sàn), hãy dùng kỹ năng sẵn có để bán sang chỗ mới trước khi nguồn cũ hết.",
+        "refs": [1]
+      }
+    ],
+    "weak": {
+      "text": "Tài nguyên trong nước suy giảm: sản lượng dầu chỉ vừa ngừng giảm sau 11 năm. Năng lượng tái tạo chưa thành nguồn thu: điện gió ngoài khơi trong nước mới ở mức thỏa thuận phát triển chung với CIP. Chất lượng tài sản: 3 ý kiến ngoại trừ của kiểm toán, khoản đầu tư 3.900 tỷ của công ty mẹ vào PVcomBank vẫn theo chính sách đặc thù, dự án Nhiệt điện Long Phú 1 tiếp tục bị kiểm toán lưu ý. Lợi nhuận phụ thuộc giá dầu và biên lọc dầu; năm 2025 có phần đóng góp từ thu nhập khác.",
+      "refs": [1, 2, 10, 13]
+    },
+    "notes": "Đã đổi tên: Quyết định 733/QĐ-TTg ngày 9/4/2025. Doanh thu theo mảng của BCTC hợp nhất không tìm được nguồn công khai; chỉ có sản lượng và doanh thu riêng một số đơn vị. GAS, BSR, PVS, PVD, POW, OIL, DPM, DCM là công ty con niêm yết của PVN; PLX (Petrolimex) không phải.",
+    "sources": [
+      { "id": 1, "org": "Tập đoàn Công nghiệp – Năng lượng Quốc gia Việt Nam (Petrovietnam)", "year": 2026, "title": "Báo cáo Phát triển bền vững thường niên năm 2025", "quote": "Thủ tướng Chính phủ ban hành Quyết định 733/QĐ-TTg đổi tên thành Tập đoàn Công nghiệp - Năng lượng Quốc gia Việt Nam", "url": "https://petrovietnam.vn/DataStore/2026/files/pdf/BCPTBV%20PVN%202025%20VN.pdf", "type": "report", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 2, "org": "Báo Pháp luật Việt Nam (Doanh nhân)", "year": 2026, "title": "Lãi ròng Petrovietnam (PVN) vượt 52.000 tỷ đồng năm 2025", "quote": "Báo cáo tài chính hợp nhất kiểm toán năm 2025 của Tập đoàn Công nghiệp - Năng lượng Quốc gia Việt Nam (Petrovietnam) cho thấy doanh thu thuần về bán hàng và cung cấp dịch vụ đạt 632.209 tỷ đồng.", "url": "https://doanhnhan.baophapluat.vn/lai-rong-petrovietnam-pvn-vuot-52-000-ty-dong-nam-2025.html", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 3, "org": "Nhà đầu tư", "year": 2026, "title": "Loạt doanh nghiệp dầu khí báo lãi kỷ lục trong năm 2025", "quote": "doanh thu ước đạt 142.298 tỷ đồng; lợi nhuận trước thuế 4.700 tỷ đồng, gấp hơn 6 lần so với mức 736 tỷ đồng của năm 2024.", "url": "https://nhadautu.vn/loat-doanh-nghiep-dau-khi-bao-lai-ky-luc-trong-nam-2025-d102040.html", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 4, "org": "Sài Gòn Giải Phóng", "year": 2018, "title": "Vụ án PVN thiệt hại 800 tỷ đồng ở OceanBank: Nghị án kéo dài vì tính chất phức tạp", "quote": "làm thiệt hại 800 tỷ đồng của PVN góp vốn đầu tư vào Ngân hàng Thương mại cổ phần Đại Dương (OceanBank)", "url": "https://www.sggp.org.vn/vu-an-pvn-thiet-hai-800-ty-dong-o-oceanbank-nghi-an-keo-dai-vi-tinh-chat-phuc-tap-post471390.html", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 5, "org": "Báo Đầu tư", "year": 2019, "title": "Tình hình kinh doanh của PVTex", "quote": "Cuối năm 2017, PVTex lỗ lũy kế 4.039 tỷ đồng, đến cuối năm 2018 mức lỗ lũy kế đã lên 4.748 tỷ đồng.", "url": "https://baodautu.vn/tinh-hinh-kinh-doanh-cua-pvtex-d108198.html", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 6, "org": "Sài Gòn Giải Phóng", "year": 2016, "title": "Dự án PVTex thua lỗ, thất thoát lớn (dẫn kết luận của Thanh tra Chính phủ)", "quote": "Công suất mỗi nhà máy 100 triệu lít/năm, nguồn vốn do các cổ đông đóng góp 30%, vay tín dụng thương mại 70%.", "url": "https://www.sggp.org.vn/du-an-pvtex-thua-lo-that-thoat-lon-post360741.html", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 7, "org": "VietNamNet", "year": 2025, "title": "Once a green fuel hope, 87m ethanol plant now sits abandoned", "quote": "by April 2015, operations were halted due to persistent losses and weak market demand.", "url": "https://vietnamnet.vn/en/once-a-green-fuel-hope-87m-ethanol-plant-now-sits-abandoned-2422290.html", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 8, "org": "Báo Pháp luật Việt Nam", "year": 2021, "title": "Vụ Ethanol Phú Thọ: Đinh La Thăng lĩnh 11 năm tù, Trịnh Xuân Thanh 18 năm tù", "quote": "Điều này dẫn đến hậu quả dự án Ethanol dừng thi công, gây thiệt hại hơn 543 tỷ đồng cho PVB.", "url": "https://baophapluat.vn/vu-ethanol-phu-tho-dinh-la-thang-linh-11-nam-tu-trinh-xuan-thanh-18-nam-tu-post385248.html", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 9, "org": "VietnamPlus (TTXVN)", "year": 2026, "title": "Vietnam races to restart idle ethanol plants to meet surging demand", "quote": "the Dung Quat ethanol plant is producing around 6,000 cu.m a month", "url": "https://en.vietnamplus.vn/vietnam-races-to-restart-idle-ethanol-plants-to-meet-surging-demand-post339987.vnp", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 10, "org": "The Investor (Báo Đầu tư)", "year": 2025, "title": "Petrovietnam, Copenhagen Infrastructure Partners shake hands to develop offshore wind power in central Vietnam", "quote": "The two sides exchanged the Joint Development Agreement (JDA) on offshore wind power development last Friday.", "url": "https://theinvestor.vn/petrovietnam-copenhagen-infrastructure-partners-shake-hands-to-develop-offshore-wind-power-in-central-vietnam-d16798.html", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 11, "org": "Báo Pháp luật Việt Nam (Doanh nhân)", "year": 2026, "title": "Petrolimex (PLX) dự chi hơn 1.500 tỷ đồng để trả cổ tức năm 2025", "quote": "tại thời điểm cuối năm 2025, Petrolimex có hai cổ đông lớn là cổ đông nhà nước sở hữu 75,87% vốn điều lệ và Công ty TNHH Eneos Việt Nam sở hữu 13,08% vốn điều lệ", "url": "https://doanhnhan.baophapluat.vn/petrolimex-plx-du-chi-hon-1-500-ty-dong-de-tra-co-tuc-nam-2025.html", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 12, "org": "VnEconomy", "year": 2025, "title": "Tập đoàn Dầu khí Việt Nam đổi tên thành Tập đoàn Công nghiệp - Năng lượng Quốc gia Việt Nam", "quote": "Ngày 9/4/2025, Thủ tướng Chính phủ có quyết định chính thức đổi tên Tập đoàn Dầu khí Việt Nam thành Tập đoàn Công nghiệp – Năng lượng Quốc gia Việt Nam (Petrovietnam).", "url": "https://vneconomy.vn/tap-doan-dau-khi-viet-nam-doi-ten-thanh-tap-doan-cong-nghiep-nang-luong-quoc-gia-viet-nam.htm", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 13, "org": "VietnamFinance", "year": 2026, "title": "Petrovietnam có gần 15 tỷ USD đầu tư tài chính ngắn hạn", "quote": "Khoản đầu tư 3.900 tỷ đồng của công ty mẹ Petrovietnam tại PVcomBank cũng vẫn nằm trong diện theo dõi và áp dụng chính sách đặc thù", "url": "https://vietnamfinance.vn/petrovietnam-co-gan-15-ty-usd-dau-tu-tai-chinh-ngan-han-d146258.html", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" }
+    ]
+  },
+  {
+    "id": "vingroup",
+    "kind": "case",
+    "section": "7",
+    "title": "Vingroup: lãi bất động sản nuôi VinFast, và năm 2025 khoản lỗ xe điện đã lớn hơn khoản lãi nhà đất",
+    "summary": "Tập đoàn tư nhân do ông Phạm Nhật Vượng kiểm soát; ông và các công ty liên quan nắm 52,48% cổ phần cuối 2025. Năm 2025 doanh thu thuần 331.838 tỷ đồng, trong đó bất động sản 54% và sản xuất (chủ yếu VinFast) 27%; mảng bất động sản lãi trước thuế 66.789 tỷ còn mảng sản xuất lỗ 68.113 tỷ. Một mảng sinh tiền có thể nuôi mảng mới, nhưng khi khoản nuôi lớn hơn toàn bộ lãi thì cả tập đoàn sống nhờ bán được nhà và vay được tiền.",
+    "tags": {
+      "reach": "domestic",
+      "age": "young",
+      "outcome": "survived",
+      "owner": "founder",
+      "evidence": "A"
+    },
+    "facts": {
+      "founded": "1993 (Technocom, Ukraina)",
+      "revenue": "331.838 tỷ đ DT thuần (2025)",
+      "profit": "LNST hợp nhất 11.065 tỷ đ (2025)",
+      "people": "104.253 nhân sự (2025)",
+      "text": "Số từ BCTC hợp nhất 2025 đã kiểm toán, in trong Báo cáo thường niên 2025 của Vingroup (báo cáo tự lập quý 4 trước đó ghi 332.770 tỷ). LNTT 26.437 tỷ, nhưng lợi nhuận thuần từ hoạt động kinh doanh chỉ 7.937 tỷ (giảm 32%); phần còn lại là lợi nhuận khác 18.500 tỷ, gấp 3,6 lần năm 2024. Tổng tài sản 1.118.623 tỷ; nợ phải trả 967.134 tỷ, gồm cả tiền khách mua nhà trả trước; nợ vay và thuê tài chính 338.501 tỷ (+49%).",
+      "grade": "A",
+      "refs": [1]
+    },
+    "engine": {
+      "text": "Cỗ máy kiếm tiền là bán bất động sản (Vinhomes): bán lẻ căn hộ, biệt thự và bán lô lớn cả khu cho nhà đầu tư khác (năm 2025 có Vinhomes Global Gate, Vinhomes Green Paradise). Tiền đó cùng tiền vay nuôi VinFast, đang lỗ ngay từ khâu sản xuất: giá vốn mảng sản xuất 122.919 tỷ, cao hơn doanh thu 91.050 tỷ. Khách sạn, vui chơi (Vinpearl) và bệnh viện (Vinmec) còn lỗ nhẹ; giáo dục lãi nhỏ. Dù VinFast bán xe ở nhiều nước, 97% doanh thu thuần 2025 (321.721 tỷ) vẫn đến từ khách hàng ở Việt Nam. Số dưới đây là doanh thu bán cho bên ngoài và lãi/lỗ trước thuế của từng bộ phận (chưa tính thu nhập, chi phí tài chính không phân bổ).",
+      "segments": [
+        { "item": "Chuyển nhượng bất động sản", "value": "180.747 tỷ (54%); lãi 66.789 tỷ", "grade": "A", "refs": [1] },
+        { "item": "Sản xuất: ô tô điện, xe máy điện, xe buýt điện (VinFast)", "value": "91.050 tỷ (27%); lỗ 68.113 tỷ", "grade": "A", "refs": [1] },
+        { "item": "Hoạt động khác: tổng thầu, môi giới BĐS, cho thuê, CNTT", "value": "36.511 tỷ (11%); lãi 9.116 tỷ", "grade": "A", "refs": [1] },
+        { "item": "Khách sạn, du lịch, vui chơi giải trí", "value": "11.476 tỷ (3%); lỗ 280 tỷ", "grade": "A", "refs": [1] },
+        { "item": "Giáo dục", "value": "6.691 tỷ (2%); lãi 449 tỷ", "grade": "A", "refs": [1] },
+        { "item": "Y tế (Vinmec)", "value": "5.362 tỷ (2%); lỗ 630 tỷ", "grade": "A", "refs": [1] }
+      ],
+      "refs": [1]
+    },
+    "moat": {
+      "text": "Quỹ đất lớn ở các đại đô thị và khả năng bán sỉ cả khu cho nhà đầu tư khác; hệ sinh thái trường học, bệnh viện, trung tâm thương mại trong khu đô thị giúp bán nhà. Khả năng huy động vốn rộng: nợ vay gồm vay ngân hàng 31%, trái phiếu trong nước 32%, vay hợp vốn 30%, trái phiếu hoán đổi 5%. VinFast có quy mô bán hàng trong nước lớn (năm 2025 giao 196.919 ô tô điện toàn cầu) nhưng chưa có lãi, nên chưa phải là lợi thế tài chính; chỗ dựa thật của VinFast là cam kết tài trợ của Vingroup và cá nhân ông Vượng.",
+      "refs": [1, 2]
+    },
+    "timeline": [
+      { "year": "1993", "event": "Thành lập Technocom ở Ukraina, làm mì ăn liền và thực phẩm khô thương hiệu Mivina. Khoảng năm 2010 bán 100% cho Nestlé; giá không công bố, giới phân tích ước 130–180 triệu USD.", "refs": [1, 3] },
+      { "year": "2001–2004", "event": "Lập Vinpearl (2001) và Vincom (2002) ở Việt Nam; 2004 khai trương Vincom Center Bà Triệu, Hà Nội.", "refs": [1] },
+      { "year": "2007", "event": "Niêm yết mã VIC trên Sở Giao dịch Chứng khoán TP.HCM.", "refs": [1] },
+      { "year": "2012", "event": "Sáp nhập Vincom và Vinpearl thành Tập đoàn Vingroup; ra mắt Vinmec.", "refs": [1] },
+      { "year": "2017", "event": "Công bố thương hiệu ô tô, xe máy VinFast; 2019 khánh thành nhà máy ô tô ở Hải Phòng.", "refs": [1] },
+      { "year": "2019", "event": "Rút khỏi bán lẻ và nông nghiệp: chuyển VinCommerce (khoảng 2.600 siêu thị, cửa hàng VinMart, VinMart+) và VinEco cho Masan; giải thể chuỗi điện máy VinPro.", "refs": [1, 4, 5] },
+      { "year": "2021–2023", "event": "5/2021 dừng làm điện thoại, TV VinSmart để dồn nguồn lực cho VinFast; 2022 VinFast bỏ xe xăng, chỉ làm xe điện; 2023 VinFast niêm yết trên Nasdaq (mã VFS).", "refs": [1, 6] },
+      { "year": "2025", "event": "VinFast giao 196.919 ô tô điện, doanh thu 90.179 tỷ (số kiểm toán theo chuẩn mực Mỹ), lỗ ròng 99.583 tỷ; kiểm toán nêu nghi ngờ đáng kể về khả năng hoạt động liên tục. Doanh thu hợp nhất Vingroup tăng 76%.", "refs": [1, 2] }
+    ],
+    "crises": [
+      {
+        "title": "VinFast: 9 năm, khoảng 17 tỷ USD, lỗ lũy kế 14,6 tỷ USD",
+        "text": "Theo báo cáo 20-F nộp SEC (Mỹ), từ 2017 đến hết 2025 Vingroup, các công ty liên quan và bên cho vay đã rót khoảng 17,0 tỷ USD cho VinFast. Lỗ ròng 60.250 tỷ (2023), 77.355 tỷ (2024), 99.583 tỷ (2025, khoảng 3,96 tỷ USD theo tỷ giá 25.121 đồng/USD của 20-F). Cuối 2025 lỗ lũy kế 367.177 tỷ; nợ ngắn hạn vượt tài sản ngắn hạn 79.319 tỷ; nghĩa vụ trả nợ năm 2026 khoảng 34.616 tỷ. Kiểm toán viên nêu nghi ngờ đáng kể về khả năng hoạt động liên tục. VinFast trụ được nhờ thư cam kết hỗ trợ tài chính của Vingroup (hiệu lực 12 tháng) và cam kết tài trợ không hoàn lại tới 50.000 tỷ của ông Vượng đến hết 2026.",
+        "refs": [2]
+      },
+      {
+        "title": "Cắt bán lẻ, điện máy, điện thoại để giữ tiền cho xe (2019–2021)",
+        "text": "12/2019 Vingroup chuyển toàn bộ VinCommerce (vốn điều lệ 6.436 tỷ, khoảng 2.600 điểm bán) và VinEco (vốn 2.000 tỷ, 14 nông trường) cho Masan qua hoán đổi cổ phần; chuỗi điện máy VinPro (mở 3/2015) giải thể cuối 2019; trang Adayroi dừng bán và nhập vào VinID. 5/2021 dừng phát triển điện thoại, TV VinSmart. Lý do công ty đưa ra đều là dồn nguồn lực cho công nghệ, công nghiệp, chủ yếu VinFast.",
+        "refs": [4, 5, 6]
+      }
+    ],
+    "lessons": [
+      {
+        "title": "Dùng lãi mảng cũ nuôi mảng mới thì phải đặt trần khoản lỗ",
+        "text": "Năm 2025 mảng sản xuất lỗ trước thuế 68.113 tỷ, lớn hơn cả 66.789 tỷ lãi của mảng bất động sản; tính từ 2017, VinFast đã cần khoảng 17 tỷ USD. Chủ quán mở thêm mô hình mới nên viết ra trước: tối đa được lỗ bao nhiêu (ví dụ bằng 6 tháng lãi của quán chính) và trong bao lâu; chạm mức đó thì dừng hoặc thu nhỏ, không vay thêm để kéo dài.",
+        "refs": [1, 2]
+      },
+      {
+        "title": "Cắt mảng không phải thế mạnh cho dứt khoát",
+        "text": "Trong hai năm, Vingroup chuyển chuỗi siêu thị, nông trường cho Masan, đóng chuỗi điện máy và dừng điện thoại, TV, dù vừa đầu tư lớn vào các mảng này. Với hộ kinh doanh: dòng hàng hay dịch vụ nào thử đủ lâu mà vẫn giam vốn, không có lãi, hãy sang lại cho người làm giỏi hơn hoặc dừng, thay vì giữ vì tiếc tiền đã bỏ ra.",
+        "refs": [4, 5, 6]
+      },
+      {
+        "title": "Tiền khách trả trước không phải lợi nhuận",
+        "text": "Vingroup ghi chú rằng nợ phải trả 967.134 tỷ có cả tiền khách hàng trả trước mua căn hộ, biệt thự; khoản này chỉ thành doanh thu khi bàn giao nhà. Hộ kinh doanh nhận cọc, bán thẻ trả trước hay nhận đặt hàng nên để riêng khoản tiền này, ghi là nợ khách, không tiêu như tiền lãi.",
+        "refs": [1]
+      }
+    ],
+    "weak": {
+      "text": "Phụ thuộc VinFast: VinFast còn lỗ gộp, cần thêm vốn, và Vingroup đã cam kết hỗ trợ tài chính đủ để VinFast hoạt động; theo thỏa thuận quyền chọn bán, chậm nhất ngày 10/5/2027 Vingroup có quyền yêu cầu VinFast mua lại một phần cổ phần VinFast Việt Nam (quyền này phải xét cùng thư cam kết hỗ trợ). Đòn bẩy cao: nợ phải trả gấp 6,4 lần vốn chủ sở hữu, nợ vay tăng 49% trong năm 2025. Lợi nhuận khó lặp lại: phần lớn LNTT 2025 đến từ lợi nhuận khác và các giao dịch bán lô lớn. Rủi ro tập trung vào người sáng lập: tài trợ của ông Vượng là nguồn sống của VinFast; báo cáo 20-F còn nêu các yếu kém trọng yếu trong kiểm soát nội bộ của VinFast (CNTT, khóa sổ hợp nhất).",
+      "refs": [1, 2]
+    },
+    "notes": "Lớp chữ của file Báo cáo thường niên 2025 trên Vietstock bị lỗi mã phông; số liệu đọc được rõ, câu trích nguồn 1 là bảng số được khôi phục dấu tiếng Việt. Số lỗ của VinFast trong BCTC Vingroup (theo chuẩn mực Việt Nam, theo bộ phận) khác số lỗ ròng trong 20-F (chuẩn mực Mỹ); không cộng trừ hai số với nhau.",
+    "sources": [
+      { "id": 1, "org": "Tập đoàn Vingroup – Công ty CP", "year": 2026, "title": "Báo cáo thường niên 2025 (gồm BCTC hợp nhất 2025 đã kiểm toán), bản lưu trên Vietstock", "quote": "Doanh thu thuần cho bên thứ ba 180.747.386 11.475.904 5.362.135 6.690.821 91.049.948 36.511.367 - 331.837.561", "url": "https://static2.vietstock.vn/data/HOSE/2025/BCTN/VN/VIC_Baocaothuongnien_2025.pdf", "type": "financials", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 2, "org": "VinFast Auto Ltd. (U.S. SEC)", "year": 2026, "title": "Annual Report on Form 20-F for the fiscal year ended December 31, 2025", "quote": "We had net losses of VND60,250.3 billion, VND77,354.9 billion and VND99,582.8 billion ($3,964.1 million) in 2023, 2024 and 2025, respectively.", "url": "https://www.sec.gov/Archives/edgar/data/1913510/000110465926052266/vfs-20251231x20f.htm", "type": "financials", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 3, "org": "Kyiv Post", "year": 2010, "title": "Nestle continues Ukraine expansion with culinary purchase", "quote": "The acquisition, valued by analysts at $130-180 million, yields Nestle 100 percent ownership over Technocom", "url": "https://archive.kyivpost.com/article/content/business/nestle-continues-ukraine-expansion-with-culinary-p-61032.html", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 4, "org": "VnEconomy", "year": 2019, "title": "Thương vụ bất ngờ: Vingroup bán Vinmart, VinEco cho Masan", "quote": "quyết định chuyển giao toàn bộ Công ty VinCommerce (chuỗi siêu thị VinMart, cửa hàng VinMart ) và Công ty VinEco sang cho Tập đoàn Masan.", "url": "https://vneconomy.vn/thuong-vu-bat-ngo-vingroup-ban-vinmart-vineco-cho-masan.htm", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 5, "org": "Việt Nam News (Bizhub)", "year": 2019, "title": "Vingroup quits retailing to drive tech, industrial development", "quote": "Vingroup will allow the e-commerce platform Adayroi to affiliate with tech app unit VinID while electronics retailer VinPro will be dissolved.", "url": "https://bizhub.vietnamnews.vn/vingroup-quits-retailing-to-drive-tech-industrial-development-post311941.html", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 6, "org": "The Register", "year": 2021, "title": "Vietnam’s biggest industrial conglomerate quits smartphones and TV biz, bets on electric cars", "quote": "Vietnam's largest industry conglomerate, Vingroup, has announced it will no longer develop televisions and smartphones under its VinSmart brand and instead redirect resources toward its electric vehicle unit, VinFast.", "url": "https://www.theregister.com/2021/05/11/vingroup_quits_electronics_chases_evs/", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" }
+    ]
+  },
+  {
+    "id": "hoa-phat",
+    "kind": "case",
+    "section": "7",
+    "title": "Hòa Phát: từ buôn máy xây dựng thành nhà luyện thép lò cao chi phí thấp, nhưng vẫn không thoát chu kỳ giá thép",
+    "summary": "Tập đoàn tư nhân do ông Trần Đình Long sáng lập; vợ chồng ông nắm 32,68% cổ phần cuối 2025. Năm 2025 doanh thu thuần 156.116 tỷ đồng, LNST 15.515 tỷ, thép chiếm 94% doanh thu. Biên lợi nhuận gộp đi từ 27,5% (2021) xuống 10,9% (2023) rồi lên 15,7% (2025): chuỗi sản xuất khép kín giúp vẫn có lãi ở đáy chu kỳ, nhưng không giúp thoát khỏi chu kỳ.",
+    "tags": {
+      "reach": "domestic",
+      "age": "young",
+      "outcome": "rising",
+      "owner": "founder",
+      "evidence": "A"
+    },
+    "facts": {
+      "founded": "1992",
+      "revenue": "156.116 tỷ đ DT thuần (2025)",
+      "profit": "LNST 15.515 tỷ đ (2025)",
+      "people": "≈ 32.000 CBCNV (2025)",
+      "text": "BCTC hợp nhất 2025 đã kiểm toán (lập ngày 24/3/2026): doanh thu thuần 156.116 tỷ, lợi nhuận gộp 24.498 tỷ, LNTT 18.041 tỷ, LNST 15.515 tỷ (của cổ đông công ty mẹ 15.453 tỷ); chi phí lãi vay 3.115 tỷ. Vay và nợ thuê tài chính 92.174 tỷ (ngắn hạn 64.695 tỷ, dài hạn 27.479 tỷ), vốn chủ sở hữu 131.220 tỷ. Số nhân sự lấy từ Báo cáo thường niên 2025.",
+      "grade": "A",
+      "refs": [1, 2]
+    },
+    "engine": {
+      "text": "Bán thép là chính: thép xây dựng (thị phần số 1 Việt Nam, 37,6%), thép cuộn cán nóng HRC bán cho nhà làm ống và tôn, ống thép (31,2%), tôn mạ; năm 2025 sản lượng bán thép lần đầu vượt 10 triệu tấn, HRC tăng hơn 70% nhờ Dung Quất 2 (theo công ty tự công bố). Nông nghiệp (trứng, heo, thức ăn chăn nuôi) và bất động sản khu công nghiệp là mảng phụ; điện máy gia dụng không được báo cáo riêng trong BCTC. Doanh thu trong nước 131.473 tỷ (+38%). Biên lợi nhuận gộp hợp nhất do tác giả tính từ BCTC kiểm toán từng năm; thép chiếm khoảng 90–94% doanh thu nên biên này phản ánh chủ yếu mảng thép.",
+      "segments": [
+        { "item": "Sản xuất và kinh doanh thép", "value": "146.319 tỷ (93,7% DT, 2025)", "grade": "A", "refs": [1] },
+        { "item": "Nông nghiệp", "value": "8.114 tỷ (5,2%); LNTT bộ phận 1.752 tỷ", "grade": "A", "refs": [1] },
+        { "item": "Bất động sản", "value": "1.683 tỷ (1,1%)", "grade": "A", "refs": [1] },
+        { "item": "Xuất khẩu", "value": "24.643 tỷ (16%) năm 2025; 43.340 tỷ (31%) năm 2024", "grade": "A", "refs": [1, 2] },
+        { "item": "Biên gộp hợp nhất 2018 · 2019 · 2020 · 2021", "value": "20,9% · 17,6% · 21,0% · 27,5%", "grade": "A", "refs": [5, 4, 9] },
+        { "item": "Biên gộp hợp nhất 2022 · 2023 · 2024 · 2025", "value": "11,9% · 10,9% · 13,3% · 15,7%", "grade": "A", "refs": [3, 1, 9] },
+        { "item": "Biên LNST/DT thuần 2021 → 2023 → 2025", "value": "23,1% → 5,7% → 9,9%", "grade": "A", "refs": [4, 3, 1, 9] }
+      ],
+      "refs": [1, 2]
+    },
+    "moat": {
+      "text": "Theo công ty tự công bố: chuỗi khép kín từ quặng sắt, than cốc, luyện gang lò cao tới cán thép; tự chủ 90% điện sản xuất tại các khu liên hợp; quy mô thép thô dự kiến 16 triệu tấn/năm từ cuối 2026, lớn nhất Đông Nam Á. Bằng chứng kiểm chứng được: trong đáy chu kỳ 2022–2023, Hòa Phát vẫn lãi cả năm (8.444 tỷ và 6.800 tỷ) và biên gộp hợp nhất không xuống dưới 10%. Một phần lợi thế đến từ chính sách: từ 6/7/2025 thép cán nóng Trung Quốc chịu thuế chống bán phá giá 23,10–27,83% trong 5 năm (QĐ 1959/QĐ-BCT), lợi thế này có thể thay đổi.",
+      "refs": [2, 3, 8]
+    },
+    "timeline": [
+      { "year": "1992", "event": "8/1992 thành lập Công ty TNHH Thiết bị Phụ tùng Hòa Phát, buôn máy xây dựng.", "refs": [2] },
+      { "year": "1995–2001", "event": "Mở rộng sang nội thất (1995), ống thép (1996), thép xây dựng (2000), điện lạnh và bất động sản (2001).", "refs": [2] },
+      { "year": "2007", "event": "Tái cấu trúc thành tập đoàn; 15/11/2007 niêm yết mã HPG.", "refs": [2] },
+      { "year": "2009", "event": "12/2009 Khu liên hợp gang thép Hải Dương xong giai đoạn 1: chuyển từ cán phôi mua ngoài sang luyện thép từ quặng bằng lò cao.", "refs": [2] },
+      { "year": "2015–2016", "event": "Vào nông nghiệp: thức ăn chăn nuôi (3/2015), lập công ty nông nghiệp (2/2016).", "refs": [2] },
+      { "year": "2017–2021", "event": "Dung Quất 1 (vốn 52.000 tỷ): HRC thương mại từ 11/2020; 1/2021 lò cao số 4 chạy, công suất thép thô 8,5 triệu tấn/năm. 12/2020 thoái vốn khỏi nội thất.", "refs": [2] },
+      { "year": "2022", "event": "Khởi công Dung Quất 2 (5,6 triệu tấn HRC/năm, dự kiến 85.000 tỷ); cùng năm lỗ hai quý liên tiếp và dừng 4 lò cao, thông báo dừng thêm 1 lò.", "refs": [2, 6, 7] },
+      { "year": "2025", "event": "9/2025 Dung Quất 2 hoàn thành đồng bộ; 6/2/2026 niêm yết 285 triệu cổ phiếu Nông nghiệp Hòa Phát (HPA).", "refs": [2] }
+    ],
+    "crises": [
+      {
+        "title": "Đáy chu kỳ 2022: lỗ hai quý, dừng 5 lò cao",
+        "text": "Quý 3/2022 lỗ sau thuế 1.786 tỷ, quý 4/2022 lỗ gần 2.000 tỷ. Tồn kho cuối quý 2/2022 lên 57.600 tỷ trong khi giá thép giảm; trả 10.855 tỷ nợ nhà cung cấp đúng lúc USD tăng giá làm phát sinh lỗ tỷ giá gần 1.119 tỷ trong quý 3. Từ 11/2022 dừng 4 lò cao (2 ở Dung Quất, 2 ở Hải Dương) và thông báo sẽ dừng thêm 1 lò ở Dung Quất trong tháng 12; báo chí ước mỗi lần dừng và khởi động lại một lò tốn khoảng 40 tỷ. Cả năm 2022 vẫn lãi 8.444 tỷ (bằng 24% năm 2021), 2023 lãi 6.800 tỷ.",
+        "refs": [3, 6, 7]
+      },
+      {
+        "title": "Xuất khẩu bị chặn bởi thuế phòng vệ (2024–2025)",
+        "text": "Doanh thu xuất khẩu giảm từ 43.340 tỷ (31% tổng doanh thu, 2024) xuống 24.643 tỷ (16%, 2025); riêng thị trường châu Á ngoài Việt Nam giảm từ 27.995 tỷ còn 11.944 tỷ. Công ty nêu các thị trường Mỹ, EU, Nhật Bản, Mexico, Úc, Canada, Ấn Độ điều tra và áp thuế phòng vệ, có thể áp hồi tố; EU bắt đầu thu phí carbon (CBAM) từ 2026. Hòa Phát bù bằng thị trường trong nước, nơi doanh thu tăng 38%.",
+        "refs": [1, 2]
+      }
+    ],
+    "lessons": [
+      {
+        "title": "Tự làm chủ khoản chi lớn nhất",
+        "text": "Với Hòa Phát, nguyên nhiên liệu chiếm 72–75% giá thành; công ty đi ngược lên tự luyện gang từ quặng, tự sản xuất 90% điện dùng trong khu liên hợp, và nhờ đó vẫn lãi cả năm ở đáy 2022–2023. Hộ kinh doanh nên xác định 1–2 khoản chi lớn nhất (nguyên liệu, mặt bằng) và tìm cách tự làm một phần, mua hợp đồng dài hạn, hoặc có nguồn thay thế.",
+        "refs": [2, 3]
+      },
+      {
+        "title": "Khi giá bán rơi, giảm sản lượng trước khi tồn kho nuốt tiền mặt",
+        "text": "Giữa 2022 Hòa Phát ôm 57.600 tỷ tồn kho đúng lúc giá thép giảm; công ty chấp nhận chi phí dừng 4–5 lò cao để không làm ra thêm hàng giá vốn cao. Khi giá bán xuống gần giá vốn, cửa hàng nhỏ nên cắt bớt lượng nhập, bán bớt hàng tồn để giữ tiền mặt, thay vì nhập thêm chờ giá lên.",
+        "refs": [7]
+      },
+      {
+        "title": "Đừng để một thị trường quyết định số phận",
+        "text": "Trong một năm, tỷ trọng xuất khẩu của Hòa Phát tụt từ 31% xuống 16% vì thuế phòng vệ ở nước nhập; công ty xoay được nhờ đã có thị trường trong nước lớn. Người bán phụ thuộc một sàn thương mại điện tử hay một khách sỉ lớn nên giữ ít nhất 1–2 kênh bán khác đang có doanh thu thật.",
+        "refs": [1, 2]
+      }
+    ],
+    "weak": {
+      "text": "Lãi đi theo giá thép và giá quặng, than: biên gộp từ 27,5% (2021) xuống 10,9% (2023). Hơn 70% giá vốn năm 2025 là hàng nhập khẩu (quặng, than) nên tỷ giá tăng làm tăng chi phí, theo công ty tự nêu. Công suất tăng lên 16 triệu tấn/năm cần đầu ra, trong khi thị trường trong nước đang được che chắn bởi thuế chống bán phá giá thép cán nóng Trung Quốc; nếu chính sách thay đổi, áp lực giá nhập khẩu quay lại. Xuất khẩu chịu thuế phòng vệ và CBAM. Nợ vay 92.174 tỷ, chi phí lãi vay 2025 tăng 36% lên 3.115 tỷ.",
+      "refs": [1, 2, 8]
+    },
+    "notes": "Các BCTC kiểm toán của HPG trên Vietstock là bản scan; số liệu đọc từ ảnh trang. Biên lợi nhuận là tác giả tính, xem nguồn 9.",
+    "sources": [
+      { "id": 1, "org": "Công ty CP Tập đoàn Hòa Phát", "year": 2026, "title": "Báo cáo tài chính hợp nhất năm 2025 đã kiểm toán (bản lưu trên Vietstock)", "quote": "Doanh thu thuần về bán hàng và cung cấp dịch vụ (10=01-02) 10 156.116.094.618.482 138.855.112.131.387", "url": "https://static2.vietstock.vn/data/HOSE/2025/BCTC/VN/NAM/HPG_Baocaotaichinh_2025_Kiemtoan_Hopnhat.pdf", "type": "financials", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 2, "org": "Công ty CP Tập đoàn Hòa Phát", "year": 2026, "title": "Báo cáo thường niên 2025", "quote": "Khởi đầu từ một Công ty chuyên buôn bán các loại máy xây dựng từ tháng 8/1992, Hòa Phát lần lượt mở rộng sang các lĩnh vực Nội thất (1995), Ống thép (1996)", "url": "https://file.hoaphat.com.vn/hoaphat-com-vn/2026/05/bao-cao-thuong-nien-nam-2025.pdf", "type": "report", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 3, "org": "Công ty CP Tập đoàn Hòa Phát", "year": 2024, "title": "Báo cáo tài chính hợp nhất năm 2023 đã kiểm toán (bản lưu trên Vietstock)", "quote": "Lợi nhuận gộp (20 = 10 - 11) 20 12.937.840.695.572 16.763.426.239.552", "url": "https://static2.vietstock.vn/data/HOSE/2023/BCTC/VN/NAM/HPG_Baocaotaichinh_2023_Kiemtoan_Hopnhat.pdf", "type": "financials", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 4, "org": "Công ty CP Tập đoàn Hòa Phát", "year": 2022, "title": "Báo cáo tài chính hợp nhất năm 2021 đã kiểm toán (bản lưu trên Vietstock)", "quote": "Lợi nhuận gộp (20 = 10 - 11) 20 41.108.409.532.992 18.904.049.904.154", "url": "https://static2.vietstock.vn/data/HOSE/2021/BCTC/VN/NAM/HPG_Baocaotaichinh_2021_Kiemtoan_Hopnhat.pdf", "type": "financials", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 5, "org": "Công ty CP Tập đoàn Hòa Phát", "year": 2020, "title": "Báo cáo tài chính hợp nhất năm 2019 đã kiểm toán (bản lưu trên Vietstock)", "quote": "Lợi nhuận gộp (20 = 10 - 11) 20 11.185.372.222.137 11.670.832.231.074", "url": "https://static2.vietstock.vn/data/HOSE/2019/BCTC/VN/NAM/HPG_Baocaotaichinh_2019_Kiemtoan_Hopnhat.pdf", "type": "financials", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 6, "org": "VnEconomy", "year": 2023, "title": "Hòa Phát tiếp tục báo lỗ tăng mạnh, gần 2.000 tỷ đồng trong Quý 4/2022", "quote": "Lợi nhuận sau thuế ở mức âm 1.786 tỷ đồng, giảm 117% so với cùng kỳ năm trước.", "url": "https://vneconomy.vn/hoa-phat-tiep-tuc-bao-lo-tang-manh-gan-2-000-ty-dong-trong-quy-4-2022.htm", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 7, "org": "Diễn đàn Doanh nghiệp", "year": 2022, "title": "Dừng hoạt động 4 lò thép, Hòa Phát chịu tổn thất ra sao?", "quote": "Tập đoàn vừa có thông báo đến các đối tác cung ứng về việc dừng hoạt động 4 lò cao, bao gồm 2 lò cao ở Dung Quất và 2 lò cao ở Hải Dương từ tháng 11/2022.", "url": "https://diendandoanhnghiep.vn/hoa-phat-phai-chi-bao-tien-de-dung-hoat-dong-04-lo-thep-234036.html", "type": "press", "grade": "C", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 8, "org": "Bộ Công Thương", "year": 2025, "title": "Áp dụng thuế chống bán phá giá chính thức đối với một số sản phẩm thép cán nóng có xuất xứ từ Trung Quốc (Quyết định 1959/QĐ-BCT ngày 4/7/2025)", "quote": "mức thuế chống bán phá giá chính thức được áp dụng với hàng hóa bị điều tra từ Trung Quốc là từ 23,10% đến 27,83%.", "url": "https://moit.gov.vn/tin-tuc/ap-dung-thue-chong-ban-pha-gia-chinh-thuc-doi-voi-mot-so-san-pham-thep-can-nong-co-xuat-xu-tu-cong-hoa-nhan-dan-trung-ho.html", "type": "law", "grade": "A", "verified": "page", "accessed": "2026-11-01" },
+      { "id": 9, "org": "Tác giả", "year": 2026, "title": "Ước tính biên lợi nhuận của Hòa Phát từ BCTC hợp nhất kiểm toán 2018–2025", "quote": "Biên gộp = lợi nhuận gộp ÷ doanh thu thuần; biên ròng = LNST ÷ doanh thu thuần. DT thuần 2018–2025 (tỷ đ): 55.836; 63.658; 90.119; 149.680; 141.409; 118.953; 138.855; 156.116. LN gộp: 11.671; 11.185; 18.904; 41.108; 16.763; 12.938; 18.498; 24.498.", "type": "estimate", "grade": "C", "verified": "page", "accessed": "2026-11-01" }
+    ]
+  }
+]

@@ -9,7 +9,7 @@ description: Thêm hoặc cập nhật một mô hình kinh doanh / một quy đ
 Khi người dùng hỏi về một mô hình (vốn, hòa vốn, luật…): đọc `data/data.js` (hoặc các file `research/out/*.json`), trả lời bằng số liệu trong đó **kèm số hiệu mục và nguồn**, nói rõ mức chứng cứ. Không bịa thêm số liệu ngoài cẩm nang; nếu cẩm nang không có thì nói không có và đề nghị nghiên cứu bổ sung.
 
 ## Thêm hoặc sửa một mục
-1. Đọc `research/SCHEMA.md`: thang chứng cứ A/B/C, khung JSON, quy tắc trích dẫn. Tuân thủ tuyệt đối.
+1. Đọc `research/SCHEMA.md`: thang chứng cứ A/B/C, khung JSON, quy tắc trích dẫn. Tuân thủ tuyệt đối. Có 4 loại mục: `model` (mô hình nhỏ), `rule` (luật chung), `stage` (nấc quy mô) và `case` (tập đoàn, doanh nghiệp lâu đời). Với `case`, đọc thêm quy tắc riêng trong `research/VONG-3.md`.
 2. Xem một mục có sẵn cùng phần trong `research/out/*.json` để giữ giọng văn: câu ngắn, thẳng, không quảng cáo, không emoji.
 3. Nghiên cứu bằng WebSearch và đọc trang gốc (curl + `python -I` bóc text). Văn bản pháp luật phải kiểm tra **còn hiệu lực tại ngày hôm nay**. Không tìm được nguồn ≥ C thì ghi "Chưa có số liệu đáng tin".
 4. Ghi mục mới vào file JSON của nhóm phù hợp trong `research/out/` (hoặc tạo `research/out/<nhom-moi>.json`). `id` là slug không dấu, không trùng.

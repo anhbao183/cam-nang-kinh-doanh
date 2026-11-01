@@ -1,0 +1,1602 @@
+[
+ {
+  "id": "nintendo",
+  "kind": "case",
+  "section": "8",
+  "title": "Nintendo: từ bài hanafuda đến Switch 2, sống sót nhờ két tiền dày và công nghệ cũ dùng theo cách mới",
+  "summary": "Xưởng bài lá ở Kyoto lập năm 1889, nay sống gần như hoàn toàn bằng máy chơi game và phần mềm cho chính máy đó. Năm tài chính kết thúc 3/2026 doanh thu 2.313 tỷ yên nhờ Switch 2, 76,9% bán ngoài Nhật. Điều đáng học: các lần đa ngành xa sở trường đều thất bại, một thế hệ máy bán ế (Wii U) kéo theo ba năm lỗ hoạt động, nhưng lượng tiền tích lũy đủ để làm lại.",
+  "tags": {
+   "reach": "multi",
+   "age": "century",
+   "outcome": "survived",
+   "owner": "public",
+   "evidence": "A"
+  },
+  "facts": {
+   "founded": "1889",
+   "revenue": "2.313 tỷ yên (FY3/2026)",
+   "profit": "LN hoạt động 360,1 tỷ yên (FY3/2026)",
+   "people": "8.666 nhân viên hợp nhất (3/2026)",
+   "text": "Số từ bản tin kết quả ngày 8/5/2026 (công ty ghi rõ bản tin này chưa qua kiểm toán) và Annual Report 2026 (dịch từ Báo cáo chứng khoán thường niên nộp theo luật Nhật). Doanh thu tăng 98,6%, lợi nhuận hoạt động tăng 27,5%, nhưng biên lợi nhuận hoạt động giảm từ 24,3% xuống 15,6% vì năm đầu của máy mới bán nhiều phần cứng biên thấp: biên lợi nhuận gộp giảm từ 61,0% xuống 39,3%. Lợi nhuận ròng thuộc cổ đông công ty mẹ 424,0 tỷ yên, trong đó có 82,7 tỷ yên lãi từ công ty liên kết, 46,0 tỷ yên tiền lãi và 44,3 tỷ yên lãi tỷ giá. Tiền dự trữ ngày 31/3/2026: tiền và tiền gửi 1.791,8 tỷ yên, chứng khoán ngắn hạn 425,1 tỷ yên (tiền và tương đương tiền theo báo cáo lưu chuyển tiền tệ: 1.316,7 tỷ yên). Tổng tài sản 3.805,3 tỷ yên, tỷ lệ vốn chủ sở hữu 77,6%.",
+   "grade": "A",
+   "refs": [
+    1,
+    2,
+    3
+   ]
+  },
+  "engine": {
+   "text": "Khách là người chơi game gia đình và người hâm mộ nhân vật Nintendo. Gần như toàn bộ doanh thu là 'nền tảng game chuyên dụng': bán máy, bán phần mềm, nội dung tải thêm và gói Nintendo Switch Online cho chính máy đó. Máy là cửa vào, phần mềm là nơi lãi cao. Bằng chứng: năm Switch 2 ra mắt doanh thu gần gấp đôi nhưng biên gộp tụt mạnh; sang quý 1 năm tài chính kết thúc 3/2027, khi phần mềm chiếm tỷ trọng cao hơn, lợi nhuận hoạt động tăng 150,5% dù doanh thu giảm 9,5% (có thêm khoản hoàn thuế quan IEEPA ở Mỹ). Mảng IP (phim, ứng dụng điện thoại, bản quyền, cửa hàng chính hãng) còn nhỏ. Công ty báo cáo một phân khúc kinh doanh duy nhất.",
+   "segments": [
+    {
+     "item": "Nền tảng game chuyên dụng (máy và phần mềm)",
+     "value": "2.239,5 tỷ yên ≈ 96,8% doanh thu FY3/2026",
+     "grade": "A",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "item": "Bán bản tải (digital)",
+     "value": "407,6 tỷ yên, 54,6% doanh thu phần mềm",
+     "grade": "A",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "item": "IP: phim, ứng dụng, bản quyền, cửa hàng",
+     "value": "73,5 tỷ yên ≈ 3,2% doanh thu",
+     "grade": "A",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "item": "Switch 2 bán ra trong FY3/2026",
+     "value": "19,86 triệu máy; 48,71 triệu bản phần mềm",
+     "grade": "A",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "item": "Doanh thu ngoài Nhật Bản",
+     "value": "76,9% (1.778,1 tỷ yên)",
+     "grade": "A",
+     "refs": [
+      1
+     ]
+    }
+   ],
+   "refs": [
+    1,
+    2,
+    3,
+    12
+   ]
+  },
+  "moat": {
+   "text": "Ba lớp. Một là game của chính hãng bán kèm máy của chính hãng: các tựa bán chạy nhất FY3/2026 là Mario Kart World (14,70 triệu bản, tính cả bản kèm máy) và Donkey Kong Bananza (4,52 triệu bản), chỉ chơi trên Switch 2. Hai là cách làm phần cứng 'tư duy ngang với công nghệ đã chín' (lateral thinking of withered technology) do Gunpei Yokoi, người phụ trách Game & Watch và Game Boy, đề xướng: lấy công nghệ phổ biến, không còn mới, đem dùng vào việc khác. Theo công ty tự công bố, triết lý này vẫn chi phối Switch 2, ví dụ dùng tay cầm Joy-Con làm chuột máy tính vì chi phí thấp. Ba là bảng cân đối: tỷ lệ vốn chủ 77,6% và gần 1.800 tỷ yên tiền và tiền gửi, đủ chịu lỗ vài năm khi một thế hệ máy thất bại. Lợi thế này không chặn được chi phí linh kiện: chính công ty tính khoảng 100 tỷ yên chi phí tăng vì giá bộ nhớ và thuế quan Mỹ trong năm tài chính kết thúc 3/2027.",
+   "refs": [
+    8,
+    1,
+    2
+   ]
+  },
+  "timeline": [
+   {
+    "year": "1889",
+    "event": "Fusajiro Yamauchi bắt đầu làm và bán bài hanafuda ở Kyoto. Năm 1902 làm bộ bài Tây đầu tiên của Nhật.",
+    "refs": [
+     4
+    ]
+   },
+   {
+    "year": "Sau 1949",
+    "event": "Hiroshi Yamauchi lên nắm công ty năm 22 tuổi, thử bán cơm ăn liền, chạy đội taxi và (theo một số nguồn) mở khách sạn tình yêu thuê theo giờ. Theo The Week dẫn Financial Times, các thử nghiệm này đều thất bại; ông tìm được hướng đi khi chuyển sang đồ chơi.",
+    "refs": [
+     9,
+     10
+    ]
+   },
+   {
+    "year": "1963",
+    "event": "Đổi tên thành Nintendo Co., Ltd.",
+    "refs": [
+     4
+    ]
+   },
+   {
+    "year": "1977–1983",
+    "event": "Máy chơi game tại nhà đầu tiên TV Game 15 và TV Game 6 (1977), Game & Watch (1980), Donkey Kong (1981), Family Computer, ngoài Nhật gọi là NES (1983).",
+    "refs": [
+     4
+    ]
+   },
+   {
+    "year": "2012",
+    "event": "Ra mắt Wii U. Cả đời máy bán 13,56 triệu chiếc.",
+    "refs": [
+     4,
+     5
+    ]
+   },
+   {
+    "year": "2017",
+    "event": "Ra mắt Nintendo Switch, vừa cắm TV vừa cầm tay. Đến 30/6/2026 bán 156,59 triệu máy.",
+    "refs": [
+     4,
+     5
+    ]
+   },
+   {
+    "year": "2025",
+    "event": "Ra mắt Switch 2 (6/2025). Đến 30/6/2026 bán 23,68 triệu máy.",
+    "refs": [
+     4,
+     5
+    ]
+   },
+   {
+    "year": "2026",
+    "event": "Tăng giá Switch 2: ở Nhật từ 49.980 lên 59.980 yên từ 25/5/2026, ở Mỹ lên 499,99 USD từ 1/9/2026, vì giá bộ nhớ và thuế quan.",
+    "refs": [
+     2
+    ]
+   }
+  ],
+  "crises": [
+   {
+    "title": "Ba năm lỗ hoạt động liền, trong đó có Wii U (FY3/2012–FY3/2014)",
+    "text": "Năm tài chính kết thúc 3/2012, trước khi Wii U ra mắt, doanh thu giảm 36,2% còn 647,7 tỷ yên và Nintendo lỗ hoạt động 37,3 tỷ yên. Wii U ra cuối 2012 nhưng bán chậm: năm kết thúc 3/2013 lỗ hoạt động 36,4 tỷ yên; năm kết thúc 3/2014 chỉ bán 2,72 triệu máy Wii U, doanh thu còn 571,7 tỷ yên, chi phí bán hàng và quản lý vượt lãi gộp nên lỗ hoạt động 46,4 tỷ yên, công ty tự giải thích là do giảm giá Wii U ở Mỹ, châu Âu và phần mềm (biên cao) bán không đủ. Bảng cân đối vẫn dày: ngày 31/3/2014 tổng tài sản 1.306,4 tỷ yên, tỷ lệ vốn chủ 85,6%. Lối ra là đổi sản phẩm: Switch (2017) gộp máy tại nhà và máy cầm tay làm một, bán 156,59 triệu máy so với 13,56 triệu của Wii U.",
+    "refs": [
+     7,
+     6,
+     5
+    ]
+   },
+   {
+    "title": "Giá bộ nhớ và thuế quan ép biên Switch 2 (2025–2026)",
+    "text": "Cơn sốt AI đẩy giá chip nhớ lên. Nintendo tính khoảng 100 tỷ yên chi phí tăng (linh kiện, nhất là bộ nhớ, và thuế quan Mỹ) vào giá vốn năm tài chính kết thúc 3/2027, dự báo doanh thu giảm 11,4% còn 2.050 tỷ yên, lợi nhuận ròng giảm 26,9% còn 310 tỷ yên, Switch 2 chỉ bán 16,5 triệu máy (giảm 16,9%). Cách xử lý: tăng giá máy ở Nhật thêm 10.000 yên và ở Mỹ lên 499,99 USD. Cổ phiếu giảm 7% ở Tokyo ngày 11/5/2026 vì tăng giá và lo thiếu game lớn (Reuters). Quý 1 (4–6/2026) lợi nhuận hoạt động vẫn tăng 150,5% nhờ phần mềm và khoản hoàn thuế quan IEEPA.",
+    "refs": [
+     2,
+     11,
+     12
+    ]
+   }
+  ],
+  "lessons": [
+   {
+    "title": "Mở rộng sang việc gần sở trường, không nhảy sang ngành lạ",
+    "text": "Taxi, cơm ăn liền, khách sạn đều thất bại; Nintendo chỉ lớn lại khi quay về đồ chơi rồi trò chơi điện tử, vẫn là giải trí cho cùng loại khách. Chủ cửa hàng muốn mở thêm nên chọn sản phẩm bán cho chính khách quen, dùng chính tay nghề đang có, thay vì mở một ngành mà mình không hiểu chi phí và đối thủ.",
+    "refs": [
+     9,
+     4
+    ]
+   },
+   {
+    "title": "Không cần đồ mới nhất, cần cách dùng mới",
+    "text": "Nguyên tắc của Gunpei Yokoi là lấy công nghệ phổ biến, rẻ, đã ổn định rồi dùng vào việc khác. Với doanh nghiệp nhỏ: trước khi mua máy móc hay phần mềm đắt tiền, thử xem công cụ sẵn có (máy cũ, phần mềm miễn phí, ứng dụng nhắn tin) có làm được việc đó theo cách khác không. Tiết kiệm vốn đầu tư thì thất bại cũng rẻ hơn.",
+    "refs": [
+     8
+    ]
+   },
+   {
+    "title": "Giữ tiền đệm đủ sống qua một mùa sản phẩm thất bại",
+    "text": "Nintendo đi qua ba năm lỗ hoạt động liên tiếp mà tỷ lệ vốn chủ vẫn trên 85%. Khi giá đầu vào tăng năm 2026, công ty tăng giá bán công khai thay vì âm thầm chịu lỗ. Hộ kinh doanh nên tích quỹ dự phòng bằng vài tháng chi phí cố định trước khi tung sản phẩm lớn, và báo tăng giá rõ ràng khi giá vốn tăng thật.",
+    "refs": [
+     6,
+     2
+    ]
+   }
+  ],
+  "weak": {
+   "text": "Một dòng máy gánh cả công ty: Switch 2 và vài thương hiệu game quyết định gần hết doanh thu. Năm thứ hai của máy bán ít hơn năm đầu (dự báo 16,5 triệu so với 19,86 triệu máy), và Reuters dẫn giới phân tích lo Nintendo thiếu game bom tấn. Giá bộ nhớ tăng vì AI ép biên phần cứng; khách của Nintendo nhạy cảm về giá nên tăng giá có rủi ro giảm cầu. Dự báo năm tài chính kết thúc 3/2027: doanh thu giảm 11,4%, lợi nhuận ròng giảm 26,9%.",
+   "refs": [
+    2,
+    11
+   ]
+  },
+  "notes": "Đề bài nêu 'mì gói'; nguồn kiểm chứng được (The Week dẫn FT) nói 'cơm ăn liền' (instant rice). Thông tin về mì 'Popeye Ramen' chỉ thấy trên wiki của người hâm mộ nên không dùng. Chuyện khách sạn tình yêu chủ yếu dựa vào sách 'Game Over' của David Sheff; 3DJuegos ghi nhận không có ảnh hay giấy tờ chứng minh, nên chỉ ghi 'theo một số nguồn'. Năm của các thử nghiệm đa ngành không có nguồn gốc chính thức, chỉ ghi 'sau 1949' (năm Yamauchi lên nắm quyền). Bản tin kết quả FY3/2026 chưa kiểm toán; số giống Annual Report 2026. FY3/2012 lỗ trước khi Wii U ra mắt (11/2012), không quy hết cho Wii U.",
+  "sources": [
+   {
+    "id": 1,
+    "org": "Nintendo Co., Ltd.",
+    "year": 2026,
+    "title": "Consolidated Financial Highlights – năm tài chính kết thúc 31/3/2026 (8/5/2026)",
+    "quote": "The end result was overall sales of 2,313.0 billion yen, with sales outside of Japan of 1,778.1 billion yen accounting for 76.9% of the total, and operating profit of 360.1 billion yen.",
+    "url": "https://www.nintendo.co.jp/ir/pdf/2026/260508e.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 2,
+    "org": "Nintendo Co., Ltd.",
+    "year": 2026,
+    "title": "Financial Results Explanatory Material – Fiscal Year Ended March 2026",
+    "quote": "An impact of approximately 100.0 billion yen due to rising component prices, particularly for memory, and tariff measures has been factored into costs of goods sold.",
+    "url": "https://www.nintendo.co.jp/ir/pdf/2026/260508_4e.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 3,
+    "org": "Nintendo Co., Ltd.",
+    "year": 2026,
+    "title": "Annual Report 2026 (năm tài chính kết thúc 31/3/2026)",
+    "quote": "Number of employees (persons) 6,717 7,317 7,724 8,205 8,666",
+    "url": "https://www.nintendo.co.jp/ir/pdf/2026/annual2603e.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 4,
+    "org": "Nintendo Co., Ltd.",
+    "year": 2026,
+    "title": "Corporate Information: Company History",
+    "quote": "Fusajiro Yamauchi began manufacturing and selling Japanese playing cards, Hanafuda, in Shimogyo-ku, Kyoto, Japan.",
+    "url": "https://www.nintendo.co.jp/corporate/en/history/index.html",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 5,
+    "org": "Nintendo Co., Ltd.",
+    "year": 2026,
+    "title": "IR: Dedicated Video Game Sales Units (tính đến 30/6/2026)",
+    "quote": "Wii U Hardware: 13.56 million units",
+    "url": "https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html",
+    "type": "stats",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 6,
+    "org": "Nintendo Co., Ltd.",
+    "year": 2014,
+    "title": "Consolidated Financial Statements – năm kết thúc 31/3/2014 (7/5/2014)",
+    "quote": "Total selling, general and administrative expenses exceeded gross profit, resulting in an operating loss of 46.4 billion yen.",
+    "url": "https://www.nintendo.co.jp/ir/pdf/2014/140507e.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 7,
+    "org": "Nintendo Co., Ltd.",
+    "year": 2012,
+    "title": "Consolidated Financial Statements – năm kết thúc 31/3/2012 (26/4/2012)",
+    "quote": "Year ended March 31, 2012 647,652 (36.2) (37,320)",
+    "url": "https://www.nintendo.co.jp/ir/pdf/2012/120426e.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 8,
+    "org": "Nintendo",
+    "year": 2025,
+    "title": "Ask the Developer Vol. 16: Nintendo Switch 2 — Part 2",
+    "quote": "This was a theory that new hit products could be created by taking widely used technology that isn't cutting edge anymore, and using it for new and different purposes.",
+    "url": "https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-16-nintendo-switch-2-part-2/",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 9,
+    "org": "The Week (dẫn Financial Times)",
+    "year": 2013,
+    "title": "Hiroshi Yamauchi, 1927–2013",
+    "quote": "Desperate to diversify, he experimented with selling instant rice, running a taxi fleet, and developing “love hotels” with hourly rates. Those efforts all flopped",
+    "url": "https://theweek.com/articles/459566/hiroshi-yamauchi-19272013",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 10,
+    "org": "3DJuegos",
+    "year": 2023,
+    "title": "Sexo, hoteles y Nintendo: ¿fue real este famoso negocio o una elaborada leyenda urbana?",
+    "quote": "La cuestión es que no existen pruebas de que los hoteles del amor existieran, ni testimonios concluyentes, ni fotografías de los edificios, ni documentos.",
+    "url": "https://www.3djuegos.com/varios/noticias/sexo-hoteles-nintendo-fue-real-este-famoso-negocio-elaborada-leyenda-urbana",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 11,
+    "org": "Reuters (đăng lại trên The Star)",
+    "year": 2026,
+    "title": "Nintendo shares slump as price hikes, games shortfall spook market",
+    "quote": "Nintendo's shares fell 7% in Tokyo on Monday after the company hiked Switch 2 prices and as the market frets over a lack of high-profile games to build momentum.",
+    "url": "https://www.thestar.com.my/tech/tech-news/2026/05/11/nintendo-shares-slump-as-price-hikes-games-shortfall-spook-market",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 12,
+    "org": "Nintendo Co., Ltd.",
+    "year": 2026,
+    "title": "Consolidated Financial Highlights – ba tháng kết thúc 30/6/2026 (6/8/2026)",
+    "quote": "due to the growth in sales of software, which accounted for a larger proportion of total sales, and the refund of IEEPA tariffs in the US, which were recorded as cost of sales in prior periods",
+    "url": "https://www.nintendo.co.jp/ir/pdf/2026/260806e.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   }
+  ]
+ },
+ {
+  "id": "toyota",
+  "kind": "case",
+  "section": "8",
+  "title": "Toyota: từ xưởng máy dệt đến hãng xe bán 10 triệu chiếc, sống bằng kỷ luật sản xuất và không đặt cược vào một công nghệ",
+  "summary": "Tách ra năm 1937 từ xưởng máy dệt tự động của gia đình Toyoda, nay bán khoảng 10,5 triệu xe Toyota và Lexus mỗi năm. Năm tài chính kết thúc 3/2026 doanh thu 50.685 tỷ yên, lợi nhuận hoạt động giảm 21,5% còn 3.766 tỷ yên, riêng thuế quan Mỹ lấy mất 1.380 tỷ yên. Điều đáng học: Hệ thống sản xuất Toyota và việc giữ nhiều hướng công nghệ cùng lúc, nhưng chính danh tiếng chất lượng đã sụp trong vụ thu hồi xe 2009–2010.",
+  "tags": {
+   "reach": "multi",
+   "age": "old",
+   "outcome": "survived",
+   "owner": "public",
+   "evidence": "A"
+  },
+  "facts": {
+   "founded": "1937 (gốc: xưởng máy dệt 1926)",
+   "revenue": "50.685 tỷ yên (FY3/2026)",
+   "profit": "LN hoạt động 3.766 tỷ yên (FY3/2026)",
+   "people": "390.927 nhân viên hợp nhất (3/2026)",
+   "text": "Số từ FY2026 Financial Summary (IFRS, công bố 8/5/2026, bản tin kết quả trước khi nộp báo cáo năm) và thông cáo của Toyota. Lợi nhuận ròng thuộc cổ đông công ty mẹ 3.848 tỷ yên (giảm 19,2%). Toyota tự quy đổi doanh thu ≈ 335,7 tỷ USD theo tỷ giá bình quân 151 yên/USD. Xe Toyota và Lexus bán lẻ 10,48 triệu chiếc, trong đó xe điện hóa (hybrid, hybrid cắm sạc, điện thuần, pin nhiên liệu) 48,1%. Nhân sự: 73.133 người ở công ty mẹ, 390.927 người hợp nhất.",
+   "grade": "A",
+   "refs": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  "engine": {
+   "text": "Tiền đến từ hai mảng. Mảng ô tô (thiết kế, sản xuất, bán xe và phụ tùng) lớn nhất nhưng biên lợi nhuận hoạt động chỉ khoảng 6,1%. Mảng dịch vụ tài chính (cho vay mua xe, cho thuê xe) doanh thu nhỏ hơn khoảng 9 lần nhưng biên khoảng 17,5%. Lợi nhuận dồn ở Nhật: lợi nhuận hoạt động khu vực Nhật Bản 2.330,7 tỷ yên, trong khi Bắc Mỹ lỗ 298,6 tỷ yên năm FY3/2026 vì thuế quan. Về sản phẩm, xe hybrid là trụ cột: 4,62 triệu xe, còn xe điện thuần mới 243 nghìn xe.",
+   "segments": [
+    {
+     "item": "Ô tô",
+     "value": "45.418 tỷ yên doanh thu; LN hoạt động 2.777 tỷ yên",
+     "grade": "A",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "item": "Dịch vụ tài chính",
+     "value": "4.857 tỷ yên doanh thu; LN hoạt động 851,7 tỷ yên",
+     "grade": "A",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "item": "Mảng khác",
+     "value": "1.651 tỷ yên doanh thu; LN hoạt động 132 tỷ yên",
+     "grade": "A",
+     "refs": [
+      1
+     ]
+    },
+    {
+     "item": "Xe hybrid (HEV) bán lẻ",
+     "value": "4,62 triệu xe ≈ 44% xe Toyota, Lexus",
+     "grade": "A",
+     "refs": [
+      3
+     ]
+    },
+    {
+     "item": "Xe điện thuần (BEV) bán lẻ",
+     "value": "243 nghìn xe ≈ 2,3%",
+     "grade": "A",
+     "refs": [
+      3
+     ]
+    }
+   ],
+   "refs": [
+    1,
+    2,
+    3
+   ]
+  },
+  "moat": {
+   "text": "Hệ thống sản xuất Toyota (TPS) có hai trụ: jidoka (máy và người được quyền dừng dây chuyền khi thấy bất thường để không lọt hàng lỗi) và Just-in-Time (chỉ làm cái cần, lúc cần, đúng lượng cần). Theo công ty tự công bố, gốc của jidoka là máy dệt tự dừng khi đứt sợi của Sakichi Toyoda. Lợi thế thứ hai là giữ nhiều hướng công nghệ: Toyota bán hybrid từ 1997 (Prius) và theo đuổi cách tiếp cận 'đa hướng' (multi-pathway) gồm hybrid, hybrid cắm sạc, điện thuần, pin nhiên liệu hydro và nhiên liệu trung hòa carbon, tùy năng lượng từng vùng. Khi nhu cầu xe điện thuần chậm lại, hybrid gánh doanh số. Thứ ba là mảng tài chính tự có, giữ khách và đại lý trong hệ thống Toyota.",
+   "refs": [
+    8,
+    9,
+    16,
+    3
+   ]
+  },
+  "timeline": [
+   {
+    "year": "1926",
+    "event": "Sakichi Toyoda lập Toyoda Automatic Loom Works để sản xuất và bán máy dệt tự động Type G (phát minh năm 1924).",
+    "refs": [
+     5
+    ]
+   },
+   {
+    "year": "1929–1933",
+    "event": "Bán quyền sáng chế máy dệt cho Platt Brothers (Anh); Kiichiro Toyoda sang Mỹ, châu Âu khảo sát ngành ô tô. Năm 1933 xưởng máy dệt lập Phòng Ô tô.",
+    "refs": [
+     6,
+     5
+    ]
+   },
+   {
+    "year": "1937",
+    "event": "Toyota Motor Co., Ltd. ra đời (28/8/1937). Năm 1938 nhà máy Koromo chạy, bắt đầu cách làm Just-in-Time.",
+    "refs": [
+     6,
+     4
+    ]
+   },
+   {
+    "year": "1950",
+    "event": "Khủng hoảng tài chính và đình công: 2.146 người mất việc, Chủ tịch Kiichiro Toyoda từ chức.",
+    "refs": [
+     7
+    ]
+   },
+   {
+    "year": "1997",
+    "event": "Ra mắt Prius với Toyota Hybrid System.",
+    "refs": [
+     9
+    ]
+   },
+   {
+    "year": "2009–2010",
+    "event": "Lần đầu lỗ kể từ khi thành lập (461 tỷ yên); Akio Toyoda làm chủ tịch; khủng hoảng thu hồi xe toàn cầu, điều trần trước Quốc hội Mỹ (2010).",
+    "refs": [
+     9
+    ]
+   },
+   {
+    "year": "2011",
+    "event": "Động đất Đông Nhật Bản, sau đó lũ ở Thái Lan và đồng yên tăng mạnh.",
+    "refs": [
+     9
+    ]
+   },
+   {
+    "year": "2025–2026",
+    "event": "Thuế quan Mỹ lấy mất 1.380 tỷ yên lợi nhuận hoạt động năm tài chính kết thúc 3/2026; Bắc Mỹ lỗ hoạt động.",
+    "refs": [
+     1,
+     2
+    ]
+   }
+  ],
+  "crises": [
+   {
+    "title": "1950: suýt phá sản, cắt 2.146 việc làm",
+    "text": "Chính sách thắt chặt tiền tệ năm 1949 đẩy kinh tế Nhật vào suy thoái; Toyota rơi vào khủng hoảng tài chính lớn nhất từ khi thành lập. Phương án tái cơ cấu dẫn tới đình công tháng 4–6/1950. Kết quả: 2.146 người mất việc (378 người ở hai nhà máy Tokyo bị đóng), còn lại 5.994 người; Chủ tịch Kiichiro Toyoda và hai lãnh đạo nhận trách nhiệm từ chức. Theo bảo tàng của Toyota, công ty hồi phục nhanh chỉ hai tháng sau nhờ đơn đặt hàng quân sự thời Chiến tranh Triều Tiên, tức là nhờ cầu bên ngoài chứ không chỉ nhờ cắt giảm.",
+    "refs": [
+     7,
+     17
+    ]
+   },
+   {
+    "title": "2009–2010: lỗ lần đầu và thu hồi khoảng 8 triệu xe",
+    "text": "Năm tài chính kết thúc 3/2009 (khủng hoảng tài chính toàn cầu) doanh thu giảm 21,9%, Toyota lỗ hoạt động 461,0 tỷ yên và lỗ ròng 437,0 tỷ yên. Ngay sau đó là vụ thu hồi khoảng 8 triệu xe trên toàn cầu vì bàn đạp ga bị kẹt, liên quan tới tối đa 19 ca tử vong ở Mỹ trong 10 năm (AP, 2/2010); Akio Toyoda phải điều trần trước Quốc hội Mỹ. Năm 2014 Bộ Tư pháp Mỹ chốt khoản phạt 1,2 tỷ USD; Bộ trưởng Tư pháp Eric Holder nói Toyota đã xử lý một tình huống khẩn cấp về an toàn như thể chỉ là vấn đề quan hệ công chúng.",
+    "refs": [
+     10,
+     9,
+     11,
+     12
+    ]
+   },
+   {
+    "title": "2011: động đất và lũ Thái Lan cắt đứt chuỗi cung ứng",
+    "text": "Nửa đầu năm tài chính kết thúc 3/2012 (4–9/2011) lượng xe bán hợp nhất giảm 689 nghìn còn 3,026 triệu xe, Toyota lỗ hoạt động 32,6 tỷ yên so với lãi 323,1 tỷ yên cùng kỳ. Cả năm lợi nhuận hoạt động còn 355,6 tỷ yên so với 468,2 tỷ yên năm trước. Toyota thừa nhận trước động đất họ không có thông tin về nhà cung cấp quá cấp hai. Từ 2011 công ty xây cơ sở dữ liệu chuỗi cung ứng theo từng linh kiện, yêu cầu nhà cung cấp cấp một thu thập thông tin cấp hai trở đi.",
+    "refs": [
+     13,
+     14,
+     15
+    ]
+   }
+  ],
+  "lessons": [
+   {
+    "title": "Thấy lỗi thì dừng lại sửa, không đẩy lỗi xuống khâu sau",
+    "text": "Jidoka nghĩa là ai thấy bất thường cũng được dừng dây chuyền. Trong quán ăn hay xưởng nhỏ: món sai, hàng lỗi thì dừng lại tìm nguyên nhân ngay, không để tới tay khách rồi mới xin lỗi. Sửa lúc đầu rẻ hơn đổi trả và mất khách.",
+    "refs": [
+     8
+    ]
+   },
+   {
+    "title": "Lỗi an toàn phải xử lý như lỗi an toàn, không phải chuyện truyền thông",
+    "text": "Vụ thu hồi 2009–2010 thành khoản phạt 1,2 tỷ USD vì cơ quan Mỹ kết luận Toyota coi vấn đề an toàn như vấn đề quan hệ công chúng. Người bán thực phẩm, mỹ phẩm, đồ điện: khi khách phản ánh hàng có thể gây hại, thu hồi và báo thật trước, giữ uy tín sau. Che giấu chỉ làm cái giá lớn hơn.",
+    "refs": [
+     12,
+     11
+    ]
+   },
+   {
+    "title": "Biết rõ nguồn hàng tới tầng thứ hai, có sẵn nguồn dự phòng",
+    "text": "Năm 2011 Toyota mất nhiều thời gian mới biết linh kiện nào bị ảnh hưởng vì không có thông tin về nhà cung cấp của nhà cung cấp. Doanh nghiệp nhỏ nên liệt kê 3–5 nguyên liệu quan trọng nhất, biết người bán sỉ của mình lấy hàng từ đâu, và có ít nhất một nguồn thay thế đã thử trước khi có sự cố.",
+    "refs": [
+     15,
+     13
+    ]
+   }
+  ],
+  "weak": {
+   "text": "Thuế quan Mỹ lấy mất 1.380 tỷ yên lợi nhuận hoạt động năm tài chính kết thúc 3/2026 và làm Bắc Mỹ lỗ 298,6 tỷ yên. Toyota tự nhận điểm hòa vốn tăng mạnh do chi nhân sự, đầu tư cho tương lai và thuế quan; dự báo mới nhất (8/2026) cho năm kết thúc 3/2027 là lợi nhuận hoạt động 3.400 tỷ yên, giảm 9,7%. Công ty cũng nhận trong 2024–2025 phải xử lý 'vấn đề chứng nhận' (liên quan thủ tục chứng nhận xe) và thiếu công suất. Xe điện thuần mới chiếm khoảng 2,3% lượng bán: nếu xe điện thuần thắng nhanh hơn dự tính, Toyota đi sau.",
+   "refs": [
+    1,
+    2,
+    18,
+    3
+   ]
+  },
+  "notes": "Tag age = 'old' vì Toyota Motor lập năm 1937 (89 năm); gốc Toyoda Automatic Loom Works lập 1926 tròn 100 năm vào 11/2026. Tag owner = 'public' vì cổ đông phân tán, nhưng gia đình Toyoda vẫn giữ vai trò lãnh đạo (Akio Toyoda là chủ tịch HĐQT; tổng giám đốc từ 2026 là Kenta Kon theo trang hồ sơ công ty) và có sở hữu chéo với các công ty trong nhóm (nhóm đang đưa Toyota Industries ra khỏi sàn qua chào mua công khai, theo tài liệu kết quả FY2026). Ngày bắt đầu đình công 1950 không thống nhất ngay trong trang lịch sử Toyota (9/4 và 11/4/1950), nên chỉ ghi 'tháng 4–6/1950'. Số 8 triệu xe thu hồi lấy từ AP 2/2010; các nguồn khác ghi 8,5 triệu (chưa mở được trang gốc). Thông cáo DOJ 2014 (1,2 tỷ USD) bị chặn truy cập tự động; dùng NBC News. Số FY2026 là bản tin kết quả; báo cáo 20-F trên SEC không tải được (SEC chặn truy cập không khai báo).",
+  "sources": [
+   {
+    "id": 1,
+    "org": "Toyota Motor Corporation",
+    "year": 2026,
+    "title": "FY2026 Financial Summary (1/4/2025–31/3/2026), IFRS",
+    "quote": "The negative impact of U.S. tariffs on consolidated operating income for FY2026 was 1,380.0 billion yen.",
+    "url": "https://global.toyota/pages/global_toyota/ir/financial-results/2026_4q_summary_en.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 2,
+    "org": "Toyota Motor North America Newsroom",
+    "year": 2026,
+    "title": "TMC Announces April through March 2026 Financial Results",
+    "quote": "On a consolidated basis, net revenues for the period totaled 50.684 trillion yen ($335.7 billion), an increase of 5.5%.",
+    "url": "https://pressroom.toyota.com/tmc-announces-april-through-march-2026-financial-results/",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 3,
+    "org": "Toyota Motor Corporation",
+    "year": 2026,
+    "title": "FY2026 Financial Results – presentation (8/5/2026)",
+    "quote": "Toyota and Lexus Vehicle Sales 10,477 10,500 100.2%",
+    "url": "https://global.toyota/pages/global_toyota/ir/financial-results/2026_4q_presentation_en.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 4,
+    "org": "Toyota Motor Corporation",
+    "year": 2026,
+    "title": "Company Profile: Overview",
+    "quote": "73,133 (Consolidated 390,927)",
+    "url": "https://global.toyota/en/company/profile/overview/",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 5,
+    "org": "Toyota Industries Corporation",
+    "year": 2026,
+    "title": "History",
+    "quote": "Toyoda Automatic Loom Works, Ltd. (now Toyota Industries Corporation) established to manufacture and market the automatic loom invented by Sakichi Toyoda.",
+    "url": "https://www.toyota-industries.com/company/history/",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 6,
+    "org": "Toyota Motor Corporation",
+    "year": 2026,
+    "title": "History of Toyota: The Beginnings",
+    "quote": "Kiichiro Toyoda traveled overseas to gather information on the U.S. machine and automotive industries, and signed a patent transfer agreement with Platt Brothers & Co., Ltd. in the UK.",
+    "url": "https://global.toyota/en/company/trajectory-of-toyota/history/01/",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 7,
+    "org": "Toyota Motor Corporation",
+    "year": 2012,
+    "title": "75 Years of Toyota – Labor Disputes and President Kiichiro's Resignation",
+    "quote": "There were 2,146 job losses, including 378 at the two plants. A staff of 5,994 remained (including 350 in the sales division).",
+    "url": "https://www.toyota-global.com/company/history_of_toyota/75years/text/taking_on_the_automotive_business/chapter2/section6/item6_d.html",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 8,
+    "org": "Toyota Motor Corporation",
+    "year": 2026,
+    "title": "Toyota Production System",
+    "quote": "The objective is to thoroughly eliminate waste and shorten lead times to deliver vehicles to customers quickly, at a low cost, and with high quality.",
+    "url": "https://global.toyota/en/company/vision-and-philosophy/production-system/",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 9,
+    "org": "Toyota Motor Corporation",
+    "year": 2026,
+    "title": "History of Toyota: Inheritance and Evolution",
+    "quote": "First fall into the red since foundation (¥461 billion)",
+    "url": "https://global.toyota/en/company/trajectory-of-toyota/history/02/",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 10,
+    "org": "Toyota Motor Corporation",
+    "year": 2009,
+    "title": "FY2009 Financial Results – presentation (8/5/2009)",
+    "quote": "Net Income -437.0 1,717.8 -2,154.8",
+    "url": "https://global.toyota/pages/global_toyota/ir/financial-results/archives/en/May_8_2009_presentation.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 11,
+    "org": "AP (đăng trên PBS NewsHour)",
+    "year": 2010,
+    "title": "Toyota's president apologizes to customers for recall worries",
+    "quote": "The company has recalled some 8 million cars worldwide over problems related to a sticking accelerator pedal that have been linked to up to 19 crash deaths in the United States over the past decade.",
+    "url": "https://www.pbs.org/newshour/nation/toyotas-president-apologizes-to-customers-for-recall-worries",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 12,
+    "org": "NBC News",
+    "year": 2014,
+    "title": "Toyota Reaches $1 Billion Settlement Over Acceleration Issues",
+    "quote": "“Toyota confronted a public safety emergency as if it were simply a public relations problem,” Attorney General Eric Holder said",
+    "url": "https://www.nbcnews.com/business/autos/toyota-reaches-1-billion-settlement-over-acceleration-issues-n56621",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 13,
+    "org": "Toyota Motor Corporation",
+    "year": 2011,
+    "title": "FY2012 First Half Financial Results – presentation (8/11/2011)",
+    "quote": "Operating Income -32.6 323.1 -355.7",
+    "url": "https://global.toyota/pages/global_toyota/ir/financial-results/archives/en/November_8_2011_presentation.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 14,
+    "org": "Toyota Motor Corporation",
+    "year": 2012,
+    "title": "FY2012 Financial Results – presentation (9/5/2012)",
+    "quote": "Operating Income 355.6 468.2",
+    "url": "https://global.toyota/pages/global_toyota/ir/financial-results/archives/en/May_9_2012_presentation.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 15,
+    "org": "Automotive Logistics",
+    "year": 2021,
+    "title": "A stronger supply chain since Fukushima",
+    "quote": "Before the earthquake, we had no information on suppliers beyond the tier two level and, as a result, didn’t know if issues at those companies would impact tier one suppliers or supplies",
+    "url": "https://www.automotivelogistics.media/oems/a-stronger-supply-chain-since-fukushima/189342",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 16,
+    "org": "Toyota Motor Corporation",
+    "year": 2025,
+    "title": "Toyota's Views on Climate Public Policies 2025",
+    "quote": "we will continue to pursue a variety of options based on a multi-pathway approach to stay close to the future of energy and the condition of each region.",
+    "url": "https://global.toyota/pages/global_toyota/sustainability/esg/environmental/climate_public_policies_2025_en.pdf",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 17,
+    "org": "Toyota Commemorative Museum of Industry and Technology",
+    "year": 2026,
+    "title": "The establishment of Toyota Motor Sales and labor disputes",
+    "quote": "Two months later, however, business performance improved rapidly as a result of the Korean War special procurement demand, kicking off a new phase in Toyota's history.",
+    "url": "https://www.tcmit.org/vgt/car/english/scene-06-iframe/target-05/",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 18,
+    "org": "Toyota Motor Corporation",
+    "year": 2026,
+    "title": "FY2027 First Quarter Financial Summary (1/4–30/6/2026)",
+    "quote": "Full-year 54,000,000 6.5 3,400,000 -9.7 4,570,000 -11.3 3,250,000 -15.5",
+    "url": "https://global.toyota/pages/global_toyota/ir/financial-results/2027_1q_summary_en.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   }
+  ]
+ },
+ {
+  "id": "samsung",
+  "kind": "case",
+  "section": "8",
+  "title": "Samsung: từ tiệm cá khô Daegu đến nhà làm chip nhớ hàng đầu, giàu nghèo theo chu kỳ bộ nhớ",
+  "summary": "Bắt đầu năm 1938 là cửa hàng buôn cá khô, trái cây và mì ở Daegu; Samsung Electronics (lập 1969) nay là cỗ máy kiếm tiền chính của tập đoàn do gia đình Lee kiểm soát. Năm 2025 doanh thu 333,6 nghìn tỷ won, lợi nhuận hoạt động 43,6 nghìn tỷ won, trong đó hơn một nửa từ bán dẫn. Điều đáng học: lợi nhuận lên xuống theo giá chip nhớ (2023 mảng chip lỗ 14,88 nghìn tỷ won) và có thể tụt hậu ngay trong mảng mạnh nhất (chip HBM cho AI, 2024–2025).",
+  "tags": {
+   "reach": "multi",
+   "age": "old",
+   "outcome": "survived",
+   "owner": "family",
+   "evidence": "A"
+  },
+  "facts": {
+   "founded": "1938 (tập đoàn); 1969 (Electronics)",
+   "revenue": "333,6 nghìn tỷ won (2025)",
+   "profit": "LN hoạt động 43,6 nghìn tỷ won (2025)",
+   "people": "259.149 nhân viên toàn cầu (2025)",
+   "text": "Số hợp nhất (K-IFRS) của riêng Samsung Electronics, không phải cả tập đoàn Samsung, theo thông cáo và tài liệu kết quả quý 4/2025 công bố tháng 1/2026 (công ty ghi rõ tài liệu ra trước khi kiểm toán xong; báo cáo kinh doanh năm 2025 nộp sau đó). Lợi nhuận ròng 45,2 nghìn tỷ won. Chi R&D kỷ lục 37,7 nghìn tỷ won (khoảng 11,3% doanh thu). Nhân sự 259.149 người toàn cầu cuối 2025 (Báo cáo phát triển bền vững 2026), trong đó 128.881 người tại trụ sở Hàn Quốc (Báo cáo kinh doanh).",
+   "grade": "A",
+   "refs": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  "engine": {
+   "text": "Hai cỗ máy. Bán dẫn (DS) bán chip nhớ DRAM, NAND, HBM cho hãng làm máy chủ, điện thoại, máy tính; thêm chip logic và gia công chip. Thiết bị (DX) bán điện thoại Galaxy, TV, đồ gia dụng cho người tiêu dùng. Năm 2025 DS đem về 24,9 nghìn tỷ won lợi nhuận hoạt động, khoảng 57% tổng; điện thoại và mạng lãi khoảng 12,9 nghìn tỷ; TV và gia dụng lỗ 0,2 nghìn tỷ. Khi giá nhớ tăng mạnh, tỷ trọng lệch hơn nữa: quý 3/2026 DS lãi 106,5 nghìn tỷ won trong tổng 107,4 nghìn tỷ, còn DX lỗ 0,8 nghìn tỷ. Doanh thu từng mảng tính cả bán nội bộ nên cộng lại lớn hơn tổng.",
+   "segments": [
+    {
+     "item": "Bán dẫn (DS)",
+     "value": "130,1 nghìn tỷ won; LN hoạt động 24,9 nghìn tỷ (2025)",
+     "grade": "A",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "item": "Trong đó chip nhớ (Memory)",
+     "value": "104,1 nghìn tỷ won doanh thu (2025)",
+     "grade": "A",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "item": "Điện thoại và mạng (MX/NW)",
+     "value": "129,5 nghìn tỷ won; LN ≈ 12,9 nghìn tỷ",
+     "grade": "A",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "item": "TV và gia dụng (VD/DA)",
+     "value": "57,3 nghìn tỷ won; lỗ 0,2 nghìn tỷ",
+     "grade": "A",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "item": "Màn hình (Samsung Display)",
+     "value": "29,8 nghìn tỷ won; LN 4,1 nghìn tỷ",
+     "grade": "A",
+     "refs": [
+      2
+     ]
+    },
+    {
+     "item": "Harman (âm thanh, ô tô)",
+     "value": "15,8 nghìn tỷ won; LN 1,5 nghìn tỷ",
+     "grade": "A",
+     "refs": [
+      2
+     ]
+    }
+   ],
+   "refs": [
+    1,
+    2,
+    8
+   ]
+  },
+  "moat": {
+   "text": "Quy mô và vốn trong ngành cần nhà máy rất đắt: theo công ty tự công bố, Samsung đạt thị phần DRAM số một thế giới năm 1992 và số một toàn thị trường chip nhớ năm 1993; năm 2025 chi 37,7 nghìn tỷ won cho R&D. Tích hợp dọc: vừa làm chip nhớ, màn hình OLED, vừa bán điện thoại, TV, nên vừa là nhà cung cấp vừa là khách hàng của chính mình. Quyền kiểm soát ổn định của gia đình Lee giúp đầu tư dài hạn, dù sở hữu trực tiếp nhỏ: theo báo cáo kinh doanh 2025, Lee Jae-yong là cổ đông lớn nhất của Samsung C&T (19,93%, lên 21,00% sau khi được mẹ tặng cổ phần ngày 2/1/2026); Samsung C&T là cổ đông lớn nhất của Samsung Life; Samsung Life giữ 8,51% Samsung Electronics và Samsung C&T giữ thêm 5,05%.",
+   "refs": [
+    5,
+    1,
+    3
+   ]
+  },
+  "timeline": [
+   {
+    "year": "1936",
+    "event": "Lee Byung-chull mở nhà máy xay xát gạo ở Masan, phải đóng cửa khi tài chính xấu đi do Chiến tranh Trung–Nhật.",
+    "refs": [
+     6
+    ]
+   },
+   {
+    "year": "1938",
+    "event": "Mở Samsung Sanghoe ở Daegu, buôn cá khô, trái cây và mì.",
+    "refs": [
+     6
+    ]
+   },
+   {
+    "year": "1969",
+    "event": "Lập Samsung Electronics Industry Co. (13/1/1969); niêm yết năm 1975.",
+    "refs": [
+     3
+    ]
+   },
+   {
+    "year": "1974",
+    "event": "Mua Hankook Semiconductor, bước vào bán dẫn.",
+    "refs": [
+     5
+    ]
+   },
+   {
+    "year": "1983",
+    "event": "Phát triển chip DRAM 64Kb, động thổ khu sản xuất Giheung.",
+    "refs": [
+     5
+    ]
+   },
+   {
+    "year": "1992–1993",
+    "event": "Đứng đầu thị phần DRAM thế giới (1992) và toàn thị trường chip nhớ (1993).",
+    "refs": [
+     5
+    ]
+   },
+   {
+    "year": "2017–2025",
+    "event": "Người thừa kế Lee Jae-yong bị kết án hối lộ (2017), ngồi tù 18 tháng, được ân xá 2022; được tuyên trắng án trong vụ sáp nhập 2015 (7/2025).",
+    "refs": [
+     13
+    ]
+   },
+   {
+    "year": "2026",
+    "event": "Quý 3/2026 lợi nhuận hoạt động 107,4 nghìn tỷ won, gần như toàn bộ từ bán dẫn nhờ giá nhớ tăng và HBM4.",
+    "refs": [
+     8
+    ]
+   }
+  ],
+  "crises": [
+   {
+    "title": "Đáy chu kỳ chip nhớ 2023",
+    "text": "Chu kỳ chip nhớ xuống đáy năm 2023. Lợi nhuận hoạt động toàn công ty giảm từ 43,38 nghìn tỷ won (2022) xuống 6,57 nghìn tỷ won (2023), giảm khoảng 85%. Mảng bán dẫn từ lãi 23,82 nghìn tỷ thành lỗ 14,88 nghìn tỷ won. Mảng điện thoại vẫn lãi khoảng 13 nghìn tỷ won năm 2023, đỡ cho cả công ty khỏi lỗ. Khi giá nhớ đảo chiều, lợi nhuận bật lên: riêng quý 3/2026 là 107,4 nghìn tỷ won.",
+    "refs": [
+     7,
+     8
+    ]
+   },
+   {
+    "title": "Tụt hậu chip HBM cho AI, 2024–2025",
+    "text": "Tháng 5/2024 Reuters đưa tin chip HBM mới của Samsung chưa qua bài kiểm tra của Nvidia vì nóng và tốn điện (Samsung phủ nhận). Tháng 10/2024 Samsung ra lời xin lỗi hiếm hoi về kết quả kém, thừa nhận lo ngại về 'năng lực công nghệ cốt lõi'. Quý 2/2025 thị phần HBM: SK hynix 62%, Micron 21%, Samsung 17% (Counterpoint). Cả năm 2025 SK hynix lãi hoạt động 47,2 nghìn tỷ won, hơn toàn bộ Samsung Electronics (43,6 nghìn tỷ). Lối ra: Samsung lên kế hoạch giao HBM4 từ quý 1/2026; tài liệu quý 3/2026 của công ty nói đã tăng mạnh doanh số HBM4.",
+    "refs": [
+     9,
+     10,
+     12,
+     11,
+     1,
+     8
+    ]
+   },
+   {
+    "title": "Án pháp lý của người thừa kế và thuế thừa kế",
+    "text": "Lee Jae-yong bị kết án năm 2017 vì hối lộ Tổng thống Park Geun-hye để được ủng hộ vụ sáp nhập Samsung C&T – Cheil Industries 2015, vụ sáp nhập củng cố quyền kiểm soát của ông; án ban đầu 5 năm, thực tế ngồi tù 18 tháng, tạm tha 2021, ân xá 2022. Vụ thứ hai (thao túng giá cổ phiếu, gian lận kế toán quanh vụ sáp nhập): tòa sơ thẩm Seoul tuyên trắng án năm 2024, Tòa tối cao giữ nguyên tháng 7/2025. Sau khi Lee Kun-hee mất (2020), gia đình phải nộp hơn 12 nghìn tỷ won thuế thừa kế, hơn một nửa giá trị di sản.",
+    "refs": [
+     13,
+     14
+    ]
+   }
+  ],
+  "lessons": [
+   {
+    "title": "Mặt hàng lãi nhất cũng là mặt hàng rủi ro nhất",
+    "text": "Lợi nhuận chip nhớ của Samsung đi từ lỗ 14,88 nghìn tỷ won (2023) tới lãi hơn 100 nghìn tỷ won một quý (2026). Ai buôn hàng có giá lên xuống theo mùa hay theo thị trường (nông sản, vàng, linh kiện) nên để dành phần lãi năm được giá cho năm mất giá, và giữ một mảng thu nhập đều tay để sống qua đáy.",
+    "refs": [
+     7,
+     8
+    ]
+   },
+   {
+    "title": "Đứng đầu hôm nay không giữ chỗ cho sản phẩm đời sau",
+    "text": "Samsung đã là hãng chip nhớ số một từ 1993 (theo công ty) nhưng vẫn để SK hynix chiếm phần lớn thị trường HBM khi khách hàng chip AI lớn nhất (Nvidia) đặt yêu cầu mới. Bài học cho người làm nhỏ: hỏi thường xuyên khách mua nhiều nhất cần gì ở lô hàng tới, đừng chỉ dựa vào việc họ đang mua của mình.",
+    "refs": [
+     9,
+     12,
+     11
+    ]
+   },
+   {
+    "title": "Lo chuyện kế thừa sớm, đúng luật và tách tiền gia đình khỏi tiền công ty",
+    "text": "Việc giữ quyền kiểm soát cho đời sau qua sáp nhập kéo Samsung vào kiện tụng từ 2017 tới 2025, người thừa kế ngồi tù 18 tháng, gia đình nộp hơn 12 nghìn tỷ won thuế thừa kế. Hộ kinh doanh gia đình nên sớm lập văn bản ai sở hữu gì, ai điều hành, chuyển giao thế nào, tính trước thuế phải nộp.",
+    "refs": [
+     13,
+     14
+    ]
+   }
+  ],
+  "weak": {
+   "text": "Phụ thuộc cực độ vào giá chip nhớ: quý 3/2026 bán dẫn gần như là toàn bộ lợi nhuận, mảng điện thoại, TV, gia dụng lỗ 0,8 nghìn tỷ won; khi chu kỳ đảo chiều, lợi nhuận có thể rơi như năm 2023. Mảng gia công chip cuối 2025 vẫn bị chi phí dự phòng làm hạn chế cải thiện lợi nhuận. Vị thế HBM vẫn đang phải giành lại từ SK hynix. Quyền kiểm soát của gia đình Lee dựa trên chuỗi sở hữu qua Samsung C&T và Samsung Life, không phải sở hữu trực tiếp lớn tại Samsung Electronics.",
+   "refs": [
+    8,
+    1,
+    12,
+    3
+   ]
+  },
+  "notes": "Tag age = 'old' theo mốc 1938 (88 năm); Samsung Electronics lập 1969. Số liệu theo mảng đọc từ bảng trong tài liệu kết quả (trích xuất PDF làm mất dấu ngoặc của một số số âm; MX/NW 12,9 nghìn tỷ và DX 12,9 nghìn tỷ lệch nhau 0,2 nghìn tỷ so với cộng mảng, có thể do mảng thiết bị y tế và làm tròn). Tài liệu quý 4/2023 tải về là bản có chữ Hàn; chỉ dùng các con số trong bảng. Không dùng số sở hữu trực tiếp của Lee Jae-yong tại Samsung Electronics vì bảng trong báo cáo bị vỡ cột khi trích xuất. Thị phần HBM là số của Counterpoint qua BusinessKorea, không mở được trang Counterpoint. Mốc 'Samsung mất ngôi DRAM quý 1/2025' (Counterpoint) chỉ thấy qua trang tin không chuyên nên không đưa vào.",
+  "sources": [
+   {
+    "id": 1,
+    "org": "Samsung Electronics",
+    "year": 2026,
+    "title": "Samsung Electronics Announces Fourth Quarter and FY 2025 Results",
+    "quote": "For the full year, the Company reported KRW 333.6 trillion in annual revenue and KRW 43.6 trillion in operating profit.",
+    "url": "https://news.samsung.com/global/samsung-electronics-announces-fourth-quarter-and-fy-2025-results",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 2,
+    "org": "Samsung Electronics",
+    "year": 2026,
+    "title": "Earnings Presentation: 4Q 2025 Financial Results",
+    "quote": "DS 2.9 7.0 16.4 9.4 13.5 15.1 24.9 9.8",
+    "url": "https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2025_4Q_conference_eng.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 3,
+    "org": "Samsung Electronics",
+    "year": 2026,
+    "title": "Business Report for the fiscal year 2025 (bản tiếng Anh)",
+    "quote": "was established as Samsung Electronics Industry Co., Ltd. on January 13, 1969, and held an initial public offering on June 11, 1975.",
+    "url": "https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2025_4Q_Interim_Report.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 4,
+    "org": "Samsung Electronics",
+    "year": 2026,
+    "title": "Sustainability Report 2026",
+    "quote": "Number of employees1) 267,860 262,647 259,149",
+    "url": "https://images.samsung.com/is/content/samsung/assets/global/ir/docs/Samsung_Electronics_Sustainability_Report_2026_ENG.pdf",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 5,
+    "org": "Samsung Semiconductor",
+    "year": 2026,
+    "title": "About Us: History",
+    "quote": "Achieves the world’s top memory market share",
+    "url": "https://semiconductor.samsung.com/about-us/history/",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 6,
+    "org": "Korea JoongAng Daily",
+    "year": 2010,
+    "title": "A pioneer who put people first",
+    "quote": "Lee established a small store in Daegu called Samsung Sanghoe, a small trading company that dealt with dried fish, fruit and noodles, that was the precursor to the Samsung of today.",
+    "url": "https://www.koreajoongangdaily.com/business/a-pioneer-who-put-people-first/10837028",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 7,
+    "org": "Samsung Electronics",
+    "year": 2024,
+    "title": "Earnings Presentation 4Q 2023 (bảng kết quả theo mảng)",
+    "quote": "DS (2.18) (3.75) 0.27 1.57 (2.45) (14.88) 23.82 (38.70)",
+    "url": "https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2023_4Q_conference_eng.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 8,
+    "org": "Samsung Electronics",
+    "year": 2026,
+    "title": "Earnings Presentation: 3Q 2026 Financial Results",
+    "quote": "Became the first global tech company ever to exceed KRW 100T in quarterly operating profit",
+    "url": "https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2026_3Q_conference_eng.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 9,
+    "org": "Reuters (đăng lại trên Business Standard)",
+    "year": 2024,
+    "title": "Samsung's HBM chips failing Nvidia tests due to heat, power problems",
+    "quote": "Samsung Electronics' latest high bandwidth memory (HBM) chips have yet to pass Nvidia's tests for use in the US firm's AI processors due to heat and power consumption problems, three people briefed on the issues said.",
+    "url": "https://www.business-standard.com/technology/tech-news/samsung-s-hbm-chips-failing-nvidia-tests-due-to-heat-power-problems-124052400242_1.html",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 10,
+    "org": "AFP (đăng lại trên The Star)",
+    "year": 2024,
+    "title": "Samsung issues rare apology for poor results in tech 'crisis'",
+    "quote": "concerns have arisen about our fundamental technological competitiveness and the future of the company",
+    "url": "https://www.thestar.com.my/tech/tech-news/2024/10/08/samsung-issues-rare-apology-for-poor-results-in-tech-crisis",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 11,
+    "org": "The Korea Times",
+    "year": 2026,
+    "title": "SK hynix posts record 2025 profit on AI memory boom",
+    "quote": "SK hynix posted an operating profit of 47.2 trillion won ($33.13 billion) and 97.15 trillion won in sales for 2025",
+    "url": "https://www.koreatimes.co.kr/business/tech-science/20260128/sk-hynix-posts-record-2025-profit-on-ai-memory-boom",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 12,
+    "org": "BusinessKorea (đăng lại trên Design & Reuse), số liệu Counterpoint Research",
+    "year": 2025,
+    "title": "Samsung's Share in HBM Market Projected to Surpass 30% in 2026",
+    "quote": "SK hynix led the HBM market in the second quarter with a 62% market share. Micron ranked second with 21%, while Samsung Electronics came in third with 17%.",
+    "url": "https://www.design-reuse.com/news/202529413-samsung-s-share-in-hbm-market-projected-to-surpass-30-in-2026/",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 13,
+    "org": "AP (đăng trên The Boston Globe)",
+    "year": 2025,
+    "title": "South Korea's top court upholds acquittal of Samsung's Lee over contentious 2015 merger",
+    "quote": "Lee Jae-yong served 18 months in prison after being convicted in 2017 on separate bribery charges related to the 2015 merger.",
+    "url": "https://www.bostonglobe.com/2025/07/17/business/south-korea-court-upholds-acquittal-samsung-merger",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 14,
+    "org": "AFP (đăng trên Malay Mail)",
+    "year": 2021,
+    "title": "Samsung heirs to pay billions in tax, donate Monet, Picasso works",
+    "quote": "expects to pay more than 12 trillion won in taxes related to inheritance, which is more than half of the value of the late Chairman’s total estate",
+    "url": "https://www.malaymail.com/news/money---international/2021/04/28/samsung-heirs-to-pay-billions-in-tax-donate-monet-picasso-works/1970175",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   }
+  ]
+ },
+ {
+  "id": "tata-group",
+  "kind": "case",
+  "section": "8",
+  "title": "Tata: tập đoàn 158 năm do quỹ từ thiện làm chủ, sống nhờ TCS và trả giá dài cho các thương vụ lớn",
+  "summary": "Bắt đầu năm 1868 là công ty thương mại của Jamsetji Tata; nay là hàng chục công ty độc lập dưới công ty mẹ Tata Sons, mà 66% vốn thuộc các quỹ từ thiện Tata Trusts. Năm tài chính 2025-26 tổng doanh thu các công ty Tata là 16,24 lakh crore rupee (≈ 184,5 tỷ USD). Điều đáng học: một công ty con (TCS) nuôi công ty mẹ bằng cổ tức, trong khi các thương vụ lớn (Corus, Nano, Air India) tốn tiền nhiều năm, và một cuộc tranh chấp với cổ đông thứ hai kéo dài 5 năm.",
+  "tags": {
+   "reach": "multi",
+   "age": "century",
+   "outcome": "survived",
+   "owner": "family",
+   "evidence": "A"
+  },
+  "facts": {
+   "founded": "1868",
+   "revenue": "≈ 16.240 tỷ rupee (tổng nhóm, FY26)",
+   "profit": "LNST nhóm ≈ 1.705 tỷ rupee (FY26)",
+   "people": "> 1 triệu người (các công ty Tata)",
+   "text": "Số tổng hợp (cộng doanh thu các công ty, không phải báo cáo hợp nhất) do Tata Sons công bố trong Báo cáo thường niên 2025-26: doanh thu 1.624.030 crore rupee (+7,8%), lợi nhuận sau thuế 170.525 crore rupee (+51,9%). Tata Sons ghi chú lợi nhuận này gồm khoản lãi từ việc tách đôi Tata Motors và các khoản một lần. Quy đổi theo tỷ giá Tata Sons dùng (88 rupee/USD): doanh thu ≈ 184,5 tỷ USD. Riêng công ty mẹ Tata Sons: doanh thu 42.367 crore, lãi sau thuế 31.961 crore rupee. 1 crore = 10 triệu; 1 lakh crore = 1.000 tỷ. Nhân sự 'hơn một triệu người' theo tata.com; riêng TCS 584.519 người (31/3/2026).",
+   "grade": "A",
+   "refs": [
+    6,
+    1
+   ]
+  },
+  "engine": {
+   "text": "Tata Sons là công ty đầu tư nắm cổ phần các công ty và cho phép họ dùng thương hiệu Tata theo thỏa thuận BEBP (đổi lại cam kết vận hành theo chuẩn mực của nhóm). Mỗi công ty có hội đồng quản trị riêng và tự kiếm tiền. Tiền về Tata Sons chủ yếu là cổ tức: năm 2025-26 thu 32.528 crore rupee cổ tức, trong đó TCS trả 28.291 crore, khoảng 87%. TCS tự công bố doanh thu hợp nhất 267.021 crore rupee (+4,6%) và lãi ròng 52.820 crore (+8,8%). Ngược lại Tata Sons phải bơm vốn cho các mảng đang lỗ hoặc mới xây: Air India (lỗ 22.238 crore), Tata Digital (lỗ 4.974 crore), Tata Electronics và nhà máy chip, nhà máy pin.",
+   "segments": [
+    {
+     "item": "TCS (dịch vụ CNTT)",
+     "value": "271.423 crore rupee; 584.519 nhân viên (FY26)",
+     "grade": "A",
+     "refs": [
+      6
+     ]
+    },
+    {
+     "item": "Tata Motors Passenger Vehicles (gồm JLR)",
+     "value": "341.369 crore rupee (FY26)",
+     "grade": "A",
+     "refs": [
+      6
+     ]
+    },
+    {
+     "item": "JLR (riêng)",
+     "value": "22,9 tỷ bảng; lỗ sau thuế 244 triệu bảng (FY26)",
+     "grade": "A",
+     "refs": [
+      15
+     ]
+    },
+    {
+     "item": "Tata Steel",
+     "value": "233.542 crore rupee (FY26)",
+     "grade": "A",
+     "refs": [
+      6
+     ]
+    },
+    {
+     "item": "Tata Electronics",
+     "value": "131.082 crore rupee (FY26)",
+     "grade": "A",
+     "refs": [
+      6
+     ]
+    },
+    {
+     "item": "Air India",
+     "value": "71.870 crore rupee; lỗ 22.238 crore (FY26)",
+     "grade": "A",
+     "refs": [
+      6
+     ]
+    }
+   ],
+   "refs": [
+    2,
+    6,
+    15,
+    18
+   ]
+  },
+  "moat": {
+   "text": "Cấu trúc sở hữu khó bị thâu tóm: Tata Sons là công ty tư nhân không niêm yết; Sir Dorabji Tata Trust giữ 27,98%, Sir Ratan Tata Trust 23,56%, cùng các quỹ khác tổng cộng 66% (theo tata.com); nhóm Shapoorji Pallonji của gia đình Mistry giữ khoảng 18,4% qua hai công ty nhưng không có quyền quyết định. Nhờ vậy Tata Sons đầu tư được những việc lâu mới có lãi (Chủ tịch Tata Sons nói chuyển đổi Air India là hành trình 5–10 năm; chip, pin) mà không chịu áp lực của cổ đông đại chúng. Cỗ máy tiền mặt là TCS với biên lợi nhuận hoạt động 25,0%. Thương hiệu Tata dùng chung cho mọi công ty theo thỏa thuận với Tata Sons.",
+   "refs": [
+    6,
+    2
+   ]
+  },
+  "timeline": [
+   {
+    "year": "1868",
+    "event": "Jamsetji Tata, 29 tuổi, lập một công ty thương mại.",
+    "refs": [
+     1
+    ]
+   },
+   {
+    "year": "1907",
+    "event": "Lập Tata Iron and Steel Company (nay Tata Steel) ở Sakchi.",
+    "refs": [
+     3
+    ]
+   },
+   {
+    "year": "1932",
+    "event": "JRD Tata lái chuyến bay Karachi–Mumbai; Tata Airlines (sau là Air India) ra đời.",
+    "refs": [
+     4
+    ]
+   },
+   {
+    "year": "1968",
+    "event": "Lập Tata Consultancy Services, công ty dịch vụ phần mềm đầu tiên của Ấn Độ.",
+    "refs": [
+     4
+    ]
+   },
+   {
+    "year": "2007",
+    "event": "Tata Steel thắng đấu giá mua Corus (Anh–Hà Lan) với giá 608 pence/cổ phiếu, định giá khoảng 6,2 tỷ bảng.",
+    "refs": [
+     7
+    ]
+   },
+   {
+    "year": "2008",
+    "event": "Tata Motors mua Jaguar Land Rover từ Ford với 2,3 tỷ USD tiền mặt; giới thiệu xe Nano (bán từ 3/2009).",
+    "refs": [
+     8,
+     5
+    ]
+   },
+   {
+    "year": "2016",
+    "event": "Hội đồng Tata Sons bãi nhiệm Chủ tịch Cyrus Mistry sau 4 năm; Ratan Tata quay lại tạm quyền.",
+    "refs": [
+     10
+    ]
+   },
+   {
+    "year": "2022",
+    "event": "Hoàn tất mua Air India từ Nhà nước (27/1/2022): trả 2.700 crore rupee tiền mặt, nhận 15.300 crore nợ.",
+    "refs": [
+     13
+    ]
+   }
+  ],
+  "crises": [
+   {
+    "title": "Corus: mua ở đỉnh, trả giá hơn 15 năm",
+    "text": "Tháng 1/2007 Tata Steel trả 608 pence/cổ phiếu, cao hơn đối thủ CSN 5 pence, định giá Corus khoảng 6,2 tỷ bảng, ngay trước khủng hoảng 2008. Đến 2016, báo chí mô tả mảng thép và viễn thông của nhóm đã lỗ nhiều năm, Tata Steel phải bán bớt tài sản ở Anh; nợ gộp của cả nhóm được ước trên 3 lakh crore rupee. Năm 2023, để giữ nhà máy Port Talbot (Tata Steel ở Anh có 8.000 lao động), Tata phải đầu tư 1,25 tỷ bảng thay lò cao bằng lò hồ quang điện, trong đó Chính phủ Anh hỗ trợ tối đa 500 triệu bảng.",
+    "refs": [
+     7,
+     10,
+     14
+    ]
+   },
+   {
+    "title": "Nano: 'xe một lakh rupee' không bán được",
+    "text": "Ra mắt 3/2009, hơn 200.000 đơn đặt trước trong hai tháng, dự kiến có thể bán khoảng 20.000 xe/tháng. Phong trào phản đối thu hồi đất ở Singur buộc dời nhà máy sang Sanand, nhà máy chạy từ 6/2010 khi cơn sốt đã qua. Vài vụ cháy xe tạo ấn tượng 'xe rẻ thì không an toàn'. Năm tài chính 2016-17 chỉ bán 7.591 chiếc (giảm 63%), tháng 3/2017 còn 174 chiếc. Cyrus Mistry ước lỗ lũy kế 6.400 crore rupee.",
+    "refs": [
+     9,
+     5
+    ]
+   },
+   {
+    "title": "Tranh chấp với Cyrus Mistry, 2016–2021",
+    "text": "Ngày 24/10/2016 hội đồng Tata Sons bãi nhiệm Chủ tịch Cyrus Mistry sau 4 năm; gia đình Mistry sở hữu khoảng một phần năm Tata Sons. Năm trước đó tổng doanh thu nhóm giảm 5% còn 103,5 tỷ USD và nợ cao. Mistry kiện; tháng 12/2019 tòa phúc thẩm luật công ty (NCLAT) phục chức ông và tuyên việc bổ nhiệm N. Chandrasekaran là trái luật; ngày 26/3/2021 Tòa tối cao giữ nguyên việc bãi nhiệm và nói các quyết định kinh doanh thất bại như Nano không phải là chèn ép cổ đông thiểu số. Gần 5 năm ban lãnh đạo vừa điều hành vừa hầu tòa.",
+    "refs": [
+     10,
+     11,
+     12
+    ]
+   }
+  ],
+  "lessons": [
+   {
+    "title": "Đừng mua lớn ở đỉnh chu kỳ bằng tiền vay",
+    "text": "Corus được mua ngay trước khủng hoảng 2008 với giá cao hơn đối thủ, sau đó nhóm phải gánh lỗ, bán bớt tài sản và tới 2023 vẫn bỏ thêm 1,25 tỷ bảng cho nhà máy ở Anh. Hộ kinh doanh định sang lại cửa hàng hay mở rộng khi thị trường đang nóng nên tính kịch bản giá giảm một nửa: nếu khi đó không trả nổi nợ thì chưa nên mua.",
+    "refs": [
+     7,
+     10,
+     14
+    ]
+   },
+   {
+    "title": "Rẻ nhất chưa chắc bán được",
+    "text": "Nano nhắm khách đi xe máy với giá một lakh rupee, nhưng chậm ra thị trường vì dời nhà máy và bị gắn ấn tượng 'rẻ thì kém an toàn' sau vài vụ cháy. Định vị bằng giá thấp nhất dễ làm khách nghi ngờ chất lượng; người bán nhỏ nên nói rõ vì sao rẻ (bỏ khâu nào, giữ chuẩn nào) và xử lý sự cố đầu tiên thật nhanh.",
+    "refs": [
+     9
+    ]
+   },
+   {
+    "title": "Viết rõ quyền của người góp vốn và người điều hành từ đầu",
+    "text": "Một cổ đông nắm khoảng 18% và một chủ tịch bị bãi nhiệm đủ kéo nhóm vào gần 5 năm kiện tụng qua ba cấp tòa. Doanh nghiệp gia đình hay góp vốn bạn bè nên ghi thành văn bản ai được bổ nhiệm, bãi nhiệm người điều hành, góp vốn được quyền gì, rút vốn ra sao, trước khi có bất đồng.",
+    "refs": [
+     10,
+     12,
+     6
+    ]
+   }
+  ],
+  "weak": {
+   "text": "Air India: năm tài chính 2025-26 lỗ 22.238 crore rupee, gấp đôi năm trước (10.859 crore); tai nạn chuyến AI171 ngày 12/6/2025 làm 260 người chết (12 phi hành đoàn, 229 hành khách, 19 người dưới đất); Chủ tịch Tata Sons gọi đây là năm khó khăn nhất của hãng. JLR bị tấn công mạng quý 2, dừng sản xuất 5 tuần; cả năm doanh thu giảm 20,9% còn 22,9 tỷ bảng, lỗ sau thuế 244 triệu bảng, dòng tiền tự do âm 2,2 tỷ bảng; Chính phủ Anh phải bảo lãnh khoản vay 1,5 tỷ bảng để giữ chuỗi cung ứng. Cổ tức TCS trả Tata Sons giảm từ 32.184 xuống 28.291 crore đúng lúc Tata Sons cần tiền cho Air India, chip và pin.",
+   "refs": [
+    6,
+    17,
+    15,
+    16
+   ]
+  },
+  "notes": "Tag owner = 'family' là gần đúng: chủ sở hữu thực là các quỹ từ thiện Tata Trusts (66% Tata Sons), do người nhà Tata đứng đầu. Số doanh thu, lợi nhuận, nhân sự từng công ty lấy từ trang 'Group Companies' và bảng 'Tata Group Performance' trong Báo cáo thường niên Tata Sons 2025-26; bảng trích xuất PDF bị vỡ cột nên chỉ dùng các ô ghi rõ nhãn. Doanh thu TCS trong báo cáo Tata Sons (271.423 crore) cao hơn doanh thu hoạt động TCS tự công bố (267.021 crore, Business Today) – có thể do tính cả thu nhập khác; chọn số Tata Sons cho bảng mảng. Trang TCS (tcs.com) chặn truy cập tự động. Lỗ Air India 22.238 crore lấy từ thuyết minh BCTC hợp nhất của Tata Sons. Lợi nhuận hợp nhất Tata Sons FY26 có hai số trên báo chí (26.616 crore và 17.923 crore) nên không dùng. Nano ngừng sản xuất năm 2018 theo nhiều nguồn thứ cấp, nhưng chưa mở được nguồn gốc nên không ghi.",
+  "sources": [
+   {
+    "id": 1,
+    "org": "Tata Group",
+    "year": 2026,
+    "title": "About us – We are Tata",
+    "quote": "As a 29-year-old, Jamsetji Tata set up a trading firm in 1868.",
+    "url": "https://www.tata.com/about-us",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 2,
+    "org": "Tata Group",
+    "year": 2026,
+    "title": "Tata Sons",
+    "quote": "66% of the equity share capital of Tata Sons is held by philanthropic trusts, which support education, health, livelihood generation, and art and culture.",
+    "url": "https://www.tata.com/business/tata-sons",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 3,
+    "org": "Tata Group",
+    "year": 2026,
+    "title": "1868-1917: The Early Years",
+    "quote": "Sir Dorab first establishes Tata Iron and Steel Company (now Tata Steel) in remote Sakchi, and builds a hospital for the village, years before the first ingot is rolled out.",
+    "url": "https://www.tata.com/about-us/tata-group-our-heritage/Our-Timeline-The-Early-Years-1868-1917",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 4,
+    "org": "Tata Group",
+    "year": 2026,
+    "title": "1918-1968: The Growth Years",
+    "quote": "India's first software services company, Tata Consultancy Services ushers in a new era.",
+    "url": "https://www.tata.com/about-us/tata-group-our-heritage/Our-Timeline-The-Growth-Years-1918-1968",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 5,
+    "org": "Tata Group",
+    "year": 2026,
+    "title": "1969-2017: The Expansion Years",
+    "quote": "Tata Motors unveils the 'people's car', Tata Nano, to make safe transport affordable to millions. It also acquires iconic British car maker, Jaguar Land Rover.",
+    "url": "https://www.tata.com/about-us/tata-group-our-heritage/Our-Timeline-The-Expansion-Years-1969-2017",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 6,
+    "org": "Tata Sons Private Limited",
+    "year": 2026,
+    "title": "One Hundred and Eighth Annual Report 2025-26",
+    "quote": "the revenue of the Tata Group grew by 7.8% to INR 16,24,030 Cr in FY26, while profits (after tax) grew 51.9% to INR 1,70,525 Cr.",
+    "url": "https://www.tata.com/content/dam/tata/pdf/fy26/Tata-Sons-Annual-Report-FY26v1.pdf",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 7,
+    "org": "Tata Steel (thông cáo đăng lại trên Business Standard)",
+    "year": 2007,
+    "title": "Tata Steel acquires Corus Group Plc, UK",
+    "quote": "The terms of the Revised Acquisition value the entire existing issued and to be issued ordinary share capital of Corus at approximately GBP 6.2 billion.",
+    "url": "https://www.business-standard.com/amp/article/press-releases/tata-steel-acquires-corus-group-plc-uk-107013101006_1.html",
+    "type": "press",
+    "grade": "B",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 8,
+    "org": "JLR Media",
+    "year": 2008,
+    "title": "Tata Motors Completes Acquisition Of Jaguar Land Rover",
+    "quote": "Tata Motors today acquired the Jaguar Land Rover businesses from Ford Motor Company for a net consideration of US $2.3 billion, as announced on March 26, in an all‑cash transaction.",
+    "url": "https://media.jaguarlandrover.com/node/4917",
+    "type": "press",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 9,
+    "org": "Business Standard",
+    "year": 2017,
+    "title": "Is the Tata Nano in the last leg of its journey?",
+    "quote": "Tata Sons former chairman Cyrus Mistry had pegged the cumulative losses arising from the Nano project at Rs 6,400 crore.",
+    "url": "https://www.business-standard.com/article/companies/is-the-tata-nano-in-the-last-leg-of-its-journey-117041400542_1.html",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 10,
+    "org": "The Economic Times",
+    "year": 2016,
+    "title": "Big shakeup! Cyrus Mistry removed as Tata Sons chairman, Ratan Tata steps in",
+    "quote": "Analysts pegged the Tata Group's gross debt in March at over Rs 3 lakh crore and a net debt of over Rs 2 lakh crore.",
+    "url": "http://economictimes.indiatimes.com/news/company/corporate-trends/big-rejig-ratan-tata-to-replace-cyrus-mistry-as-tata-sons-chairman/articleshow/55031245.cms",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 11,
+    "org": "Business Standard",
+    "year": 2019,
+    "title": "Tata vs Mistry: NCLAT restores Cyrus Mistry as chairman of Tata Sons",
+    "quote": "While restoring Mistry to the position, the National Company Law Appellate Tribunal held that the appointment of N Chandrasekaran as executive chairman was illegal",
+    "url": "https://www.business-standard.com/article/companies/tata-vs-mistry-nclat-restores-cyrus-mistry-as-tata-sons-executive-chairman-119121800705_1.html",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 12,
+    "org": "The Times of India",
+    "year": 2021,
+    "title": "Tatas making Cyrus chairman wrong decision of lifetime: Supreme Court",
+    "quote": "The Supreme Court on Friday upheld Cyrus P Mistry’s removal from the post of executive chairman of Tata Sons",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/tatas-making-cyrus-chairman-wrong-decision-of-lifetime-sc/articleshow/81715818.cms",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 13,
+    "org": "Press Information Bureau, Chính phủ Ấn Độ",
+    "year": 2022,
+    "title": "Air India strategic disinvestment completed",
+    "quote": "The Air India strategic disinvestment transaction has been completed today with Government receiving a consideration of Rs 2,700 crore from the Strategic Partner",
+    "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1792950&reg=48&lang=2",
+    "type": "policy",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 14,
+    "org": "GOV.UK (Chính phủ Anh)",
+    "year": 2023,
+    "title": "Welsh steel's future secured as UK Government and Tata Steel announce Port Talbot green transition proposal",
+    "quote": "Tata Steel is expected to invest £1.25 billion, including a UK Government grant worth up to £500 million",
+    "url": "https://www.gov.uk/government/news/welsh-steels-future-secured-as-uk-government-and-tata-steel-announce-port-talbot-green-transition-proposal",
+    "type": "policy",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 15,
+    "org": "JLR (Jaguar Land Rover Automotive plc)",
+    "year": 2026,
+    "title": "JLR delivers significantly improved Q4 performance in challenging year",
+    "quote": "revenue for the full year FY26 was £22.9bn, down 20.9% YoY",
+    "url": "https://media.jaguarlandrover.com/news/2026/05/jlr-delivers-significantly-improved-q4-performance-challenging-year",
+    "type": "financials",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 16,
+    "org": "GOV.UK (Chính phủ Anh)",
+    "year": 2025,
+    "title": "Government backs Jaguar Land Rover with £1.5 billion loan guarantee",
+    "quote": "The Government is backing Jaguar Land Rover (JLR) with a loan guarantee expected to unlock £1.5 billion to support its supply chain.",
+    "url": "https://www.gov.uk/government/news/government-backs-jaguar-land-rover-with-15-billion-loan-guarantee",
+    "type": "policy",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 17,
+    "org": "Aircraft Accident Investigation Bureau, Ấn Độ (AAIB)",
+    "year": 2025,
+    "title": "Preliminary Report: accident to Air India Boeing 787-8 VT-ANB at Ahmedabad on 12 June 2025",
+    "quote": "Fatal 12 229 19",
+    "url": "https://aaib.gov.in/What%27s%20New%20Assets/Preliminary%20Report%20VT-ANB.pdf",
+    "type": "report",
+    "grade": "A",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   },
+   {
+    "id": 18,
+    "org": "Business Today",
+    "year": 2026,
+    "title": "Why Tata Sons got ₹28,291 cr from TCS in FY26, down from ₹32,184 cr in FY25",
+    "quote": "TCS reported consolidated revenue of ₹2,67,021 crore in FY26, up 4.6% from the previous year. Net income rose 8.8% to ₹52,820 crore",
+    "url": "https://www.businesstoday.in/latest/corporate/story/why-tata-sons-got-rs28291-cr-from-tcs-in-fy26-down-from-rs32184-cr-in-fy25-545722-2026-07-28",
+    "type": "press",
+    "grade": "C",
+    "verified": "page",
+    "accessed": "2026-11-01"
+   }
+  ]
+ }
+]
